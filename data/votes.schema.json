@@ -1,0 +1,119 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-federal-legislators/main/data/votes.schema.json",
+ "title": "Georgia Federal Delegation — Roll-call Votes",
+ "description": "Roll-call votes for Georgia's federal delegation in the current Congress. SCOPE: only roll calls tied to enacted legislation (public laws walked back to their votes), NOT every procedural vote. yea/nay are chamber-wide totals.",
+ "type": "object",
+ "required": [
+  "metadata",
+  "votes",
+  "memberVotes"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object",
+   "properties": {
+    "generatedAt": {
+     "type": "string"
+    },
+    "congress": {
+     "type": "integer"
+    },
+    "sessionName": {
+     "type": "string"
+    },
+    "source": {
+     "type": "string"
+    },
+    "totalVotes": {
+     "type": "integer"
+    }
+   }
+  },
+  "votes": {
+   "type": "object",
+   "description": "Vote catalog keyed by vote ID. House: H{year}_{roll4}; Senate: S{congress}_{session}_{roll5}.",
+   "additionalProperties": {
+    "type": "object",
+    "properties": {
+     "bill": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "billUrl": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "title": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "motionText": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "date": {
+      "type": "string"
+     },
+     "yea": {
+      "type": "integer",
+      "description": "Chamber-wide yea total (all members, not just Georgia's)."
+     },
+     "nay": {
+      "type": "integer"
+     },
+     "chamber": {
+      "type": "string",
+      "enum": [
+       "House",
+       "Senate"
+      ]
+     },
+     "result": {
+      "type": "string",
+      "enum": [
+       "Pass",
+       "Fail"
+      ]
+     }
+    }
+   }
+  },
+  "memberVotes": {
+   "type": "object",
+   "description": "Per-member vote records keyed by bioguideId.",
+   "additionalProperties": {
+    "type": "array",
+    "items": {
+     "type": "object",
+     "required": [
+      "voteId",
+      "vote"
+     ],
+     "properties": {
+      "voteId": {
+       "type": "string"
+      },
+      "vote": {
+       "type": "string",
+       "enum": [
+        "Yea",
+        "Nay",
+        "Not Voting",
+        "Absent"
+       ]
+      }
+     }
+    }
+   }
+  }
+ }
+}
