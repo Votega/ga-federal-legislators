@@ -8,10 +8,22 @@ Files are updated automatically whenever the source data changes in the [votega.
 
 ## Files
 
-| File | Description |
-|------|-------------|
-| `data/members.json` | Georgia's current U.S. Senators and Representatives |
-| `data/votes.json` | Roll-call vote records for Georgia's federal delegation, current Congress |
+Every file is regenerated automatically on each update — pick the format that fits how you work.
+
+| File | Format | Best for |
+|------|--------|----------|
+| [`ROSTER.md`](ROSTER.md) | Markdown | **Just reading** — a rendered table of the current delegation, right here on GitHub. No download. |
+| `data/members.json` | JSON | Developers — the full, richest member records |
+| `data/members.csv` | CSV | **Spreadsheets** — one row per member (open in Excel / Google Sheets) |
+| `data/votes.json` | JSON | Developers — normalized vote catalog + per-member records |
+| `data/votes.csv` | CSV | Spreadsheets — one row per roll-call vote |
+| `data/member-votes.csv` | CSV | **Analysis** — one row per (member, vote); tidy/long format for pivots and joins |
+| `data/members.schema.json` | JSON Schema | Validating / typing `members.json` |
+| `data/votes.schema.json` | JSON Schema | Validating / typing `votes.json` |
+
+The CSV and Markdown files are flattened views of the same data in the JSON files — nothing in them that isn't in the JSON, just easier to consume without code.
+
+> **⚠ Vote scope:** `votes.json` / `votes.csv` / `member-votes.csv` cover only roll calls **tied to enacted legislation** (public laws walked back to their votes), **not** every procedural vote. `yea`/`nay` are chamber-wide totals across all members, not just Georgia's.
 
 ---
 
@@ -25,11 +37,15 @@ Files are updated automatically whenever the source data changes in the [votega.
     "generatedAt": "2026-07-16T12:00:00+00:00",
     "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
     "sourceGeneratedAt": "2026-07-16T08:19:05.444117",
-    "count": 17
+    "count": 15,
+    "congress": 119,
+    "schemaVersion": "1.0.0"
   },
   "members": [ ... ]
 }
 ```
+
+**Timestamps** (there are several, with distinct meanings): `metadata.generatedAt` is when this published file was built; `metadata.sourceGeneratedAt` is when votega.org's source roster was generated; per member, `updateDate` is Congress.gov's own last-update for that record, and `dataUpdatedAt` is when votega.org last enriched that member's detail (`recentSponsored` / `committees`).
 
 `members` is filtered from votega.org's full Congress.gov roster down to `state === "Georgia"` — 2 Senators plus the current U.S. House delegation. Counts shift with special elections, resignations, and appointments.
 
@@ -44,9 +60,11 @@ Files are updated automatically whenever the source data changes in the [votega.
   "honorificName": "Mr.",
   "partyName": "Democratic",
   "state": "Georgia",
+  "chamber": "Senate",
+  "district": null,
   "terms": { "item": [ { "chamber": "Senate", "startYear": 2021 } ] },
   "currentMember": true,
-  "birthYear": "1969",
+  "birthYear": 1969,
   "depiction": {
     "imageUrl": "https://www.congress.gov/img/member/w000790_200.jpg",
     "attribution": "..."
@@ -73,11 +91,13 @@ Files are updated automatically whenever the source data changes in the [votega.
 | `bioguideId` | string | Congress.gov's stable member ID — primary key, also used as the join key into `votes.json` |
 | `name`, `firstName`, `lastName`, `honorificName` | string | |
 | `partyName` | string | `"Democratic"`, `"Republican"`, or `"Independent"` |
-| `terms.item[]` | object[] | Term history; `terms.item[0].chamber` is `"Senate"` or `"House of Representatives"` |
+| `chamber` | string | **Derived convenience field** — `"Senate"` or `"House of Representatives"`. Saves you reaching into `terms.item[0].chamber`. |
+| `district` | integer \| null | House district number; `null` for Senators |
+| `terms.item[]` | object[] | Full term history (source of the derived `chamber`) |
 | `currentMember` | boolean | |
-| `birthYear` | string | |
+| `birthYear` | integer \| null | |
 | `depiction.imageUrl` | string | Official portrait |
-| `contactInfo` | object | DC office address/phone; fields present depend on what Congress.gov reports |
+| `contactInfo` | object | DC office address/phone; `zipCode` is a **string** (identifier, not a number). Fields present depend on what Congress.gov reports |
 | `officialWebsiteUrl` | string \| null | |
 | `leadership[]` | object[] | Current leadership positions only (e.g. Speaker, Whip); empty array if none |
 | `committees[]` | string[] | Full committee names, from `unitedstates/congress-legislators`; empty array if unavailable |
@@ -163,7 +183,7 @@ Only covers votes cast by Georgia's own delegation — a House vote array never 
 
 ## How data is updated
 
-Files in this repo are pushed automatically from [Votega/votega.org](https://github.com/Votega/votega.org) via a GitHub Actions workflow (`.github/workflows/publish-federal-delegation-to-ga-federal-legislators.yml`). It runs whenever `current-members.json` or `federal-member-votes.json` changes on `main`, and can also be triggered manually.
+Files in this repo are pushed automatically from [Votega/votega.org](https://github.com/Votega/votega.org) via a GitHub Actions workflow (`.github/workflows/publish-federal-delegation-to-ga-federal-legislators.yml`), which runs `scripts/publish_federal_delegation.py` to build every artifact above (JSON, CSV, Markdown, and JSON Schema) in one pass. It runs whenever `current-members.json` or `federal-member-votes.json` changes on `main`, and can also be triggered manually.
 
 Source data comes from the [Congress.gov API](https://api.congress.gov), the Clerk of the House's roll-call XML, and Senate.gov's roll-call XML, via `scripts/generate_current_members_data.py` and `scripts/generate_federal_votes_data.py` in the votega.org repo.
 
