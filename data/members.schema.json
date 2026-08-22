@@ -1,0 +1,206 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-federal-legislators/main/data/members.schema.json",
+ "title": "Georgia Federal Delegation — Members",
+ "description": "Georgia's current U.S. Senators and Representatives, filtered from votega.org's national Congress.gov roster (state == 'Georgia').",
+ "type": "object",
+ "required": [
+  "metadata",
+  "members"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object",
+   "required": [
+    "generatedAt",
+    "count"
+   ],
+   "properties": {
+    "generatedAt": {
+     "type": "string",
+     "format": "date-time",
+     "description": "When THIS published file was built."
+    },
+    "sourceGeneratedAt": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "When votega.org's source current-members.json was generated."
+    },
+    "source": {
+     "type": "string"
+    },
+    "count": {
+     "type": "integer",
+     "description": "Number of members in this file."
+    },
+    "congress": {
+     "type": [
+      "integer",
+      "null"
+     ],
+     "description": "Congress number (e.g. 119)."
+    },
+    "schemaVersion": {
+     "type": "string"
+    }
+   }
+  },
+  "members": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "bioguideId",
+     "name",
+     "chamber",
+     "partyName"
+    ],
+    "properties": {
+     "bioguideId": {
+      "type": "string",
+      "description": "Congress.gov stable member ID; primary key and join key into votes.json."
+     },
+     "name": {
+      "type": "string"
+     },
+     "firstName": {
+      "type": "string"
+     },
+     "lastName": {
+      "type": "string"
+     },
+     "honorificName": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "partyName": {
+      "type": "string",
+      "enum": [
+       "Democratic",
+       "Republican",
+       "Independent"
+      ]
+     },
+     "state": {
+      "type": "string"
+     },
+     "chamber": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "enum": [
+       "Senate",
+       "House of Representatives",
+       null
+      ],
+      "description": "Derived top-level chamber (from terms.item[0].chamber) for convenience."
+     },
+     "district": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "House district number; null for Senators."
+     },
+     "terms": {
+      "type": "object",
+      "description": "Congress.gov term history; source of the derived `chamber`."
+     },
+     "currentMember": {
+      "type": "boolean"
+     },
+     "birthYear": {
+      "type": [
+       "integer",
+       "null"
+      ]
+     },
+     "depiction": {
+      "type": [
+       "object",
+       "null"
+      ]
+     },
+     "contactInfo": {
+      "type": [
+       "object",
+       "null"
+      ],
+      "properties": {
+       "officeAddress": {
+        "type": "string"
+       },
+       "phoneNumber": {
+        "type": "string"
+       },
+       "city": {
+        "type": "string"
+       },
+       "district": {
+        "type": "string"
+       },
+       "zipCode": {
+        "type": [
+         "string",
+         "null"
+        ],
+        "description": "ZIP as a string (identifier, not a number)."
+       }
+      }
+     },
+     "officialWebsiteUrl": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "leadership": {
+      "type": "array",
+      "description": "Current leadership positions; empty if none."
+     },
+     "committees": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      },
+      "description": "Full committee names (unitedstates/congress-legislators); Georgia-only enrichment."
+     },
+     "sponsoredLegislation": {
+      "type": "object"
+     },
+     "cosponsoredLegislation": {
+      "type": "object"
+     },
+     "recentSponsored": {
+      "type": "array",
+      "description": "Up to 20 most recent bills sponsored this Congress; Georgia-only enrichment."
+     },
+     "url": {
+      "type": "string",
+      "description": "Congress.gov API URL for the member."
+     },
+     "updateDate": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "Congress.gov's own last-update timestamp for the member record."
+     },
+     "dataUpdatedAt": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "When votega.org last enriched this member's detail (recentSponsored/committees)."
+     }
+    },
+    "additionalProperties": true
+   }
+  }
+ }
+}
