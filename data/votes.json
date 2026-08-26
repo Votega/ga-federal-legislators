@@ -1,89 +1,16 @@
 {
  "metadata": {
-  "generatedAt": "2026-08-16T09:33:42.568637",
+  "generatedAt": "2026-08-23T09:34:22.254598",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Congress.gov API + Clerk of House + Senate.gov",
-  "totalVotes": 206
+  "totalVotes": 206,
+  "memberCount": 17,
+  "sittingDelegation": 15,
+  "sittingMembersWithVotes": 15,
+  "staleVoteRecords": 2
  },
  "votes": {
-  "H2026_0089": {
-   "bill": "S. 3971",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
-   "title": "Small Business Innovation and Economic Security Act",
-   "motionText": "On Motion to Suspend the Rules and Pass",
-   "date": "2026-03-17",
-   "yea": 345,
-   "nay": 41,
-   "chamber": "House",
-   "result": "Pass"
-  },
-  "H2026_0181": {
-   "bill": "S. 1003",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1003",
-   "title": "Lulu’s Law",
-   "motionText": "On Motion to Suspend the Rules and Pass",
-   "date": "2026-05-20",
-   "yea": 401,
-   "nay": 6,
-   "chamber": "House",
-   "result": "Pass"
-  },
-  "H2025_0023": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On Passage",
-   "date": "2025-01-22",
-   "yea": 263,
-   "nay": 156,
-   "chamber": "House",
-   "result": "Pass"
-  },
-  "S119_1_00007": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On Passage of the Bill",
-   "date": "2025-01-20",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_1_00005": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On the Cloture Motion",
-   "date": "2025-01-17",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_1_00002": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On the Motion to Proceed",
-   "date": "2025-01-13",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_1_00001": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On Cloture on the Motion to Proceed",
-   "date": "2025-01-09",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
   "H2026_0214": {
    "bill": "S. 2",
    "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
@@ -269,6 +196,83 @@
    "yea": 390,
    "nay": 9,
    "chamber": "House",
+   "result": "Pass"
+  },
+  "H2026_0181": {
+   "bill": "S. 1003",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1003",
+   "title": "Lulu’s Law",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-05-20",
+   "yea": 401,
+   "nay": 6,
+   "chamber": "House",
+   "result": "Pass"
+  },
+  "H2026_0089": {
+   "bill": "S. 3971",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
+   "title": "Small Business Innovation and Economic Security Act",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-03-17",
+   "yea": 345,
+   "nay": 41,
+   "chamber": "House",
+   "result": "Pass"
+  },
+  "H2025_0023": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On Passage",
+   "date": "2025-01-22",
+   "yea": 263,
+   "nay": 156,
+   "chamber": "House",
+   "result": "Pass"
+  },
+  "S119_1_00007": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On Passage of the Bill",
+   "date": "2025-01-20",
+   "yea": 0,
+   "nay": 0,
+   "chamber": "Senate",
+   "result": "Pass"
+  },
+  "S119_1_00005": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On the Cloture Motion",
+   "date": "2025-01-17",
+   "yea": 0,
+   "nay": 0,
+   "chamber": "Senate",
+   "result": "Pass"
+  },
+  "S119_1_00002": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On the Motion to Proceed",
+   "date": "2025-01-13",
+   "yea": 0,
+   "nay": 0,
+   "chamber": "Senate",
+   "result": "Pass"
+  },
+  "S119_1_00001": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On Cloture on the Motion to Proceed",
+   "date": "2025-01-09",
+   "yea": 0,
+   "nay": 0,
+   "chamber": "Senate",
    "result": "Pass"
   },
   "H2026_0223": {
@@ -2277,18 +2281,6 @@
  "memberVotes": {
   "A000372": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Yea"
    },
@@ -2302,6 +2294,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -2559,18 +2563,6 @@
   ],
   "B000490": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Nay"
    },
@@ -2584,6 +2576,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -2841,18 +2845,6 @@
   ],
   "C001103": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Yea"
    },
@@ -2866,6 +2858,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -3123,18 +3127,6 @@
   ],
   "C001116": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Yea"
    },
@@ -3148,6 +3140,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -3405,18 +3409,6 @@
   ],
   "C001129": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Yea"
    },
@@ -3430,6 +3422,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -3685,19 +3689,45 @@
     "vote": "Yea"
    }
   ],
-  "J000311": [
+  "F000485": [
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0214",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0224",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0223",
     "vote": "Yea"
    },
+   {
+    "voteId": "H2026_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0180",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0129",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0155",
+    "vote": "Yea"
+   }
+  ],
+  "J000311": [
    {
     "voteId": "H2026_0214",
     "vote": "Yea"
@@ -3712,6 +3742,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -3969,18 +4011,6 @@
   ],
   "J000288": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Nay"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Nay"
    },
@@ -3995,6 +4025,18 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -4251,18 +4293,6 @@
   ],
   "L000583": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Yea"
    },
@@ -4276,6 +4306,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -4533,18 +4575,6 @@
   ],
   "M001208": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Nay"
    },
@@ -4558,6 +4588,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -4815,18 +4857,6 @@
   ],
   "M001218": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Yea"
    },
@@ -4840,6 +4870,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -5097,18 +5139,6 @@
   ],
   "S001189": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Yea"
    },
@@ -5122,6 +5152,18 @@
    },
    {
     "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -5375,272 +5417,10 @@
    {
     "voteId": "H2025_0061",
     "vote": "Yea"
-   }
-  ],
-  "S001157": [
-   {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0057",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0042",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0038",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0151",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0056",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0053",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0045",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0007",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0006",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0005",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0335",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0088",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0019",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0320",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0319",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0022",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0315",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0295",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0294",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0225",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0226",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0296",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0051",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0289",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0200",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0285",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0281",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0280",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0096",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0166",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0168",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0167",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0084",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0125",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0190",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0145",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0144",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0028",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0137",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0143",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0112",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0114",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0111",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0095",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0058",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0110",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0104",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0078",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0059",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0077",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0053",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0071",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0052",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0070",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0069",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0061",
-    "vote": "Nay"
    }
   ],
   "W000788": [
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Nay"
-   },
-   {
     "voteId": "H2026_0214",
     "vote": "Nay"
    },
@@ -5655,6 +5435,18 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -5909,263 +5701,7 @@
     "vote": "Nay"
    }
   ],
-  "F000485": [
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0223",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0180",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0155",
-    "vote": "Yea"
-   }
-  ],
-  "G000596": [
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0151",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0335",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0088",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0019",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0320",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0319",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0022",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0315",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0295",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0294",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0225",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0226",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0051",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0289",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0200",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0285",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0281",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0280",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0096",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0166",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0168",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0167",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0084",
-    "vote": "Not Voting"
-   },
-   {
-    "voteId": "H2025_0125",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0190",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0145",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0144",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0028",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0143",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0112",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0114",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0111",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0095",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0058",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0110",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0104",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0078",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0059",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0077",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0053",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0071",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0052",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0070",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0069",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0061",
-    "vote": "Yea"
-   }
-  ],
   "O000174": [
-   {
-    "voteId": "S119_1_00007",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00005",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00002",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00001",
-    "vote": "Yea"
-   },
    {
     "voteId": "S119_2_00163",
     "vote": "Nay"
@@ -6216,6 +5752,22 @@
    },
    {
     "voteId": "S119_2_00044",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00007",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00005",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00002",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00001",
     "vote": "Yea"
    },
    {
@@ -6697,22 +6249,6 @@
   ],
   "W000790": [
    {
-    "voteId": "S119_1_00007",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00005",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_1_00002",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00001",
-    "vote": "Yea"
-   },
-   {
     "voteId": "S119_2_00163",
     "vote": "Nay"
    },
@@ -6763,6 +6299,22 @@
    {
     "voteId": "S119_2_00044",
     "vote": "Not Voting"
+   },
+   {
+    "voteId": "S119_1_00007",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00005",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_1_00002",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00001",
+    "vote": "Yea"
    },
    {
     "voteId": "S119_2_00074",
@@ -7239,6 +6791,458 @@
    {
     "voteId": "S119_1_00091",
     "vote": "Nay"
+   }
+  ],
+  "S001157": [
+   {
+    "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0042",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0129",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0038",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0151",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0056",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0053",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0045",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0007",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0006",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0005",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0335",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0088",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0019",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0022",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0295",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0294",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0225",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0226",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0224",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0296",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0051",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0289",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0200",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0285",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0281",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0280",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0096",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0166",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0168",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0167",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0084",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0125",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0190",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0145",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0144",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0028",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0137",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0143",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0112",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0114",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0111",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0095",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0058",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0110",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0104",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0078",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0059",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0077",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0053",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0071",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0052",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0070",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0069",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0061",
+    "vote": "Nay"
+   }
+  ],
+  "G000596": [
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0151",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0335",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0088",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0019",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0319",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0022",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0295",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0294",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0225",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0226",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0224",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0296",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0051",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0289",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0200",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0285",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0281",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0280",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0096",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0166",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0168",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0167",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0084",
+    "vote": "Not Voting"
+   },
+   {
+    "voteId": "H2025_0125",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0190",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0145",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0144",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0028",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0143",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0112",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0114",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0111",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0095",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0058",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0110",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0104",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0078",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0059",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0077",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0053",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0071",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0052",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0070",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0069",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0061",
+    "vote": "Yea"
    }
   ]
  }
