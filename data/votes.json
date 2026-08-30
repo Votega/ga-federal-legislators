@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-08-23T09:34:22.254598",
+  "generatedAt": "2026-08-30T14:24:43.728574",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Congress.gov API + Clerk of House + Senate.gov",
@@ -11,192 +11,89 @@
   "staleVoteRecords": 2
  },
  "votes": {
-  "H2026_0214": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
+  "H2025_0296": {
+   "bill": "S.J.Res. 80",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/80",
+   "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
    "motionText": "On Passage",
-   "date": "2026-06-09",
-   "yea": 214,
-   "nay": 212,
+   "date": "2025-11-18",
+   "yea": 216,
+   "nay": 209,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 213,
+     "nay": 1,
+     "other": 5
+    },
+    "Democratic": {
+     "yea": 3,
+     "nay": 208,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
-  "H2026_0213": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On Motion to Commit",
-   "date": "2026-06-09",
-   "yea": 211,
-   "nay": 215,
-   "chamber": "House",
-   "result": "Fail"
-  },
-  "S119_2_00163": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On Passage of the Bill",
-   "date": "2026-06-05",
-   "yea": 0,
-   "nay": 0,
+  "S119_1_00599": {
+   "bill": "S.J.Res. 80",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/80",
+   "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
+   "motionText": "On the Joint Resolution",
+   "date": "2025-10-30",
+   "yea": 52,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 43,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
-  "S119_2_00153": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-05",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Fail"
-  },
-  "S119_2_00147": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Fail"
-  },
-  "S119_2_00141": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Fail"
-  },
-  "S119_2_00137": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Fail"
-  },
-  "S119_2_00136": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
+  "S119_1_00595": {
+   "bill": "S.J.Res. 80",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/80",
+   "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
    "motionText": "On the Motion to Proceed",
-   "date": "2026-06-03",
-   "yea": 0,
-   "nay": 0,
+   "date": "2025-10-29",
+   "yea": 54,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
-  },
-  "H2026_0224": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On Motion to Suspend the Rules and Concur in Senate Adt to House Adt to Senate Adt",
-   "date": "2026-06-23",
-   "yea": 358,
-   "nay": 32,
-   "chamber": "House",
-   "result": "Pass"
-  },
-  "S119_2_00182": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-22",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_2_00180": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On the Cloture Motion",
-   "date": "2026-06-18",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_2_00175": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On the Motion to Proceed",
-   "date": "2026-06-16",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_2_00053": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On Passage of the Bill",
-   "date": "2026-03-12",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_2_00052": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On the Cloture Motion",
-   "date": "2026-03-11",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_2_00045": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On the Motion to Proceed",
-   "date": "2026-03-04",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_2_00044": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On Cloture on the Motion to Proceed",
-   "date": "2026-03-02",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "H2026_0057": {
-   "bill": "H.R. 6644",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
-   "title": "21st Century ROAD to Housing Act",
-   "motionText": "On Motion to Suspend the Rules and Pass, as Amended",
-   "date": "2026-02-09",
-   "yea": 390,
-   "nay": 9,
-   "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 44,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2026_0181": {
    "bill": "S. 1003",
@@ -207,18 +104,500 @@
    "yea": 401,
    "nay": 6,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 197,
+     "nay": 6,
+     "other": 14
+    },
+    "Democratic": {
+     "yea": 203,
+     "nay": 0,
+     "other": 9
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
-  "H2026_0089": {
-   "bill": "S. 3971",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
-   "title": "Small Business Innovation and Economic Security Act",
-   "motionText": "On Motion to Suspend the Rules and Pass",
-   "date": "2026-03-17",
-   "yea": 345,
-   "nay": 41,
+  "H2026_0224": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On Motion to Suspend the Rules and Concur in Senate Adt to House Adt to Senate Adt",
+   "date": "2026-06-23",
+   "yea": 358,
+   "nay": 32,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 166,
+     "nay": 32,
+     "other": 20
+    },
+    "Democratic": {
+     "yea": 191,
+     "nay": 0,
+     "other": 21
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00182": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-22",
+   "yea": 85,
+   "nay": 5,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 41,
+     "nay": 0,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 42,
+     "nay": 5,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00180": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-06-18",
+   "yea": 84,
+   "nay": 8,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 39,
+     "nay": 0,
+     "other": 6
+    },
+    "Republican": {
+     "yea": 43,
+     "nay": 8,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00175": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On the Motion to Proceed",
+   "date": "2026-06-16",
+   "yea": 87,
+   "nay": 8,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 43,
+     "nay": 0,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 43,
+     "nay": 8,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 1
+    }
+   }
+  },
+  "S119_2_00053": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On Passage of the Bill",
+   "date": "2026-03-12",
+   "yea": 89,
+   "nay": 10,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 1,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 43,
+     "nay": 9,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00052": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-03-11",
+   "yea": 82,
+   "nay": 11,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 41,
+     "nay": 1,
+     "other": 3
+    },
+    "Republican": {
+     "yea": 39,
+     "nay": 10,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00045": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On the Motion to Proceed",
+   "date": "2026-03-04",
+   "yea": 90,
+   "nay": 8,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 42,
+     "nay": 2,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 46,
+     "nay": 6,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00044": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On Cloture on the Motion to Proceed",
+   "date": "2026-03-02",
+   "yea": 84,
+   "nay": 6,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 38,
+     "nay": 2,
+     "other": 5
+    },
+    "Republican": {
+     "yea": 44,
+     "nay": 4,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0057": {
+   "bill": "H.R. 6644",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6644",
+   "title": "21st Century ROAD to Housing Act",
+   "motionText": "On Motion to Suspend the Rules and Pass, as Amended",
+   "date": "2026-02-09",
+   "yea": 390,
+   "nay": 9,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 192,
+     "nay": 8,
+     "other": 18
+    },
+    "Democratic": {
+     "yea": 198,
+     "nay": 1,
+     "other": 15
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0214": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Passage",
+   "date": "2026-06-09",
+   "yea": 214,
+   "nay": 212,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 214,
+     "nay": 0,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 211,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0213": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Motion to Commit",
+   "date": "2026-06-09",
+   "yea": 211,
+   "nay": 215,
+   "chamber": "House",
+   "result": "Fail",
+   "partyTally": {
+    "Republican": {
+     "yea": 0,
+     "nay": 214,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 211,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00163": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Passage of the Bill",
+   "date": "2026-06-05",
+   "yea": 52,
+   "nay": 47,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00153": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-05",
+   "yea": 48,
+   "nay": 51,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00147": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 46,
+   "nay": 52,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 43,
+     "nay": 0,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 52,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00141": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 47,
+   "nay": 50,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 50,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00137": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 49,
+   "nay": 50,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 3,
+     "nay": 50,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00136": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion to Proceed",
+   "date": "2026-06-03",
+   "yea": 53,
+   "nay": 46,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0023": {
    "bill": "S. 5",
@@ -229,7 +608,24 @@
    "yea": 263,
    "nay": 156,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 217,
+     "nay": 0,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 46,
+     "nay": 156,
+     "other": 13
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00007": {
    "bill": "S. 5",
@@ -237,10 +633,27 @@
    "title": "Laken Riley Act",
    "motionText": "On Passage of the Bill",
    "date": "2025-01-20",
-   "yea": 0,
-   "nay": 0,
+   "yea": 64,
+   "nay": 35,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 12,
+     "nay": 33,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00005": {
    "bill": "S. 5",
@@ -248,10 +661,27 @@
    "title": "Laken Riley Act",
    "motionText": "On the Cloture Motion",
    "date": "2025-01-17",
-   "yea": 0,
-   "nay": 0,
+   "yea": 61,
+   "nay": 35,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 10,
+     "nay": 33,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00002": {
    "bill": "S. 5",
@@ -259,10 +689,27 @@
    "title": "Laken Riley Act",
    "motionText": "On the Motion to Proceed",
    "date": "2025-01-13",
-   "yea": 0,
-   "nay": 0,
+   "yea": 82,
+   "nay": 10,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 32,
+     "nay": 9,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00001": {
    "bill": "S. 5",
@@ -270,10 +717,55 @@
    "title": "Laken Riley Act",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-01-09",
-   "yea": 0,
-   "nay": 0,
+   "yea": 84,
+   "nay": 9,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 32,
+     "nay": 8,
+     "other": 5
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0089": {
+   "bill": "S. 3971",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
+   "title": "Small Business Innovation and Economic Security Act",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-03-17",
+   "yea": 345,
+   "nay": 41,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 153,
+     "nay": 40,
+     "other": 24
+    },
+    "Democratic": {
+     "yea": 192,
+     "nay": 1,
+     "other": 21
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0223": {
    "bill": "S. 629",
@@ -284,7 +776,24 @@
    "yea": 368,
    "nay": 19,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 178,
+     "nay": 19,
+     "other": 21
+    },
+    "Democratic": {
+     "yea": 189,
+     "nay": 0,
+     "other": 23
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0193": {
    "bill": "S. 254",
@@ -295,7 +804,24 @@
    "yea": 404,
    "nay": 14,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 196,
+     "nay": 14,
+     "other": 7
+    },
+    "Democratic": {
+     "yea": 207,
+     "nay": 0,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0180": {
    "bill": "S. 2393",
@@ -306,7 +832,24 @@
    "yea": 405,
    "nay": 5,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 199,
+     "nay": 5,
+     "other": 13
+    },
+    "Democratic": {
+     "yea": 205,
+     "nay": 0,
+     "other": 7
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_2_00074": {
    "bill": "H.R. 7147",
@@ -314,10 +857,27 @@
    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-03-26",
-   "yea": 0,
-   "nay": 0,
+   "yea": 53,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 44,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00071": {
    "bill": "H.R. 7147",
@@ -325,10 +885,27 @@
    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-03-25",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 44,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00059": {
    "bill": "H.R. 7147",
@@ -336,10 +913,27 @@
    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-03-20",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 37,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 35,
+     "other": 9
+    },
+    "Republican": {
+     "yea": 46,
+     "nay": 0,
+     "other": 7
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00054": {
    "bill": "H.R. 7147",
@@ -347,10 +941,27 @@
    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-03-12",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 43,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 1,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00047": {
    "bill": "H.R. 7147",
@@ -358,10 +969,27 @@
    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-03-05",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 43,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00039": {
    "bill": "H.R. 7147",
@@ -369,10 +997,27 @@
    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-02-24",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 42,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 1,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00038": {
    "bill": "H.R. 7147",
@@ -380,10 +1025,27 @@
    "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-02-12",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 44,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2026_0042": {
    "bill": "H.R. 7147",
@@ -394,7 +1056,24 @@
    "yea": 220,
    "nay": 207,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 213,
+     "nay": 1,
+     "other": 4
+    },
+    "Democratic": {
+     "yea": 7,
+     "nay": 206,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0129": {
    "bill": "S. 1020",
@@ -405,7 +1084,24 @@
    "yea": 394,
    "nay": 14,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 186,
+     "nay": 14,
+     "other": 16
+    },
+    "Democratic": {
+     "yea": 207,
+     "nay": 0,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0081": {
    "bill": "S. 723",
@@ -416,7 +1112,24 @@
    "yea": 384,
    "nay": 40,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 176,
+     "nay": 39,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 208,
+     "nay": 1,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0155": {
    "bill": "S. 4465",
@@ -427,7 +1140,24 @@
    "yea": 261,
    "nay": 111,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 166,
+     "nay": 26,
+     "other": 25
+    },
+    "Democratic": {
+     "yea": 94,
+     "nay": 85,
+     "other": 33
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_2_00084": {
    "bill": "H.J.Res. 140",
@@ -435,10 +1165,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.",
    "motionText": "On the Joint Resolution",
    "date": "2026-04-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 49,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 2,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00083": {
    "bill": "H.J.Res. 140",
@@ -446,10 +1193,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.",
    "motionText": "On the Motion to Proceed",
    "date": "2026-04-15",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 49,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 2,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00082": {
    "bill": "H.J.Res. 140",
@@ -457,10 +1221,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.",
    "motionText": "On the Motion to Table",
    "date": "2026-04-15",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 48,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2026_0038": {
    "bill": "H.J.Res. 140",
@@ -471,7 +1252,24 @@
    "yea": 214,
    "nay": 208,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 213,
+     "nay": 1,
+     "other": 4
+    },
+    "Democratic": {
+     "yea": 1,
+     "nay": 207,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0151": {
    "bill": "H.R. 2483",
@@ -482,7 +1280,24 @@
    "yea": 366,
    "nay": 57,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 188,
+     "nay": 27,
+     "other": 5
+    },
+    "Democratic": {
+     "yea": 178,
+     "nay": 30,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_2_00037": {
    "bill": "H.J.Res. 142",
@@ -490,10 +1305,27 @@
    "title": "Disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025.",
    "motionText": "On the Joint Resolution",
    "date": "2026-02-12",
-   "yea": 0,
-   "nay": 0,
+   "yea": 49,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_2_00036": {
    "bill": "H.J.Res. 142",
@@ -501,10 +1333,27 @@
    "title": "Disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025.",
    "motionText": "On the Motion to Proceed",
    "date": "2026-02-11",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2026_0056": {
    "bill": "H.J.Res. 142",
@@ -515,7 +1364,24 @@
    "yea": 215,
    "nay": 210,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 215,
+     "nay": 0,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 210,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0053": {
    "bill": "H.R. 7148",
@@ -526,7 +1392,24 @@
    "yea": 217,
    "nay": 214,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 196,
+     "nay": 21,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 21,
+     "nay": 193,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_2_00020": {
    "bill": "H.R. 7148",
@@ -534,10 +1417,27 @@
    "title": "Consolidated Appropriations Act, 2026",
    "motionText": "On Passage of the Bill",
    "date": "2026-01-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 71,
+   "nay": 29,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 22,
+     "nay": 23,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 48,
+     "nay": 5,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_2_00013": {
    "bill": "H.R. 7148",
@@ -545,10 +1445,27 @@
    "title": "Consolidated Appropriations Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-01-29",
-   "yea": 0,
-   "nay": 0,
+   "yea": 45,
+   "nay": 55,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 45,
+     "nay": 8,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2026_0045": {
    "bill": "H.R. 7148",
@@ -559,7 +1476,24 @@
    "yea": 341,
    "nay": 88,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 192,
+     "nay": 24,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 149,
+     "nay": 64,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_2_00011": {
    "bill": "H.R. 6938",
@@ -567,10 +1501,27 @@
    "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
    "motionText": "On Passage of the Bill",
    "date": "2026-01-15",
-   "yea": 0,
-   "nay": 0,
+   "yea": 82,
+   "nay": 15,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 35,
+     "nay": 9,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 46,
+     "nay": 5,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_2_00010": {
    "bill": "H.R. 6938",
@@ -578,10 +1529,27 @@
    "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
    "motionText": "On the Cloture Motion",
    "date": "2026-01-15",
-   "yea": 0,
-   "nay": 0,
+   "yea": 85,
+   "nay": 14,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 35,
+     "nay": 9,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 4,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_2_00007": {
    "bill": "H.R. 6938",
@@ -589,10 +1557,27 @@
    "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2026-01-12",
-   "yea": 0,
-   "nay": 0,
+   "yea": 80,
+   "nay": 13,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 35,
+     "nay": 9,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 44,
+     "nay": 3,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "H2026_0007": {
    "bill": "H.R. 6938",
@@ -603,7 +1588,24 @@
    "yea": 397,
    "nay": 28,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 191,
+     "nay": 22,
+     "other": 5
+    },
+    "Democratic": {
+     "yea": 206,
+     "nay": 6,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0006": {
    "bill": "H.R. 6938",
@@ -614,7 +1616,24 @@
    "yea": 419,
    "nay": 6,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 210,
+     "nay": 3,
+     "other": 5
+    },
+    "Democratic": {
+     "yea": 209,
+     "nay": 3,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2026_0005": {
    "bill": "H.R. 6938",
@@ -625,7 +1644,24 @@
    "yea": 375,
    "nay": 47,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 171,
+     "nay": 40,
+     "other": 7
+    },
+    "Democratic": {
+     "yea": 204,
+     "nay": 7,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0335": {
    "bill": "S. 284",
@@ -636,7 +1672,24 @@
    "yea": 370,
    "nay": 22,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 176,
+     "nay": 22,
+     "other": 22
+    },
+    "Democratic": {
+     "yea": 194,
+     "nay": 0,
+     "other": 19
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0088": {
    "bill": "H.R. 1491",
@@ -647,7 +1700,24 @@
    "yea": 423,
    "nay": 0,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 212,
+     "nay": 0,
+     "other": 6
+    },
+    "Democratic": {
+     "yea": 211,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0019": {
    "bill": "H.R. 187",
@@ -658,7 +1728,24 @@
    "yea": 413,
    "nay": 0,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 211,
+     "nay": 0,
+     "other": 6
+    },
+    "Democratic": {
+     "yea": 202,
+     "nay": 0,
+     "other": 13
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00648": {
    "bill": "S. 1071",
@@ -666,10 +1753,27 @@
    "title": "National Defense Authorization Act for Fiscal Year 2026",
    "motionText": "On the Motion",
    "date": "2025-12-17",
-   "yea": 0,
-   "nay": 0,
+   "yea": 77,
+   "nay": 20,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 27,
+     "nay": 17,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 2,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00647": {
    "bill": "S. 1071",
@@ -677,10 +1781,27 @@
    "title": "National Defense Authorization Act for Fiscal Year 2026",
    "motionText": "On the Cloture Motion",
    "date": "2025-12-15",
-   "yea": 0,
-   "nay": 0,
+   "yea": 76,
+   "nay": 20,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 27,
+     "nay": 16,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 48,
+     "nay": 3,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00646": {
    "bill": "S. 1071",
@@ -688,10 +1809,27 @@
    "title": "National Defense Authorization Act for Fiscal Year 2026",
    "motionText": "On the Motion to Proceed",
    "date": "2025-12-11",
-   "yea": 0,
-   "nay": 0,
+   "yea": 75,
+   "nay": 22,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 28,
+     "nay": 17,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 46,
+     "nay": 4,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "H2025_0320": {
    "bill": "S. 1071",
@@ -702,7 +1840,24 @@
    "yea": 312,
    "nay": 112,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 197,
+     "nay": 18,
+     "other": 5
+    },
+    "Democratic": {
+     "yea": 115,
+     "nay": 94,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0319": {
    "bill": "S. 1071",
@@ -713,7 +1868,24 @@
    "yea": 209,
    "nay": 216,
    "chamber": "House",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Republican": {
+     "yea": 0,
+     "nay": 216,
+     "other": 4
+    },
+    "Democratic": {
+     "yea": 209,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0022": {
    "bill": "H.R. 165",
@@ -724,7 +1896,24 @@
    "yea": 416,
    "nay": 0,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 216,
+     "nay": 0,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 200,
+     "nay": 0,
+     "other": 15
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0315": {
    "bill": "S. 356",
@@ -735,7 +1924,24 @@
    "yea": 399,
    "nay": 5,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 198,
+     "nay": 5,
+     "other": 16
+    },
+    "Democratic": {
+     "yea": 201,
+     "nay": 0,
+     "other": 12
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00632": {
    "bill": "H.J.Res. 131",
@@ -743,10 +1949,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Coastal Plain Oil and Gas Leasing Program Record of Decision.",
    "motionText": "On the Joint Resolution",
    "date": "2025-12-04",
-   "yea": 0,
-   "nay": 0,
+   "yea": 49,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 42,
+     "other": 3
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 1,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0295": {
    "bill": "H.J.Res. 131",
@@ -757,7 +1980,24 @@
    "yea": 217,
    "nay": 209,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 214,
+     "nay": 1,
+     "other": 4
+    },
+    "Democratic": {
+     "yea": 3,
+     "nay": 208,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00623": {
    "bill": "H.J.Res. 130",
@@ -765,10 +2005,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Buffalo Field Office Record of Decision and Approved Resource Management Plan Amendment.",
    "motionText": "On the Joint Resolution",
    "date": "2025-11-20",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 43,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 41,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0294": {
    "bill": "H.J.Res. 130",
@@ -779,7 +2036,24 @@
    "yea": 214,
    "nay": 212,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 214,
+     "nay": 1,
+     "other": 4
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 211,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00560": {
    "bill": "H.J.Res. 106",
@@ -787,10 +2061,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Central Yukon Record of Decision and Approved Resource Management Plan\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-10-09",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00559": {
    "bill": "H.J.Res. 106",
@@ -798,10 +2089,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Central Yukon Record of Decision and Approved Resource Management Plan\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-10-09",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0225": {
    "bill": "H.J.Res. 106",
@@ -812,7 +2120,24 @@
    "yea": 215,
    "nay": 210,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 215,
+     "nay": 1,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 209,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00556": {
    "bill": "H.J.Res. 105",
@@ -820,10 +2145,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"North Dakota Field Office Record of Decision and Approved Resource Management Plan\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-10-08",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 43,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00553": {
    "bill": "H.J.Res. 105",
@@ -831,10 +2173,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"North Dakota Field Office Record of Decision and Approved Resource Management Plan\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-10-08",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0226": {
    "bill": "H.J.Res. 105",
@@ -845,7 +2204,24 @@
    "yea": 215,
    "nay": 211,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 215,
+     "nay": 1,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 210,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00549": {
    "bill": "H.J.Res. 104",
@@ -853,10 +2229,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-10-08",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00548": {
    "bill": "H.J.Res. 104",
@@ -864,10 +2257,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-10-07",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0224": {
    "bill": "H.J.Res. 104",
@@ -878,40 +2288,24 @@
    "yea": 211,
    "nay": 208,
    "chamber": "House",
-   "result": "Pass"
-  },
-  "H2025_0296": {
-   "bill": "S.J.Res. 80",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/80",
-   "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
-   "motionText": "On Passage",
-   "date": "2025-11-18",
-   "yea": 216,
-   "nay": 209,
-   "chamber": "House",
-   "result": "Pass"
-  },
-  "S119_1_00599": {
-   "bill": "S.J.Res. 80",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/80",
-   "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
-   "motionText": "On the Joint Resolution",
-   "date": "2025-10-30",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
-  },
-  "S119_1_00595": {
-   "bill": "S.J.Res. 80",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/80",
-   "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
-   "motionText": "On the Motion to Proceed",
-   "date": "2025-10-29",
-   "yea": 0,
-   "nay": 0,
-   "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 211,
+     "nay": 1,
+     "other": 7
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 207,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0051": {
    "bill": "H.R. 695",
@@ -922,7 +2316,24 @@
    "yea": 424,
    "nay": 0,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 213,
+     "nay": 0,
+     "other": 5
+    },
+    "Democratic": {
+     "yea": 211,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0289": {
    "bill": "H.R. 4405",
@@ -933,7 +2344,24 @@
    "yea": 427,
    "nay": 1,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 216,
+     "nay": 1,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 211,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0200": {
    "bill": "S. 1582",
@@ -944,7 +2372,24 @@
    "yea": 308,
    "nay": 122,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 206,
+     "nay": 12,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 102,
+     "nay": 110,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00318": {
    "bill": "S. 1582",
@@ -952,10 +2397,27 @@
    "title": "GENIUS Act",
    "motionText": "On Passage of the Bill",
    "date": "2025-06-17",
-   "yea": 0,
-   "nay": 0,
+   "yea": 68,
+   "nay": 30,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 18,
+     "nay": 26,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 2,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00312": {
    "bill": "S. 1582",
@@ -963,10 +2425,27 @@
    "title": "GENIUS Act",
    "motionText": "On the Cloture Motion",
    "date": "2025-06-12",
-   "yea": 0,
-   "nay": 0,
+   "yea": 67,
+   "nay": 27,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 16,
+     "nay": 25,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 2,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
   },
   "S119_1_00263": {
    "bill": "S. 1582",
@@ -974,10 +2453,27 @@
    "title": "GENIUS Act",
    "motionText": "On the Motion to Proceed",
    "date": "2025-05-21",
-   "yea": 0,
-   "nay": 0,
+   "yea": 69,
+   "nay": 31,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 18,
+     "nay": 27,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 2,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00262": {
    "bill": "S. 1582",
@@ -985,10 +2481,27 @@
    "title": "GENIUS Act",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-05-19",
-   "yea": 0,
-   "nay": 0,
+   "yea": 66,
+   "nay": 32,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 16,
+     "nay": 28,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 2,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00240": {
    "bill": "S. 1582",
@@ -996,10 +2509,27 @@
    "title": "GENIUS Act",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-05-08",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 49,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 48,
+     "nay": 3,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0285": {
    "bill": "H.R. 5371",
@@ -1010,7 +2540,24 @@
    "yea": 222,
    "nay": 209,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 216,
+     "nay": 2,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 6,
+     "nay": 207,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00618": {
    "bill": "H.R. 5371",
@@ -1018,10 +2565,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Passage of the Bill",
    "date": "2025-11-10",
-   "yea": 0,
-   "nay": 0,
+   "yea": 60,
+   "nay": 40,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 7,
+     "nay": 38,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00617": {
    "bill": "H.R. 5371",
@@ -1029,10 +2593,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On the Cloture Motion",
    "date": "2025-11-10",
-   "yea": 0,
-   "nay": 0,
+   "yea": 60,
+   "nay": 40,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 7,
+     "nay": 38,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00611": {
    "bill": "H.R. 5371",
@@ -1040,10 +2621,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On the Motion to Proceed",
    "date": "2025-11-10",
-   "yea": 0,
-   "nay": 0,
+   "yea": 60,
+   "nay": 40,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 7,
+     "nay": 38,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00610": {
    "bill": "H.R. 5371",
@@ -1051,10 +2649,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-11-09",
-   "yea": 0,
-   "nay": 0,
+   "yea": 60,
+   "nay": 40,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 7,
+     "nay": 38,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00603": {
    "bill": "H.R. 5371",
@@ -1062,10 +2677,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-11-04",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 44,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 42,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00590": {
    "bill": "H.R. 5371",
@@ -1073,10 +2705,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-28",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 43,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00581": {
    "bill": "H.R. 5371",
@@ -1084,10 +2733,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-22",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 43,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 2,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00576": {
    "bill": "H.R. 5371",
@@ -1095,10 +2761,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-20",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 43,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 41,
+     "other": 3
+    },
+    "Republican": {
+     "yea": 48,
+     "nay": 2,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 1
+    }
+   }
   },
   "S119_1_00573": {
    "bill": "H.R. 5371",
@@ -1106,10 +2789,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 42,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 48,
+     "nay": 2,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00572": {
    "bill": "H.R. 5371",
@@ -1117,10 +2817,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-15",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 44,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 42,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 48,
+     "nay": 1,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00571": {
    "bill": "H.R. 5371",
@@ -1128,10 +2845,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-14",
-   "yea": 0,
-   "nay": 0,
+   "yea": 49,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 42,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 47,
+     "nay": 2,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00558": {
    "bill": "H.R. 5371",
@@ -1139,10 +2873,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-09",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 43,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00551": {
    "bill": "H.R. 5371",
@@ -1150,10 +2901,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-08",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 43,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00545": {
    "bill": "H.R. 5371",
@@ -1161,10 +2929,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-06",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 42,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 40,
+     "other": 3
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 1,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00543": {
    "bill": "H.R. 5371",
@@ -1172,10 +2957,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-03",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 44,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 42,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00537": {
    "bill": "H.R. 5371",
@@ -1183,10 +2985,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-10-01",
-   "yea": 0,
-   "nay": 0,
+   "yea": 55,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 43,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00535": {
    "bill": "H.R. 5371",
@@ -1194,10 +3013,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Passage of the Bill",
    "date": "2025-09-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 55,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 43,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00528": {
    "bill": "H.R. 5371",
@@ -1205,10 +3041,27 @@
    "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
    "motionText": "On Passage of the Bill",
    "date": "2025-09-19",
-   "yea": 0,
-   "nay": 0,
+   "yea": 44,
+   "nay": 48,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 44,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 43,
+     "nay": 2,
+     "other": 8
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0281": {
    "bill": "H.R. 5371",
@@ -1219,7 +3072,24 @@
    "yea": 217,
    "nay": 212,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 216,
+     "nay": 2,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 1,
+     "nay": 210,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0280": {
    "bill": "H.R. 5371",
@@ -1230,7 +3100,24 @@
    "yea": 210,
    "nay": 218,
    "chamber": "House",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Republican": {
+     "yea": 0,
+     "nay": 218,
+     "other": 0
+    },
+    "Democratic": {
+     "yea": 210,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0096": {
    "bill": "S.J.Res. 18",
@@ -1241,7 +3128,24 @@
    "yea": 217,
    "nay": 211,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 217,
+     "nay": 1,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 210,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00153": {
    "bill": "S.J.Res. 18",
@@ -1249,10 +3153,27 @@
    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-03-27",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 48,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00152": {
    "bill": "S.J.Res. 18",
@@ -1260,10 +3181,27 @@
    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-03-26",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0166": {
    "bill": "S. 331",
@@ -1274,7 +3212,24 @@
    "yea": 321,
    "nay": 104,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 217,
+     "nay": 1,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 104,
+     "nay": 103,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00127": {
    "bill": "S. 331",
@@ -1282,10 +3237,27 @@
    "title": "HALT Fentanyl Act",
    "motionText": "On Passage of the Bill",
    "date": "2025-03-14",
-   "yea": 0,
-   "nay": 0,
+   "yea": 84,
+   "nay": 16,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 30,
+     "nay": 15,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00124": {
    "bill": "S. 331",
@@ -1293,10 +3265,27 @@
    "title": "HALT Fentanyl Act",
    "motionText": "On the Cloture Motion",
    "date": "2025-03-13",
-   "yea": 0,
-   "nay": 0,
+   "yea": 84,
+   "nay": 15,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 30,
+     "nay": 14,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00110": {
    "bill": "S. 331",
@@ -1304,10 +3293,27 @@
    "title": "HALT Fentanyl Act",
    "motionText": "On Cloture on the Motion to Proceed",
    "date": "2025-03-06",
-   "yea": 0,
-   "nay": 0,
+   "yea": 82,
+   "nay": 12,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 29,
+     "nay": 12,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00411": {
    "bill": "H.R. 4",
@@ -1315,10 +3321,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On Passage of the Bill",
    "date": "2025-07-17",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 48,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 2,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00403": {
    "bill": "H.R. 4",
@@ -1326,10 +3349,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Recommit",
    "date": "2025-07-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00401": {
    "bill": "H.R. 4",
@@ -1337,10 +3377,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Recommit",
    "date": "2025-07-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 50,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 43,
+     "nay": 0,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 50,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00399": {
    "bill": "H.R. 4",
@@ -1348,10 +3405,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Recommit",
    "date": "2025-07-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 52,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 52,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00398": {
    "bill": "H.R. 4",
@@ -1359,10 +3433,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Recommit",
    "date": "2025-07-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00396": {
    "bill": "H.R. 4",
@@ -1370,10 +3461,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Recommit",
    "date": "2025-07-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00395": {
    "bill": "H.R. 4",
@@ -1381,10 +3489,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Recommit",
    "date": "2025-07-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00394": {
    "bill": "H.R. 4",
@@ -1392,10 +3517,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Recommit",
    "date": "2025-07-16",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00392": {
    "bill": "H.R. 4",
@@ -1403,10 +3545,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Proceed",
    "date": "2025-07-15",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 50,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 3,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00391": {
    "bill": "H.R. 4",
@@ -1414,10 +3573,27 @@
    "title": "Rescissions Act of 2025",
    "motionText": "On the Motion to Discharge",
    "date": "2025-07-15",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 50,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 3,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0168": {
    "bill": "H.R. 4",
@@ -1428,7 +3604,24 @@
    "yea": 214,
    "nay": 212,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 214,
+     "nay": 4,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 208,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0167": {
    "bill": "H.R. 4",
@@ -1439,7 +3632,24 @@
    "yea": 208,
    "nay": 218,
    "chamber": "House",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Republican": {
+     "yea": 0,
+     "nay": 218,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 208,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0193": {
    "bill": "S. 1596",
@@ -1450,7 +3660,24 @@
    "yea": 372,
    "nay": 0,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 194,
+     "nay": 0,
+     "other": 25
+    },
+    "Democratic": {
+     "yea": 178,
+     "nay": 0,
+     "other": 34
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0084": {
    "bill": "H.R. 517",
@@ -1461,7 +3688,24 @@
    "yea": 388,
    "nay": 0,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 195,
+     "nay": 0,
+     "other": 22
+    },
+    "Democratic": {
+     "yea": 193,
+     "nay": 0,
+     "other": 20
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0125": {
    "bill": "H.R. 2215",
@@ -1472,7 +3716,24 @@
    "yea": 382,
    "nay": 31,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 182,
+     "nay": 31,
+     "other": 6
+    },
+    "Democratic": {
+     "yea": 200,
+     "nay": 0,
+     "other": 13
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0190": {
    "bill": "H.R. 1",
@@ -1483,7 +3744,24 @@
    "yea": 218,
    "nay": 214,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 218,
+     "nay": 2,
+     "other": 0
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 212,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00372": {
    "bill": "H.R. 1",
@@ -1491,10 +3769,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On Passage of the Bill",
    "date": "2025-07-01",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 50,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 3,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00359": {
    "bill": "H.R. 1",
@@ -1502,10 +3797,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-07-01",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 51,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00357": {
    "bill": "H.R. 1",
@@ -1513,10 +3825,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-07-01",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00354": {
    "bill": "H.R. 1",
@@ -1524,10 +3853,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-07-01",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00353": {
    "bill": "H.R. 1",
@@ -1535,10 +3881,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00351": {
    "bill": "H.R. 1",
@@ -1546,10 +3909,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00350": {
    "bill": "H.R. 1",
@@ -1557,10 +3937,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 49,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00349": {
    "bill": "H.R. 1",
@@ -1568,10 +3965,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 52,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 52,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00348": {
    "bill": "H.R. 1",
@@ -1579,10 +3993,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00347": {
    "bill": "H.R. 1",
@@ -1590,10 +4021,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00346": {
    "bill": "H.R. 1",
@@ -1601,10 +4049,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00340": {
    "bill": "H.R. 1",
@@ -1612,10 +4077,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 52,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 52,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00338": {
    "bill": "H.R. 1",
@@ -1623,10 +4105,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 52,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 52,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00337": {
    "bill": "H.R. 1",
@@ -1634,10 +4133,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 49,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00336": {
    "bill": "H.R. 1",
@@ -1645,10 +4161,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 48,
+   "nay": 52,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 52,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00335": {
    "bill": "H.R. 1",
@@ -1656,10 +4189,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00334": {
    "bill": "H.R. 1",
@@ -1667,10 +4217,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 48,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00333": {
    "bill": "H.R. 1",
@@ -1678,10 +4245,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 49,
+   "nay": 51,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00332": {
    "bill": "H.R. 1",
@@ -1689,10 +4273,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion",
    "date": "2025-06-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 47,
+   "nay": 53,
    "chamber": "Senate",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 45,
+     "nay": 0,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 0,
+     "nay": 53,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00329": {
    "bill": "H.R. 1",
@@ -1700,10 +4301,27 @@
    "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
    "motionText": "On the Motion to Proceed",
    "date": "2025-06-28",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 49,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 2,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0145": {
    "bill": "H.R. 1",
@@ -1714,7 +4332,24 @@
    "yea": 215,
    "nay": 214,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 215,
+     "nay": 2,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 212,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0144": {
    "bill": "H.R. 1",
@@ -1725,7 +4360,24 @@
    "yea": 212,
    "nay": 216,
    "chamber": "House",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Republican": {
+     "yea": 0,
+     "nay": 216,
+     "other": 4
+    },
+    "Democratic": {
+     "yea": 212,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0028": {
    "bill": "H.R. 43",
@@ -1736,7 +4388,24 @@
    "yea": 412,
    "nay": 1,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 208,
+     "nay": 0,
+     "other": 10
+    },
+    "Democratic": {
+     "yea": 204,
+     "nay": 1,
+     "other": 10
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0137": {
    "bill": "S.J.Res. 13",
@@ -1747,7 +4416,24 @@
    "yea": 220,
    "nay": 207,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 219,
+     "nay": 0,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 1,
+     "nay": 207,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00237": {
    "bill": "S.J.Res. 13",
@@ -1755,10 +4441,27 @@
    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency of the Department of the Treasury relating to the review of applications under the Bank Merger Act.",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-07",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00233": {
    "bill": "S.J.Res. 13",
@@ -1766,10 +4469,27 @@
    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency of the Department of the Treasury relating to the review of applications under the Bank Merger Act.",
    "motionText": "On the Motion to Proceed",
    "date": "2025-05-06",
-   "yea": 0,
-   "nay": 0,
+   "yea": 53,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 1
+    }
+   }
   },
   "H2025_0143": {
    "bill": "S.J.Res. 31",
@@ -1780,7 +4500,24 @@
    "yea": 216,
    "nay": 212,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 216,
+     "nay": 1,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 211,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00229": {
    "bill": "S.J.Res. 31",
@@ -1788,10 +4525,27 @@
    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-01",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00227": {
    "bill": "S.J.Res. 31",
@@ -1799,10 +4553,27 @@
    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-04-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 40,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 39,
+     "other": 6
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 1
+    }
+   }
   },
   "S119_1_00281": {
    "bill": "H.J.Res. 89",
@@ -1810,10 +4581,27 @@
    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The \"Omnibus\" Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-22",
-   "yea": 0,
-   "nay": 0,
+   "yea": 49,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00280": {
    "bill": "H.J.Res. 89",
@@ -1821,10 +4609,27 @@
    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The \"Omnibus\" Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-05-22",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0112": {
    "bill": "H.J.Res. 89",
@@ -1835,7 +4640,24 @@
    "yea": 225,
    "nay": 196,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 215,
+     "nay": 1,
+     "other": 4
+    },
+    "Democratic": {
+     "yea": 10,
+     "nay": 195,
+     "other": 8
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00277": {
    "bill": "H.J.Res. 88",
@@ -1843,10 +4665,27 @@
    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Advanced Clean Cars II; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-22",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 44,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 42,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00276": {
    "bill": "H.J.Res. 88",
@@ -1854,10 +4693,27 @@
    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Advanced Clean Cars II; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-05-21",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0114": {
    "bill": "H.J.Res. 88",
@@ -1868,7 +4724,24 @@
    "yea": 246,
    "nay": 164,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 211,
+     "nay": 0,
+     "other": 8
+    },
+    "Democratic": {
+     "yea": 35,
+     "nay": 164,
+     "other": 14
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00279": {
    "bill": "H.J.Res. 87",
@@ -1876,10 +4749,27 @@
    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-22",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 43,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00278": {
    "bill": "H.J.Res. 87",
@@ -1887,10 +4777,27 @@
    "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-05-22",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0111": {
    "bill": "H.J.Res. 87",
@@ -1901,7 +4808,24 @@
    "yea": 231,
    "nay": 191,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 218,
+     "nay": 1,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 13,
+     "nay": 190,
+     "other": 10
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0095": {
    "bill": "S.J.Res. 28",
@@ -1912,7 +4836,24 @@
    "yea": 219,
    "nay": 211,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 219,
+     "nay": 0,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 211,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00106": {
    "bill": "S.J.Res. 28",
@@ -1920,10 +4861,27 @@
    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-03-05",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00103": {
    "bill": "S.J.Res. 28",
@@ -1931,10 +4889,27 @@
    "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-03-04",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 1,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00232": {
    "bill": "H.J.Res. 61",
@@ -1942,10 +4917,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-06",
-   "yea": 0,
-   "nay": 0,
+   "yea": 55,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 43,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00231": {
    "bill": "H.J.Res. 61",
@@ -1953,10 +4945,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-05-05",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 43,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 41,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0058": {
    "bill": "H.J.Res. 61",
@@ -1967,7 +4976,24 @@
    "yea": 216,
    "nay": 202,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 209,
+     "nay": 1,
+     "other": 8
+    },
+    "Democratic": {
+     "yea": 7,
+     "nay": 201,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00239": {
    "bill": "H.J.Res. 60",
@@ -1975,10 +5001,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to \"Glen Canyon National Recreation Area: Motor Vehicles\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-08",
-   "yea": 0,
-   "nay": 0,
+   "yea": 50,
+   "nay": 43,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 41,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00236": {
    "bill": "H.J.Res. 60",
@@ -1986,10 +5029,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to \"Glen Canyon National Recreation Area: Motor Vehicles\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-05-06",
-   "yea": 0,
-   "nay": 0,
+   "yea": 53,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0110": {
    "bill": "H.J.Res. 60",
@@ -2000,7 +5060,24 @@
    "yea": 219,
    "nay": 205,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 217,
+     "nay": 0,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 2,
+     "nay": 205,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0104": {
    "bill": "S. 146",
@@ -2011,7 +5088,24 @@
    "yea": 409,
    "nay": 2,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 207,
+     "nay": 2,
+     "other": 11
+    },
+    "Democratic": {
+     "yea": 202,
+     "nay": 0,
+     "other": 11
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00228": {
    "bill": "H.J.Res. 75",
@@ -2019,10 +5113,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Energy Efficiency and Renewable Energy, Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-01",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 45,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 43,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00224": {
    "bill": "H.J.Res. 75",
@@ -2030,10 +5141,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Energy Efficiency and Renewable Energy, Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-04-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0078": {
    "bill": "H.J.Res. 75",
@@ -2044,7 +5172,24 @@
    "yea": 214,
    "nay": 193,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 209,
+     "nay": 0,
+     "other": 8
+    },
+    "Democratic": {
+     "yea": 5,
+     "nay": 193,
+     "other": 15
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00223": {
    "bill": "H.J.Res. 42",
@@ -2052,10 +5197,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-04-30",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00222": {
    "bill": "H.J.Res. 42",
@@ -2063,10 +5225,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-04-29",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0059": {
    "bill": "H.J.Res. 42",
@@ -2077,7 +5256,24 @@
    "yea": 222,
    "nay": 203,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 215,
+     "nay": 0,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 7,
+     "nay": 203,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00162": {
    "bill": "H.J.Res. 24",
@@ -2085,10 +5281,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-04-03",
-   "yea": 0,
-   "nay": 0,
+   "yea": 53,
+   "nay": 42,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 40,
+     "other": 5
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00161": {
    "bill": "H.J.Res. 24",
@@ -2096,10 +5309,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-04-02",
-   "yea": 0,
-   "nay": 0,
+   "yea": 51,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0077": {
    "bill": "H.J.Res. 24",
@@ -2110,7 +5340,24 @@
    "yea": 203,
    "nay": 182,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 197,
+     "nay": 0,
+     "other": 20
+    },
+    "Democratic": {
+     "yea": 6,
+     "nay": 182,
+     "other": 25
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00207": {
    "bill": "H.J.Res. 20",
@@ -2118,10 +5365,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-04-10",
-   "yea": 0,
-   "nay": 0,
+   "yea": 53,
+   "nay": 44,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 43,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 1
+    }
+   }
   },
   "S119_1_00206": {
    "bill": "H.J.Res. 20",
@@ -2129,10 +5393,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-04-09",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 42,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 41,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 1
+    }
+   }
   },
   "H2025_0053": {
    "bill": "H.J.Res. 20",
@@ -2143,7 +5424,24 @@
    "yea": 221,
    "nay": 198,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 210,
+     "nay": 0,
+     "other": 8
+    },
+    "Democratic": {
+     "yea": 11,
+     "nay": 198,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00151": {
    "bill": "H.J.Res. 25",
@@ -2151,10 +5449,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-03-26",
-   "yea": 0,
-   "nay": 0,
+   "yea": 70,
+   "nay": 28,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 17,
+     "nay": 26,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00150": {
    "bill": "H.J.Res. 25",
@@ -2162,10 +5477,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-03-26",
-   "yea": 0,
-   "nay": 0,
+   "yea": 70,
+   "nay": 28,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 18,
+     "nay": 26,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0071": {
    "bill": "H.J.Res. 25",
@@ -2176,7 +5508,24 @@
    "yea": 292,
    "nay": 132,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 216,
+     "nay": 0,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 76,
+     "nay": 132,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00097": {
    "bill": "H.J.Res. 35",
@@ -2184,10 +5533,27 @@
    "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-02-27",
-   "yea": 0,
-   "nay": 0,
+   "yea": 52,
+   "nay": 47,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 45,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "H2025_0052": {
    "bill": "H.J.Res. 35",
@@ -2198,7 +5564,24 @@
    "yea": 220,
    "nay": 206,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 214,
+     "nay": 1,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 6,
+     "nay": 205,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00133": {
    "bill": "H.R. 1968",
@@ -2206,10 +5589,27 @@
    "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
    "motionText": "On Passage of the Bill",
    "date": "2025-03-14",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 46,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 1,
+     "nay": 44,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "S119_1_00128": {
    "bill": "H.R. 1968",
@@ -2217,10 +5617,27 @@
    "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
    "motionText": "On the Cloture Motion",
    "date": "2025-03-14",
-   "yea": 0,
-   "nay": 0,
+   "yea": 62,
+   "nay": 38,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 9,
+     "nay": 36,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
   },
   "H2025_0070": {
    "bill": "H.R. 1968",
@@ -2231,7 +5648,24 @@
    "yea": 217,
    "nay": 213,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 216,
+     "nay": 1,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 1,
+     "nay": 212,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0069": {
    "bill": "H.R. 1968",
@@ -2242,7 +5676,24 @@
    "yea": 213,
    "nay": 216,
    "chamber": "House",
-   "result": "Fail"
+   "result": "Fail",
+   "partyTally": {
+    "Republican": {
+     "yea": 0,
+     "nay": 216,
+     "other": 2
+    },
+    "Democratic": {
+     "yea": 213,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "H2025_0061": {
    "bill": "S.J.Res. 11",
@@ -2253,7 +5704,24 @@
    "yea": 221,
    "nay": 202,
    "chamber": "House",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 212,
+     "nay": 1,
+     "other": 5
+    },
+    "Democratic": {
+     "yea": 9,
+     "nay": 201,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
   },
   "S119_1_00092": {
    "bill": "S.J.Res. 11",
@@ -2261,10 +5729,27 @@
    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to \"Protection of Marine Archaeological Resources\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-02-25",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 44,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 3,
+     "nay": 42,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   },
   "S119_1_00091": {
    "bill": "S.J.Res. 11",
@@ -2272,21 +5757,38 @@
    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to \"Protection of Marine Archaeological Resources\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-02-25",
-   "yea": 0,
-   "nay": 0,
+   "yea": 54,
+   "nay": 42,
    "chamber": "Senate",
-   "result": "Pass"
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 3,
+     "nay": 40,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
   }
  },
  "memberVotes": {
   "A000372": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
+    "voteId": "H2026_0181",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0224",
@@ -2297,15 +5799,19 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
     "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -2414,10 +5920,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
@@ -2563,11 +6065,11 @@
   ],
   "B000490": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0213",
+    "voteId": "H2026_0181",
     "vote": "Yea"
    },
    {
@@ -2579,15 +6081,19 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
+    "voteId": "H2026_0214",
+    "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -2696,10 +6202,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
@@ -2845,12 +6347,12 @@
   ],
   "C001103": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
+    "voteId": "H2026_0181",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0224",
@@ -2861,15 +6363,19 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
     "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -2978,10 +6484,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
@@ -3127,11 +6629,11 @@
   ],
   "C001116": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
+    "voteId": "H2026_0181",
     "vote": "Nay"
    },
    {
@@ -3143,16 +6645,20 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
-    "vote": "Nay"
+    "voteId": "H2026_0214",
+    "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0213",
     "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -3260,10 +6766,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
@@ -3409,12 +6911,12 @@
   ],
   "C001129": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
+    "voteId": "H2026_0181",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0224",
@@ -3425,16 +6927,20 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0214",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0213",
     "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -3542,10 +7048,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
@@ -3689,52 +7191,216 @@
     "vote": "Yea"
    }
   ],
-  "F000485": [
+  "G000596": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
+    "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0151",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0224",
+    "voteId": "H2025_0335",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2025_0088",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0223",
+    "voteId": "H2025_0019",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0193",
+    "voteId": "H2025_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0319",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0022",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0180",
+    "voteId": "H2025_0315",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0129",
+    "voteId": "H2025_0295",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0155",
+    "voteId": "H2025_0294",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0225",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0226",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0224",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0051",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0289",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0200",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0285",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0281",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0280",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0096",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0166",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0168",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0167",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0084",
+    "vote": "Not Voting"
+   },
+   {
+    "voteId": "H2025_0125",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0190",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0145",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0144",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0028",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0143",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0112",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0114",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0111",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0095",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0058",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0110",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0104",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0078",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0059",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0077",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0053",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0071",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0052",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0070",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0069",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0061",
     "vote": "Yea"
    }
   ],
   "J000311": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
+    "voteId": "H2026_0181",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0224",
@@ -3745,15 +7411,19 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
     "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -3862,10 +7532,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
@@ -4011,11 +7677,11 @@
   ],
   "J000288": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0213",
+    "voteId": "H2026_0181",
     "vote": "Yea"
    },
    {
@@ -4027,16 +7693,20 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
+    "voteId": "H2026_0214",
+    "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
     "voteId": "H2025_0023",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -4144,10 +7814,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
@@ -4293,12 +7959,12 @@
   ],
   "L000583": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
+    "voteId": "H2026_0181",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0224",
@@ -4309,15 +7975,19 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
     "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -4426,10 +8096,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
@@ -4575,11 +8241,11 @@
   ],
   "M001208": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0213",
+    "voteId": "H2026_0181",
     "vote": "Yea"
    },
    {
@@ -4591,15 +8257,19 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
+    "voteId": "H2026_0214",
+    "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -4708,10 +8378,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
@@ -4857,12 +8523,12 @@
   ],
   "M001218": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
+    "voteId": "H2026_0181",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0224",
@@ -4873,15 +8539,19 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
     "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -4990,10 +8660,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
@@ -5139,12 +8805,12 @@
   ],
   "S001189": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
+    "voteId": "H2026_0181",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0224",
@@ -5155,15 +8821,19 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
     "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -5272,10 +8942,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Yea"
    },
    {
@@ -5419,13 +9085,263 @@
     "vote": "Yea"
    }
   ],
-  "W000788": [
+  "S001157": [
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0213",
+    "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0042",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0129",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0038",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0151",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0056",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0053",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0045",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0007",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0006",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0005",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0335",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0088",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0019",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0022",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0295",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0294",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0225",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0226",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0224",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0051",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0289",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0200",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0285",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0281",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0280",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0096",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0166",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0168",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0167",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0084",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0125",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0190",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0145",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0144",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0028",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0137",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0143",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0112",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0114",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0111",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0095",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0058",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0110",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0104",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0078",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0059",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0077",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0053",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0071",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0052",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0070",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0069",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0061",
+    "vote": "Nay"
+   }
+  ],
+  "W000788": [
+   {
+    "voteId": "H2025_0296",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0181",
     "vote": "Yea"
    },
    {
@@ -5437,16 +9353,20 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
+    "voteId": "H2026_0214",
+    "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
     "voteId": "H2025_0023",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -5554,10 +9474,6 @@
    },
    {
     "voteId": "H2025_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
@@ -5703,27 +9619,11 @@
   ],
   "O000174": [
    {
-    "voteId": "S119_2_00163",
+    "voteId": "S119_1_00599",
     "vote": "Nay"
    },
    {
-    "voteId": "S119_2_00153",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00147",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00141",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00136",
+    "voteId": "S119_1_00595",
     "vote": "Nay"
    },
    {
@@ -5753,6 +9653,30 @@
    {
     "voteId": "S119_2_00044",
     "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00163",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00153",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00147",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00141",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00136",
+    "vote": "Nay"
    },
    {
     "voteId": "S119_1_00007",
@@ -5880,14 +9804,6 @@
    },
    {
     "voteId": "S119_1_00548",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_1_00599",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_1_00595",
     "vote": "Nay"
    },
    {
@@ -6249,27 +10165,11 @@
   ],
   "W000790": [
    {
-    "voteId": "S119_2_00163",
+    "voteId": "S119_1_00599",
     "vote": "Nay"
    },
    {
-    "voteId": "S119_2_00153",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00147",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00141",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00136",
+    "voteId": "S119_1_00595",
     "vote": "Nay"
    },
    {
@@ -6299,6 +10199,30 @@
    {
     "voteId": "S119_2_00044",
     "vote": "Not Voting"
+   },
+   {
+    "voteId": "S119_2_00163",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00153",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00147",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00141",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00136",
+    "vote": "Nay"
    },
    {
     "voteId": "S119_1_00007",
@@ -6426,14 +10350,6 @@
    },
    {
     "voteId": "S119_1_00548",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_1_00599",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_1_00595",
     "vote": "Nay"
    },
    {
@@ -6793,455 +10709,41 @@
     "vote": "Nay"
    }
   ],
-  "S001157": [
+  "F000485": [
    {
-    "voteId": "H2026_0057",
+    "voteId": "H2026_0181",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0224",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0214",
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0213",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0042",
-    "vote": "Nay"
+    "voteId": "H2026_0223",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0180",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0129",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0081",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0038",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0151",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0056",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0053",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0045",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0007",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0006",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0005",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0335",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0088",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0019",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0320",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0319",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0022",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0315",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0295",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0294",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0225",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0226",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0296",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0051",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0289",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0200",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0285",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0281",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0280",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0096",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0166",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0168",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0167",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0084",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0125",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0190",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0145",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0144",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0028",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0137",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0143",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0112",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0114",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0111",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0095",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0058",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0110",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0104",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0078",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0059",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0077",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0053",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0071",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0052",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0070",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0069",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0061",
-    "vote": "Nay"
-   }
-  ],
-  "G000596": [
-   {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0151",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0335",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0088",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0019",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0320",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0319",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0022",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0315",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0295",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0294",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0225",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0226",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0051",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0289",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0200",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0285",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0281",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0280",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0096",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0166",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0168",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0167",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0084",
-    "vote": "Not Voting"
-   },
-   {
-    "voteId": "H2025_0125",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0190",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0145",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0144",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0028",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0143",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0112",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0114",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0111",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0095",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0058",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0110",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0104",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0078",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0059",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0077",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0053",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0071",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0052",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0070",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0069",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0061",
+    "voteId": "H2026_0155",
     "vote": "Yea"
    }
   ]
