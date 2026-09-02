@@ -1,7 +1,7 @@
 # Georgia Federal Delegation
 
 _Auto-generated from [votega.org](https://votega.org) — do not edit by hand._  
-_Last updated 2026-09-01T11:19:22.882202+00:00 · 15 members (2 Senate, 13 House)._
+_Last updated 2026-09-02T10:53:32.338719+00:00 · 16 members (2 Senate, 14 House)._
 
 > Machine-readable versions: [`data/members.json`](data/members.json), [`data/members.csv`](data/members.csv). Roll-call votes: [`data/votes.csv`](data/votes.csv), [`data/member-votes.csv`](data/member-votes.csv).
 
@@ -28,5 +28,6 @@ _Last updated 2026-09-01T11:19:22.882202+00:00 · 15 members (2 Senate, 13 House
 | 10 | Collins, Mike | Republican | (202) 225-4101 | [site](https://collins.house.gov) |
 | 11 | Loudermilk, Barry | Republican | (202) 225-2931 | [site](https://loudermilk.house.gov) |
 | 12 | Allen, Rick W. | Republican | (202) 225-2823 | [site](https://allen.house.gov) |
+| 13 | Blair, Everton | Democratic | (202) 225-2939 | [site](https://blair.house.gov/) |
 | 14 | Fuller, Clay | Republican | (202) 225-5211 | [site](https://fuller.house.gov/) |
 
