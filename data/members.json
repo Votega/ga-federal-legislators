@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-02T10:53:32.338719+00:00",
+  "generatedAt": "2026-09-03T10:52:34.482049+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-09-02T10:53:30.159494",
+  "sourceGeneratedAt": "2026-09-03T10:52:32.136383",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -10,6 +10,10 @@
  "members": [
   {
    "bioguideId": "B001328",
+   "depiction": {
+    "attribution": "Image courtesy of the Member",
+    "imageUrl": "https://www.congress.gov/img/member/6a9869d92a68122e10181e62_200.jpg"
+   },
    "district": 13,
    "name": "Blair, Everton",
    "partyName": "Democratic",
@@ -22,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:25Z",
+   "updateDate": "2026-09-03T07:40:29Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -33,16 +37,32 @@
     "zipCode": "20515"
    },
    "officialWebsiteUrl": "https://blair.house.gov/",
-   "birthYear": null,
+   "birthYear": 1992,
    "currentMember": true,
    "honorificName": "Mr.",
    "firstName": "Everton",
    "lastName": "Blair",
    "sponsoredLegislation": {},
    "cosponsoredLegislation": {},
-   "dataUpdatedAt": "2026-09-02T10:50:01.829145",
+   "dataUpdatedAt": "2026-09-03T10:50:12.676756",
    "recentSponsored": [],
    "committees": [],
+   "birthday": "1992-04-23",
+   "gender": "M",
+   "externalLinks": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Everton_Blair"
+    },
+    {
+     "label": "Ballotpedia",
+     "url": "https://ballotpedia.org/Everton_Blair_Jr."
+    },
+    {
+     "label": "GovTrack",
+     "url": "https://www.govtrack.us/congress/members/457045"
+    }
+   ],
    "chamber": "House of Representatives"
   },
   {
@@ -63,7 +83,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:25Z",
+   "updateDate": "2026-09-03T07:40:29Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -87,7 +107,7 @@
     "count": 75,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:50:03.354285",
+   "dataUpdatedAt": "2026-09-03T10:50:13.692211",
    "recentSponsored": [
     {
      "type": "HJRES",
@@ -263,7 +283,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:24Z",
+   "updateDate": "2026-09-03T07:40:29Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -287,7 +307,7 @@
     "count": 117,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:50:15.410792",
+   "dataUpdatedAt": "2026-09-03T10:50:19.734301",
    "recentSponsored": [
     {
      "type": "HR",
@@ -463,7 +483,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:24Z",
+   "updateDate": "2026-09-03T07:40:29Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -484,10 +504,10 @@
     "url": "https://api.congress.gov/v3/member/M001218/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 560,
+    "count": 562,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:50:28.763755",
+   "dataUpdatedAt": "2026-09-03T10:50:24.670036",
    "recentSponsored": [
     {
      "type": "HR",
@@ -741,7 +761,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:23Z",
+   "updateDate": "2026-09-03T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -765,7 +785,7 @@
     "count": 394,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:50:51.584362",
+   "dataUpdatedAt": "2026-09-03T10:50:47.640779",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1019,7 +1039,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:22Z",
+   "updateDate": "2026-09-03T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1036,15 +1056,27 @@
    "firstName": "Nikema",
    "lastName": "Williams",
    "sponsoredLegislation": {
-    "count": 160,
+    "count": 161,
     "url": "https://api.congress.gov/v3/member/W000788/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 2002,
+    "count": 2003,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:51:13.209718",
+   "dataUpdatedAt": "2026-09-03T10:51:00.840021",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "10239",
+     "title": "To establish the National Equal Pay Enforcement Task Force, and for other purposes.",
+     "introducedDate": "2026-09-02",
+     "latestAction": {
+      "actionDate": "2026-09-02",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10239"
+    },
     {
      "type": "HR",
      "number": "10182",
@@ -1272,18 +1304,6 @@
      },
      "policyArea": "Health",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6682"
-    },
-    {
-     "type": "HCONRES",
-     "number": "65",
-     "title": "Commending State and local governments for championing reproductive rights as human rights.",
-     "introducedDate": "2025-12-10",
-     "latestAction": {
-      "actionDate": "2025-12-10",
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/65"
     }
    ],
    "committees": [
@@ -1343,7 +1363,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:22Z",
+   "updateDate": "2026-09-03T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1364,10 +1384,10 @@
     "url": "https://api.congress.gov/v3/member/C001116/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 554,
+    "count": 558,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:51:22.753500",
+   "dataUpdatedAt": "2026-09-03T10:51:05.331815",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1588,7 +1608,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:21Z",
+   "updateDate": "2026-09-03T07:40:25Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1612,7 +1632,7 @@
     "count": 1386,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:51:58.448446",
+   "dataUpdatedAt": "2026-09-03T10:51:29.780951",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1905,7 +1925,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:21Z",
+   "updateDate": "2026-09-03T07:40:25Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1926,10 +1946,10 @@
     "url": "https://api.congress.gov/v3/member/L000583/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1068,
+    "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:51:59.889918",
+   "dataUpdatedAt": "2026-09-03T10:51:30.767892",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2200,7 +2220,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:21Z",
+   "updateDate": "2026-09-03T07:40:25Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2221,10 +2241,10 @@
     "url": "https://api.congress.gov/v3/member/C001103/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1927,
+    "count": 1928,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:52:01.226292",
+   "dataUpdatedAt": "2026-09-03T10:51:31.979891",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2517,7 +2537,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:20Z",
+   "updateDate": "2026-09-03T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2541,7 +2561,7 @@
     "count": 1644,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:52:23.550039",
+   "dataUpdatedAt": "2026-09-03T10:51:47.148857",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2828,7 +2848,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:20Z",
+   "updateDate": "2026-09-03T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2849,10 +2869,10 @@
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6078,
+    "count": 6080,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:52:26.962436",
+   "dataUpdatedAt": "2026-09-03T10:51:49.479705",
    "recentSponsored": [
     {
      "type": "HJRES",
@@ -3157,7 +3177,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:40:20Z",
+   "updateDate": "2026-09-03T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3181,7 +3201,7 @@
     "count": 6352,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:52:35.522757",
+   "dataUpdatedAt": "2026-09-03T10:51:54.512246",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3347,10 +3367,10 @@
     "url": "https://api.congress.gov/v3/member/M001208/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1368,
+    "count": 1370,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:52:43.900245",
+   "dataUpdatedAt": "2026-09-03T10:52:00.274314",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3650,7 +3670,7 @@
     "count": 1292,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:52:53.416973",
+   "dataUpdatedAt": "2026-09-03T10:52:06.944360",
    "recentSponsored": [
     {
      "type": "SRES",
@@ -3760,7 +3780,7 @@
     "count": 830,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-02T10:53:02.798282",
+   "dataUpdatedAt": "2026-09-03T10:52:12.740873",
    "recentSponsored": [
     {
      "type": "S",
