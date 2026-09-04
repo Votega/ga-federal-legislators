@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-03T10:52:34.482049+00:00",
+  "generatedAt": "2026-09-04T10:50:35.531808+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-09-03T10:52:32.136383",
+  "sourceGeneratedAt": "2026-09-04T10:50:32.978361",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:29Z",
+   "updateDate": "2026-09-04T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -44,7 +44,7 @@
    "lastName": "Blair",
    "sponsoredLegislation": {},
    "cosponsoredLegislation": {},
-   "dataUpdatedAt": "2026-09-03T10:50:12.676756",
+   "dataUpdatedAt": "2026-09-04T10:48:53.679353",
    "recentSponsored": [],
    "committees": [],
    "birthday": "1992-04-23",
@@ -83,7 +83,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:29Z",
+   "updateDate": "2026-09-04T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -100,15 +100,51 @@
    "firstName": "Clay",
    "lastName": "Fuller",
    "sponsoredLegislation": {
-    "count": 11,
+    "count": 14,
     "url": "https://api.congress.gov/v3/member/F000485/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 75,
+    "count": 80,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:50:13.692211",
+   "dataUpdatedAt": "2026-09-04T10:48:55.545212",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "10264",
+     "title": "American Made Federal Uniforms and Apparel Act of 2026",
+     "introducedDate": "2026-09-03",
+     "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10264"
+    },
+    {
+     "type": "HR",
+     "number": "10266",
+     "title": "No Elite Athletes Using X-pro status to ensure Prioritizing Recruitment Of Student-athletes (NEAUX PROS) Act",
+     "introducedDate": "2026-09-03",
+     "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10266"
+    },
+    {
+     "type": "HR",
+     "number": "10265",
+     "title": "White House Fellows Program Authorization Act",
+     "introducedDate": "2026-09-03",
+     "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10265"
+    },
     {
      "type": "HJRES",
      "number": "204",
@@ -283,7 +319,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:29Z",
+   "updateDate": "2026-09-04T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -307,7 +343,7 @@
     "count": 117,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:50:19.734301",
+   "dataUpdatedAt": "2026-09-04T10:49:00.956409",
    "recentSponsored": [
     {
      "type": "HR",
@@ -483,7 +519,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:29Z",
+   "updateDate": "2026-09-04T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -507,7 +543,7 @@
     "count": 562,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:50:24.670036",
+   "dataUpdatedAt": "2026-09-04T10:49:07.567789",
    "recentSponsored": [
     {
      "type": "HR",
@@ -761,7 +797,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:27Z",
+   "updateDate": "2026-09-04T07:40:22Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -785,7 +821,7 @@
     "count": 394,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:50:47.640779",
+   "dataUpdatedAt": "2026-09-04T10:49:13.451723",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1039,7 +1075,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:26Z",
+   "updateDate": "2026-09-04T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1063,12 +1099,12 @@
     "count": 2003,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:51:00.840021",
+   "dataUpdatedAt": "2026-09-04T10:49:20.010836",
    "recentSponsored": [
     {
      "type": "HR",
      "number": "10239",
-     "title": "To establish the National Equal Pay Enforcement Task Force, and for other purposes.",
+     "title": "Equal Pay for Equal Work Act",
      "introducedDate": "2026-09-02",
      "latestAction": {
       "actionDate": "2026-09-02",
@@ -1363,7 +1399,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:26Z",
+   "updateDate": "2026-09-04T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1387,7 +1423,7 @@
     "count": 558,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:51:05.331815",
+   "dataUpdatedAt": "2026-09-04T10:49:25.505310",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1608,7 +1644,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:25Z",
+   "updateDate": "2026-09-04T07:40:20Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1629,10 +1665,10 @@
     "url": "https://api.congress.gov/v3/member/A000372/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1386,
+    "count": 1387,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:51:29.780951",
+   "dataUpdatedAt": "2026-09-04T10:49:34.602484",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1925,7 +1961,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:25Z",
+   "updateDate": "2026-09-04T07:40:20Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1949,7 +1985,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:51:30.767892",
+   "dataUpdatedAt": "2026-09-04T10:49:38.909374",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2220,7 +2256,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:25Z",
+   "updateDate": "2026-09-04T07:40:20Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2241,10 +2277,10 @@
     "url": "https://api.congress.gov/v3/member/C001103/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1928,
+    "count": 1930,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:51:31.979891",
+   "dataUpdatedAt": "2026-09-04T10:49:42.994373",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2537,7 +2573,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:24Z",
+   "updateDate": "2026-09-04T07:40:19Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2558,10 +2594,10 @@
     "url": "https://api.congress.gov/v3/member/S001189/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1644,
+    "count": 1647,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:51:47.148857",
+   "dataUpdatedAt": "2026-09-04T10:49:52.073307",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2848,7 +2884,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:24Z",
+   "updateDate": "2026-09-04T07:40:19Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2869,10 +2905,10 @@
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6080,
+    "count": 6082,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:51:49.479705",
+   "dataUpdatedAt": "2026-09-04T10:49:58.268063",
    "recentSponsored": [
     {
      "type": "HJRES",
@@ -3177,7 +3213,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-03T07:40:24Z",
+   "updateDate": "2026-09-04T07:40:19Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3201,7 +3237,7 @@
     "count": 6352,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:51:54.512246",
+   "dataUpdatedAt": "2026-09-04T10:50:00.713843",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3346,7 +3382,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-02T07:35:19Z",
+   "updateDate": "2026-09-04T07:35:17Z",
    "url": "https://api.congress.gov/v3/member/M001208?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3363,15 +3399,27 @@
    "firstName": "Lucy",
    "lastName": "McBath",
    "sponsoredLegislation": {
-    "count": 73,
+    "count": 74,
     "url": "https://api.congress.gov/v3/member/M001208/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1370,
+    "count": 1371,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:52:00.274314",
+   "dataUpdatedAt": "2026-09-04T10:50:03.405734",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "10281",
+     "title": "FEMA for Safe Recovery Act",
+     "introducedDate": "2026-09-03",
+     "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10281"
+    },
     {
      "type": "HR",
      "number": "10031",
@@ -3670,7 +3718,7 @@
     "count": 1292,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:52:06.944360",
+   "dataUpdatedAt": "2026-09-04T10:50:14.517265",
    "recentSponsored": [
     {
      "type": "SRES",
@@ -3780,7 +3828,7 @@
     "count": 830,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-03T10:52:12.740873",
+   "dataUpdatedAt": "2026-09-04T10:50:16.836637",
    "recentSponsored": [
     {
      "type": "S",
