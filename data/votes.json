@@ -1,16 +1,128 @@
 {
  "metadata": {
-  "generatedAt": "2026-08-30T14:24:43.728574",
+  "generatedAt": "2026-09-06T12:47:36.370390",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Congress.gov API + Clerk of House + Senate.gov",
-  "totalVotes": 206,
-  "memberCount": 17,
-  "sittingDelegation": 15,
-  "sittingMembersWithVotes": 15,
+  "totalVotes": 210,
+  "memberCount": 18,
+  "sittingDelegation": 16,
+  "sittingMembersWithVotes": 16,
   "staleVoteRecords": 2
  },
  "votes": {
+  "H2026_0286": {
+   "bill": "H.R. 6500",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+   "title": "Continuing Appropriations and Extensions Act, 2027",
+   "motionText": "On Motion to Suspend the Rules and Concur in the Senate Amendments",
+   "date": "2026-09-01",
+   "yea": 370,
+   "nay": 48,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 193,
+     "nay": 19,
+     "other": 6
+    },
+    "Democratic": {
+     "yea": 176,
+     "nay": 29,
+     "other": 8
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00228": {
+   "bill": "H.R. 6500",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+   "title": "Continuing Appropriations and Extensions Act, 2027",
+   "motionText": "On Passage of the Bill",
+   "date": "2026-08-08",
+   "yea": 90,
+   "nay": 6,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 42,
+     "nay": 3,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 47,
+     "nay": 2,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00218": {
+   "bill": "H.R. 6500",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+   "title": "Continuing Appropriations and Extensions Act, 2027",
+   "motionText": "On Cloture on the Motion to Proceed",
+   "date": "2026-08-03",
+   "yea": 89,
+   "nay": 4,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 39,
+     "nay": 2,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 1,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0014": {
+   "bill": "H.R. 6500",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+   "title": "Continuing Appropriations and Extensions Act, 2027",
+   "motionText": "On Motion to Suspend the Rules and Pass, as Amended",
+   "date": "2026-01-12",
+   "yea": 340,
+   "nay": 54,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 149,
+     "nay": 43,
+     "other": 26
+    },
+    "Democratic": {
+     "yea": 191,
+     "nay": 11,
+     "other": 11
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
   "H2025_0296": {
    "bill": "S.J.Res. 80",
    "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/80",
@@ -82,6 +194,230 @@
      "yea": 1,
      "nay": 44,
      "other": 0
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0214": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Passage",
+   "date": "2026-06-09",
+   "yea": 214,
+   "nay": 212,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 214,
+     "nay": 0,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 211,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0213": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Motion to Commit",
+   "date": "2026-06-09",
+   "yea": 211,
+   "nay": 215,
+   "chamber": "House",
+   "result": "Fail",
+   "partyTally": {
+    "Republican": {
+     "yea": 0,
+     "nay": 214,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 211,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00163": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Passage of the Bill",
+   "date": "2026-06-05",
+   "yea": 52,
+   "nay": 47,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00153": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-05",
+   "yea": 48,
+   "nay": 51,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00147": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 46,
+   "nay": 52,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 43,
+     "nay": 0,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 52,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00141": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 47,
+   "nay": 50,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 50,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00137": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 49,
+   "nay": 50,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 3,
+     "nay": 50,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00136": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion to Proceed",
+   "date": "2026-06-03",
+   "yea": 53,
+   "nay": 46,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
     },
     "Republican": {
      "yea": 53,
@@ -371,230 +707,6 @@
     "Independent": {
      "yea": 0,
      "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "H2026_0214": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On Passage",
-   "date": "2026-06-09",
-   "yea": 214,
-   "nay": 212,
-   "chamber": "House",
-   "result": "Pass",
-   "partyTally": {
-    "Republican": {
-     "yea": 214,
-     "nay": 0,
-     "other": 3
-    },
-    "Democratic": {
-     "yea": 0,
-     "nay": 211,
-     "other": 1
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 1,
-     "other": 0
-    }
-   }
-  },
-  "H2026_0213": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On Motion to Commit",
-   "date": "2026-06-09",
-   "yea": 211,
-   "nay": 215,
-   "chamber": "House",
-   "result": "Fail",
-   "partyTally": {
-    "Republican": {
-     "yea": 0,
-     "nay": 214,
-     "other": 3
-    },
-    "Democratic": {
-     "yea": 211,
-     "nay": 0,
-     "other": 1
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 1,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00163": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On Passage of the Bill",
-   "date": "2026-06-05",
-   "yea": 52,
-   "nay": 47,
-   "chamber": "Senate",
-   "result": "Pass",
-   "partyTally": {
-    "Democratic": {
-     "yea": 0,
-     "nay": 44,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 52,
-     "nay": 1,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 2,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00153": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-05",
-   "yea": 48,
-   "nay": 51,
-   "chamber": "Senate",
-   "result": "Fail",
-   "partyTally": {
-    "Democratic": {
-     "yea": 44,
-     "nay": 0,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 2,
-     "nay": 51,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 2,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00147": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 46,
-   "nay": 52,
-   "chamber": "Senate",
-   "result": "Fail",
-   "partyTally": {
-    "Democratic": {
-     "yea": 43,
-     "nay": 0,
-     "other": 2
-    },
-    "Republican": {
-     "yea": 1,
-     "nay": 52,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 2,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00141": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 47,
-   "nay": 50,
-   "chamber": "Senate",
-   "result": "Fail",
-   "partyTally": {
-    "Democratic": {
-     "yea": 44,
-     "nay": 0,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 1,
-     "nay": 50,
-     "other": 2
-    },
-    "Independent": {
-     "yea": 2,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00137": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 49,
-   "nay": 50,
-   "chamber": "Senate",
-   "result": "Fail",
-   "partyTally": {
-    "Democratic": {
-     "yea": 44,
-     "nay": 0,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 3,
-     "nay": 50,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 2,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00136": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion to Proceed",
-   "date": "2026-06-03",
-   "yea": 53,
-   "nay": 46,
-   "chamber": "Senate",
-   "result": "Pass",
-   "partyTally": {
-    "Democratic": {
-     "yea": 0,
-     "nay": 44,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 53,
-     "nay": 0,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 2,
      "other": 0
     }
    }
@@ -5783,8 +5895,24 @@
  "memberVotes": {
   "A000372": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -5797,14 +5925,6 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
@@ -6065,8 +6185,24 @@
   ],
   "B000490": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0181",
@@ -6078,14 +6214,6 @@
    },
    {
     "voteId": "H2026_0057",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
@@ -6345,10 +6473,32 @@
     "vote": "Nay"
    }
   ],
+  "B001328": [
+   {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   }
+  ],
   "C001103": [
+   {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
    {
     "voteId": "H2025_0296",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -6361,14 +6511,6 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
@@ -6629,8 +6771,24 @@
   ],
   "C001116": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Nay"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -6643,14 +6801,6 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
@@ -6911,8 +7061,24 @@
   ],
   "C001129": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Nay"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -6925,14 +7091,6 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
@@ -7191,212 +7349,68 @@
     "vote": "Yea"
    }
   ],
-  "G000596": [
+  "F000485": [
    {
-    "voteId": "H2025_0296",
+    "voteId": "H2026_0286",
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0214",
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0151",
+    "voteId": "H2026_0213",
     "vote": "Nay"
    },
    {
-    "voteId": "H2025_0335",
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0224",
     "vote": "Nay"
    },
    {
-    "voteId": "H2025_0088",
+    "voteId": "H2026_0223",
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0019",
+    "voteId": "H2026_0193",
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0320",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0319",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0022",
+    "voteId": "H2026_0180",
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0315",
+    "voteId": "H2026_0129",
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0295",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0294",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0225",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0226",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0224",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0051",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0289",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0200",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0285",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0281",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0280",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0096",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0166",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0168",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0167",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0084",
-    "vote": "Not Voting"
-   },
-   {
-    "voteId": "H2025_0125",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0190",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0145",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0144",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0028",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0143",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0112",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0114",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0111",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0095",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0058",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0110",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0104",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0078",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0059",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0077",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0053",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0071",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0052",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0070",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0069",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0061",
+    "voteId": "H2026_0155",
     "vote": "Yea"
    }
   ],
   "J000311": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -7409,14 +7423,6 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
@@ -7677,8 +7683,24 @@
   ],
   "J000288": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0181",
@@ -7690,14 +7712,6 @@
    },
    {
     "voteId": "H2026_0057",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
@@ -7959,8 +7973,24 @@
   ],
   "L000583": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -7973,14 +8003,6 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
@@ -8241,8 +8263,24 @@
   ],
   "M001208": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0181",
@@ -8254,14 +8292,6 @@
    },
    {
     "voteId": "H2026_0057",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
@@ -8523,8 +8553,24 @@
   ],
   "M001218": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Nay"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -8537,14 +8583,6 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
@@ -8805,8 +8843,24 @@
   ],
   "S001189": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -8819,14 +8873,6 @@
    {
     "voteId": "H2026_0057",
     "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
    },
    {
     "voteId": "H2025_0023",
@@ -9085,260 +9131,26 @@
     "vote": "Yea"
    }
   ],
-  "S001157": [
-   {
-    "voteId": "H2025_0296",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0057",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0042",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0038",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0151",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0056",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0053",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0045",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0007",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0006",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0005",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0335",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0088",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0019",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0320",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0319",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0022",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0315",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0295",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0294",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0225",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0226",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0051",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0289",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0200",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0285",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0281",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0280",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0096",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0166",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0168",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0167",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0084",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0125",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0190",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0145",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0144",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0028",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0137",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0143",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0112",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0114",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0111",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0095",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0058",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0110",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0104",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0078",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0059",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0077",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0053",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0071",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0052",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0070",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0069",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0061",
-    "vote": "Nay"
-   }
-  ],
   "W000788": [
    {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2025_0296",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0181",
@@ -9350,14 +9162,6 @@
    },
    {
     "voteId": "H2026_0057",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
@@ -9619,11 +9423,43 @@
   ],
   "O000174": [
    {
+    "voteId": "S119_2_00228",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00218",
+    "vote": "Yea"
+   },
+   {
     "voteId": "S119_1_00599",
     "vote": "Nay"
    },
    {
     "voteId": "S119_1_00595",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00163",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00153",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00147",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00141",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00136",
     "vote": "Nay"
    },
    {
@@ -9653,30 +9489,6 @@
    {
     "voteId": "S119_2_00044",
     "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00163",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_2_00153",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00147",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00141",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00136",
-    "vote": "Nay"
    },
    {
     "voteId": "S119_1_00007",
@@ -10165,11 +9977,43 @@
   ],
   "W000790": [
    {
+    "voteId": "S119_2_00228",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00218",
+    "vote": "Yea"
+   },
+   {
     "voteId": "S119_1_00599",
     "vote": "Nay"
    },
    {
     "voteId": "S119_1_00595",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00163",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00153",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00147",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00141",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00136",
     "vote": "Nay"
    },
    {
@@ -10199,30 +10043,6 @@
    {
     "voteId": "S119_2_00044",
     "vote": "Not Voting"
-   },
-   {
-    "voteId": "S119_2_00163",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_2_00153",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00147",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00141",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00136",
-    "vote": "Nay"
    },
    {
     "voteId": "S119_1_00007",
@@ -10709,41 +10529,459 @@
     "vote": "Nay"
    }
   ],
-  "F000485": [
+  "S001157": [
    {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0014",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0224",
+    "voteId": "H2025_0296",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0214",
+    "voteId": "H2026_0057",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0213",
+    "voteId": "H2025_0023",
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0223",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0180",
-    "vote": "Yea"
+    "voteId": "H2026_0042",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0129",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0155",
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0038",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0151",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0056",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0053",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0045",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0007",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0006",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0005",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0335",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0088",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0019",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0022",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0295",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0294",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0225",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0226",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0224",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0051",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0289",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0200",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0285",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0281",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0280",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0096",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0166",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0168",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0167",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0084",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0125",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0190",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0145",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0144",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0028",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0137",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0143",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0112",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0114",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0111",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0095",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0058",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0110",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0104",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0078",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0059",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0077",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0053",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0071",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0052",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0070",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0069",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0061",
+    "vote": "Nay"
+   }
+  ],
+  "G000596": [
+   {
+    "voteId": "H2025_0296",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0151",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0335",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0088",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0019",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0319",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0022",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0295",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0294",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0225",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0226",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0224",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0051",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0289",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0200",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0285",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0281",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0280",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0096",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0166",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0168",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0167",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0084",
+    "vote": "Not Voting"
+   },
+   {
+    "voteId": "H2025_0125",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0190",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0145",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0144",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0028",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0143",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0112",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0114",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0111",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0095",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0058",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0110",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0104",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0078",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0059",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0077",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0053",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0071",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0052",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0070",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0069",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0061",
     "vote": "Yea"
    }
   ]
