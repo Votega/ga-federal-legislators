@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-09T10:55:44.938155+00:00",
+  "generatedAt": "2026-09-10T10:53:28.896770+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-09-09T10:55:42.264138",
+  "sourceGeneratedAt": "2026-09-10T10:53:26.296354",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:33Z",
+   "updateDate": "2026-09-10T07:40:35Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -44,7 +44,7 @@
    "lastName": "Blair",
    "sponsoredLegislation": {},
    "cosponsoredLegislation": {},
-   "dataUpdatedAt": "2026-09-09T10:54:21.447079",
+   "dataUpdatedAt": "2026-09-10T10:50:49.011494",
    "recentSponsored": [],
    "committees": [],
    "birthday": "1992-04-23",
@@ -83,7 +83,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:33Z",
+   "updateDate": "2026-09-10T07:40:35Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -107,7 +107,7 @@
     "count": 80,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:54:22.041869",
+   "dataUpdatedAt": "2026-09-10T10:50:50.089701",
    "recentSponsored": [
     {
      "type": "HR",
@@ -319,7 +319,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:32Z",
+   "updateDate": "2026-09-10T07:40:34Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -343,7 +343,7 @@
     "count": 117,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:54:26.563465",
+   "dataUpdatedAt": "2026-09-10T10:50:59.820594",
    "recentSponsored": [
     {
      "type": "HR",
@@ -519,7 +519,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:32Z",
+   "updateDate": "2026-09-10T07:40:34Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -540,10 +540,10 @@
     "url": "https://api.congress.gov/v3/member/M001218/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 563,
+    "count": 564,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:54:31.505115",
+   "dataUpdatedAt": "2026-09-10T10:51:08.329821",
    "recentSponsored": [
     {
      "type": "HR",
@@ -797,7 +797,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:31Z",
+   "updateDate": "2026-09-10T07:40:33Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -821,7 +821,7 @@
     "count": 394,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:54:38.871679",
+   "dataUpdatedAt": "2026-09-10T10:51:24.644823",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1075,7 +1075,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:30Z",
+   "updateDate": "2026-09-10T07:40:32Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1099,7 +1099,7 @@
     "count": 2005,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:54:45.748460",
+   "dataUpdatedAt": "2026-09-10T10:51:38.955354",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1110,7 +1110,7 @@
       "actionDate": "2026-09-02",
       "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
      },
-     "policyArea": null,
+     "policyArea": "Labor and Employment",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10239"
     },
     {
@@ -1399,7 +1399,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:30Z",
+   "updateDate": "2026-09-10T07:40:32Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1423,7 +1423,7 @@
     "count": 558,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:54:49.448249",
+   "dataUpdatedAt": "2026-09-10T10:51:45.294728",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1644,7 +1644,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:29Z",
+   "updateDate": "2026-09-10T07:40:31Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1668,7 +1668,7 @@
     "count": 1387,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:03.224163",
+   "dataUpdatedAt": "2026-09-10T10:52:09.534121",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1961,7 +1961,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:29Z",
+   "updateDate": "2026-09-10T07:40:31Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1985,7 +1985,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:03.619836",
+   "dataUpdatedAt": "2026-09-10T10:52:13.573580",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2256,7 +2256,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:29Z",
+   "updateDate": "2026-09-10T07:40:31Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2280,7 +2280,7 @@
     "count": 1930,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:04.452693",
+   "dataUpdatedAt": "2026-09-10T10:52:16.262924",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2573,7 +2573,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:28Z",
+   "updateDate": "2026-09-10T07:40:30Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2594,10 +2594,10 @@
     "url": "https://api.congress.gov/v3/member/S001189/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1647,
+    "count": 1648,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:10.575687",
+   "dataUpdatedAt": "2026-09-10T10:52:29.271948",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2884,7 +2884,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:28Z",
+   "updateDate": "2026-09-10T07:40:30Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2901,15 +2901,39 @@
    "firstName": "Henry",
    "lastName": "Johnson",
    "sponsoredLegislation": {
-    "count": 258,
+    "count": 260,
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
     "count": 6083,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:12.791750",
+   "dataUpdatedAt": "2026-09-10T10:52:31.951178",
    "recentSponsored": [
+    {
+     "type": "HRES",
+     "number": "1516",
+     "title": "Expressing support for the designation of September 9 as \"National African Immigrant and Refugee HIV/AIDS and Hepatitis Awareness (NAIRHHA) Day\".",
+     "introducedDate": "2026-09-08",
+     "latestAction": {
+      "actionDate": "2026-09-08",
+      "text": "Referred to the House Committee on Energy and Commerce."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1516"
+    },
+    {
+     "type": "HRES",
+     "number": "1517",
+     "title": "Expressing support for the recognition of September 7, 2026, as \"Liturgical Dance Day\" and the International Dance Commission, and for other purposes.",
+     "introducedDate": "2026-09-08",
+     "latestAction": {
+      "actionDate": "2026-09-08",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+     },
+     "policyArea": "Arts, Culture, Religion",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1517"
+    },
     {
      "type": "HJRES",
      "number": "209",
@@ -3125,30 +3149,6 @@
      },
      "policyArea": "Law",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1929"
-    },
-    {
-     "type": "HRES",
-     "number": "172",
-     "title": "Raising awareness for the sarcoma cancer chordoma.",
-     "introducedDate": "2025-02-27",
-     "latestAction": {
-      "actionDate": "2025-02-27",
-      "text": "Referred to the House Committee on Energy and Commerce."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/172"
-    },
-    {
-     "type": "HR",
-     "number": "945",
-     "title": "To award a Congressional Gold Medal to the Freedom Riders, collectively, in recognition of their unique contribution to Civil Rights, which inspired a revolutionary movement for equality in interstate travel.",
-     "introducedDate": "2025-02-04",
-     "latestAction": {
-      "actionDate": "2025-02-04",
-      "text": "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Civil Rights and Liberties, Minority Issues",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/945"
     }
    ],
    "committees": [
@@ -3213,7 +3213,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-09T07:40:27Z",
+   "updateDate": "2026-09-10T07:40:30Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3237,7 +3237,7 @@
     "count": 6354,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:18.594252",
+   "dataUpdatedAt": "2026-09-10T10:52:39.644503",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3406,7 +3406,7 @@
     "count": 1371,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:21.056323",
+   "dataUpdatedAt": "2026-09-10T10:52:46.429712",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3718,7 +3718,7 @@
     "count": 1292,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:24.688972",
+   "dataUpdatedAt": "2026-09-10T10:52:59.064208",
    "recentSponsored": [
     {
      "type": "SRES",
@@ -3828,7 +3828,7 @@
     "count": 830,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-09T10:55:27.782732",
+   "dataUpdatedAt": "2026-09-10T10:53:05.251132",
    "recentSponsored": [
     {
      "type": "S",
