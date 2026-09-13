@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-12T10:19:28.698036+00:00",
+  "generatedAt": "2026-09-13T11:19:42.126908+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-09-12T10:19:26.623894",
+  "sourceGeneratedAt": "2026-09-13T11:19:40.146828",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:28Z",
+   "updateDate": "2026-09-13T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -47,7 +47,7 @@
     "count": 1,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:16:04.121425",
+   "dataUpdatedAt": "2026-09-13T11:16:10.812255",
    "recentSponsored": [],
    "committees": [],
    "birthday": "1992-04-23",
@@ -86,7 +86,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:28Z",
+   "updateDate": "2026-09-13T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -110,7 +110,7 @@
     "count": 81,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:16:05.620974",
+   "dataUpdatedAt": "2026-09-13T11:16:12.330945",
    "recentSponsored": [
     {
      "type": "HR",
@@ -322,7 +322,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:28Z",
+   "updateDate": "2026-09-13T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -346,7 +346,7 @@
     "count": 117,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:16:15.353082",
+   "dataUpdatedAt": "2026-09-13T11:16:22.020136",
    "recentSponsored": [
     {
      "type": "HR",
@@ -522,7 +522,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:28Z",
+   "updateDate": "2026-09-13T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -546,7 +546,7 @@
     "count": 565,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:16:23.785178",
+   "dataUpdatedAt": "2026-09-13T11:16:31.346788",
    "recentSponsored": [
     {
      "type": "HR",
@@ -800,7 +800,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:26Z",
+   "updateDate": "2026-09-13T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -824,7 +824,7 @@
     "count": 395,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:16:57.134647",
+   "dataUpdatedAt": "2026-09-13T11:16:53.262533",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1078,7 +1078,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:25Z",
+   "updateDate": "2026-09-13T07:40:25Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1102,7 +1102,7 @@
     "count": 2006,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:17:15.309773",
+   "dataUpdatedAt": "2026-09-13T11:17:13.896707",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1402,7 +1402,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:25Z",
+   "updateDate": "2026-09-13T07:40:25Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1426,7 +1426,7 @@
     "count": 558,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:17:24.082736",
+   "dataUpdatedAt": "2026-09-13T11:17:23.668450",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1647,7 +1647,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:24Z",
+   "updateDate": "2026-09-13T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1671,7 +1671,7 @@
     "count": 1387,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:17:59.070109",
+   "dataUpdatedAt": "2026-09-13T11:18:10.830160",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1964,7 +1964,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:24Z",
+   "updateDate": "2026-09-13T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1988,7 +1988,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:18:00.311557",
+   "dataUpdatedAt": "2026-09-13T11:18:12.093311",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2259,7 +2259,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:24Z",
+   "updateDate": "2026-09-13T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2283,7 +2283,7 @@
     "count": 1935,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:18:01.718430",
+   "dataUpdatedAt": "2026-09-13T11:18:13.365521",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2576,7 +2576,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:23Z",
+   "updateDate": "2026-09-13T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2600,7 +2600,7 @@
     "count": 1649,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:18:17.785060",
+   "dataUpdatedAt": "2026-09-13T11:18:25.770829",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2887,7 +2887,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:23Z",
+   "updateDate": "2026-09-13T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2911,7 +2911,7 @@
     "count": 6084,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:18:22.018427",
+   "dataUpdatedAt": "2026-09-13T11:18:29.984419",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3216,7 +3216,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-12T07:40:23Z",
+   "updateDate": "2026-09-13T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3240,7 +3240,7 @@
     "count": 6354,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:18:28.612682",
+   "dataUpdatedAt": "2026-09-13T11:18:39.357959",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3409,7 +3409,7 @@
     "count": 1372,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:18:43.386689",
+   "dataUpdatedAt": "2026-09-13T11:18:53.560343",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3721,7 +3721,7 @@
     "count": 1292,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:18:52.625883",
+   "dataUpdatedAt": "2026-09-13T11:19:03.475185",
    "recentSponsored": [
     {
      "type": "SRES",
@@ -3831,7 +3831,7 @@
     "count": 830,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-12T10:19:00.994442",
+   "dataUpdatedAt": "2026-09-13T11:19:12.571049",
    "recentSponsored": [
     {
      "type": "S",
