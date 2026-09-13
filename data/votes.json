@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-06T12:47:36.370390",
+  "generatedAt": "2026-09-13T13:46:46.502343",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Congress.gov API + Clerk of House + Senate.gov",
@@ -207,253 +207,29 @@
     }
    }
   },
-  "H2026_0214": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On Passage",
-   "date": "2026-06-09",
-   "yea": 214,
-   "nay": 212,
-   "chamber": "House",
-   "result": "Pass",
-   "partyTally": {
-    "Republican": {
-     "yea": 214,
-     "nay": 0,
-     "other": 3
-    },
-    "Democratic": {
-     "yea": 0,
-     "nay": 211,
-     "other": 1
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 1,
-     "other": 0
-    }
-   }
-  },
-  "H2026_0213": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On Motion to Commit",
-   "date": "2026-06-09",
-   "yea": 211,
-   "nay": 215,
-   "chamber": "House",
-   "result": "Fail",
-   "partyTally": {
-    "Republican": {
-     "yea": 0,
-     "nay": 214,
-     "other": 3
-    },
-    "Democratic": {
-     "yea": 211,
-     "nay": 0,
-     "other": 1
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 1,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00163": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On Passage of the Bill",
-   "date": "2026-06-05",
-   "yea": 52,
-   "nay": 47,
-   "chamber": "Senate",
-   "result": "Pass",
-   "partyTally": {
-    "Democratic": {
-     "yea": 0,
-     "nay": 44,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 52,
-     "nay": 1,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 2,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00153": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-05",
-   "yea": 48,
-   "nay": 51,
-   "chamber": "Senate",
-   "result": "Fail",
-   "partyTally": {
-    "Democratic": {
-     "yea": 44,
-     "nay": 0,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 2,
-     "nay": 51,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 2,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00147": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 46,
-   "nay": 52,
-   "chamber": "Senate",
-   "result": "Fail",
-   "partyTally": {
-    "Democratic": {
-     "yea": 43,
-     "nay": 0,
-     "other": 2
-    },
-    "Republican": {
-     "yea": 1,
-     "nay": 52,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 2,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00141": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 47,
-   "nay": 50,
-   "chamber": "Senate",
-   "result": "Fail",
-   "partyTally": {
-    "Democratic": {
-     "yea": 44,
-     "nay": 0,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 1,
-     "nay": 50,
-     "other": 2
-    },
-    "Independent": {
-     "yea": 2,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00137": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion",
-   "date": "2026-06-04",
-   "yea": 49,
-   "nay": 50,
-   "chamber": "Senate",
-   "result": "Fail",
-   "partyTally": {
-    "Democratic": {
-     "yea": 44,
-     "nay": 0,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 3,
-     "nay": 50,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 2,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_2_00136": {
-   "bill": "S. 2",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
-   "title": "Secure America Act",
-   "motionText": "On the Motion to Proceed",
-   "date": "2026-06-03",
-   "yea": 53,
-   "nay": 46,
-   "chamber": "Senate",
-   "result": "Pass",
-   "partyTally": {
-    "Democratic": {
-     "yea": 0,
-     "nay": 44,
-     "other": 1
-    },
-    "Republican": {
-     "yea": 53,
-     "nay": 0,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 2,
-     "other": 0
-    }
-   }
-  },
-  "H2026_0181": {
-   "bill": "S. 1003",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1003",
-   "title": "Lulu’s Law",
+  "H2026_0089": {
+   "bill": "S. 3971",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
+   "title": "Small Business Innovation and Economic Security Act",
    "motionText": "On Motion to Suspend the Rules and Pass",
-   "date": "2026-05-20",
-   "yea": 401,
-   "nay": 6,
+   "date": "2026-03-17",
+   "yea": 345,
+   "nay": 41,
    "chamber": "House",
    "result": "Pass",
    "partyTally": {
     "Republican": {
-     "yea": 197,
-     "nay": 6,
-     "other": 14
+     "yea": 153,
+     "nay": 40,
+     "other": 24
     },
     "Democratic": {
-     "yea": 203,
-     "nay": 0,
-     "other": 9
+     "yea": 192,
+     "nay": 1,
+     "other": 21
     },
     "Independent": {
-     "yea": 1,
+     "yea": 0,
      "nay": 0,
      "other": 0
     }
@@ -851,30 +627,254 @@
     }
    }
   },
-  "H2026_0089": {
-   "bill": "S. 3971",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
-   "title": "Small Business Innovation and Economic Security Act",
+  "H2026_0181": {
+   "bill": "S. 1003",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1003",
+   "title": "Lulu’s Law",
    "motionText": "On Motion to Suspend the Rules and Pass",
-   "date": "2026-03-17",
-   "yea": 345,
-   "nay": 41,
+   "date": "2026-05-20",
+   "yea": 401,
+   "nay": 6,
    "chamber": "House",
    "result": "Pass",
    "partyTally": {
     "Republican": {
-     "yea": 153,
-     "nay": 40,
-     "other": 24
+     "yea": 197,
+     "nay": 6,
+     "other": 14
     },
     "Democratic": {
-     "yea": 192,
-     "nay": 1,
-     "other": 21
+     "yea": 203,
+     "nay": 0,
+     "other": 9
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0214": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Passage",
+   "date": "2026-06-09",
+   "yea": 214,
+   "nay": 212,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 214,
+     "nay": 0,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 211,
+     "other": 1
     },
     "Independent": {
      "yea": 0,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0213": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Motion to Commit",
+   "date": "2026-06-09",
+   "yea": 211,
+   "nay": 215,
+   "chamber": "House",
+   "result": "Fail",
+   "partyTally": {
+    "Republican": {
+     "yea": 0,
+     "nay": 214,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 211,
      "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00163": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On Passage of the Bill",
+   "date": "2026-06-05",
+   "yea": 52,
+   "nay": 47,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 1,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00153": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-05",
+   "yea": 48,
+   "nay": 51,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 2,
+     "nay": 51,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00147": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 46,
+   "nay": 52,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 43,
+     "nay": 0,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 52,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00141": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 47,
+   "nay": 50,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 1,
+     "nay": 50,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00137": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion",
+   "date": "2026-06-04",
+   "yea": 49,
+   "nay": 50,
+   "chamber": "Senate",
+   "result": "Fail",
+   "partyTally": {
+    "Democratic": {
+     "yea": 44,
+     "nay": 0,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 3,
+     "nay": 50,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00136": {
+   "bill": "S. 2",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2",
+   "title": "Secure America Act",
+   "motionText": "On the Motion to Proceed",
+   "date": "2026-06-03",
+   "yea": 53,
+   "nay": 46,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 53,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
      "other": 0
     }
    }
@@ -5907,15 +5907,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -5931,8 +5923,16 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -6197,15 +6197,7 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -6221,7 +6213,15 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
@@ -6493,15 +6493,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -6517,8 +6509,16 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -6783,15 +6783,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Nay"
    },
    {
@@ -6807,7 +6799,15 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
     "vote": "Nay"
    },
    {
@@ -7073,16 +7073,8 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
+    "voteId": "H2026_0089",
     "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
    },
    {
     "voteId": "H2026_0224",
@@ -7097,7 +7089,15 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
     "vote": "Nay"
    },
    {
@@ -7355,11 +7355,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
+    "voteId": "H2026_0224",
     "vote": "Nay"
    },
    {
@@ -7367,7 +7363,11 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0224",
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
     "vote": "Nay"
    },
    {
@@ -7405,15 +7405,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -7429,8 +7421,16 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -7695,15 +7695,7 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -7719,7 +7711,15 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
@@ -7985,15 +7985,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8009,8 +8001,16 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -8275,15 +8275,7 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8299,7 +8291,15 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
@@ -8565,15 +8565,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8589,8 +8581,16 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -8855,15 +8855,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8879,8 +8871,16 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -9145,15 +9145,7 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0214",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0181",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -9169,7 +9161,15 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0213",
     "vote": "Yea"
    },
    {
@@ -9439,30 +9439,6 @@
     "vote": "Nay"
    },
    {
-    "voteId": "S119_2_00163",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_2_00153",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00147",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00141",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00136",
-    "vote": "Nay"
-   },
-   {
     "voteId": "S119_2_00182",
     "vote": "Yea"
    },
@@ -9505,6 +9481,30 @@
    {
     "voteId": "S119_1_00001",
     "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00163",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00153",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00147",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00141",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00136",
+    "vote": "Nay"
    },
    {
     "voteId": "S119_2_00074",
@@ -9993,30 +9993,6 @@
     "vote": "Nay"
    },
    {
-    "voteId": "S119_2_00163",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_2_00153",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00147",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00141",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00137",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_2_00136",
-    "vote": "Nay"
-   },
-   {
     "voteId": "S119_2_00182",
     "vote": "Yea"
    },
@@ -10059,6 +10035,30 @@
    {
     "voteId": "S119_1_00001",
     "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00163",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00153",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00147",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00141",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00137",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00136",
+    "vote": "Nay"
    },
    {
     "voteId": "S119_2_00074",
@@ -10539,16 +10539,16 @@
     "vote": "Nay"
    },
    {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0057",
     "vote": "Yea"
    },
    {
     "voteId": "H2025_0023",
     "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
    },
    {
     "voteId": "H2026_0042",
