@@ -1,7 +1,7 @@
 # Georgia Federal Delegation
 
 _Auto-generated from [votega.org](https://votega.org) — do not edit by hand._  
-_Last updated 2026-09-13T11:19:42.126908+00:00 · 16 members (2 Senate, 14 House)._
+_Last updated 2026-09-13T13:46:48.766945+00:00 · 16 members (2 Senate, 14 House)._
 
 > Machine-readable versions: [`data/members.json`](data/members.json), [`data/members.csv`](data/members.csv). Roll-call votes: [`data/votes.csv`](data/votes.csv), [`data/member-votes.csv`](data/member-votes.csv).
 
