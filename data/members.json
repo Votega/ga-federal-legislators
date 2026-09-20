@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-19T10:29:51.630233+00:00",
+  "generatedAt": "2026-09-20T10:54:03.008836+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-09-19T10:29:48.717394",
+  "sourceGeneratedAt": "2026-09-20T10:54:00.500247",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:27Z",
+   "updateDate": "2026-09-20T07:40:36Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -47,7 +47,7 @@
     "count": 13,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:28:36.610888",
+   "dataUpdatedAt": "2026-09-20T10:50:28.560363",
    "recentSponsored": [],
    "committees": [],
    "birthday": "1992-04-23",
@@ -86,7 +86,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:27Z",
+   "updateDate": "2026-09-20T07:40:36Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -110,8 +110,45 @@
     "count": 89,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:28:37.185705",
+   "dataUpdatedAt": "2026-09-20T10:50:30.066418",
    "recentSponsored": [
+    {
+     "type": "HJRES",
+     "number": "172",
+     "title": "Proposing an amendment to the Constitution of the United States to protect United States citizenship.",
+     "introducedDate": "2026-05-04",
+     "latestAction": {
+      "actionDate": "2026-05-04",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Immigration",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/172"
+    },
+    {
+     "type": "HR",
+     "number": "8594",
+     "title": "Congressional Gold Medal For Inspiring Great Heroism and Tenacity (FIGHT) Act",
+     "introducedDate": "2026-04-30",
+     "latestAction": {
+      "actionDate": "2026-04-30",
+      "text": "Referred to the House Committee on Financial Services."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8594"
+    },
+    {
+     "type": "HRES",
+     "number": "1182",
+     "title": "Expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities.",
+     "introducedDate": "2026-04-16",
+     "latestAction": {
+      "actionDate": "2026-04-22",
+      "actionTime": "16:39:51",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+     },
+     "policyArea": "Commerce",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1182"
+    },
     {
      "type": "HR",
      "number": "10264",
@@ -159,43 +196,6 @@
      },
      "policyArea": "Law",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/204"
-    },
-    {
-     "type": "HJRES",
-     "number": "172",
-     "title": "Proposing an amendment to the Constitution of the United States to protect United States citizenship.",
-     "introducedDate": "2026-05-04",
-     "latestAction": {
-      "actionDate": "2026-05-04",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Immigration",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/172"
-    },
-    {
-     "type": "HR",
-     "number": "8594",
-     "title": "Congressional Gold Medal For Inspiring Great Heroism and Tenacity (FIGHT) Act",
-     "introducedDate": "2026-04-30",
-     "latestAction": {
-      "actionDate": "2026-04-30",
-      "text": "Referred to the House Committee on Financial Services."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8594"
-    },
-    {
-     "type": "HRES",
-     "number": "1182",
-     "title": "Expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities.",
-     "introducedDate": "2026-04-16",
-     "latestAction": {
-      "actionDate": "2026-04-22",
-      "actionTime": "16:39:51",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
-     },
-     "policyArea": "Commerce",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1182"
     },
     {
      "type": "HRES",
@@ -322,7 +322,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:27Z",
+   "updateDate": "2026-09-20T07:40:35Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -346,20 +346,8 @@
     "count": 120,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:28:40.851241",
+   "dataUpdatedAt": "2026-09-20T10:50:46.994951",
    "recentSponsored": [
-    {
-     "type": "HR",
-     "number": "4624",
-     "title": "Muhammad Ali American Boxing Revival Act of 2026",
-     "introducedDate": "2025-07-23",
-     "latestAction": {
-      "actionDate": "2026-03-25",
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
-     },
-     "policyArea": "Sports and Recreation",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4624"
-    },
     {
      "type": "HRES",
      "number": "1300",
@@ -372,6 +360,18 @@
      },
      "policyArea": "Congress",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1300"
+    },
+    {
+     "type": "HR",
+     "number": "4624",
+     "title": "Muhammad Ali American Boxing Revival Act of 2026",
+     "introducedDate": "2025-07-23",
+     "latestAction": {
+      "actionDate": "2026-03-25",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+     },
+     "policyArea": "Sports and Recreation",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4624"
     },
     {
      "type": "HRES",
@@ -522,7 +522,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:27Z",
+   "updateDate": "2026-09-20T07:40:35Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -546,56 +546,8 @@
     "count": 569,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:28:45.278077",
+   "dataUpdatedAt": "2026-09-20T10:50:54.446807",
    "recentSponsored": [
-    {
-     "type": "HR",
-     "number": "10501",
-     "title": "To amend the Communist Control Act of 1954 to provide that the Democratic Socialists of America shall be treated like the Communist Party of the United States of America, and for other purposes.",
-     "introducedDate": "2026-09-17",
-     "latestAction": {
-      "actionDate": "2026-09-17",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": null,
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10501"
-    },
-    {
-     "type": "HR",
-     "number": "9991",
-     "title": "STOP the SWAMP Act",
-     "introducedDate": "2026-07-30",
-     "latestAction": {
-      "actionDate": "2026-07-30",
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9991"
-    },
-    {
-     "type": "HR",
-     "number": "9919",
-     "title": "Ban Birth Tourism Act of 2026",
-     "introducedDate": "2026-07-23",
-     "latestAction": {
-      "actionDate": "2026-07-23",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Immigration",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9919"
-    },
-    {
-     "type": "HR",
-     "number": "4704",
-     "title": "ROTOR Act",
-     "introducedDate": "2025-07-23",
-     "latestAction": {
-      "actionDate": "2025-07-23",
-      "text": "Referred to the House Committee on Armed Services."
-     },
-     "policyArea": "Armed Forces and National Security",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4704"
-    },
     {
      "type": "HR",
      "number": "8455",
@@ -643,6 +595,54 @@
      },
      "policyArea": "Commerce",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8269"
+    },
+    {
+     "type": "HR",
+     "number": "10501",
+     "title": "To amend the Communist Control Act of 1954 to provide that the Democratic Socialists of America shall be treated like the Communist Party of the United States of America, and for other purposes.",
+     "introducedDate": "2026-09-17",
+     "latestAction": {
+      "actionDate": "2026-09-17",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10501"
+    },
+    {
+     "type": "HR",
+     "number": "9991",
+     "title": "STOP the SWAMP Act",
+     "introducedDate": "2026-07-30",
+     "latestAction": {
+      "actionDate": "2026-07-30",
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9991"
+    },
+    {
+     "type": "HR",
+     "number": "9919",
+     "title": "Ban Birth Tourism Act of 2026",
+     "introducedDate": "2026-07-23",
+     "latestAction": {
+      "actionDate": "2026-07-23",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Immigration",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9919"
+    },
+    {
+     "type": "HR",
+     "number": "4704",
+     "title": "ROTOR Act",
+     "introducedDate": "2025-07-23",
+     "latestAction": {
+      "actionDate": "2025-07-23",
+      "text": "Referred to the House Committee on Armed Services."
+     },
+     "policyArea": "Armed Forces and National Security",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4704"
     },
     {
      "type": "HR",
@@ -812,7 +812,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:26Z",
+   "updateDate": "2026-09-20T07:40:33Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -836,7 +836,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:28:52.863985",
+   "dataUpdatedAt": "2026-09-20T10:51:24.496676",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1090,7 +1090,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:25Z",
+   "updateDate": "2026-09-20T07:40:32Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1114,80 +1114,8 @@
     "count": 2010,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:00.209889",
+   "dataUpdatedAt": "2026-09-20T10:51:42.230853",
    "recentSponsored": [
-    {
-     "type": "HJRES",
-     "number": "216",
-     "title": "Proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
-     "introducedDate": "2026-09-15",
-     "latestAction": {
-      "actionDate": "2026-09-15",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": null,
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/216"
-    },
-    {
-     "type": "HR",
-     "number": "10239",
-     "title": "Equal Pay for Equal Work Act",
-     "introducedDate": "2026-09-02",
-     "latestAction": {
-      "actionDate": "2026-09-02",
-      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Labor and Employment",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10239"
-    },
-    {
-     "type": "HR",
-     "number": "10182",
-     "title": "CEDS Act",
-     "introducedDate": "2026-08-27",
-     "latestAction": {
-      "actionDate": "2026-08-27",
-      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Families",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10182"
-    },
-    {
-     "type": "HR",
-     "number": "9946",
-     "title": "Equity in STI Testing Act",
-     "introducedDate": "2026-07-23",
-     "latestAction": {
-      "actionDate": "2026-07-23",
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Veterans' Affairs, Armed Services, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9946"
-    },
-    {
-     "type": "HR",
-     "number": "9890",
-     "title": "Polling Place Standards Act",
-     "introducedDate": "2026-07-22",
-     "latestAction": {
-      "actionDate": "2026-07-22",
-      "text": "Referred to the House Committee on House Administration."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9890"
-    },
-    {
-     "type": "HR",
-     "number": "4623",
-     "title": "Plain Prescription Prices Act",
-     "introducedDate": "2025-07-22",
-     "latestAction": {
-      "actionDate": "2025-07-22",
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4623"
-    },
     {
      "type": "HR",
      "number": "8716",
@@ -1259,6 +1187,78 @@
      },
      "policyArea": "Health",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8317"
+    },
+    {
+     "type": "HJRES",
+     "number": "216",
+     "title": "Proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
+     "introducedDate": "2026-09-15",
+     "latestAction": {
+      "actionDate": "2026-09-15",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/216"
+    },
+    {
+     "type": "HR",
+     "number": "10239",
+     "title": "Equal Pay for Equal Work Act",
+     "introducedDate": "2026-09-02",
+     "latestAction": {
+      "actionDate": "2026-09-02",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Labor and Employment",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10239"
+    },
+    {
+     "type": "HR",
+     "number": "10182",
+     "title": "CEDS Act",
+     "introducedDate": "2026-08-27",
+     "latestAction": {
+      "actionDate": "2026-08-27",
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Families",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10182"
+    },
+    {
+     "type": "HR",
+     "number": "9946",
+     "title": "Equity in STI Testing Act",
+     "introducedDate": "2026-07-23",
+     "latestAction": {
+      "actionDate": "2026-07-23",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Veterans' Affairs, Armed Services, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9946"
+    },
+    {
+     "type": "HR",
+     "number": "9890",
+     "title": "Polling Place Standards Act",
+     "introducedDate": "2026-07-22",
+     "latestAction": {
+      "actionDate": "2026-07-22",
+      "text": "Referred to the House Committee on House Administration."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9890"
+    },
+    {
+     "type": "HR",
+     "number": "4623",
+     "title": "Plain Prescription Prices Act",
+     "introducedDate": "2025-07-22",
+     "latestAction": {
+      "actionDate": "2025-07-22",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4623"
     },
     {
      "type": "HRES",
@@ -1414,7 +1414,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:25Z",
+   "updateDate": "2026-09-20T07:40:32Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1438,20 +1438,8 @@
     "count": 560,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:02.901666",
+   "dataUpdatedAt": "2026-09-20T10:51:52.120671",
    "recentSponsored": [
-    {
-     "type": "HR",
-     "number": "10377",
-     "title": "To exclude noncitizens from the population used for congressional apportionment, to require a revised apportionment prior to certain elections, to require the inclusion of a citizenship question in all future decennial censuses, and for other purposes.",
-     "introducedDate": "2026-09-15",
-     "latestAction": {
-      "actionDate": "2026-09-15",
-      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": null,
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10377"
-    },
     {
      "type": "HR",
      "number": "8460",
@@ -1463,6 +1451,18 @@
      },
      "policyArea": "Immigration",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8460"
+    },
+    {
+     "type": "HR",
+     "number": "10377",
+     "title": "To exclude noncitizens from the population used for congressional apportionment, to require a revised apportionment prior to certain elections, to require the inclusion of a citizenship question in all future decennial censuses, and for other purposes.",
+     "introducedDate": "2026-09-15",
+     "latestAction": {
+      "actionDate": "2026-09-15",
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10377"
     },
     {
      "type": "HR",
@@ -1659,7 +1659,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:24Z",
+   "updateDate": "2026-09-20T07:40:28Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1683,8 +1683,20 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:13.892057",
+   "dataUpdatedAt": "2026-09-20T10:52:28.950214",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "4214",
+     "title": "Clean Air and Building Infrastructure Improvement Act",
+     "introducedDate": "2025-06-27",
+     "latestAction": {
+      "actionDate": "2026-04-28",
+      "text": "Placed on the Union Calendar, Calendar No. 543."
+     },
+     "policyArea": "Environmental Protection",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4214"
+    },
     {
      "type": "HRES",
      "number": "1521",
@@ -1720,18 +1732,6 @@
      },
      "policyArea": "Energy",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4626"
-    },
-    {
-     "type": "HR",
-     "number": "4214",
-     "title": "Clean Air and Building Infrastructure Improvement Act",
-     "introducedDate": "2025-06-27",
-     "latestAction": {
-      "actionDate": "2026-04-28",
-      "text": "Placed on the Union Calendar, Calendar No. 543."
-     },
-     "policyArea": "Environmental Protection",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4214"
     },
     {
      "type": "HR",
@@ -1976,7 +1976,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:24Z",
+   "updateDate": "2026-09-20T07:40:28Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2000,7 +2000,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:14.753656",
+   "dataUpdatedAt": "2026-09-20T10:52:30.756984",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2271,7 +2271,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:24Z",
+   "updateDate": "2026-09-20T07:40:28Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2295,20 +2295,8 @@
     "count": 1941,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:15.759006",
+   "dataUpdatedAt": "2026-09-20T10:52:32.505308",
    "recentSponsored": [
-    {
-     "type": "HR",
-     "number": "379",
-     "title": "Healthcare Freedom and Choice Act",
-     "introducedDate": "2025-01-14",
-     "latestAction": {
-      "actionDate": "2025-01-14",
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/379"
-    },
     {
      "type": "HR",
      "number": "8678",
@@ -2356,6 +2344,18 @@
      },
      "policyArea": "Immigration",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1168"
+    },
+    {
+     "type": "HR",
+     "number": "379",
+     "title": "Healthcare Freedom and Choice Act",
+     "introducedDate": "2025-01-14",
+     "latestAction": {
+      "actionDate": "2025-01-14",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/379"
     },
     {
      "type": "HR",
@@ -2588,7 +2588,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:23Z",
+   "updateDate": "2026-09-20T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2612,19 +2612,19 @@
     "count": 1653,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:23.173311",
+   "dataUpdatedAt": "2026-09-20T10:52:46.679882",
    "recentSponsored": [
     {
      "type": "HR",
-     "number": "9933",
-     "title": "South Atlantic Red Snapper Fair Access Act of 2026",
-     "introducedDate": "2026-07-23",
+     "number": "8884",
+     "title": "Removing Barriers to Work for Disabled Americans Act",
+     "introducedDate": "2026-05-19",
      "latestAction": {
       "actionDate": "2026-07-23",
-      "text": "Referred to the House Committee on Natural Resources."
+      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
      },
-     "policyArea": "Public Lands and Natural Resources",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9933"
+     "policyArea": "Social Welfare",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884"
     },
     {
      "type": "HR",
@@ -2637,18 +2637,6 @@
      },
      "policyArea": "Government Operations and Politics",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8863"
-    },
-    {
-     "type": "HR",
-     "number": "8884",
-     "title": "Removing Barriers to Work for Disabled Americans Act",
-     "introducedDate": "2026-05-19",
-     "latestAction": {
-      "actionDate": "2026-07-23",
-      "text": "Received in the Senate and Read twice and referred to the Committee on Finance."
-     },
-     "policyArea": "Social Welfare",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8884"
     },
     {
      "type": "HRES",
@@ -2687,6 +2675,18 @@
      },
      "policyArea": "Congress",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1175"
+    },
+    {
+     "type": "HR",
+     "number": "9933",
+     "title": "South Atlantic Red Snapper Fair Access Act of 2026",
+     "introducedDate": "2026-07-23",
+     "latestAction": {
+      "actionDate": "2026-07-23",
+      "text": "Referred to the House Committee on Natural Resources."
+     },
+     "policyArea": "Public Lands and Natural Resources",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9933"
     },
     {
      "type": "HRES",
@@ -2899,7 +2899,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:23Z",
+   "updateDate": "2026-09-20T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2923,7 +2923,7 @@
     "count": 6093,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:24.633752",
+   "dataUpdatedAt": "2026-09-20T10:52:56.967977",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3228,7 +3228,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-19T07:40:23Z",
+   "updateDate": "2026-09-20T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3252,20 +3252,8 @@
     "count": 6360,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:27.201512",
+   "dataUpdatedAt": "2026-09-20T10:53:00.671991",
    "recentSponsored": [
-    {
-     "type": "HRES",
-     "number": "1546",
-     "title": "Expressing support for the recognition of Nigerian Heritage Month and celebrating the heritage, culture, and contributions of Nigerians and Nigerian Americans in the United States.",
-     "introducedDate": "2026-09-16",
-     "latestAction": {
-      "actionDate": "2026-09-16",
-      "text": "Referred to the House Committee on Oversight and Government Reform."
-     },
-     "policyArea": null,
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1546"
-    },
     {
      "type": "HRES",
      "number": "1206",
@@ -3278,6 +3266,18 @@
      },
      "policyArea": "Congress",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1206"
+    },
+    {
+     "type": "HRES",
+     "number": "1546",
+     "title": "Expressing support for the recognition of Nigerian Heritage Month and celebrating the heritage, culture, and contributions of Nigerians and Nigerian Americans in the United States.",
+     "introducedDate": "2026-09-16",
+     "latestAction": {
+      "actionDate": "2026-09-16",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1546"
     },
     {
      "type": "HRES",
@@ -3433,8 +3433,20 @@
     "count": 1381,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:30.458242",
+   "dataUpdatedAt": "2026-09-20T10:53:13.056145",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "8304",
+     "title": "CREATES Act",
+     "introducedDate": "2026-04-15",
+     "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Labor and Employment",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8304"
+    },
     {
      "type": "HRES",
      "number": "1551",
@@ -3506,18 +3518,6 @@
      },
      "policyArea": "Law",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4602"
-    },
-    {
-     "type": "HR",
-     "number": "8304",
-     "title": "CREATES Act",
-     "introducedDate": "2026-04-15",
-     "latestAction": {
-      "actionDate": "2026-04-15",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Labor and Employment",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8304"
     },
     {
      "type": "HR",
@@ -3757,7 +3757,7 @@
     "count": 1296,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:34.367273",
+   "dataUpdatedAt": "2026-09-20T10:53:22.926226",
    "recentSponsored": [
     {
      "type": "SRES",
@@ -3867,7 +3867,7 @@
     "count": 831,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-19T10:29:37.010212",
+   "dataUpdatedAt": "2026-09-20T10:53:31.771941",
    "recentSponsored": [
     {
      "type": "S",
