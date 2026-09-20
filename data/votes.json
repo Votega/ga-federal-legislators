@@ -1,16 +1,72 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-13T13:46:46.502343",
+  "generatedAt": "2026-09-20T13:34:34.850776",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Congress.gov API + Clerk of House + Senate.gov",
-  "totalVotes": 210,
+  "totalVotes": 212,
   "memberCount": 18,
   "sittingDelegation": 16,
   "sittingMembersWithVotes": 16,
   "staleVoteRecords": 2
  },
  "votes": {
+  "H2026_0284": {
+   "bill": "S. 307",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/307",
+   "title": "Prison Staff Safety Enhancement Act",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-08-31",
+   "yea": 376,
+   "nay": 8,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 187,
+     "nay": 8,
+     "other": 22
+    },
+    "Democratic": {
+     "yea": 189,
+     "nay": 0,
+     "other": 23
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 1
+    }
+   }
+  },
+  "H2026_0285": {
+   "bill": "S. 32",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/32",
+   "title": "LACA",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-08-31",
+   "yea": 378,
+   "nay": 10,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 186,
+     "nay": 10,
+     "other": 21
+    },
+    "Democratic": {
+     "yea": 191,
+     "nay": 0,
+     "other": 21
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
   "H2026_0286": {
    "bill": "H.R. 6500",
    "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
@@ -203,34 +259,6 @@
     "Independent": {
      "yea": 0,
      "nay": 2,
-     "other": 0
-    }
-   }
-  },
-  "H2026_0089": {
-   "bill": "S. 3971",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
-   "title": "Small Business Innovation and Economic Security Act",
-   "motionText": "On Motion to Suspend the Rules and Pass",
-   "date": "2026-03-17",
-   "yea": 345,
-   "nay": 41,
-   "chamber": "House",
-   "result": "Pass",
-   "partyTally": {
-    "Republican": {
-     "yea": 153,
-     "nay": 40,
-     "other": 24
-    },
-    "Democratic": {
-     "yea": 192,
-     "nay": 1,
-     "other": 21
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 0,
      "other": 0
     }
    }
@@ -487,142 +515,30 @@
     }
    }
   },
-  "H2025_0023": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On Passage",
-   "date": "2025-01-22",
-   "yea": 263,
-   "nay": 156,
+  "H2026_0089": {
+   "bill": "S. 3971",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
+   "title": "Small Business Innovation and Economic Security Act",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-03-17",
+   "yea": 345,
+   "nay": 41,
    "chamber": "House",
    "result": "Pass",
    "partyTally": {
     "Republican": {
-     "yea": 217,
-     "nay": 0,
-     "other": 1
+     "yea": 153,
+     "nay": 40,
+     "other": 24
     },
     "Democratic": {
-     "yea": 46,
-     "nay": 156,
-     "other": 13
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "S119_1_00007": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On Passage of the Bill",
-   "date": "2025-01-20",
-   "yea": 64,
-   "nay": 35,
-   "chamber": "Senate",
-   "result": "Pass",
-   "partyTally": {
-    "Democratic": {
-     "yea": 12,
-     "nay": 33,
-     "other": 0
-    },
-    "Republican": {
-     "yea": 52,
-     "nay": 0,
-     "other": 0
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 2,
-     "other": 0
-    }
-   }
-  },
-  "S119_1_00005": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On the Cloture Motion",
-   "date": "2025-01-17",
-   "yea": 61,
-   "nay": 35,
-   "chamber": "Senate",
-   "result": "Pass",
-   "partyTally": {
-    "Democratic": {
-     "yea": 10,
-     "nay": 33,
-     "other": 2
-    },
-    "Republican": {
-     "yea": 51,
-     "nay": 0,
-     "other": 1
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 2,
-     "other": 0
-    }
-   }
-  },
-  "S119_1_00002": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On the Motion to Proceed",
-   "date": "2025-01-13",
-   "yea": 82,
-   "nay": 10,
-   "chamber": "Senate",
-   "result": "Pass",
-   "partyTally": {
-    "Democratic": {
-     "yea": 32,
-     "nay": 9,
-     "other": 4
-    },
-    "Republican": {
-     "yea": 49,
-     "nay": 0,
-     "other": 2
-    },
-    "Independent": {
-     "yea": 1,
+     "yea": 192,
      "nay": 1,
-     "other": 0
-    }
-   }
-  },
-  "S119_1_00001": {
-   "bill": "S. 5",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-   "title": "Laken Riley Act",
-   "motionText": "On Cloture on the Motion to Proceed",
-   "date": "2025-01-09",
-   "yea": 84,
-   "nay": 9,
-   "chamber": "Senate",
-   "result": "Pass",
-   "partyTally": {
-    "Democratic": {
-     "yea": 32,
-     "nay": 8,
-     "other": 5
-    },
-    "Republican": {
-     "yea": 51,
-     "nay": 0,
-     "other": 1
+     "other": 21
     },
     "Independent": {
-     "yea": 1,
-     "nay": 1,
+     "yea": 0,
+     "nay": 0,
      "other": 0
     }
    }
@@ -875,6 +791,146 @@
     "Independent": {
      "yea": 0,
      "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "H2025_0023": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On Passage",
+   "date": "2025-01-22",
+   "yea": 263,
+   "nay": 156,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 217,
+     "nay": 0,
+     "other": 1
+    },
+    "Democratic": {
+     "yea": 46,
+     "nay": 156,
+     "other": 13
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_1_00007": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On Passage of the Bill",
+   "date": "2025-01-20",
+   "yea": 64,
+   "nay": 35,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 12,
+     "nay": 33,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_1_00005": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On the Cloture Motion",
+   "date": "2025-01-17",
+   "yea": 61,
+   "nay": 35,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 10,
+     "nay": 33,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_1_00002": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On the Motion to Proceed",
+   "date": "2025-01-13",
+   "yea": 82,
+   "nay": 10,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 32,
+     "nay": 9,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_1_00001": {
+   "bill": "S. 5",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+   "title": "Laken Riley Act",
+   "motionText": "On Cloture on the Motion to Proceed",
+   "date": "2025-01-09",
+   "yea": 84,
+   "nay": 9,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 32,
+     "nay": 8,
+     "other": 5
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
      "other": 0
     }
    }
@@ -5895,6 +5951,14 @@
  "memberVotes": {
   "A000372": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -5907,10 +5971,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -5919,7 +5979,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -5933,6 +5993,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -6185,6 +6249,14 @@
   ],
   "B000490": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -6197,10 +6269,6 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -6209,7 +6277,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -6222,6 +6290,10 @@
    },
    {
     "voteId": "H2026_0213",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -6473,13 +6545,15 @@
     "vote": "Nay"
    }
   ],
-  "B001328": [
-   {
-    "voteId": "H2026_0286",
-    "vote": "Yea"
-   }
-  ],
   "C001103": [
+   {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
    {
     "voteId": "H2026_0286",
     "vote": "Yea"
@@ -6493,10 +6567,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -6505,7 +6575,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -6519,6 +6589,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -6771,6 +6845,14 @@
   ],
   "C001116": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Nay"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Nay"
    },
@@ -6783,10 +6865,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Nay"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Nay"
    },
@@ -6795,8 +6873,8 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
+    "voteId": "H2026_0089",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -6809,6 +6887,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -7061,6 +7143,14 @@
   ],
   "C001129": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -7073,10 +7163,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Nay"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -7085,8 +7171,8 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
-    "vote": "Yea"
+    "voteId": "H2026_0089",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0181",
@@ -7099,6 +7185,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -7351,6 +7441,14 @@
   ],
   "F000485": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -7393,6 +7491,14 @@
   ],
   "J000311": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -7405,10 +7511,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -7417,7 +7519,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -7431,6 +7533,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -7683,6 +7789,14 @@
   ],
   "J000288": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -7695,10 +7809,6 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -7707,8 +7817,8 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
-    "vote": "Nay"
+    "voteId": "H2026_0089",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0181",
@@ -7721,6 +7831,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -7973,6 +8087,14 @@
   ],
   "L000583": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -7985,10 +8107,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -7997,7 +8115,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8011,6 +8129,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -8263,6 +8385,14 @@
   ],
   "M001208": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -8275,10 +8405,6 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -8287,7 +8413,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8300,6 +8426,10 @@
    },
    {
     "voteId": "H2026_0213",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
     "vote": "Yea"
    },
    {
@@ -8553,6 +8683,14 @@
   ],
   "M001218": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -8565,10 +8703,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -8577,7 +8711,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8591,6 +8725,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -8843,6 +8981,14 @@
   ],
   "S001189": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -8855,10 +9001,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -8867,7 +9009,7 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8881,6 +9023,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -9133,6 +9279,14 @@
   ],
   "W000788": [
    {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    },
@@ -9145,10 +9299,6 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0224",
     "vote": "Yea"
    },
@@ -9157,8 +9307,8 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2025_0023",
-    "vote": "Nay"
+    "voteId": "H2026_0089",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0181",
@@ -9171,6 +9321,10 @@
    {
     "voteId": "H2026_0213",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -9421,6 +9575,12 @@
     "vote": "Nay"
    }
   ],
+  "B001328": [
+   {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   }
+  ],
   "O000174": [
    {
     "voteId": "S119_2_00228",
@@ -9467,22 +9627,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "S119_1_00007",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00005",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00002",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00001",
-    "vote": "Yea"
-   },
-   {
     "voteId": "S119_2_00163",
     "vote": "Nay"
    },
@@ -9505,6 +9649,22 @@
    {
     "voteId": "S119_2_00136",
     "vote": "Nay"
+   },
+   {
+    "voteId": "S119_1_00007",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00005",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00002",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00001",
+    "vote": "Yea"
    },
    {
     "voteId": "S119_2_00074",
@@ -10021,22 +10181,6 @@
     "vote": "Not Voting"
    },
    {
-    "voteId": "S119_1_00007",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00005",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "S119_1_00002",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "S119_1_00001",
-    "vote": "Yea"
-   },
-   {
     "voteId": "S119_2_00163",
     "vote": "Nay"
    },
@@ -10059,6 +10203,22 @@
    {
     "voteId": "S119_2_00136",
     "vote": "Nay"
+   },
+   {
+    "voteId": "S119_1_00007",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00005",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_1_00002",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_1_00001",
+    "vote": "Yea"
    },
    {
     "voteId": "S119_2_00074",
@@ -10539,11 +10699,11 @@
     "vote": "Nay"
    },
    {
-    "voteId": "H2026_0089",
+    "voteId": "H2026_0057",
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0057",
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
