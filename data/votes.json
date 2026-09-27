@@ -1,16 +1,156 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-20T13:34:34.850776",
+  "generatedAt": "2026-09-27T14:40:38.001778",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Congress.gov API + Clerk of House + Senate.gov",
-  "totalVotes": 212,
+  "totalVotes": 216,
   "memberCount": 18,
   "sittingDelegation": 16,
   "sittingMembersWithVotes": 16,
   "staleVoteRecords": 2
  },
  "votes": {
+  "H2026_0081": {
+   "bill": "S. 723",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/723",
+   "title": "Tribal Trust Land Homeownership Act of 2025",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-03-04",
+   "yea": 384,
+   "nay": 40,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 176,
+     "nay": 39,
+     "other": 3
+    },
+    "Democratic": {
+     "yea": 208,
+     "nay": 1,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0308": {
+   "bill": "H.R. 5334",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+   "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+   "motionText": "On Motion to Concur in the Senate Amendments",
+   "date": "2026-09-16",
+   "yea": 262,
+   "nay": 159,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 203,
+     "nay": 7,
+     "other": 8
+    },
+    "Democratic": {
+     "yea": 58,
+     "nay": 152,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00224": {
+   "bill": "H.R. 5334",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+   "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+   "motionText": "On Passage of the Bill",
+   "date": "2026-08-07",
+   "yea": 86,
+   "nay": 11,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 36,
+     "nay": 9,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 1,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00213": {
+   "bill": "H.R. 5334",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+   "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+   "motionText": "On the Motion to Proceed",
+   "date": "2026-07-29",
+   "yea": 84,
+   "nay": 12,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 33,
+     "nay": 10,
+     "other": 2
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 1,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00212": {
+   "bill": "H.R. 5334",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5334",
+   "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+   "motionText": "On Cloture on the Motion to Proceed",
+   "date": "2026-07-28",
+   "yea": 86,
+   "nay": 12,
+   "chamber": "Senate",
+   "result": "Pass",
+   "partyTally": {
+    "Democratic": {
+     "yea": 35,
+     "nay": 10,
+     "other": 0
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 1,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
   "H2026_0284": {
    "bill": "S. 307",
    "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/307",
@@ -515,34 +655,6 @@
     }
    }
   },
-  "H2026_0089": {
-   "bill": "S. 3971",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
-   "title": "Small Business Innovation and Economic Security Act",
-   "motionText": "On Motion to Suspend the Rules and Pass",
-   "date": "2026-03-17",
-   "yea": 345,
-   "nay": 41,
-   "chamber": "House",
-   "result": "Pass",
-   "partyTally": {
-    "Republican": {
-     "yea": 153,
-     "nay": 40,
-     "other": 24
-    },
-    "Democratic": {
-     "yea": 192,
-     "nay": 1,
-     "other": 21
-    },
-    "Independent": {
-     "yea": 0,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
   "H2026_0181": {
    "bill": "S. 1003",
    "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1003",
@@ -935,6 +1047,34 @@
     }
    }
   },
+  "H2026_0089": {
+   "bill": "S. 3971",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3971",
+   "title": "Small Business Innovation and Economic Security Act",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-03-17",
+   "yea": 345,
+   "nay": 41,
+   "chamber": "House",
+   "result": "Pass",
+   "partyTally": {
+    "Republican": {
+     "yea": 153,
+     "nay": 40,
+     "other": 24
+    },
+    "Democratic": {
+     "yea": 192,
+     "nay": 1,
+     "other": 21
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
   "H2026_0223": {
    "bill": "S. 629",
    "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/629",
@@ -1266,34 +1406,6 @@
     },
     "Independent": {
      "yea": 1,
-     "nay": 0,
-     "other": 0
-    }
-   }
-  },
-  "H2026_0081": {
-   "bill": "S. 723",
-   "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/723",
-   "title": "Tribal Trust Land Homeownership Act of 2025",
-   "motionText": "On Motion to Suspend the Rules and Pass",
-   "date": "2026-03-04",
-   "yea": 384,
-   "nay": 40,
-   "chamber": "House",
-   "result": "Pass",
-   "partyTally": {
-    "Republican": {
-     "yea": 176,
-     "nay": 39,
-     "other": 3
-    },
-    "Democratic": {
-     "yea": 208,
-     "nay": 1,
-     "other": 5
-    },
-    "Independent": {
-     "yea": 0,
      "nay": 0,
      "other": 0
     }
@@ -4746,7 +4858,7 @@
   "S119_1_00281": {
    "bill": "H.J.Res. 89",
    "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/89",
-   "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The \"Omnibus\" Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
+   "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The 'Omnibus' Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On the Joint Resolution",
    "date": "2025-05-22",
    "yea": 49,
@@ -4774,7 +4886,7 @@
   "S119_1_00280": {
    "bill": "H.J.Res. 89",
    "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/89",
-   "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The \"Omnibus\" Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
+   "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The 'Omnibus' Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On the Motion to Proceed",
    "date": "2025-05-22",
    "yea": 51,
@@ -4802,7 +4914,7 @@
   "H2025_0112": {
    "bill": "H.J.Res. 89",
    "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/89",
-   "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The \"Omnibus\" Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
+   "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The 'Omnibus' Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
    "motionText": "On Passage",
    "date": "2025-04-30",
    "yea": 225,
@@ -5951,6 +6063,14 @@
  "memberVotes": {
   "A000372": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -5979,10 +6099,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -5996,6 +6112,10 @@
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -6016,10 +6136,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -6249,6 +6365,14 @@
   ],
   "B000490": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -6277,10 +6401,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -6294,6 +6414,10 @@
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -6314,10 +6438,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -6547,6 +6667,14 @@
   ],
   "C001103": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -6575,10 +6703,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -6592,6 +6716,10 @@
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -6612,10 +6740,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -6845,6 +6969,14 @@
   ],
   "C001116": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Nay"
    },
@@ -6873,10 +7005,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Nay"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Nay"
    },
@@ -6891,6 +7019,10 @@
    {
     "voteId": "H2025_0023",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -6910,10 +7042,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Nay"
    },
    {
@@ -7143,6 +7271,14 @@
   ],
   "C001129": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -7171,10 +7307,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Nay"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -7189,6 +7321,10 @@
    {
     "voteId": "H2025_0023",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Nay"
    },
    {
     "voteId": "H2026_0223",
@@ -7208,10 +7344,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -7439,57 +7571,15 @@
     "vote": "Yea"
    }
   ],
-  "F000485": [
-   {
-    "voteId": "H2026_0284",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0285",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0286",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0181",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0214",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0213",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0223",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0180",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0155",
-    "vote": "Yea"
-   }
-  ],
   "J000311": [
+   {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
    {
     "voteId": "H2026_0284",
     "vote": "Yea"
@@ -7519,10 +7609,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -7536,6 +7622,10 @@
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -7556,10 +7646,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -7789,6 +7875,14 @@
   ],
   "J000288": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Nay"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -7817,10 +7911,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -7835,6 +7925,10 @@
    {
     "voteId": "H2025_0023",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -7854,10 +7948,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -8087,6 +8177,14 @@
   ],
   "L000583": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -8115,10 +8213,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -8132,6 +8226,10 @@
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8152,10 +8250,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -8385,6 +8479,14 @@
   ],
   "M001208": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Nay"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -8413,10 +8515,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -8430,6 +8528,10 @@
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8450,10 +8552,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -8683,6 +8781,14 @@
   ],
   "M001218": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -8711,10 +8817,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -8728,6 +8830,10 @@
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -8748,10 +8854,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -8981,6 +9083,14 @@
   ],
   "S001189": [
    {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
     "voteId": "H2026_0284",
     "vote": "Yea"
    },
@@ -9009,10 +9119,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -9026,6 +9132,10 @@
    },
    {
     "voteId": "H2025_0023",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0089",
     "vote": "Yea"
    },
    {
@@ -9046,10 +9156,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -9277,7 +9383,269 @@
     "vote": "Yea"
    }
   ],
+  "S001157": [
+   {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0014",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0296",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0057",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0023",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0042",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0129",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0038",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0151",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0056",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0053",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0045",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0007",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0006",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0005",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0335",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0088",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0019",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0022",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0295",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0294",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0225",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0226",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0224",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0051",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0289",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0200",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0285",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0281",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0280",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0096",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0166",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0168",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0167",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0084",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0125",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0190",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0145",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0144",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0028",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0137",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0143",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0112",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0114",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0111",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0095",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0058",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0110",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0104",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0078",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0059",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0077",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0053",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0071",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0052",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0070",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2025_0069",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2025_0061",
+    "vote": "Nay"
+   }
+  ],
   "W000788": [
+   {
+    "voteId": "H2026_0081",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0308",
+    "vote": "Nay"
+   },
    {
     "voteId": "H2026_0284",
     "vote": "Yea"
@@ -9307,10 +9675,6 @@
     "vote": "Yea"
    },
    {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
     "voteId": "H2026_0181",
     "vote": "Yea"
    },
@@ -9325,6 +9689,10 @@
    {
     "voteId": "H2025_0023",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0089",
+    "vote": "Yea"
    },
    {
     "voteId": "H2026_0223",
@@ -9344,10 +9712,6 @@
    },
    {
     "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
     "vote": "Yea"
    },
    {
@@ -9577,11 +9941,81 @@
   ],
   "B001328": [
    {
+    "voteId": "H2026_0308",
+    "vote": "Nay"
+   },
+   {
     "voteId": "H2026_0286",
     "vote": "Yea"
    }
   ],
+  "F000485": [
+   {
+    "voteId": "H2026_0308",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0284",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0285",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0286",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0224",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0181",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0214",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0223",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0193",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0180",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0129",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0155",
+    "vote": "Yea"
+   }
+  ],
   "O000174": [
+   {
+    "voteId": "S119_2_00224",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00213",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00212",
+    "vote": "Nay"
+   },
    {
     "voteId": "S119_2_00228",
     "vote": "Yea"
@@ -10137,6 +10571,18 @@
   ],
   "W000790": [
    {
+    "voteId": "S119_2_00224",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00213",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00212",
+    "vote": "Yea"
+   },
+   {
     "voteId": "S119_2_00228",
     "vote": "Yea"
    },
@@ -10686,260 +11132,6 @@
    },
    {
     "voteId": "S119_1_00091",
-    "vote": "Nay"
-   }
-  ],
-  "S001157": [
-   {
-    "voteId": "H2026_0014",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0296",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0057",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0089",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0023",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0042",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0129",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0081",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0038",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0151",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0056",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2026_0053",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0045",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0007",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0006",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2026_0005",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0335",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0088",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0019",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0320",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0319",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0022",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0315",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0295",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0294",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0225",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0226",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0224",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0051",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0289",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0200",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0285",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0281",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0280",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0096",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0166",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0168",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0167",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0193",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0084",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0125",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0190",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0145",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0144",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0028",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0137",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0143",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0112",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0114",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0111",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0095",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0058",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0110",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0104",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0078",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0059",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0077",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0053",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0071",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0052",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0070",
-    "vote": "Nay"
-   },
-   {
-    "voteId": "H2025_0069",
-    "vote": "Yea"
-   },
-   {
-    "voteId": "H2025_0061",
     "vote": "Nay"
    }
   ],
