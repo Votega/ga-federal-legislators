@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-30T12:08:53.027189+00:00",
+  "generatedAt": "2026-10-01T12:43:33.882264+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-09-30T12:08:50.765774",
+  "sourceGeneratedAt": "2026-10-01T12:43:31.698975",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:26Z",
+   "updateDate": "2026-10-01T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -50,7 +50,7 @@
     "count": 21,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:05:01.874521",
+   "dataUpdatedAt": "2026-10-01T12:38:48.577147",
    "recentSponsored": [
     {
      "type": "HR",
@@ -102,7 +102,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:26Z",
+   "updateDate": "2026-10-01T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -126,7 +126,7 @@
     "count": 89,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:05:03.455790",
+   "dataUpdatedAt": "2026-10-01T12:38:50.095494",
    "recentSponsored": [
     {
      "type": "HJRES",
@@ -338,7 +338,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:25Z",
+   "updateDate": "2026-10-01T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -362,7 +362,7 @@
     "count": 121,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:05:13.463888",
+   "dataUpdatedAt": "2026-10-01T12:39:05.271376",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -538,7 +538,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:25Z",
+   "updateDate": "2026-10-01T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -562,7 +562,7 @@
     "count": 570,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:05:23.575585",
+   "dataUpdatedAt": "2026-10-01T12:39:14.385313",
    "recentSponsored": [
     {
      "type": "HR",
@@ -828,7 +828,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:23Z",
+   "updateDate": "2026-10-01T07:40:25Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -852,7 +852,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:05:56.227682",
+   "dataUpdatedAt": "2026-10-01T12:39:36.758750",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1106,7 +1106,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:22Z",
+   "updateDate": "2026-10-01T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1130,7 +1130,7 @@
     "count": 2014,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:06:15.864631",
+   "dataUpdatedAt": "2026-10-01T12:40:26.779390",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1430,7 +1430,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:22Z",
+   "updateDate": "2026-10-01T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1454,7 +1454,7 @@
     "count": 561,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:06:25.626903",
+   "dataUpdatedAt": "2026-10-01T12:40:29.603298",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1675,7 +1675,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:20Z",
+   "updateDate": "2026-10-01T07:40:22Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1699,7 +1699,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:07:03.046525",
+   "dataUpdatedAt": "2026-10-01T12:41:04.732762",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1992,7 +1992,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:20Z",
+   "updateDate": "2026-10-01T07:40:22Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2016,7 +2016,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:07:04.313681",
+   "dataUpdatedAt": "2026-10-01T12:41:06.138869",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2287,7 +2287,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:20Z",
+   "updateDate": "2026-10-01T07:40:22Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2311,7 +2311,7 @@
     "count": 1949,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:07:05.709961",
+   "dataUpdatedAt": "2026-10-01T12:41:07.586233",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2604,7 +2604,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:19Z",
+   "updateDate": "2026-10-01T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2628,7 +2628,7 @@
     "count": 1654,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:07:32.371914",
+   "dataUpdatedAt": "2026-10-01T12:41:28.172057",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2915,7 +2915,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:19Z",
+   "updateDate": "2026-10-01T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2939,7 +2939,7 @@
     "count": 6100,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:07:37.225778",
+   "dataUpdatedAt": "2026-10-01T12:41:31.510678",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3244,7 +3244,7 @@
      }
     ]
    },
-   "updateDate": "2026-09-30T07:40:18Z",
+   "updateDate": "2026-10-01T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3268,7 +3268,7 @@
     "count": 6364,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:07:55.735907",
+   "dataUpdatedAt": "2026-10-01T12:41:39.139876",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3449,7 +3449,7 @@
     "count": 1384,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:08:02.715244",
+   "dataUpdatedAt": "2026-10-01T12:41:51.996947",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3766,15 +3766,27 @@
    "firstName": "Raphael",
    "lastName": "Warnock",
    "sponsoredLegislation": {
-    "count": 290,
+    "count": 291,
     "url": "https://api.congress.gov/v3/member/W000790/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1305,
+    "count": 1312,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:08:12.323684",
+   "dataUpdatedAt": "2026-10-01T12:42:00.561230",
    "recentSponsored": [
+    {
+     "type": "S",
+     "number": "5661",
+     "title": "A bill to amend the Internal Revenue Code of 1986 to provide parity in the taxation of professional sports franchises under the limitation on the deduction for certain employee renumeration, and for other purposes.",
+     "introducedDate": "2026-09-30",
+     "latestAction": {
+      "actionDate": "2026-09-30",
+      "text": "Read twice and referred to the Committee on Finance."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5661"
+    },
     {
      "type": "SRES",
      "number": "848",
@@ -3883,7 +3895,7 @@
     "count": 834,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-09-30T12:08:22.358026",
+   "dataUpdatedAt": "2026-10-01T12:43:05.034168",
    "recentSponsored": [
     {
      "type": "S",
