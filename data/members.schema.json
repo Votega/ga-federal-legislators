@@ -98,7 +98,7 @@
        "House of Representatives",
        null
       ],
-      "description": "Derived top-level chamber (from terms.item[0].chamber) for convenience."
+      "description": "Derived top-level chamber (from the most recent entry in terms.item, i.e. the last one) for convenience."
      },
      "district": {
       "type": [
