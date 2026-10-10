@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-09T12:47:14.536654+00:00",
+  "generatedAt": "2026-10-10T12:06:47.170945+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-10-09T12:47:11.744703",
+  "sourceGeneratedAt": "2026-10-10T12:06:44.985189",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:27Z",
+   "updateDate": "2026-10-10T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -43,15 +43,27 @@
    "firstName": "Everton",
    "lastName": "Blair",
    "sponsoredLegislation": {
-    "count": 2,
+    "count": 3,
     "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 26,
+    "count": 27,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:45:10.940757",
+   "dataUpdatedAt": "2026-10-10T12:03:48.633312",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "10769",
+     "title": "To accommodate certain facilities within the right-of-way on any Federal-aid highway.",
+     "introducedDate": "2026-10-09",
+     "latestAction": {
+      "actionDate": "2026-10-09",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10769"
+    },
     {
      "type": "HR",
      "number": "10720",
@@ -114,7 +126,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:27Z",
+   "updateDate": "2026-10-10T07:40:27Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -138,7 +150,7 @@
     "count": 91,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:45:16.036740",
+   "dataUpdatedAt": "2026-10-10T12:03:50.002853",
    "recentSponsored": [
     {
      "type": "HJRES",
@@ -350,7 +362,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:27Z",
+   "updateDate": "2026-10-10T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -374,7 +386,7 @@
     "count": 122,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:45:24.405934",
+   "dataUpdatedAt": "2026-10-10T12:04:01.139735",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -550,7 +562,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:27Z",
+   "updateDate": "2026-10-10T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -567,15 +579,27 @@
    "firstName": "Richard",
    "lastName": "McCormick",
    "sponsoredLegislation": {
-    "count": 58,
+    "count": 59,
     "url": "https://api.congress.gov/v3/member/M001218/sponsored-legislation"
    },
    "cosponsoredLegislation": {
     "count": 573,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:45:30.157913",
+   "dataUpdatedAt": "2026-10-10T12:04:11.393562",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "10784",
+     "title": "To amend the Internal Revenue Code of 1986 to provide home ownership assistance, and for other purposes.",
+     "introducedDate": "2026-10-09",
+     "latestAction": {
+      "actionDate": "2026-10-09",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10784"
+    },
     {
      "type": "HR",
      "number": "8455",
@@ -840,7 +864,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:26Z",
+   "updateDate": "2026-10-10T07:40:25Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -864,7 +888,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:45:40.149148",
+   "dataUpdatedAt": "2026-10-10T12:04:28.594018",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1118,7 +1142,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:25Z",
+   "updateDate": "2026-10-10T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1142,7 +1166,7 @@
     "count": 2024,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:45:49.965431",
+   "dataUpdatedAt": "2026-10-10T12:04:43.571101",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1442,7 +1466,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:25Z",
+   "updateDate": "2026-10-10T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1466,7 +1490,7 @@
     "count": 561,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:00.842611",
+   "dataUpdatedAt": "2026-10-10T12:04:51.451360",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1687,7 +1711,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:23Z",
+   "updateDate": "2026-10-10T07:40:22Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1711,7 +1735,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:23.545672",
+   "dataUpdatedAt": "2026-10-10T12:05:26.344064",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2004,7 +2028,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:23Z",
+   "updateDate": "2026-10-10T07:40:22Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2028,7 +2052,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:23.908599",
+   "dataUpdatedAt": "2026-10-10T12:05:27.801649",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2299,7 +2323,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:23Z",
+   "updateDate": "2026-10-10T07:40:22Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2320,10 +2344,10 @@
     "url": "https://api.congress.gov/v3/member/C001103/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1951,
+    "count": 1952,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:24.885302",
+   "dataUpdatedAt": "2026-10-10T12:05:29.147852",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2616,7 +2640,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:22Z",
+   "updateDate": "2026-10-10T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2640,7 +2664,7 @@
     "count": 1654,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:35.890661",
+   "dataUpdatedAt": "2026-10-10T12:05:48.133906",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2927,7 +2951,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:22Z",
+   "updateDate": "2026-10-10T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2951,7 +2975,7 @@
     "count": 6107,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:37.889708",
+   "dataUpdatedAt": "2026-10-10T12:05:51.444931",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3256,7 +3280,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-09T07:40:22Z",
+   "updateDate": "2026-10-10T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3277,10 +3301,10 @@
     "url": "https://api.congress.gov/v3/member/B000490/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6366,
+    "count": 6368,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:42.035408",
+   "dataUpdatedAt": "2026-10-10T12:05:58.431126",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3461,7 +3485,7 @@
     "count": 1386,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:46.059645",
+   "dataUpdatedAt": "2026-10-10T12:06:06.551507",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3472,7 +3496,7 @@
       "actionDate": "2026-09-28",
       "text": "Referred to the House Committee on Education and Workforce."
      },
-     "policyArea": null,
+     "policyArea": "Education",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10631"
     },
     {
@@ -3785,7 +3809,7 @@
     "count": 1312,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:51.071743",
+   "dataUpdatedAt": "2026-10-10T12:06:14.265182",
    "recentSponsored": [
     {
      "type": "S",
@@ -3907,7 +3931,7 @@
     "count": 834,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-09T12:46:55.513423",
+   "dataUpdatedAt": "2026-10-10T12:06:21.715265",
    "recentSponsored": [
     {
      "type": "S",
