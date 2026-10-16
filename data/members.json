@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-15T11:18:04.609840+00:00",
+  "generatedAt": "2026-10-16T11:11:29.486163+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-10-15T11:18:02.160104+00:00",
+  "sourceGeneratedAt": "2026-10-16T11:11:27.098518+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:27Z",
+   "updateDate": "2026-10-16T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -43,15 +43,27 @@
    "firstName": "Everton",
    "lastName": "Blair",
    "sponsoredLegislation": {
-    "count": 3,
+    "count": 4,
     "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
    },
    "cosponsoredLegislation": {
     "count": 28,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T10:59:50.156349+00:00",
+   "dataUpdatedAt": "2026-10-16T10:55:14.090347+00:00",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "10811",
+     "title": "To amend title 49, United States Code, increase the allowable government share of a project for which a fixed guideway capital investment grant is issued in cases where the grant recipient provides owners of small business concerns with certain protections from project-related transportation interruptions, and for other purposes.",
+     "introducedDate": "2026-10-15",
+     "latestAction": {
+      "actionDate": "2026-10-15",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10811"
+    },
     {
      "type": "HR",
      "number": "10769",
@@ -91,7 +103,7 @@
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 3,
+    "sponsored": 4,
     "cosponsored": 28
    },
    "committees": [],
@@ -131,7 +143,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:27Z",
+   "updateDate": "2026-10-16T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -155,7 +167,7 @@
     "count": 93,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T10:59:50.554712+00:00",
+   "dataUpdatedAt": "2026-10-16T10:55:15.537509+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -371,7 +383,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:26Z",
+   "updateDate": "2026-10-16T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -395,7 +407,7 @@
     "count": 122,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T10:59:53.854527+00:00",
+   "dataUpdatedAt": "2026-10-16T10:55:24.487151+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -570,7 +582,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:26Z",
+   "updateDate": "2026-10-16T07:40:26Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -594,7 +606,7 @@
     "count": 573,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T10:59:58.730638+00:00",
+   "dataUpdatedAt": "2026-10-16T10:55:32.500061+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -901,7 +913,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:25Z",
+   "updateDate": "2026-10-16T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -925,7 +937,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:01:28.955304+00:00",
+   "dataUpdatedAt": "2026-10-16T10:56:06.145125+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1184,7 +1196,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:24Z",
+   "updateDate": "2026-10-16T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1208,7 +1220,7 @@
     "count": 2024,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:02:09.773053+00:00",
+   "dataUpdatedAt": "2026-10-16T10:56:27.064563+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1513,7 +1525,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:24Z",
+   "updateDate": "2026-10-16T07:40:23Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1537,7 +1549,7 @@
     "count": 561,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:03:15.119985+00:00",
+   "dataUpdatedAt": "2026-10-16T10:57:18.316597+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1847,7 +1859,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:23Z",
+   "updateDate": "2026-10-16T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1871,7 +1883,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:03:41.501504+00:00",
+   "dataUpdatedAt": "2026-10-16T10:57:51.797188+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2181,7 +2193,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:23Z",
+   "updateDate": "2026-10-16T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2205,7 +2217,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:04:14.692390+00:00",
+   "dataUpdatedAt": "2026-10-16T10:57:55.668568+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2480,7 +2492,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:23Z",
+   "updateDate": "2026-10-16T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2501,10 +2513,10 @@
     "url": "https://api.congress.gov/v3/member/C001103/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1952,
+    "count": 1953,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:04:44.426653+00:00",
+   "dataUpdatedAt": "2026-10-16T10:58:23.146045+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2750,7 +2762,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 64,
-    "cosponsored": 411
+    "cosponsored": 412
    },
    "committees": [
     "House Committee on Energy and Commerce",
@@ -2814,7 +2826,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:22Z",
+   "updateDate": "2026-10-16T07:40:20Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2835,10 +2847,10 @@
     "url": "https://api.congress.gov/v3/member/S001189/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1654,
+    "count": 1655,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:05:38.902575+00:00",
+   "dataUpdatedAt": "2026-10-16T10:59:32.677640+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3084,7 +3096,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 22,
-    "cosponsored": 147
+    "cosponsored": 148
    },
    "committees": [
     "House Committee on Agriculture",
@@ -3146,7 +3158,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:22Z",
+   "updateDate": "2026-10-16T07:40:20Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3170,7 +3182,7 @@
     "count": 6108,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:05:53.745408+00:00",
+   "dataUpdatedAt": "2026-10-16T10:59:38.354900+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3480,7 +3492,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-14T07:40:22Z",
+   "updateDate": "2026-10-16T07:40:20Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3501,10 +3513,10 @@
     "url": "https://api.congress.gov/v3/member/B000490/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6368,
+    "count": 6369,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:09:18.211014+00:00",
+   "dataUpdatedAt": "2026-10-16T11:03:33.701868+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3606,7 +3618,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 8,
-    "cosponsored": 397
+    "cosponsored": 398
    },
    "committees": [
     "House Committee on Appropriations"
@@ -3689,7 +3701,7 @@
     "count": 1386,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:13:27.491195+00:00",
+   "dataUpdatedAt": "2026-10-16T11:06:56.546074+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -4018,8 +4030,20 @@
     "count": 1312,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:17:03.162785+00:00",
+   "dataUpdatedAt": "2026-10-16T11:09:38.921105+00:00",
    "recentSponsored": [
+    {
+     "type": "S",
+     "number": "5690",
+     "title": "A bill to provide for the replacement of the plaque at Lincoln Memorial commemorating the \"I Have a Dream\" speech of Martin Luther King, Jr.",
+     "introducedDate": "2026-10-15",
+     "latestAction": {
+      "actionDate": "2026-10-15",
+      "text": "Under authority of the order of the Senate of September 30, 2026, ordered read twice and referred to the Committee on Energy and Natural Resources."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5690"
+    },
     {
      "type": "S",
      "number": "5661",
@@ -4247,24 +4271,12 @@
      },
      "policyArea": "Health",
      "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2131"
-    },
-    {
-     "type": "S",
-     "number": "2050",
-     "title": "ASSIST Act",
-     "introducedDate": "2025-06-12",
-     "latestAction": {
-      "actionDate": "2025-06-12",
-      "text": "Read twice and referred to the Committee on Finance."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2050"
     }
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 28,
-    "cosponsored": 372
+    "sponsored": 29,
+    "cosponsored": 373
    },
    "committees": [
     "Senate Committee on Agriculture, Nutrition, and Forestry",
@@ -4349,7 +4361,7 @@
     "count": 834,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-15T11:17:40.342418+00:00",
+   "dataUpdatedAt": "2026-10-16T11:10:27.007736+00:00",
    "recentSponsored": [
     {
      "type": "SRES",
@@ -4595,7 +4607,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 237
+    "cosponsored": 238
    },
    "committees": [
     "Senate Committee on Appropriations",
