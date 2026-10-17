@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-17T10:29:45.384995+00:00",
+  "generatedAt": "2026-10-17T11:39:36.817141+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-10-17T10:29:42.694592+00:00",
+  "sourceGeneratedAt": "2026-10-17T11:39:32.960245+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -50,7 +50,7 @@
     "count": 28,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:17:33.543834+00:00",
+   "dataUpdatedAt": "2026-10-17T11:24:38.692233+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -167,7 +167,7 @@
     "count": 93,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:17:34.419501+00:00",
+   "dataUpdatedAt": "2026-10-17T11:24:41.114275+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -407,7 +407,7 @@
     "count": 122,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:17:40.711915+00:00",
+   "dataUpdatedAt": "2026-10-17T11:24:51.321593+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -606,7 +606,7 @@
     "count": 573,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:17:47.722359+00:00",
+   "dataUpdatedAt": "2026-10-17T11:25:00.718398+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -937,7 +937,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:17:59.260740+00:00",
+   "dataUpdatedAt": "2026-10-17T11:25:16.792957+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1220,7 +1220,7 @@
     "count": 2024,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:18:21.114060+00:00",
+   "dataUpdatedAt": "2026-10-17T11:25:43.600202+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1549,7 +1549,7 @@
     "count": 561,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:19:16.909476+00:00",
+   "dataUpdatedAt": "2026-10-17T11:26:45.590512+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1883,7 +1883,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:19:49.080073+00:00",
+   "dataUpdatedAt": "2026-10-17T11:27:29.026841+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2217,7 +2217,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:19:52.082505+00:00",
+   "dataUpdatedAt": "2026-10-17T11:28:03.801217+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2516,7 +2516,7 @@
     "count": 1953,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:19:54.623582+00:00",
+   "dataUpdatedAt": "2026-10-17T11:28:07.089358+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2850,7 +2850,7 @@
     "count": 1655,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:20:59.733343+00:00",
+   "dataUpdatedAt": "2026-10-17T11:30:08.488493+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3182,7 +3182,7 @@
     "count": 6108,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:21:59.816538+00:00",
+   "dataUpdatedAt": "2026-10-17T11:30:14.888877+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3516,7 +3516,7 @@
     "count": 6369,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:24:46.824230+00:00",
+   "dataUpdatedAt": "2026-10-17T11:32:48.283533+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3701,7 +3701,7 @@
     "count": 1386,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:27:30.313715+00:00",
+   "dataUpdatedAt": "2026-10-17T11:36:19.273303+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -4030,12 +4030,12 @@
     "count": 1313,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:29:08.384924+00:00",
+   "dataUpdatedAt": "2026-10-17T11:38:35.985727+00:00",
    "recentSponsored": [
     {
      "type": "S",
      "number": "5690",
-     "title": "Renewing the Dream Act",
+     "title": "A bill to provide for the replacement of the plaque at Lincoln Memorial commemorating the \"I Have a Dream\" speech of Martin Luther King, Jr.",
      "introducedDate": "2026-10-15",
      "latestAction": {
       "actionDate": "2026-10-15",
@@ -4361,7 +4361,7 @@
     "count": 835,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-17T10:29:15.611010+00:00",
+   "dataUpdatedAt": "2026-10-17T11:38:53.197831+00:00",
    "recentSponsored": [
     {
      "type": "SRES",
