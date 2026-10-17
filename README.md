@@ -195,3 +195,6 @@ Source data comes from the [Congress.gov API](https://api.congress.gov), the Cle
 - **`votes.json` only records roll calls tied to enacted legislation.** It's built by walking public laws passed in the current Congress back to their roll-call votes, not every procedural vote taken.
 - **Committee names** come from the community-maintained [`unitedstates/congress-legislators`](https://github.com/unitedstates/congress-legislators) project, not Congress.gov directly.
 - This dataset covers the **119th Congress** only.
+
+## License
+[CC-BY-SA 4.0](https://github.com/Votega/ga-federal-legislators?tab=CC-BY-SA-4.0-1-ov-file)
