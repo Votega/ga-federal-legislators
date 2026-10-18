@@ -4,6 +4,8 @@ Georgia's federal congressional delegation — U.S. Senate and House members and
 
 Files are updated automatically whenever the source data changes in the [votega.org](https://github.com/Votega/votega.org) repository.
 
+> **Looking for Georgia's state legislators?** The State Senate and House of Representatives are in the companion repo [`ga-legislators`](https://github.com/Votega/ga-legislators). It is separate because it comes from a different source (the General Assembly's own web service) and identifies members by OCD person ID / legis.ga.gov ID rather than the Bioguide ID used here, so the two do not join.
+
 ---
 
 ## Files
