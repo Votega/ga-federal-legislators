@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-22T11:32:01.594718+00:00",
+  "generatedAt": "2026-10-23T11:19:11.671008+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-10-22T11:31:54.591818+00:00",
+  "sourceGeneratedAt": "2026-10-23T11:19:07.440294+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:27Z",
+   "updateDate": "2026-10-23T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -43,15 +43,27 @@
    "firstName": "Everton",
    "lastName": "Blair",
    "sponsoredLegislation": {
-    "count": 4,
+    "count": 5,
     "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 29,
+    "count": 36,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:20:07.084228+00:00",
+   "dataUpdatedAt": "2026-10-23T11:10:32.454142+00:00",
    "recentSponsored": [
+    {
+     "type": "HRES",
+     "number": "1636",
+     "title": "Constituent Casework Continuity Resolution",
+     "introducedDate": "2026-10-22",
+     "latestAction": {
+      "actionDate": "2026-10-22",
+      "text": "Referred to the House Committee on House Administration."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1636"
+    },
     {
      "type": "HR",
      "number": "10811",
@@ -103,8 +115,8 @@
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 4,
-    "cosponsored": 29
+    "sponsored": 5,
+    "cosponsored": 36
    },
    "committees": [],
    "birthday": "1992-04-23",
@@ -143,7 +155,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:27Z",
+   "updateDate": "2026-10-23T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -160,15 +172,27 @@
    "firstName": "Clay",
    "lastName": "Fuller",
    "sponsoredLegislation": {
-    "count": 14,
+    "count": 15,
     "url": "https://api.congress.gov/v3/member/F000485/sponsored-legislation"
    },
    "cosponsoredLegislation": {
     "count": 93,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:20:07.951890+00:00",
+   "dataUpdatedAt": "2026-10-23T11:10:34.187842+00:00",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "10868",
+     "title": "To amend the General Education Provisions Act to prohibit the use of Federal education funds for sexually explicit instructional materials in elementary and secondary schools, consistent with the policy objectives of Executive Order 14190, and for other purposes.",
+     "introducedDate": "2026-10-22",
+     "latestAction": {
+      "actionDate": "2026-10-22",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10868"
+    },
     {
      "type": "HR",
      "number": "10266",
@@ -340,7 +364,7 @@
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 14,
+    "sponsored": 15,
     "cosponsored": 93
    },
    "committees": [
@@ -383,7 +407,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:26Z",
+   "updateDate": "2026-10-23T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -407,7 +431,7 @@
     "count": 122,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:20:13.609178+00:00",
+   "dataUpdatedAt": "2026-10-23T11:10:43.297522+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -582,7 +606,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:26Z",
+   "updateDate": "2026-10-23T07:40:24Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -603,10 +627,10 @@
     "url": "https://api.congress.gov/v3/member/M001218/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 573,
+    "count": 574,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:20:23.590621+00:00",
+   "dataUpdatedAt": "2026-10-23T11:10:51.075388+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -852,7 +876,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 316
+    "cosponsored": 317
    },
    "committees": [
     "House Committee on Science, Space, and Technology",
@@ -913,7 +937,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:25Z",
+   "updateDate": "2026-10-23T07:40:22Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -937,7 +961,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:20:50.108093+00:00",
+   "dataUpdatedAt": "2026-10-23T11:11:29.301000+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1196,7 +1220,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:24Z",
+   "updateDate": "2026-10-23T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1217,10 +1241,10 @@
     "url": "https://api.congress.gov/v3/member/W000788/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 2025,
+    "count": 2029,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:21:01.431967+00:00",
+   "dataUpdatedAt": "2026-10-23T11:11:48.174061+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1466,7 +1490,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 59,
-    "cosponsored": 489
+    "cosponsored": 493
    },
    "committees": [
     "House Committee on Financial Services"
@@ -1525,7 +1549,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:24Z",
+   "updateDate": "2026-10-23T07:40:21Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1549,7 +1573,7 @@
     "count": 561,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:22:17.167510+00:00",
+   "dataUpdatedAt": "2026-10-23T11:12:54.219037+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1859,7 +1883,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:23Z",
+   "updateDate": "2026-10-23T07:40:19Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1883,7 +1907,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:22:44.278156+00:00",
+   "dataUpdatedAt": "2026-10-23T11:13:32.156024+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2193,7 +2217,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:23Z",
+   "updateDate": "2026-10-23T07:40:19Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2217,7 +2241,7 @@
     "count": 1069,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:22:47.685002+00:00",
+   "dataUpdatedAt": "2026-10-23T11:13:37.272755+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2492,7 +2516,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:23Z",
+   "updateDate": "2026-10-23T07:40:19Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2513,10 +2537,10 @@
     "url": "https://api.congress.gov/v3/member/C001103/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1953,
+    "count": 1954,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:23:04.818432+00:00",
+   "dataUpdatedAt": "2026-10-23T11:14:16.549446+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2762,7 +2786,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 64,
-    "cosponsored": 412
+    "cosponsored": 413
    },
    "committees": [
     "House Committee on Energy and Commerce",
@@ -2826,7 +2850,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:22Z",
+   "updateDate": "2026-10-23T07:40:18Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2847,10 +2871,10 @@
     "url": "https://api.congress.gov/v3/member/S001189/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1655,
+    "count": 1656,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:23:16.375624+00:00",
+   "dataUpdatedAt": "2026-10-23T11:14:44.514777+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3096,7 +3120,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 22,
-    "cosponsored": 148
+    "cosponsored": 149
    },
    "committees": [
     "House Committee on Agriculture",
@@ -3158,7 +3182,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:22Z",
+   "updateDate": "2026-10-23T07:40:18Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3179,10 +3203,10 @@
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6110,
+    "count": 6114,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:24:01.862088+00:00",
+   "dataUpdatedAt": "2026-10-23T11:14:52.380278+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3428,7 +3452,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 907
+    "cosponsored": 911
    },
    "committees": [
     "House Committee on Transportation and Infrastructure",
@@ -3492,7 +3516,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-22T07:40:21Z",
+   "updateDate": "2026-10-23T07:40:18Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3513,10 +3537,10 @@
     "url": "https://api.congress.gov/v3/member/B000490/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6370,
+    "count": 6373,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:26:43.120052+00:00",
+   "dataUpdatedAt": "2026-10-23T11:17:13.891107+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3618,7 +3642,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 8,
-    "cosponsored": 399
+    "cosponsored": 402
    },
    "committees": [
     "House Committee on Appropriations"
@@ -3701,7 +3725,7 @@
     "count": 1387,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:27:04.373707+00:00",
+   "dataUpdatedAt": "2026-10-23T11:17:43.028967+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -4030,7 +4054,7 @@
     "count": 1313,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:30:01.566534+00:00",
+   "dataUpdatedAt": "2026-10-23T11:18:07.204973+00:00",
    "recentSponsored": [
     {
      "type": "S",
@@ -4361,7 +4385,7 @@
     "count": 835,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-22T11:31:07.292053+00:00",
+   "dataUpdatedAt": "2026-10-23T11:18:25.291612+00:00",
    "recentSponsored": [
     {
      "type": "SRES",
