@@ -1,0 +1,121 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-federal-legislators/main/sessions/119th/votes.schema.json",
+ "schemaVersion": "1.0.0",
+ "schemaStability": "Additive changes only within a major version: new properties and new CSV columns (appended, never inserted); no property is ever newly required. `congress` is carried in the metadata and as the last CSV column so a downloaded copy says which Congress it describes.",
+ "title": "Georgia Federal Delegation — Roll-call Votes",
+ "description": "Roll-call votes for Georgia's federal delegation in the current Congress. SCOPE: every recorded roll call both chambers held, enumerated from the Clerk of the House's per-year roll files and the Senate's per-session vote index - including measures that failed, amendments, procedural motions and Senate nominations. A vote on anything other than a measure (a quorum call, a motion to adjourn, a nomination) has bill and billUrl null. Voice votes and unanimous-consent agreements are not recorded by name and cannot appear. yea/nay are chamber-wide totals.",
+ "type": "object",
+ "required": [
+  "metadata",
+  "votes",
+  "memberVotes"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object",
+   "properties": {
+    "generatedAt": {
+     "type": "string"
+    },
+    "congress": {
+     "type": "integer"
+    },
+    "sessionName": {
+     "type": "string"
+    },
+    "source": {
+     "type": "string"
+    },
+    "totalVotes": {
+     "type": "integer"
+    }
+   }
+  },
+  "votes": {
+   "type": "object",
+   "description": "Vote catalog keyed by vote ID. House: H{year}_{roll4}; Senate: S{congress}_{session}_{roll5}.",
+   "additionalProperties": {
+    "type": "object",
+    "properties": {
+     "bill": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "billUrl": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "title": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "motionText": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "date": {
+      "type": "string"
+     },
+     "yea": {
+      "type": "integer",
+      "description": "Chamber-wide yea total (all members, not just Georgia's)."
+     },
+     "nay": {
+      "type": "integer"
+     },
+     "chamber": {
+      "type": "string",
+      "enum": [
+       "House",
+       "Senate"
+      ]
+     },
+     "result": {
+      "type": "string",
+      "enum": [
+       "Pass",
+       "Fail"
+      ]
+     }
+    }
+   }
+  },
+  "memberVotes": {
+   "type": "object",
+   "description": "Per-member vote records keyed by bioguideId.",
+   "additionalProperties": {
+    "type": "array",
+    "items": {
+     "type": "object",
+     "required": [
+      "voteId",
+      "vote"
+     ],
+     "properties": {
+      "voteId": {
+       "type": "string"
+      },
+      "vote": {
+       "type": "string",
+       "enum": [
+        "Yea",
+        "Nay",
+        "Not Voting",
+        "Absent"
+       ]
+      }
+     }
+    }
+   }
+  }
+ }
+}
