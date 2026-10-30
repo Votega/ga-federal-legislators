@@ -1,6 +1,8 @@
 {
  "$schema": "https://json-schema.org/draft/2020-12/schema",
  "$id": "https://raw.githubusercontent.com/Votega/ga-federal-legislators/main/data/members.schema.json",
+ "schemaVersion": "1.0.0",
+ "schemaStability": "Additive changes only within a major version: new properties and new CSV columns (appended, never inserted); no property is ever newly required. `congress` is carried in the metadata and as the last CSV column so a downloaded copy says which Congress it describes.",
  "title": "Georgia Federal Delegation — Members",
  "description": "Georgia's current U.S. Senators and Representatives, filtered from votega.org's national Congress.gov roster (state == 'Georgia').",
  "type": "object",
