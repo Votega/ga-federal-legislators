@@ -22,10 +22,27 @@ Every file is regenerated automatically on each update — pick the format that 
 | `data/member-votes.csv` | CSV | **Analysis** — one row per (member, vote); tidy/long format for pivots and joins |
 | `data/members.schema.json` | JSON Schema | Validating / typing `members.json` |
 | `data/votes.schema.json` | JSON Schema | Validating / typing `votes.json` |
+| [`sessions/`](sessions) | folder | **History** — a frozen record of each finished Congress, starting with the 119th (see below) |
 
 The CSV and Markdown files are flattened views of the same data in the JSON files — nothing in them that isn't in the JSON, just easier to consume without code.
 
-> **⚠ Vote scope:** `votes.json` / `votes.csv` / `member-votes.csv` cover only roll calls **tied to enacted legislation** (public laws walked back to their votes), **not** every procedural vote. `yea`/`nay` are chamber-wide totals across all members, not just Georgia's.
+> **Vote scope:** `votes.json` / `votes.csv` / `member-votes.csv` cover **every recorded roll call** both chambers held in the Congress (including failed measures, amendments and procedural motions), joined to the Georgia delegation. `yea`/`nay` are chamber-wide totals across all members, not just Georgia's. Every CSV ends with a `congress` column, so a downloaded copy says which Congress it describes.
+
+---
+
+## `sessions/`: finished Congresses
+
+The files in `data/` describe the **current** Congress and are replaced when a new one is seated. Before that happens, each Congress's Georgia record is frozen under `sessions/<ordinal>/` (for example [`sessions/119th/`](sessions/119th)), which the automatic updates never touch.
+
+| File in `sessions/<ordinal>/` | What it is |
+|-------------------------------|------------|
+| `members.json`, `members.csv` | The delegation's roster for that Congress (`members.schema.json`) |
+| `votes.json`, `votes.csv`, `member-votes.csv` | Every recorded roll call, in the same shape as `data/` (`votes.schema.json`) |
+| `scorecard.json`, `scorecard.csv` | Party-unity and participation per member |
+| `sponsorship/`, `sponsorship.csv` | Each member's complete sponsored and cosponsored record: compact per-member files, and one flat row per bill |
+| `freeze.json`, `README.md` | What was frozen, when and from which sources; the folder's own notes |
+
+Each Congress is frozen twice: a **provisional** freeze while it is still sitting (`freeze.json` says `"kind": "provisional"`, and later votes are missing), then a **final** one after it adjourns. Members are keyed by `bioguideId`. Each schema declares its own path as its `$id` and carries a `schemaVersion`.
 
 ---
 
