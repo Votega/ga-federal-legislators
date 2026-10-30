@@ -1,0 +1,23 @@
+{
+ "congress": 119,
+ "slug": "119th",
+ "kind": "provisional",
+ "frozenAt": "2026-10-30T02:31:01.887493+00:00",
+ "congressYears": [
+  2025,
+  2026
+ ],
+ "counts": {
+  "members": 16,
+  "votes": 1591,
+  "sponsored": 392,
+  "cosponsored": 4601
+ },
+ "sources": {
+  "members": "2026-10-29T12:43:46.806009+00:00",
+  "votes": "2026-10-15T00:54:50.552896+00:00",
+  "scorecard": "2026-10-15T04:12:38.200731+00:00",
+  "sponsorship": "2026-10-29T12:43:46.806009+00:00"
+ },
+ "schemaVersion": "1.0.0"
+}
