@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-30T02:29:08.434053+00:00",
+  "generatedAt": "2026-10-30T12:32:33.395825+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-10-29T12:43:46.806009+00:00",
+  "sourceGeneratedAt": "2026-10-30T12:32:29.134760+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -26,7 +26,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:50Z",
+   "updateDate": "2026-10-30T07:41:14Z",
    "url": "https://api.congress.gov/v3/member/B001328?format=json",
    "leadership": [],
    "contactInfo": {
@@ -50,7 +50,7 @@
     "count": 39,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:27:43.896926+00:00",
+   "dataUpdatedAt": "2026-10-30T12:19:05.248752+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -155,7 +155,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:50Z",
+   "updateDate": "2026-10-30T07:41:14Z",
    "url": "https://api.congress.gov/v3/member/F000485?format=json",
    "leadership": [],
    "contactInfo": {
@@ -179,7 +179,7 @@
     "count": 96,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:27:45.459926+00:00",
+   "dataUpdatedAt": "2026-10-30T12:19:06.466013+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -407,7 +407,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:50Z",
+   "updateDate": "2026-10-30T07:41:13Z",
    "url": "https://api.congress.gov/v3/member/J000311?format=json",
    "leadership": [],
    "contactInfo": {
@@ -431,7 +431,7 @@
     "count": 122,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:27:50.984267+00:00",
+   "dataUpdatedAt": "2026-10-30T12:19:19.288428+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -606,7 +606,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:50Z",
+   "updateDate": "2026-10-30T07:41:13Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -630,7 +630,7 @@
     "count": 576,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:27:56.946893+00:00",
+   "dataUpdatedAt": "2026-10-30T12:19:28.546880+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -937,7 +937,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:49Z",
+   "updateDate": "2026-10-30T07:41:12Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -961,7 +961,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:28:10.622798+00:00",
+   "dataUpdatedAt": "2026-10-30T12:19:55.981626+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1203,335 +1203,6 @@
    "chamber": "House of Representatives"
   },
   {
-   "bioguideId": "W000788",
-   "depiction": {
-    "attribution": "Image courtesy of the Member",
-    "imageUrl": "https://www.congress.gov/img/member/w000788_200.jpg"
-   },
-   "district": 5,
-   "name": "Williams, Nikema",
-   "partyName": "Democratic",
-   "state": "Georgia",
-   "terms": {
-    "item": [
-     {
-      "chamber": "House of Representatives",
-      "startYear": 2021
-     }
-    ]
-   },
-   "updateDate": "2026-10-29T07:40:47Z",
-   "url": "https://api.congress.gov/v3/member/W000788?format=json",
-   "leadership": [],
-   "contactInfo": {
-    "city": "Washington",
-    "district": "DC",
-    "officeAddress": "1406 Longworth House Office Building",
-    "phoneNumber": "(202) 225-3801",
-    "zipCode": "20515"
-   },
-   "officialWebsiteUrl": "https://nikemawilliams.house.gov",
-   "birthYear": 1978,
-   "currentMember": true,
-   "honorificName": "Ms.",
-   "firstName": "Nikema",
-   "lastName": "Williams",
-   "sponsoredLegislation": {
-    "count": 163,
-    "url": "https://api.congress.gov/v3/member/W000788/sponsored-legislation"
-   },
-   "cosponsoredLegislation": {
-    "count": 2031,
-    "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
-   },
-   "dataUpdatedAt": "2026-10-29T12:28:26.531938+00:00",
-   "recentSponsored": [
-    {
-     "type": "HRES",
-     "number": "1620",
-     "title": "Supporting the goals and ideals of \"National Nonviolence Week\" to raise awareness of youth violence in the United States.",
-     "introducedDate": "2026-10-06",
-     "latestAction": {
-      "actionDate": "2026-10-06",
-      "text": "Referred to the House Committee on Oversight and Government Reform."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1620"
-    },
-    {
-     "type": "HJRES",
-     "number": "216",
-     "title": "Proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
-     "introducedDate": "2026-09-15",
-     "latestAction": {
-      "actionDate": "2026-09-15",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/216"
-    },
-    {
-     "type": "HR",
-     "number": "10239",
-     "title": "Equal Pay for Equal Work Act",
-     "introducedDate": "2026-09-02",
-     "latestAction": {
-      "actionDate": "2026-09-02",
-      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Labor and Employment",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10239"
-    },
-    {
-     "type": "HR",
-     "number": "10182",
-     "title": "CEDS Act",
-     "introducedDate": "2026-08-27",
-     "latestAction": {
-      "actionDate": "2026-08-27",
-      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Families",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10182"
-    },
-    {
-     "type": "HR",
-     "number": "9946",
-     "title": "Equity in STI Testing Act",
-     "introducedDate": "2026-07-23",
-     "latestAction": {
-      "actionDate": "2026-07-30",
-      "text": "Referred to the Subcommittee on Health."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9946"
-    },
-    {
-     "type": "HR",
-     "number": "9890",
-     "title": "Polling Place Standards Act",
-     "introducedDate": "2026-07-22",
-     "latestAction": {
-      "actionDate": "2026-07-22",
-      "text": "Referred to the House Committee on House Administration."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9890"
-    },
-    {
-     "type": "HRES",
-     "number": "1420",
-     "title": "Honoring the 31st International President and CEO of Alpha Kappa Alpha Sorority, Inc., Danette Anthony Reed.",
-     "introducedDate": "2026-07-06",
-     "latestAction": {
-      "actionDate": "2026-07-06",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1420"
-    },
-    {
-     "type": "HR",
-     "number": "9493",
-     "title": "Home Internet Accessibility Act",
-     "introducedDate": "2026-06-25",
-     "latestAction": {
-      "actionDate": "2026-06-25",
-      "text": "Referred to the House Committee on Financial Services."
-     },
-     "policyArea": "Science, Technology, Communications",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9493"
-    },
-    {
-     "type": "HR",
-     "number": "9380",
-     "title": "Expanding Access to Credit through Consumer-Permissioned Data Act",
-     "introducedDate": "2026-06-18",
-     "latestAction": {
-      "actionDate": "2026-06-18",
-      "text": "Referred to the House Committee on Financial Services."
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9380"
-    },
-    {
-     "type": "HR",
-     "number": "9309",
-     "title": "PRIDE Act of 2026",
-     "introducedDate": "2026-06-11",
-     "latestAction": {
-      "actionDate": "2026-06-11",
-      "text": "Referred to the House Committee on Financial Services."
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9309"
-    },
-    {
-     "type": "HR",
-     "number": "8950",
-     "title": "REPORTS Act",
-     "introducedDate": "2026-05-20",
-     "latestAction": {
-      "actionDate": "2026-05-20",
-      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8950"
-    },
-    {
-     "type": "HR",
-     "number": "8717",
-     "title": "Negating Neighborhood Noise Act of 2026",
-     "introducedDate": "2026-05-07",
-     "latestAction": {
-      "actionDate": "2026-05-07",
-      "text": "Referred to the House Committee on Transportation and Infrastructure."
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8717"
-    },
-    {
-     "type": "HR",
-     "number": "8716",
-     "title": "Blood Pressure MATTERS Act",
-     "introducedDate": "2026-05-07",
-     "latestAction": {
-      "actionDate": "2026-05-07",
-      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8716"
-    },
-    {
-     "type": "HJRES",
-     "number": "171",
-     "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Bulletin 2022-06: Unfair Returned Deposited Item Fee Assessment Practices\".",
-     "introducedDate": "2026-04-30",
-     "latestAction": {
-      "actionDate": "2026-04-30",
-      "text": "Referred to the House Committee on Financial Services."
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/171"
-    },
-    {
-     "type": "HR",
-     "number": "8459",
-     "title": "WISE Act",
-     "introducedDate": "2026-04-22",
-     "latestAction": {
-      "actionDate": "2026-04-22",
-      "text": "Referred to the House Committee on Transportation and Infrastructure."
-     },
-     "policyArea": "Environmental Protection",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8459"
-    },
-    {
-     "type": "HR",
-     "number": "8361",
-     "title": "Clean Slate through Rehabilitation Act",
-     "introducedDate": "2026-04-16",
-     "latestAction": {
-      "actionDate": "2026-04-16",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8361"
-    },
-    {
-     "type": "HR",
-     "number": "8317",
-     "title": "Tech to Save Moms Act",
-     "introducedDate": "2026-04-15",
-     "latestAction": {
-      "actionDate": "2026-04-15",
-      "text": "Referred to the House Committee on Energy and Commerce."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8317"
-    },
-    {
-     "type": "HRES",
-     "number": "1163",
-     "title": "Supporting the recognition of a \"Day of Remembrance and Commitment to Maternal Health Equity\", honoring the life of Kira Johnson, and commending 4Kira4Moms for its unwavering dedication to improving maternal health in Atlanta, throughout Georgia, and across the United States, and for other purposes.",
-     "introducedDate": "2026-04-09",
-     "latestAction": {
-      "actionDate": "2026-04-09",
-      "text": "Referred to the House Committee on Energy and Commerce."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1163"
-    },
-    {
-     "type": "HR",
-     "number": "8246",
-     "title": "OHH SNAP Act of 2026",
-     "introducedDate": "2026-04-09",
-     "latestAction": {
-      "actionDate": "2026-04-09",
-      "text": "Referred to the House Committee on Agriculture."
-     },
-     "policyArea": "Agriculture and Food",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8246"
-    },
-    {
-     "type": "HRES",
-     "number": "1064",
-     "title": "Expressing support for the designation of February 16, 2026, as \"International Black Aviation Professionals Day\".",
-     "introducedDate": "2026-02-12",
-     "latestAction": {
-      "actionDate": "2026-02-13",
-      "text": "Referred to the Subcommittee on Aviation."
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1064"
-    }
-   ],
-   "sponsorship": {
-    "congress": 119,
-    "sponsored": 59,
-    "cosponsored": 495
-   },
-   "committees": [
-    "House Committee on Financial Services"
-   ],
-   "birthday": "1978-07-30",
-   "gender": "F",
-   "externalLinks": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Nikema_Williams"
-    },
-    {
-     "label": "Ballotpedia",
-     "url": "https://ballotpedia.org/Nikema_Williams"
-    },
-    {
-     "label": "OpenSecrets",
-     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00047361"
-    },
-    {
-     "label": "GovTrack",
-     "url": "https://www.govtrack.us/congress/members/456811"
-    }
-   ],
-   "socialLinks": [
-    {
-     "label": "X (Twitter)",
-     "url": "https://x.com/RepNikema"
-    },
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/RepNikemaWilliams"
-    },
-    {
-     "label": "Instagram",
-     "url": "https://www.instagram.com/repnikema"
-    }
-   ],
-   "chamber": "House of Representatives"
-  },
-  {
    "bioguideId": "C001116",
    "depiction": {
     "attribution": "Image courtesy of the Member",
@@ -1549,7 +1220,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:47Z",
+   "updateDate": "2026-10-30T07:41:11Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1573,7 +1244,7 @@
     "count": 561,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:29:20.459285+00:00",
+   "dataUpdatedAt": "2026-10-30T12:20:26.383355+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1866,6 +1537,335 @@
    "chamber": "House of Representatives"
   },
   {
+   "bioguideId": "W000788",
+   "depiction": {
+    "attribution": "Image courtesy of the Member",
+    "imageUrl": "https://www.congress.gov/img/member/w000788_200.jpg"
+   },
+   "district": 5,
+   "name": "Williams, Nikema",
+   "partyName": "Democratic",
+   "state": "Georgia",
+   "terms": {
+    "item": [
+     {
+      "chamber": "House of Representatives",
+      "startYear": 2021
+     }
+    ]
+   },
+   "updateDate": "2026-10-30T07:41:10Z",
+   "url": "https://api.congress.gov/v3/member/W000788?format=json",
+   "leadership": [],
+   "contactInfo": {
+    "city": "Washington",
+    "district": "DC",
+    "officeAddress": "1406 Longworth House Office Building",
+    "phoneNumber": "(202) 225-3801",
+    "zipCode": "20515"
+   },
+   "officialWebsiteUrl": "https://nikemawilliams.house.gov",
+   "birthYear": 1978,
+   "currentMember": true,
+   "honorificName": "Ms.",
+   "firstName": "Nikema",
+   "lastName": "Williams",
+   "sponsoredLegislation": {
+    "count": 163,
+    "url": "https://api.congress.gov/v3/member/W000788/sponsored-legislation"
+   },
+   "cosponsoredLegislation": {
+    "count": 2034,
+    "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
+   },
+   "dataUpdatedAt": "2026-10-30T12:20:48.495476+00:00",
+   "recentSponsored": [
+    {
+     "type": "HRES",
+     "number": "1620",
+     "title": "Supporting the goals and ideals of \"National Nonviolence Week\" to raise awareness of youth violence in the United States.",
+     "introducedDate": "2026-10-06",
+     "latestAction": {
+      "actionDate": "2026-10-06",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1620"
+    },
+    {
+     "type": "HJRES",
+     "number": "216",
+     "title": "Proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
+     "introducedDate": "2026-09-15",
+     "latestAction": {
+      "actionDate": "2026-09-15",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/216"
+    },
+    {
+     "type": "HR",
+     "number": "10239",
+     "title": "Equal Pay for Equal Work Act",
+     "introducedDate": "2026-09-02",
+     "latestAction": {
+      "actionDate": "2026-09-02",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Labor and Employment",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10239"
+    },
+    {
+     "type": "HR",
+     "number": "10182",
+     "title": "CEDS Act",
+     "introducedDate": "2026-08-27",
+     "latestAction": {
+      "actionDate": "2026-08-27",
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Families",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10182"
+    },
+    {
+     "type": "HR",
+     "number": "9946",
+     "title": "Equity in STI Testing Act",
+     "introducedDate": "2026-07-23",
+     "latestAction": {
+      "actionDate": "2026-07-30",
+      "text": "Referred to the Subcommittee on Health."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9946"
+    },
+    {
+     "type": "HR",
+     "number": "9890",
+     "title": "Polling Place Standards Act",
+     "introducedDate": "2026-07-22",
+     "latestAction": {
+      "actionDate": "2026-07-22",
+      "text": "Referred to the House Committee on House Administration."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9890"
+    },
+    {
+     "type": "HRES",
+     "number": "1420",
+     "title": "Honoring the 31st International President and CEO of Alpha Kappa Alpha Sorority, Inc., Danette Anthony Reed.",
+     "introducedDate": "2026-07-06",
+     "latestAction": {
+      "actionDate": "2026-07-06",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1420"
+    },
+    {
+     "type": "HR",
+     "number": "9493",
+     "title": "Home Internet Accessibility Act",
+     "introducedDate": "2026-06-25",
+     "latestAction": {
+      "actionDate": "2026-06-25",
+      "text": "Referred to the House Committee on Financial Services."
+     },
+     "policyArea": "Science, Technology, Communications",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9493"
+    },
+    {
+     "type": "HR",
+     "number": "9380",
+     "title": "Expanding Access to Credit through Consumer-Permissioned Data Act",
+     "introducedDate": "2026-06-18",
+     "latestAction": {
+      "actionDate": "2026-06-18",
+      "text": "Referred to the House Committee on Financial Services."
+     },
+     "policyArea": "Finance and Financial Sector",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9380"
+    },
+    {
+     "type": "HR",
+     "number": "9309",
+     "title": "PRIDE Act of 2026",
+     "introducedDate": "2026-06-11",
+     "latestAction": {
+      "actionDate": "2026-06-11",
+      "text": "Referred to the House Committee on Financial Services."
+     },
+     "policyArea": "Finance and Financial Sector",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9309"
+    },
+    {
+     "type": "HR",
+     "number": "8950",
+     "title": "REPORTS Act",
+     "introducedDate": "2026-05-20",
+     "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8950"
+    },
+    {
+     "type": "HR",
+     "number": "8717",
+     "title": "Negating Neighborhood Noise Act of 2026",
+     "introducedDate": "2026-05-07",
+     "latestAction": {
+      "actionDate": "2026-05-07",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+     },
+     "policyArea": "Transportation and Public Works",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8717"
+    },
+    {
+     "type": "HR",
+     "number": "8716",
+     "title": "Blood Pressure MATTERS Act",
+     "introducedDate": "2026-05-07",
+     "latestAction": {
+      "actionDate": "2026-05-07",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8716"
+    },
+    {
+     "type": "HJRES",
+     "number": "171",
+     "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Bulletin 2022-06: Unfair Returned Deposited Item Fee Assessment Practices\".",
+     "introducedDate": "2026-04-30",
+     "latestAction": {
+      "actionDate": "2026-04-30",
+      "text": "Referred to the House Committee on Financial Services."
+     },
+     "policyArea": "Finance and Financial Sector",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/171"
+    },
+    {
+     "type": "HR",
+     "number": "8459",
+     "title": "WISE Act",
+     "introducedDate": "2026-04-22",
+     "latestAction": {
+      "actionDate": "2026-04-22",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+     },
+     "policyArea": "Environmental Protection",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8459"
+    },
+    {
+     "type": "HR",
+     "number": "8361",
+     "title": "Clean Slate through Rehabilitation Act",
+     "introducedDate": "2026-04-16",
+     "latestAction": {
+      "actionDate": "2026-04-16",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8361"
+    },
+    {
+     "type": "HR",
+     "number": "8317",
+     "title": "Tech to Save Moms Act",
+     "introducedDate": "2026-04-15",
+     "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Referred to the House Committee on Energy and Commerce."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8317"
+    },
+    {
+     "type": "HRES",
+     "number": "1163",
+     "title": "Supporting the recognition of a \"Day of Remembrance and Commitment to Maternal Health Equity\", honoring the life of Kira Johnson, and commending 4Kira4Moms for its unwavering dedication to improving maternal health in Atlanta, throughout Georgia, and across the United States, and for other purposes.",
+     "introducedDate": "2026-04-09",
+     "latestAction": {
+      "actionDate": "2026-04-09",
+      "text": "Referred to the House Committee on Energy and Commerce."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1163"
+    },
+    {
+     "type": "HR",
+     "number": "8246",
+     "title": "OHH SNAP Act of 2026",
+     "introducedDate": "2026-04-09",
+     "latestAction": {
+      "actionDate": "2026-04-09",
+      "text": "Referred to the House Committee on Agriculture."
+     },
+     "policyArea": "Agriculture and Food",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8246"
+    },
+    {
+     "type": "HRES",
+     "number": "1064",
+     "title": "Expressing support for the designation of February 16, 2026, as \"International Black Aviation Professionals Day\".",
+     "introducedDate": "2026-02-12",
+     "latestAction": {
+      "actionDate": "2026-02-13",
+      "text": "Referred to the Subcommittee on Aviation."
+     },
+     "policyArea": "Transportation and Public Works",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1064"
+    }
+   ],
+   "sponsorship": {
+    "congress": 119,
+    "sponsored": 59,
+    "cosponsored": 498
+   },
+   "committees": [
+    "House Committee on Financial Services"
+   ],
+   "birthday": "1978-07-30",
+   "gender": "F",
+   "externalLinks": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Nikema_Williams"
+    },
+    {
+     "label": "Ballotpedia",
+     "url": "https://ballotpedia.org/Nikema_Williams"
+    },
+    {
+     "label": "OpenSecrets",
+     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00047361"
+    },
+    {
+     "label": "GovTrack",
+     "url": "https://www.govtrack.us/congress/members/456811"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/RepNikema"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/RepNikemaWilliams"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/repnikema"
+    }
+   ],
+   "chamber": "House of Representatives"
+  },
+  {
    "bioguideId": "A000372",
    "depiction": {
     "attribution": "Image courtesy of the Member",
@@ -1883,7 +1883,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:46Z",
+   "updateDate": "2026-10-30T07:41:08Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1907,7 +1907,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:29:42.675811+00:00",
+   "dataUpdatedAt": "2026-10-30T12:22:10.519414+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2217,7 +2217,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:46Z",
+   "updateDate": "2026-10-30T07:41:08Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2241,7 +2241,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:30:27.927180+00:00",
+   "dataUpdatedAt": "2026-10-30T12:22:14.582051+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2516,7 +2516,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:46Z",
+   "updateDate": "2026-10-30T07:41:08Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2540,7 +2540,7 @@
     "count": 1955,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:31:14.271764+00:00",
+   "dataUpdatedAt": "2026-10-30T12:22:17.784925+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2850,7 +2850,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:45Z",
+   "updateDate": "2026-10-30T07:41:07Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2871,10 +2871,10 @@
     "url": "https://api.congress.gov/v3/member/S001189/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1656,
+    "count": 1657,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:32:37.714948+00:00",
+   "dataUpdatedAt": "2026-10-30T12:22:36.533754+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3120,7 +3120,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 22,
-    "cosponsored": 149
+    "cosponsored": 150
    },
    "committees": [
     "House Committee on Agriculture",
@@ -3182,7 +3182,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:45Z",
+   "updateDate": "2026-10-30T07:41:07Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3203,10 +3203,10 @@
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6115,
+    "count": 6118,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:33:22.292667+00:00",
+   "dataUpdatedAt": "2026-10-30T12:22:47.962699+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3452,7 +3452,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 912
+    "cosponsored": 915
    },
    "committees": [
     "House Committee on Transportation and Infrastructure",
@@ -3516,7 +3516,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:45Z",
+   "updateDate": "2026-10-30T07:41:07Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3537,10 +3537,10 @@
     "url": "https://api.congress.gov/v3/member/B000490/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6374,
+    "count": 6375,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:36:41.533306+00:00",
+   "dataUpdatedAt": "2026-10-30T12:25:27.080012+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3642,7 +3642,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 8,
-    "cosponsored": 403
+    "cosponsored": 404
    },
    "committees": [
     "House Committee on Appropriations"
@@ -3722,10 +3722,10 @@
     "url": "https://api.congress.gov/v3/member/M001208/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1388,
+    "count": 1389,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:39:57.309438+00:00",
+   "dataUpdatedAt": "2026-10-30T12:28:25.872422+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3971,7 +3971,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 333
+    "cosponsored": 334
    },
    "committees": [
     "House Committee on the Judiciary",
@@ -4054,7 +4054,7 @@
     "count": 1313,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:42:31.856748+00:00",
+   "dataUpdatedAt": "2026-10-30T12:30:41.834670+00:00",
    "recentSponsored": [
     {
      "type": "S",
@@ -4385,7 +4385,7 @@
     "count": 835,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:43:12.660553+00:00",
+   "dataUpdatedAt": "2026-10-30T12:31:29.330206+00:00",
    "recentSponsored": [
     {
      "type": "SRES",
