@@ -1,0 +1,17 @@
+bioguideId,name,chamber,party,totalRollCalls,cast,missed,participationRate,missedRate,partyUnity,partyLineVotes,votedWithParty,independenceRate,unityRank,participationRank,cohortSize,congress
+A000372,"Allen, Rick W.",House,Republican,676,663,13,0.9808,0.0192,0.9957,467,465,0.0043,2,7,14,119
+B000490,"Bishop, Sanford D.",House,Democratic,676,660,16,0.9763,0.0237,0.9307,462,430,0.0693,14,8,14,119
+B001328,"Blair, Everton",House,Democratic,29,29,0,1.0,0.0,1.0,16,16,0.0,1,1,14,119
+C001103,"Carter, Earl L. ""Buddy""",House,Republican,676,637,39,0.9423,0.0577,0.9889,449,444,0.0111,9,13,14,119
+C001116,"Clyde, Andrew S.",House,Republican,676,643,33,0.9512,0.0488,0.9889,452,447,0.0111,9,11,14,119
+C001129,"Collins, Mike",House,Republican,676,660,16,0.9763,0.0237,0.9936,468,465,0.0064,4,8,14,119
+F000485,"Fuller, Clay",House,Republican,205,205,0,1.0,0.0,0.9852,135,133,0.0148,11,1,14,119
+J000288,"Johnson, Henry C. ""Hank""",House,Democratic,676,664,12,0.9822,0.0178,0.9935,463,460,0.0065,6,6,14,119
+J000311,"Jack, Brian",House,Republican,676,674,2,0.997,0.003,0.983,471,463,0.017,12,3,14,119
+L000583,"Loudermilk, Barry",House,Republican,676,634,42,0.9379,0.0621,0.9956,453,451,0.0044,3,14,14,119
+M001208,"McBath, Lucy",House,Democratic,676,641,35,0.9482,0.0518,0.964,444,428,0.036,13,12,14,119
+M001218,"McCormick, Richard",House,Republican,676,671,5,0.9926,0.0074,0.9894,470,465,0.0106,8,5,14,119
+O000174,"Ossoff, Jon",Senate,Democratic,915,864,51,0.9443,0.0557,0.9597,795,763,0.0403,1,2,2,119
+S001189,"Scott, Austin",House,Republican,676,672,4,0.9941,0.0059,0.9936,469,466,0.0064,4,4,14,119
+W000788,"Williams, Nikema",House,Democratic,676,651,25,0.963,0.037,0.9933,448,445,0.0067,7,10,14,119
+W000790,"Warnock, Raphael G.",Senate,Democratic,915,889,26,0.9716,0.0284,0.9487,818,776,0.0513,2,1,2,119
