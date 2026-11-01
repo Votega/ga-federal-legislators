@@ -1,13 +1,674 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T11:56:56.699937+00:00",
+  "generatedAt": "2026-11-01T13:02:17.764489+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-10-31T11:56:52.637237+00:00",
+  "sourceGeneratedAt": "2026-11-01T13:02:13.324617+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
  },
  "members": [
+  {
+   "bioguideId": "W000790",
+   "depiction": {
+    "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
+    "imageUrl": "https://www.congress.gov/img/member/w000790_200.jpg"
+   },
+   "name": "Warnock, Raphael G.",
+   "partyName": "Democratic",
+   "state": "Georgia",
+   "terms": {
+    "item": [
+     {
+      "chamber": "Senate",
+      "startYear": 2021
+     }
+    ]
+   },
+   "updateDate": "2026-11-01T11:31:19Z",
+   "url": "https://api.congress.gov/v3/member/W000790?format=json",
+   "leadership": [],
+   "contactInfo": {
+    "city": "Washington",
+    "district": "DC",
+    "officeAddress": "717 Hart Senate Office Building  Washington, DC 20510",
+    "phoneNumber": "(202) 224-3643",
+    "zipCode": "20510"
+   },
+   "officialWebsiteUrl": "https://www.warnock.senate.gov",
+   "birthYear": 1969,
+   "currentMember": true,
+   "honorificName": "Mr.",
+   "firstName": "Raphael",
+   "lastName": "Warnock",
+   "sponsoredLegislation": {
+    "count": 292,
+    "url": "https://api.congress.gov/v3/member/W000790/sponsored-legislation"
+   },
+   "cosponsoredLegislation": {
+    "count": 1313,
+    "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
+   },
+   "dataUpdatedAt": "2026-11-01T12:49:47.650788+00:00",
+   "recentSponsored": [
+    {
+     "type": "S",
+     "number": "5690",
+     "title": "Renewing the Dream Act",
+     "introducedDate": "2026-10-15",
+     "latestAction": {
+      "actionDate": "2026-10-15",
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources under authority of the order of the Senate of 09/30/2026."
+     },
+     "policyArea": "Public Lands and Natural Resources",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5690"
+    },
+    {
+     "type": "S",
+     "number": "5661",
+     "title": "A bill to amend the Internal Revenue Code of 1986 to provide parity in the taxation of professional sports franchises under the limitation on the deduction for certain employee renumeration, and for other purposes.",
+     "introducedDate": "2026-09-30",
+     "latestAction": {
+      "actionDate": "2026-09-30",
+      "text": "Read twice and referred to the Committee on Finance."
+     },
+     "policyArea": "Taxation",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5661"
+    },
+    {
+     "type": "SRES",
+     "number": "848",
+     "title": "A resolution celebrating the 80th anniversary of the Centers for Disease Control and Prevention, the premier public health institute of the United States.",
+     "introducedDate": "2026-08-08",
+     "latestAction": {
+      "actionDate": "2026-08-08",
+      "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4570-4571)"
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/848"
+    },
+    {
+     "type": "S",
+     "number": "4962",
+     "title": "Securing America's Water Supply Act",
+     "introducedDate": "2026-07-14",
+     "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+     },
+     "policyArea": "Water Resources Development",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4962"
+    },
+    {
+     "type": "SJRES",
+     "number": "172",
+     "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
+     "introducedDate": "2026-04-13",
+     "latestAction": {
+      "actionDate": "2026-06-16",
+      "text": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 47 - 48. Record Vote Number: 174."
+     },
+     "policyArea": "International Affairs",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/172"
+    },
+    {
+     "type": "S",
+     "number": "4195",
+     "title": "Kira Johnson Act",
+     "introducedDate": "2026-03-25",
+     "latestAction": {
+      "actionDate": "2026-03-25",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4195"
+    },
+    {
+     "type": "S",
+     "number": "4167",
+     "title": "HBCU Research Capacity Act",
+     "introducedDate": "2026-03-24",
+     "latestAction": {
+      "actionDate": "2026-03-24",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4167"
+    },
+    {
+     "type": "SJRES",
+     "number": "141",
+     "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt\".",
+     "introducedDate": "2026-03-19",
+     "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 122. (consideration: CR S2265)"
+     },
+     "policyArea": "Finance and Financial Sector",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/141"
+    },
+    {
+     "type": "SJRES",
+     "number": "140",
+     "title": "A joint resolution providing for congressional disapproval under chapter 8 of  title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Fair Credit Reporting; Name-Only Matching Procedures\".",
+     "introducedDate": "2026-03-19",
+     "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Motion to proceed to consideration of measure rejected in Senate by Voice Vote. (consideration: CR S2267)"
+     },
+     "policyArea": "Finance and Financial Sector",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/140"
+    },
+    {
+     "type": "S",
+     "number": "4119",
+     "title": "Student Loan Marriage Penalty Elimination Act of 2026",
+     "introducedDate": "2026-03-17",
+     "latestAction": {
+      "actionDate": "2026-03-17",
+      "text": "Read twice and referred to the Committee on Finance."
+     },
+     "policyArea": "Taxation",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4119"
+    },
+    {
+     "type": "SRES",
+     "number": "584",
+     "title": "A resolution honoring the life and legacy of Reverend Richard Smallwood, a world-class composer, pianist, and arranger.",
+     "introducedDate": "2026-01-15",
+     "latestAction": {
+      "actionDate": "2026-01-15",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S263; text: CR S260)"
+     },
+     "policyArea": "Arts, Culture, Religion",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/584"
+    },
+    {
+     "type": "SRES",
+     "number": "534",
+     "title": "Original Resolution Honoring Alpha Phi Alpha",
+     "introducedDate": "2025-12-08",
+     "latestAction": {
+      "actionDate": "2025-12-08",
+      "text": "Referred to the Committee on the Judiciary. (text: CR S8532)"
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/534"
+    },
+    {
+     "type": "SRES",
+     "number": "512",
+     "title": "A resolution designating November 30, 2025, as \"Drive Safer Sunday\".",
+     "introducedDate": "2025-11-20",
+     "latestAction": {
+      "actionDate": "2025-12-02",
+      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8454)"
+     },
+     "policyArea": "Transportation and Public Works",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/512"
+    },
+    {
+     "type": "S",
+     "number": "3185",
+     "title": "ANCHOR for Military Families Act",
+     "introducedDate": "2025-11-18",
+     "latestAction": {
+      "actionDate": "2025-11-18",
+      "text": "Read twice and referred to the Committee on Armed Services."
+     },
+     "policyArea": "Armed Forces and National Security",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3185"
+    },
+    {
+     "type": "S",
+     "number": "2772",
+     "title": "Commissary Healthy Options and servicemember Welfare (CHOW) Act",
+     "introducedDate": "2025-09-11",
+     "latestAction": {
+      "actionDate": "2025-09-11",
+      "text": "Read twice and referred to the Committee on Armed Services."
+     },
+     "policyArea": "Armed Forces and National Security",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2772"
+    },
+    {
+     "type": "S",
+     "number": "2628",
+     "title": "Catastrophic Specialty Hospital Act of 2025",
+     "introducedDate": "2025-07-31",
+     "latestAction": {
+      "actionDate": "2025-07-31",
+      "text": "Read twice and referred to the Committee on Finance."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2628"
+    },
+    {
+     "type": "S",
+     "number": "2454",
+     "title": "Fair Debt Collection Practices for Servicemembers Act",
+     "introducedDate": "2025-07-24",
+     "latestAction": {
+      "actionDate": "2025-07-24",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+     },
+     "policyArea": "Finance and Financial Sector",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2454"
+    },
+    {
+     "type": "S",
+     "number": "2323",
+     "title": "HEADWAY Act",
+     "introducedDate": "2025-07-17",
+     "latestAction": {
+      "actionDate": "2026-03-19",
+      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2323"
+    },
+    {
+     "type": "S",
+     "number": "2322",
+     "title": "Appraisal Modernization Act",
+     "introducedDate": "2025-07-17",
+     "latestAction": {
+      "actionDate": "2025-07-17",
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+     },
+     "policyArea": "Finance and Financial Sector",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2322"
+    },
+    {
+     "type": "S",
+     "number": "2131",
+     "title": "Dads Matter Act of 2025",
+     "introducedDate": "2025-06-18",
+     "latestAction": {
+      "actionDate": "2025-06-18",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2131"
+    }
+   ],
+   "sponsorship": {
+    "congress": 119,
+    "sponsored": 29,
+    "cosponsored": 373
+   },
+   "committees": [
+    "Senate Committee on Agriculture, Nutrition, and Forestry",
+    "Senate Committee on Banking, Housing, and Urban Affairs",
+    "Senate Committee on Finance",
+    "Senate Special Committee on Aging"
+   ],
+   "birthday": "1969-07-23",
+   "gender": "M",
+   "externalLinks": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Raphael_Warnock"
+    },
+    {
+     "label": "Ballotpedia",
+     "url": "https://ballotpedia.org/Raphael_Warnock"
+    },
+    {
+     "label": "OpenSecrets",
+     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00046489"
+    },
+    {
+     "label": "GovTrack",
+     "url": "https://www.govtrack.us/congress/members/456858"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/SenatorWarnock"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/SenatorWarnock"
+    },
+    {
+     "label": "YouTube",
+     "url": "https://www.youtube.com/user/senatorwarnock"
+    }
+   ],
+   "chamber": "Senate"
+  },
+  {
+   "bioguideId": "O000174",
+   "depiction": {
+    "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
+    "imageUrl": "https://www.congress.gov/img/member/o000174_200.jpg"
+   },
+   "name": "Ossoff, Jon",
+   "partyName": "Democratic",
+   "state": "Georgia",
+   "terms": {
+    "item": [
+     {
+      "chamber": "Senate",
+      "startYear": 2021
+     }
+    ]
+   },
+   "updateDate": "2026-11-01T11:31:15Z",
+   "url": "https://api.congress.gov/v3/member/O000174?format=json",
+   "leadership": [],
+   "contactInfo": {
+    "city": "Washington",
+    "district": "DC",
+    "officeAddress": "317 Hart Senate Office Building  Washington, DC 20510",
+    "phoneNumber": "(202) 224-3521",
+    "zipCode": "20510"
+   },
+   "officialWebsiteUrl": "https://www.ossoff.senate.gov",
+   "birthYear": 1987,
+   "currentMember": true,
+   "honorificName": "Mr.",
+   "firstName": "Jon",
+   "lastName": "Ossoff",
+   "sponsoredLegislation": {
+    "count": 225,
+    "url": "https://api.congress.gov/v3/member/O000174/sponsored-legislation"
+   },
+   "cosponsoredLegislation": {
+    "count": 835,
+    "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
+   },
+   "dataUpdatedAt": "2026-11-01T12:50:02.138725+00:00",
+   "recentSponsored": [
+    {
+     "type": "SRES",
+     "number": "838",
+     "title": "A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.",
+     "introducedDate": "2026-08-06",
+     "latestAction": {
+      "actionDate": "2026-08-06",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4530; text: CR S4525)"
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/838"
+    },
+    {
+     "type": "S",
+     "number": "5287",
+     "title": "Colorectal Cancer Early Detection Act",
+     "introducedDate": "2026-08-06",
+     "latestAction": {
+      "actionDate": "2026-08-06",
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5287"
+    },
+    {
+     "type": "S",
+     "number": "4932",
+     "title": "No Lead in Toys Act",
+     "introducedDate": "2026-06-24",
+     "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+     },
+     "policyArea": "Commerce",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4932"
+    },
+    {
+     "type": "S",
+     "number": "4884",
+     "title": "Right to Vote Act",
+     "introducedDate": "2026-06-24",
+     "latestAction": {
+      "actionDate": "2026-06-24",
+      "text": "Read twice and referred to the Committee on Rules and Administration."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4884"
+    },
+    {
+     "type": "SRES",
+     "number": "784",
+     "title": "A resolution prohibiting the buying or selling of certain investments by Senators.",
+     "introducedDate": "2026-06-23",
+     "latestAction": {
+      "actionDate": "2026-06-23",
+      "text": "Referred to the Committee on Rules and Administration. (text: CR S3060)"
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/784"
+    },
+    {
+     "type": "S",
+     "number": "4502",
+     "title": "Farm Disaster Tax Cut Act",
+     "introducedDate": "2026-05-12",
+     "latestAction": {
+      "actionDate": "2026-05-12",
+      "text": "Read twice and referred to the Committee on Finance."
+     },
+     "policyArea": "Taxation",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4502"
+    },
+    {
+     "type": "S",
+     "number": "4474",
+     "title": "Servicemember Civilian Transition Support Act",
+     "introducedDate": "2026-04-30",
+     "latestAction": {
+      "actionDate": "2026-04-30",
+      "text": "Read twice and referred to the Committee on Armed Services."
+     },
+     "policyArea": "Armed Forces and National Security",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4474"
+    },
+    {
+     "type": "S",
+     "number": "4067",
+     "title": "Land Grant Research Prioritization Act of 2026",
+     "introducedDate": "2026-03-11",
+     "latestAction": {
+      "actionDate": "2026-03-11",
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+     },
+     "policyArea": "Agriculture and Food",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4067"
+    },
+    {
+     "type": "S",
+     "number": "3459",
+     "title": "Support Small Business Growth Act of 2025",
+     "introducedDate": "2025-12-11",
+     "latestAction": {
+      "actionDate": "2025-12-11",
+      "text": "Read twice and referred to the Committee on Finance."
+     },
+     "policyArea": "Taxation",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3459"
+    },
+    {
+     "type": "S",
+     "number": "2713",
+     "title": "American Energy Security Act of 2025",
+     "introducedDate": "2025-09-04",
+     "latestAction": {
+      "actionDate": "2025-09-04",
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+     },
+     "policyArea": "Transportation and Public Works",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2713"
+    },
+    {
+     "type": "S",
+     "number": "2664",
+     "title": "Skilled Workforce Act",
+     "introducedDate": "2025-08-01",
+     "latestAction": {
+      "actionDate": "2025-08-01",
+      "text": "Read twice and referred to the Committee on Finance."
+     },
+     "policyArea": "Labor and Employment",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2664"
+    },
+    {
+     "type": "S",
+     "number": "2102",
+     "title": "Ralph David Abernathy, Sr., National Historic Site Act",
+     "introducedDate": "2025-06-17",
+     "latestAction": {
+      "actionDate": "2026-07-23",
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 482."
+     },
+     "policyArea": "Public Lands and Natural Resources",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2102"
+    },
+    {
+     "type": "S",
+     "number": "1879",
+     "title": "Ban Congressional Stock Trading Act",
+     "introducedDate": "2025-05-22",
+     "latestAction": {
+      "actionDate": "2025-05-22",
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1879"
+    },
+    {
+     "type": "S",
+     "number": "1550",
+     "title": "Improving SCRA Benefit Utilization Act of 2025",
+     "introducedDate": "2025-05-01",
+     "latestAction": {
+      "actionDate": "2025-05-01",
+      "text": "Read twice and referred to the Committee on Armed Services."
+     },
+     "policyArea": "Armed Forces and National Security",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1550"
+    },
+    {
+     "type": "S",
+     "number": "1419",
+     "title": "Youth Sports Facilities Act of 2024",
+     "introducedDate": "2025-04-10",
+     "latestAction": {
+      "actionDate": "2025-04-10",
+      "text": "Read twice and referred to the Committee on Environment and Public Works."
+     },
+     "policyArea": "Sports and Recreation",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1419"
+    },
+    {
+     "type": "S",
+     "number": "1322",
+     "title": "Family Notification of Death, Injury, or Illness in Custody Act of 2025",
+     "introducedDate": "2025-04-08",
+     "latestAction": {
+      "actionDate": "2025-04-08",
+      "text": "Read twice and referred to the Committee on the Judiciary."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1322"
+    },
+    {
+     "type": "S",
+     "number": "1131",
+     "title": "Ocmulgee Mounds National Park and Preserve Establishment Act",
+     "introducedDate": "2025-03-25",
+     "latestAction": {
+      "actionDate": "2025-12-09",
+      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238."
+     },
+     "policyArea": "Public Lands and Natural Resources",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1131"
+    },
+    {
+     "type": "S",
+     "number": "1049",
+     "title": "Preventing Child Trafficking Act of 2025",
+     "introducedDate": "2025-03-13",
+     "latestAction": {
+      "actionDate": "2025-12-17",
+      "text": "Held at the desk."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1049"
+    },
+    {
+     "type": "SRES",
+     "number": "125",
+     "title": "A resolution commemorating the centennial of Delta Air Lines.",
+     "introducedDate": "2025-03-12",
+     "latestAction": {
+      "actionDate": "2025-03-12",
+      "text": "Referred to the Committee on the Judiciary. (text: CR S1716)"
+     },
+     "policyArea": "Transportation and Public Works",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/125"
+    },
+    {
+     "type": "S",
+     "number": "784",
+     "title": "Rural Veterans Transportation to Care Act",
+     "introducedDate": "2025-02-27",
+     "latestAction": {
+      "actionDate": "2025-05-21",
+      "text": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-86."
+     },
+     "policyArea": "Armed Forces and National Security",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/784"
+    }
+   ],
+   "sponsorship": {
+    "congress": 119,
+    "sponsored": 23,
+    "cosponsored": 238
+   },
+   "committees": [
+    "Senate Committee on Appropriations",
+    "Senate Committee on Rules and Administration",
+    "Senate Select Committee on Intelligence"
+   ],
+   "birthday": "1987-02-16",
+   "gender": "M",
+   "externalLinks": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jon_Ossoff"
+    },
+    {
+     "label": "Ballotpedia",
+     "url": "https://ballotpedia.org/Jon_Ossoff"
+    },
+    {
+     "label": "OpenSecrets",
+     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00040675"
+    },
+    {
+     "label": "GovTrack",
+     "url": "https://www.govtrack.us/congress/members/456857"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/SenOssoff"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/SenOssoff"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/jonossoff"
+    }
+   ],
+   "chamber": "Senate"
+  },
   {
    "bioguideId": "J000311",
    "depiction": {
@@ -50,7 +711,7 @@
     "count": 122,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:50:32.182956+00:00",
+   "dataUpdatedAt": "2026-11-01T12:50:19.426585+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -249,7 +910,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:51:06.102302+00:00",
+   "dataUpdatedAt": "2026-11-01T12:50:37.522801+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -548,7 +1209,7 @@
     "count": 1955,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:51:14.732900+00:00",
+   "dataUpdatedAt": "2026-11-01T12:50:56.094565+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -882,7 +1543,7 @@
     "count": 1657,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:51:27.517409+00:00",
+   "dataUpdatedAt": "2026-11-01T12:51:23.862632+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1214,7 +1875,7 @@
     "count": 6118,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:51:34.222024+00:00",
+   "dataUpdatedAt": "2026-11-01T12:51:59.557554+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1548,7 +2209,7 @@
     "count": 39,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:52:28.357884+00:00",
+   "dataUpdatedAt": "2026-11-01T12:54:36.249369+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1677,7 +2338,7 @@
     "count": 96,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:52:29.450955+00:00",
+   "dataUpdatedAt": "2026-11-01T12:54:36.808756+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1929,7 +2590,7 @@
     "count": 576,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:52:41.375518+00:00",
+   "dataUpdatedAt": "2026-11-01T12:54:44.076281+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2260,7 +2921,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:52:58.693697+00:00",
+   "dataUpdatedAt": "2026-11-01T12:54:53.332839+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2543,7 +3204,7 @@
     "count": 561,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:53:16.248128+00:00",
+   "dataUpdatedAt": "2026-11-01T12:55:03.310911+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2877,7 +3538,7 @@
     "count": 2034,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:53:22.764385+00:00",
+   "dataUpdatedAt": "2026-11-01T12:55:06.725816+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3206,7 +3867,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:54:02.053573+00:00",
+   "dataUpdatedAt": "2026-11-01T12:55:43.691388+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3540,7 +4201,7 @@
     "count": 6375,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:54:28.093689+00:00",
+   "dataUpdatedAt": "2026-11-01T12:56:18.432685+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3725,7 +4386,7 @@
     "count": 1389,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-31T11:55:10.229581+00:00",
+   "dataUpdatedAt": "2026-11-01T12:59:20.548754+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -4012,667 +4673,6 @@
     }
    ],
    "chamber": "House of Representatives"
-  },
-  {
-   "bioguideId": "W000790",
-   "depiction": {
-    "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-    "imageUrl": "https://www.congress.gov/img/member/w000790_200.jpg"
-   },
-   "name": "Warnock, Raphael G.",
-   "partyName": "Democratic",
-   "state": "Georgia",
-   "terms": {
-    "item": [
-     {
-      "chamber": "Senate",
-      "startYear": 2021
-     }
-    ]
-   },
-   "updateDate": "2026-03-08T10:32:58Z",
-   "url": "https://api.congress.gov/v3/member/W000790?format=json",
-   "leadership": [],
-   "contactInfo": {
-    "city": "Washington",
-    "district": "DC",
-    "officeAddress": "717 Hart Senate Office Building  Washington, DC 20510",
-    "phoneNumber": "(202) 224-3643",
-    "zipCode": "20510"
-   },
-   "officialWebsiteUrl": "https://www.warnock.senate.gov",
-   "birthYear": 1969,
-   "currentMember": true,
-   "honorificName": "Mr.",
-   "firstName": "Raphael",
-   "lastName": "Warnock",
-   "sponsoredLegislation": {
-    "count": 292,
-    "url": "https://api.congress.gov/v3/member/W000790/sponsored-legislation"
-   },
-   "cosponsoredLegislation": {
-    "count": 1313,
-    "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
-   },
-   "dataUpdatedAt": "2026-10-31T11:55:42.299181+00:00",
-   "recentSponsored": [
-    {
-     "type": "S",
-     "number": "5690",
-     "title": "Renewing the Dream Act",
-     "introducedDate": "2026-10-15",
-     "latestAction": {
-      "actionDate": "2026-10-15",
-      "text": "Read twice and referred to the Committee on Energy and Natural Resources under authority of the order of the Senate of 09/30/2026."
-     },
-     "policyArea": "Public Lands and Natural Resources",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5690"
-    },
-    {
-     "type": "S",
-     "number": "5661",
-     "title": "A bill to amend the Internal Revenue Code of 1986 to provide parity in the taxation of professional sports franchises under the limitation on the deduction for certain employee renumeration, and for other purposes.",
-     "introducedDate": "2026-09-30",
-     "latestAction": {
-      "actionDate": "2026-09-30",
-      "text": "Read twice and referred to the Committee on Finance."
-     },
-     "policyArea": "Taxation",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5661"
-    },
-    {
-     "type": "SRES",
-     "number": "848",
-     "title": "A resolution celebrating the 80th anniversary of the Centers for Disease Control and Prevention, the premier public health institute of the United States.",
-     "introducedDate": "2026-08-08",
-     "latestAction": {
-      "actionDate": "2026-08-08",
-      "text": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4570-4571)"
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/848"
-    },
-    {
-     "type": "S",
-     "number": "4962",
-     "title": "Securing America's Water Supply Act",
-     "introducedDate": "2026-07-14",
-     "latestAction": {
-      "actionDate": "2026-07-14",
-      "text": "Read twice and referred to the Committee on Environment and Public Works."
-     },
-     "policyArea": "Water Resources Development",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4962"
-    },
-    {
-     "type": "SJRES",
-     "number": "172",
-     "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
-     "introducedDate": "2026-04-13",
-     "latestAction": {
-      "actionDate": "2026-06-16",
-      "text": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 47 - 48. Record Vote Number: 174."
-     },
-     "policyArea": "International Affairs",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/172"
-    },
-    {
-     "type": "S",
-     "number": "4195",
-     "title": "Kira Johnson Act",
-     "introducedDate": "2026-03-25",
-     "latestAction": {
-      "actionDate": "2026-03-25",
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4195"
-    },
-    {
-     "type": "S",
-     "number": "4167",
-     "title": "HBCU Research Capacity Act",
-     "introducedDate": "2026-03-24",
-     "latestAction": {
-      "actionDate": "2026-03-24",
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4167"
-    },
-    {
-     "type": "SJRES",
-     "number": "141",
-     "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt\".",
-     "introducedDate": "2026-03-19",
-     "latestAction": {
-      "actionDate": "2026-05-13",
-      "text": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 122. (consideration: CR S2265)"
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/141"
-    },
-    {
-     "type": "SJRES",
-     "number": "140",
-     "title": "A joint resolution providing for congressional disapproval under chapter 8 of  title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Fair Credit Reporting; Name-Only Matching Procedures\".",
-     "introducedDate": "2026-03-19",
-     "latestAction": {
-      "actionDate": "2026-05-13",
-      "text": "Motion to proceed to consideration of measure rejected in Senate by Voice Vote. (consideration: CR S2267)"
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/140"
-    },
-    {
-     "type": "S",
-     "number": "4119",
-     "title": "Student Loan Marriage Penalty Elimination Act of 2026",
-     "introducedDate": "2026-03-17",
-     "latestAction": {
-      "actionDate": "2026-03-17",
-      "text": "Read twice and referred to the Committee on Finance."
-     },
-     "policyArea": "Taxation",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4119"
-    },
-    {
-     "type": "SRES",
-     "number": "584",
-     "title": "A resolution honoring the life and legacy of Reverend Richard Smallwood, a world-class composer, pianist, and arranger.",
-     "introducedDate": "2026-01-15",
-     "latestAction": {
-      "actionDate": "2026-01-15",
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S263; text: CR S260)"
-     },
-     "policyArea": "Arts, Culture, Religion",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/584"
-    },
-    {
-     "type": "SRES",
-     "number": "534",
-     "title": "Original Resolution Honoring Alpha Phi Alpha",
-     "introducedDate": "2025-12-08",
-     "latestAction": {
-      "actionDate": "2025-12-08",
-      "text": "Referred to the Committee on the Judiciary. (text: CR S8532)"
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/534"
-    },
-    {
-     "type": "SRES",
-     "number": "512",
-     "title": "A resolution designating November 30, 2025, as \"Drive Safer Sunday\".",
-     "introducedDate": "2025-11-20",
-     "latestAction": {
-      "actionDate": "2025-12-02",
-      "text": "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8454)"
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/512"
-    },
-    {
-     "type": "S",
-     "number": "3185",
-     "title": "ANCHOR for Military Families Act",
-     "introducedDate": "2025-11-18",
-     "latestAction": {
-      "actionDate": "2025-11-18",
-      "text": "Read twice and referred to the Committee on Armed Services."
-     },
-     "policyArea": "Armed Forces and National Security",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3185"
-    },
-    {
-     "type": "S",
-     "number": "2772",
-     "title": "Commissary Healthy Options and servicemember Welfare (CHOW) Act",
-     "introducedDate": "2025-09-11",
-     "latestAction": {
-      "actionDate": "2025-09-11",
-      "text": "Read twice and referred to the Committee on Armed Services."
-     },
-     "policyArea": "Armed Forces and National Security",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2772"
-    },
-    {
-     "type": "S",
-     "number": "2628",
-     "title": "Catastrophic Specialty Hospital Act of 2025",
-     "introducedDate": "2025-07-31",
-     "latestAction": {
-      "actionDate": "2025-07-31",
-      "text": "Read twice and referred to the Committee on Finance."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2628"
-    },
-    {
-     "type": "S",
-     "number": "2454",
-     "title": "Fair Debt Collection Practices for Servicemembers Act",
-     "introducedDate": "2025-07-24",
-     "latestAction": {
-      "actionDate": "2025-07-24",
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2454"
-    },
-    {
-     "type": "S",
-     "number": "2323",
-     "title": "HEADWAY Act",
-     "introducedDate": "2025-07-17",
-     "latestAction": {
-      "actionDate": "2026-03-19",
-      "text": "Committee on Health, Education, Labor, and Pensions. Hearings held."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2323"
-    },
-    {
-     "type": "S",
-     "number": "2322",
-     "title": "Appraisal Modernization Act",
-     "introducedDate": "2025-07-17",
-     "latestAction": {
-      "actionDate": "2025-07-17",
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2322"
-    },
-    {
-     "type": "S",
-     "number": "2131",
-     "title": "Dads Matter Act of 2025",
-     "introducedDate": "2025-06-18",
-     "latestAction": {
-      "actionDate": "2025-06-18",
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2131"
-    }
-   ],
-   "sponsorship": {
-    "congress": 119,
-    "sponsored": 29,
-    "cosponsored": 373
-   },
-   "committees": [
-    "Senate Committee on Agriculture, Nutrition, and Forestry",
-    "Senate Committee on Banking, Housing, and Urban Affairs",
-    "Senate Committee on Finance",
-    "Senate Special Committee on Aging"
-   ],
-   "birthday": "1969-07-23",
-   "gender": "M",
-   "externalLinks": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Raphael_Warnock"
-    },
-    {
-     "label": "Ballotpedia",
-     "url": "https://ballotpedia.org/Raphael_Warnock"
-    },
-    {
-     "label": "OpenSecrets",
-     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00046489"
-    },
-    {
-     "label": "GovTrack",
-     "url": "https://www.govtrack.us/congress/members/456858"
-    }
-   ],
-   "socialLinks": [
-    {
-     "label": "X (Twitter)",
-     "url": "https://x.com/SenatorWarnock"
-    },
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/SenatorWarnock"
-    },
-    {
-     "label": "YouTube",
-     "url": "https://www.youtube.com/user/senatorwarnock"
-    }
-   ],
-   "chamber": "Senate"
-  },
-  {
-   "bioguideId": "O000174",
-   "depiction": {
-    "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-    "imageUrl": "https://www.congress.gov/img/member/o000174_200.jpg"
-   },
-   "name": "Ossoff, Jon",
-   "partyName": "Democratic",
-   "state": "Georgia",
-   "terms": {
-    "item": [
-     {
-      "chamber": "Senate",
-      "startYear": 2021
-     }
-    ]
-   },
-   "updateDate": "2026-03-08T10:32:15Z",
-   "url": "https://api.congress.gov/v3/member/O000174?format=json",
-   "leadership": [],
-   "contactInfo": {
-    "city": "Washington",
-    "district": "DC",
-    "officeAddress": "317 Hart Senate Office Building  Washington, DC 20510",
-    "phoneNumber": "(202) 224-3521",
-    "zipCode": "20510"
-   },
-   "officialWebsiteUrl": "https://www.ossoff.senate.gov",
-   "birthYear": 1987,
-   "currentMember": true,
-   "honorificName": "Mr.",
-   "firstName": "Jon",
-   "lastName": "Ossoff",
-   "sponsoredLegislation": {
-    "count": 225,
-    "url": "https://api.congress.gov/v3/member/O000174/sponsored-legislation"
-   },
-   "cosponsoredLegislation": {
-    "count": 835,
-    "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
-   },
-   "dataUpdatedAt": "2026-10-31T11:56:19.161759+00:00",
-   "recentSponsored": [
-    {
-     "type": "SRES",
-     "number": "838",
-     "title": "A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.",
-     "introducedDate": "2026-08-06",
-     "latestAction": {
-      "actionDate": "2026-08-06",
-      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4530; text: CR S4525)"
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/838"
-    },
-    {
-     "type": "S",
-     "number": "5287",
-     "title": "Colorectal Cancer Early Detection Act",
-     "introducedDate": "2026-08-06",
-     "latestAction": {
-      "actionDate": "2026-08-06",
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5287"
-    },
-    {
-     "type": "S",
-     "number": "4932",
-     "title": "No Lead in Toys Act",
-     "introducedDate": "2026-06-24",
-     "latestAction": {
-      "actionDate": "2026-06-24",
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-     },
-     "policyArea": "Commerce",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4932"
-    },
-    {
-     "type": "S",
-     "number": "4884",
-     "title": "Right to Vote Act",
-     "introducedDate": "2026-06-24",
-     "latestAction": {
-      "actionDate": "2026-06-24",
-      "text": "Read twice and referred to the Committee on Rules and Administration."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4884"
-    },
-    {
-     "type": "SRES",
-     "number": "784",
-     "title": "A resolution prohibiting the buying or selling of certain investments by Senators.",
-     "introducedDate": "2026-06-23",
-     "latestAction": {
-      "actionDate": "2026-06-23",
-      "text": "Referred to the Committee on Rules and Administration. (text: CR S3060)"
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/784"
-    },
-    {
-     "type": "S",
-     "number": "4502",
-     "title": "Farm Disaster Tax Cut Act",
-     "introducedDate": "2026-05-12",
-     "latestAction": {
-      "actionDate": "2026-05-12",
-      "text": "Read twice and referred to the Committee on Finance."
-     },
-     "policyArea": "Taxation",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4502"
-    },
-    {
-     "type": "S",
-     "number": "4474",
-     "title": "Servicemember Civilian Transition Support Act",
-     "introducedDate": "2026-04-30",
-     "latestAction": {
-      "actionDate": "2026-04-30",
-      "text": "Read twice and referred to the Committee on Armed Services."
-     },
-     "policyArea": "Armed Forces and National Security",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4474"
-    },
-    {
-     "type": "S",
-     "number": "4067",
-     "title": "Land Grant Research Prioritization Act of 2026",
-     "introducedDate": "2026-03-11",
-     "latestAction": {
-      "actionDate": "2026-03-11",
-      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-     },
-     "policyArea": "Agriculture and Food",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4067"
-    },
-    {
-     "type": "S",
-     "number": "3459",
-     "title": "Support Small Business Growth Act of 2025",
-     "introducedDate": "2025-12-11",
-     "latestAction": {
-      "actionDate": "2025-12-11",
-      "text": "Read twice and referred to the Committee on Finance."
-     },
-     "policyArea": "Taxation",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3459"
-    },
-    {
-     "type": "S",
-     "number": "2713",
-     "title": "American Energy Security Act of 2025",
-     "introducedDate": "2025-09-04",
-     "latestAction": {
-      "actionDate": "2025-09-04",
-      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2713"
-    },
-    {
-     "type": "S",
-     "number": "2664",
-     "title": "Skilled Workforce Act",
-     "introducedDate": "2025-08-01",
-     "latestAction": {
-      "actionDate": "2025-08-01",
-      "text": "Read twice and referred to the Committee on Finance."
-     },
-     "policyArea": "Labor and Employment",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2664"
-    },
-    {
-     "type": "S",
-     "number": "2102",
-     "title": "Ralph David Abernathy, Sr., National Historic Site Act",
-     "introducedDate": "2025-06-17",
-     "latestAction": {
-      "actionDate": "2026-07-23",
-      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 482."
-     },
-     "policyArea": "Public Lands and Natural Resources",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2102"
-    },
-    {
-     "type": "S",
-     "number": "1879",
-     "title": "Ban Congressional Stock Trading Act",
-     "introducedDate": "2025-05-22",
-     "latestAction": {
-      "actionDate": "2025-05-22",
-      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1879"
-    },
-    {
-     "type": "S",
-     "number": "1550",
-     "title": "Improving SCRA Benefit Utilization Act of 2025",
-     "introducedDate": "2025-05-01",
-     "latestAction": {
-      "actionDate": "2025-05-01",
-      "text": "Read twice and referred to the Committee on Armed Services."
-     },
-     "policyArea": "Armed Forces and National Security",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1550"
-    },
-    {
-     "type": "S",
-     "number": "1419",
-     "title": "Youth Sports Facilities Act of 2024",
-     "introducedDate": "2025-04-10",
-     "latestAction": {
-      "actionDate": "2025-04-10",
-      "text": "Read twice and referred to the Committee on Environment and Public Works."
-     },
-     "policyArea": "Sports and Recreation",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1419"
-    },
-    {
-     "type": "S",
-     "number": "1322",
-     "title": "Family Notification of Death, Injury, or Illness in Custody Act of 2025",
-     "introducedDate": "2025-04-08",
-     "latestAction": {
-      "actionDate": "2025-04-08",
-      "text": "Read twice and referred to the Committee on the Judiciary."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1322"
-    },
-    {
-     "type": "S",
-     "number": "1131",
-     "title": "Ocmulgee Mounds National Park and Preserve Establishment Act",
-     "introducedDate": "2025-03-25",
-     "latestAction": {
-      "actionDate": "2025-12-09",
-      "text": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238."
-     },
-     "policyArea": "Public Lands and Natural Resources",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1131"
-    },
-    {
-     "type": "S",
-     "number": "1049",
-     "title": "Preventing Child Trafficking Act of 2025",
-     "introducedDate": "2025-03-13",
-     "latestAction": {
-      "actionDate": "2025-12-17",
-      "text": "Held at the desk."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1049"
-    },
-    {
-     "type": "SRES",
-     "number": "125",
-     "title": "A resolution commemorating the centennial of Delta Air Lines.",
-     "introducedDate": "2025-03-12",
-     "latestAction": {
-      "actionDate": "2025-03-12",
-      "text": "Referred to the Committee on the Judiciary. (text: CR S1716)"
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/125"
-    },
-    {
-     "type": "S",
-     "number": "784",
-     "title": "Rural Veterans Transportation to Care Act",
-     "introducedDate": "2025-02-27",
-     "latestAction": {
-      "actionDate": "2025-05-21",
-      "text": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-86."
-     },
-     "policyArea": "Armed Forces and National Security",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/784"
-    }
-   ],
-   "sponsorship": {
-    "congress": 119,
-    "sponsored": 23,
-    "cosponsored": 238
-   },
-   "committees": [
-    "Senate Committee on Appropriations",
-    "Senate Committee on Rules and Administration",
-    "Senate Select Committee on Intelligence"
-   ],
-   "birthday": "1987-02-16",
-   "gender": "M",
-   "externalLinks": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Jon_Ossoff"
-    },
-    {
-     "label": "Ballotpedia",
-     "url": "https://ballotpedia.org/Jon_Ossoff"
-    },
-    {
-     "label": "OpenSecrets",
-     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00040675"
-    },
-    {
-     "label": "GovTrack",
-     "url": "https://www.govtrack.us/congress/members/456857"
-    }
-   ],
-   "socialLinks": [
-    {
-     "label": "X (Twitter)",
-     "url": "https://x.com/SenOssoff"
-    },
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/SenOssoff"
-    },
-    {
-     "label": "Instagram",
-     "url": "https://www.instagram.com/jonossoff"
-    }
-   ],
-   "chamber": "Senate"
   }
  ]
 }
