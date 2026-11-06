@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-05T14:21:35.936203+00:00",
+  "generatedAt": "2026-11-06T14:04:43.868712+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-11-05T14:21:31.891000+00:00",
+  "sourceGeneratedAt": "2026-11-06T14:04:37.815569+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -43,15 +43,27 @@
    "firstName": "Everton",
    "lastName": "Blair",
    "sponsoredLegislation": {
-    "count": 5,
+    "count": 6,
     "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 48,
+    "count": 50,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:11:23.128620+00:00",
+   "dataUpdatedAt": "2026-11-06T13:53:20.294921+00:00",
    "recentSponsored": [
+    {
+     "type": "HRES",
+     "number": "1648",
+     "title": "Congress at Work Resolution",
+     "introducedDate": "2026-11-05",
+     "latestAction": {
+      "actionDate": "2026-11-05",
+      "text": "Referred to the House Committee on House Administration."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1648"
+    },
     {
      "type": "HRES",
      "number": "1636",
@@ -115,8 +127,8 @@
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 5,
-    "cosponsored": 48
+    "sponsored": 6,
+    "cosponsored": 50
    },
    "committees": [
     "House Committee on Financial Services"
@@ -181,7 +193,7 @@
     "count": 96,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:11:26.578652+00:00",
+   "dataUpdatedAt": "2026-11-06T13:53:20.631446+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -433,7 +445,7 @@
     "count": 122,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:11:27.078378+00:00",
+   "dataUpdatedAt": "2026-11-06T13:53:21.302598+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -632,7 +644,7 @@
     "count": 577,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:11:27.951747+00:00",
+   "dataUpdatedAt": "2026-11-06T13:53:22.382970+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -963,7 +975,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:11:36.779214+00:00",
+   "dataUpdatedAt": "2026-11-06T13:53:24.684921+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1246,7 +1258,7 @@
     "count": 2034,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:11:48.281524+00:00",
+   "dataUpdatedAt": "2026-11-06T13:53:30.256629+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1575,7 +1587,7 @@
     "count": 561,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:12:13.648600+00:00",
+   "dataUpdatedAt": "2026-11-06T13:54:19.639437+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1909,7 +1921,7 @@
     "count": 1389,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:12:16.940529+00:00",
+   "dataUpdatedAt": "2026-11-06T13:54:27.147836+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2239,7 +2251,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:12:40.938913+00:00",
+   "dataUpdatedAt": "2026-11-06T13:54:41.717848+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2573,7 +2585,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:13:04.825685+00:00",
+   "dataUpdatedAt": "2026-11-06T13:54:51.058819+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2872,7 +2884,7 @@
     "count": 1955,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:13:06.392345+00:00",
+   "dataUpdatedAt": "2026-11-06T13:54:54.952702+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3206,7 +3218,7 @@
     "count": 1657,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:13:34.628672+00:00",
+   "dataUpdatedAt": "2026-11-06T13:55:32.131066+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3538,7 +3550,7 @@
     "count": 6118,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:13:43.262546+00:00",
+   "dataUpdatedAt": "2026-11-06T13:56:02.310937+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3872,7 +3884,7 @@
     "count": 6375,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:16:21.380770+00:00",
+   "dataUpdatedAt": "2026-11-06T13:58:18.273429+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -4056,7 +4068,7 @@
     "count": 1313,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:19:04.302232+00:00",
+   "dataUpdatedAt": "2026-11-06T14:01:38.384005+00:00",
    "recentSponsored": [
     {
      "type": "S",
@@ -4387,7 +4399,7 @@
     "count": 835,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-05T14:19:32.120460+00:00",
+   "dataUpdatedAt": "2026-11-06T14:02:03.756723+00:00",
    "recentSponsored": [
     {
      "type": "SRES",
