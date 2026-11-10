@@ -1,17 +1,17 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-15T00:54:50.552896+00:00",
+  "generatedAt": "2026-11-10T11:05:46.790171+00:00",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Clerk of the House + Senate.gov roll-call XML",
   "scope": "every recorded roll call of the Congress, including failed measures, amendments, procedural motions and Senate nominations",
-  "totalVotes": 1591,
-  "houseVotes": 676,
-  "senateVotes": 915,
+  "totalVotes": 1594,
+  "houseVotes": 678,
+  "senateVotes": 916,
   "billLessVotes": 465,
   "memberCount": 18,
   "updateMode": "incremental",
-  "rollCallsFetchedThisRun": 0,
+  "rollCallsFetchedThisRun": 3,
   "sittingDelegation": 16,
   "sittingMembersWithVotes": 16,
   "staleVoteRecords": 2
@@ -30212,6 +30212,39 @@
     }
    }
   },
+  "S119_2_00257": {
+   "bill": "H.R. 2347",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+   "billType": "hr",
+   "billNumber": "2347",
+   "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact.",
+   "motionText": "On Cloture on the Motion to Proceed",
+   "date": "2026-11-09",
+   "yea": 73,
+   "nay": 25,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 257,
+   "result": "Pass",
+   "resultText": "Cloture on the Motion to Proceed Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 21,
+     "nay": 23,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
   "H2025_0001": {
    "bill": null,
    "billUrl": null,
@@ -52503,6 +52536,72 @@
      "other": 0
     }
    }
+  },
+  "H2026_0315": {
+   "bill": "H.R. 3978",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3978",
+   "billType": "hr",
+   "billNumber": "3978",
+   "title": "Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
+   "motionText": "On Motion to Suspend the Rules and Pass, as Amended",
+   "date": "2026-11-09",
+   "yea": 397,
+   "nay": 2,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 315,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 196,
+     "nay": 0,
+     "other": 22
+    },
+    "Democratic": {
+     "yea": 200,
+     "nay": 2,
+     "other": 12
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0316": {
+   "bill": "H.R. 9612",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9612",
+   "billType": "hr",
+   "billNumber": "9612",
+   "title": "American Enrichment Deployment Act",
+   "motionText": "On Motion to Suspend the Rules and Pass, as Amended",
+   "date": "2026-11-09",
+   "yea": 394,
+   "nay": 3,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 316,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 196,
+     "nay": 0,
+     "other": 22
+    },
+    "Democratic": {
+     "yea": 197,
+     "nay": 3,
+     "other": 14
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
   }
  },
  "memberVotes": {
@@ -56166,6 +56265,10 @@
    {
     "voteId": "S119_2_00256",
     "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00257",
+    "vote": "Yea"
    }
   ],
   "W000790": [
@@ -59828,6 +59931,10 @@
    {
     "voteId": "S119_2_00256",
     "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00257",
+    "vote": "Yea"
    }
   ],
   "A000372": [
@@ -62533,6 +62640,14 @@
    },
    {
     "voteId": "H2026_0314",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
     "vote": "Yea"
    }
   ],
@@ -65240,6 +65355,14 @@
    {
     "voteId": "H2026_0314",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
+    "vote": "Yea"
    }
   ],
   "C001103": [
@@ -67945,6 +68068,14 @@
    },
    {
     "voteId": "H2026_0314",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
     "vote": "Yea"
    }
   ],
@@ -70652,6 +70783,14 @@
    {
     "voteId": "H2026_0314",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
+    "vote": "Yea"
    }
   ],
   "C001129": [
@@ -73357,6 +73496,14 @@
    },
    {
     "voteId": "H2026_0314",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
     "vote": "Yea"
    }
   ],
@@ -77514,6 +77661,14 @@
    {
     "voteId": "H2026_0314",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
+    "vote": "Yea"
    }
   ],
   "J000288": [
@@ -80219,6 +80374,14 @@
    },
    {
     "voteId": "H2026_0314",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
     "vote": "Yea"
    }
   ],
@@ -82926,6 +83089,14 @@
    {
     "voteId": "H2026_0314",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
+    "vote": "Yea"
    }
   ],
   "M001208": [
@@ -85631,6 +85802,14 @@
    },
    {
     "voteId": "H2026_0314",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
     "vote": "Yea"
    }
   ],
@@ -88338,6 +88517,14 @@
    {
     "voteId": "H2026_0314",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
+    "vote": "Yea"
    }
   ],
   "S001189": [
@@ -91043,6 +91230,14 @@
    },
    {
     "voteId": "H2026_0314",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
     "vote": "Yea"
    }
   ],
@@ -95724,6 +95919,14 @@
    {
     "voteId": "H2026_0314",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
+    "vote": "Yea"
    }
   ],
   "F000485": [
@@ -96546,6 +96749,14 @@
    {
     "voteId": "H2026_0314",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
+    "vote": "Yea"
    }
   ],
   "B001328": [
@@ -96663,6 +96874,14 @@
    },
    {
     "voteId": "H2026_0314",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0315",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0316",
     "vote": "Yea"
    }
   ]
