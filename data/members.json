@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-11T14:02:39.256319+00:00",
+  "generatedAt": "2026-11-12T15:33:57.891556+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-11-11T14:02:33.824731+00:00",
+  "sourceGeneratedAt": "2026-11-12T15:33:53.278650+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -47,10 +47,10 @@
     "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 56,
+    "count": 57,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:44:54.663846+00:00",
+   "dataUpdatedAt": "2026-11-12T14:47:30.435959+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -128,7 +128,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 6,
-    "cosponsored": 56
+    "cosponsored": 57
    },
    "committees": [
     "House Committee on Financial Services"
@@ -193,7 +193,7 @@
     "count": 97,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:44:55.418516+00:00",
+   "dataUpdatedAt": "2026-11-12T14:47:35.193138+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -442,10 +442,10 @@
     "url": "https://api.congress.gov/v3/member/J000311/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 122,
+    "count": 123,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:44:56.956679+00:00",
+   "dataUpdatedAt": "2026-11-12T14:47:35.699805+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -559,7 +559,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 9,
-    "cosponsored": 122
+    "cosponsored": 123
    },
    "committees": [
     "House Committee on Oversight and Government Reform",
@@ -644,7 +644,7 @@
     "count": 578,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:45:00.203198+00:00",
+   "dataUpdatedAt": "2026-11-12T14:47:36.537362+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -975,7 +975,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:45:44.065009+00:00",
+   "dataUpdatedAt": "2026-11-12T14:47:37.639682+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1258,7 +1258,7 @@
     "count": 2036,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:45:47.784125+00:00",
+   "dataUpdatedAt": "2026-11-12T14:47:49.583859+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1587,7 +1587,7 @@
     "count": 563,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:46:50.617249+00:00",
+   "dataUpdatedAt": "2026-11-12T14:49:08.504362+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1921,7 +1921,7 @@
     "count": 1390,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:46:54.551574+00:00",
+   "dataUpdatedAt": "2026-11-12T14:49:10.609363+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2251,7 +2251,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:47:50.602203+00:00",
+   "dataUpdatedAt": "2026-11-12T14:49:40.539383+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2585,7 +2585,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:48:05.320764+00:00",
+   "dataUpdatedAt": "2026-11-12T14:50:25.841869+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2884,7 +2884,7 @@
     "count": 1957,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:48:32.308973+00:00",
+   "dataUpdatedAt": "2026-11-12T14:50:27.447456+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3218,7 +3218,7 @@
     "count": 1658,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:49:28.265208+00:00",
+   "dataUpdatedAt": "2026-11-12T14:53:00.763466+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3547,10 +3547,10 @@
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6119,
+    "count": 6120,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:50:30.741086+00:00",
+   "dataUpdatedAt": "2026-11-12T14:58:02.848257+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3796,7 +3796,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 916
+    "cosponsored": 917
    },
    "committees": [
     "House Committee on Transportation and Infrastructure",
@@ -3884,7 +3884,7 @@
     "count": 6378,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:54:36.740169+00:00",
+   "dataUpdatedAt": "2026-11-12T15:13:04.618245+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -4068,7 +4068,7 @@
     "count": 1314,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:56:42.199754+00:00",
+   "dataUpdatedAt": "2026-11-12T15:22:55.969202+00:00",
    "recentSponsored": [
     {
      "type": "S",
@@ -4399,7 +4399,7 @@
     "count": 837,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-11T13:57:21.450846+00:00",
+   "dataUpdatedAt": "2026-11-12T15:24:23.710343+00:00",
    "recentSponsored": [
     {
      "type": "SRES",
