@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-12T15:33:57.891556+00:00",
+  "generatedAt": "2026-11-13T14:17:39.151675+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-11-12T15:33:53.278650+00:00",
+  "sourceGeneratedAt": "2026-11-13T14:17:32.820884+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -43,15 +43,27 @@
    "firstName": "Everton",
    "lastName": "Blair",
    "sponsoredLegislation": {
-    "count": 6,
+    "count": 7,
     "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 57,
+    "count": 58,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:47:30.435959+00:00",
+   "dataUpdatedAt": "2026-11-13T14:06:53.349287+00:00",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "11010",
+     "title": "To prevent low-income seniors from losing benefits due to defaulted student loan debt by increasing the amount of benefits exempted from garnishment.",
+     "introducedDate": "2026-11-12",
+     "latestAction": {
+      "actionDate": "2026-11-12",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11010"
+    },
     {
      "type": "HRES",
      "number": "1648",
@@ -61,7 +73,7 @@
       "actionDate": "2026-11-05",
       "text": "Referred to the House Committee on House Administration."
      },
-     "policyArea": null,
+     "policyArea": "Congress",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1648"
     },
     {
@@ -127,8 +139,8 @@
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 6,
-    "cosponsored": 57
+    "sponsored": 7,
+    "cosponsored": 58
    },
    "committees": [
     "House Committee on Financial Services"
@@ -147,6 +159,16 @@
     {
      "label": "GovTrack",
      "url": "https://www.govtrack.us/congress/members/457045"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/repevertonblair"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/congressmanblair"
     }
    ],
    "chamber": "House of Representatives"
@@ -186,15 +208,27 @@
    "firstName": "Clay",
    "lastName": "Fuller",
    "sponsoredLegislation": {
-    "count": 15,
+    "count": 16,
     "url": "https://api.congress.gov/v3/member/F000485/sponsored-legislation"
    },
    "cosponsoredLegislation": {
     "count": 97,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:47:35.193138+00:00",
+   "dataUpdatedAt": "2026-11-13T14:06:55.931719+00:00",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "11017",
+     "title": "Veterans Claims Timeliness, Accountability, and Care Act",
+     "introducedDate": "2026-11-12",
+     "latestAction": {
+      "actionDate": "2026-11-12",
+      "text": "Referred to the House Committee on Veterans' Affairs."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11017"
+    },
     {
      "type": "HR",
      "number": "10868",
@@ -378,7 +412,7 @@
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 15,
+    "sponsored": 16,
     "cosponsored": 97
    },
    "committees": [
@@ -399,6 +433,20 @@
     {
      "label": "GovTrack",
      "url": "https://www.govtrack.us/congress/members/457041"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/RepClayFuller"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/61570681866170"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/repclayfuller"
     }
    ],
    "chamber": "House of Representatives"
@@ -442,10 +490,10 @@
     "url": "https://api.congress.gov/v3/member/J000311/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 123,
+    "count": 125,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:47:35.699805+00:00",
+   "dataUpdatedAt": "2026-11-13T14:06:57.452322+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -559,7 +607,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 9,
-    "cosponsored": 123
+    "cosponsored": 125
    },
    "committees": [
     "House Committee on Oversight and Government Reform",
@@ -644,7 +692,7 @@
     "count": 578,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:47:36.537362+00:00",
+   "dataUpdatedAt": "2026-11-13T14:07:03.963582+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -975,7 +1023,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:47:37.639682+00:00",
+   "dataUpdatedAt": "2026-11-13T14:07:10.069213+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1251,15 +1299,27 @@
    "firstName": "Nikema",
    "lastName": "Williams",
    "sponsoredLegislation": {
-    "count": 163,
+    "count": 164,
     "url": "https://api.congress.gov/v3/member/W000788/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 2036,
+    "count": 2037,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:47:49.583859+00:00",
+   "dataUpdatedAt": "2026-11-13T14:07:12.497604+00:00",
    "recentSponsored": [
+    {
+     "type": "HRES",
+     "number": "1663",
+     "title": "Expressing opposition to the use of State power against people in the United States seeking essential health care, including criminalization of the full range of sexual and reproductive health care such as abortion, gender-affirming care, and contraceptive care, and disapproving of State punishment of people for their pregnancy outcomes.",
+     "introducedDate": "2026-11-12",
+     "latestAction": {
+      "actionDate": "2026-11-12",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1663"
+    },
     {
      "type": "HRES",
      "number": "1620",
@@ -1487,24 +1547,12 @@
      },
      "policyArea": "Agriculture and Food",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8246"
-    },
-    {
-     "type": "HRES",
-     "number": "1064",
-     "title": "Expressing support for the designation of February 16, 2026, as \"International Black Aviation Professionals Day\".",
-     "introducedDate": "2026-02-12",
-     "latestAction": {
-      "actionDate": "2026-02-13",
-      "text": "Referred to the Subcommittee on Aviation."
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1064"
     }
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 59,
-    "cosponsored": 500
+    "sponsored": 60,
+    "cosponsored": 501
    },
    "committees": [
     "House Committee on Financial Services"
@@ -1587,7 +1635,7 @@
     "count": 563,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:49:08.504362+00:00",
+   "dataUpdatedAt": "2026-11-13T14:07:56.621229+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1921,7 +1969,7 @@
     "count": 1390,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:49:10.609363+00:00",
+   "dataUpdatedAt": "2026-11-13T14:08:21.098040+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2251,7 +2299,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:49:40.539383+00:00",
+   "dataUpdatedAt": "2026-11-13T14:08:49.679118+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2585,7 +2633,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:50:25.841869+00:00",
+   "dataUpdatedAt": "2026-11-13T14:09:12.264608+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2881,10 +2929,10 @@
     "url": "https://api.congress.gov/v3/member/C001103/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1957,
+    "count": 1960,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:50:27.447456+00:00",
+   "dataUpdatedAt": "2026-11-13T14:09:25.371623+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3130,7 +3178,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 64,
-    "cosponsored": 416
+    "cosponsored": 419
    },
    "committees": [
     "House Committee on Energy and Commerce",
@@ -3218,7 +3266,7 @@
     "count": 1658,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:53:00.763466+00:00",
+   "dataUpdatedAt": "2026-11-13T14:10:20.858770+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3550,7 +3598,7 @@
     "count": 6120,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T14:58:02.848257+00:00",
+   "dataUpdatedAt": "2026-11-13T14:10:25.608888+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3829,7 +3877,7 @@
     },
     {
      "label": "Facebook",
-     "url": "https://www.facebook.com/115356957005"
+     "url": "https://www.facebook.com/rephankjohnson"
     },
     {
      "label": "Instagram",
@@ -3884,7 +3932,7 @@
     "count": 6378,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T15:13:04.618245+00:00",
+   "dataUpdatedAt": "2026-11-13T14:13:24.270002+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -4061,14 +4109,14 @@
    "firstName": "Raphael",
    "lastName": "Warnock",
    "sponsoredLegislation": {
-    "count": 292,
+    "count": 293,
     "url": "https://api.congress.gov/v3/member/W000790/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1314,
+    "count": 1315,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T15:22:55.969202+00:00",
+   "dataUpdatedAt": "2026-11-13T14:14:30.057823+00:00",
    "recentSponsored": [
     {
      "type": "S",
@@ -4392,14 +4440,14 @@
    "firstName": "Jon",
    "lastName": "Ossoff",
    "sponsoredLegislation": {
-    "count": 225,
+    "count": 226,
     "url": "https://api.congress.gov/v3/member/O000174/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 837,
+    "count": 838,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-12T15:24:23.710343+00:00",
+   "dataUpdatedAt": "2026-11-13T14:15:14.965813+00:00",
    "recentSponsored": [
     {
      "type": "SRES",
