@@ -1,17 +1,17 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-10T11:05:46.790171+00:00",
+  "generatedAt": "2026-11-15T16:10:10.908426+00:00",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Clerk of the House + Senate.gov roll-call XML",
   "scope": "every recorded roll call of the Congress, including failed measures, amendments, procedural motions and Senate nominations",
-  "totalVotes": 1594,
-  "houseVotes": 678,
-  "senateVotes": 916,
-  "billLessVotes": 465,
+  "totalVotes": 1606,
+  "houseVotes": 685,
+  "senateVotes": 921,
+  "billLessVotes": 469,
   "memberCount": 18,
   "updateMode": "incremental",
-  "rollCallsFetchedThisRun": 3,
+  "rollCallsFetchedThisRun": 12,
   "sittingDelegation": 16,
   "sittingMembersWithVotes": 16,
   "staleVoteRecords": 2
@@ -30245,6 +30245,171 @@
     }
    }
   },
+  "S119_2_00258": {
+   "bill": "H.R. 2347",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+   "billType": "hr",
+   "billNumber": "2347",
+   "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact.",
+   "motionText": "On the Motion to Proceed",
+   "date": "2026-11-10",
+   "yea": 62,
+   "nay": 21,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 258,
+   "result": "Pass",
+   "resultText": "Motion to Proceed Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 15,
+     "nay": 19,
+     "other": 11
+    },
+    "Republican": {
+     "yea": 46,
+     "nay": 1,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00259": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Gregory Carl Cook, of Alabama, to be United States District Judge for the Northern District of Alabama",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-12",
+   "yea": 50,
+   "nay": 27,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 259,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 27,
+     "other": 18
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 0,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
+  "S119_2_00260": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Gregory Carl Cook, of Alabama, to be United States District Judge for the Northern District of Alabama",
+   "motionText": "On the Nomination",
+   "date": "2026-11-12",
+   "yea": 49,
+   "nay": 27,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 260,
+   "result": "Pass",
+   "resultText": "Nomination Confirmed",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 27,
+     "other": 18
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
+  "S119_2_00261": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Daniel Desmond Domenico, of Colorado, to be United States Circuit Judge for the Tenth Circuit",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-12",
+   "yea": 51,
+   "nay": 27,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 261,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 27,
+     "other": 18
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
+  "S119_2_00262": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Anna St. John, of Louisiana, to be United States Circuit Judge for the Fifth Circuit",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-12",
+   "yea": 49,
+   "nay": 26,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 262,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 26,
+     "other": 19
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
   "H2025_0001": {
    "bill": null,
    "billUrl": null,
@@ -52602,6 +52767,237 @@
      "other": 0
     }
    }
+  },
+  "H2026_0317": {
+   "bill": "H.Res. 1655",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1655",
+   "billType": "hres",
+   "billNumber": "1655",
+   "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors",
+   "motionText": "On Motion to Refer",
+   "date": "2026-11-10",
+   "yea": 211,
+   "nay": 204,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 317,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 210,
+     "nay": 1,
+     "other": 7
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 203,
+     "other": 11
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0318": {
+   "bill": "H.Res. 1650",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1650",
+   "billType": "hres",
+   "billNumber": "1650",
+   "title": "Providing for consideration of the bill (H.R. 1013) to amend the Federal securities laws to enhance 403(b) plans, and for other purposes",
+   "motionText": "On Ordering the Previous Question",
+   "date": "2026-11-10",
+   "yea": 213,
+   "nay": 207,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 318,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 212,
+     "nay": 0,
+     "other": 6
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 207,
+     "other": 7
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0319": {
+   "bill": "H.Res. 1650",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1650",
+   "billType": "hres",
+   "billNumber": "1650",
+   "title": "Providing for consideration of the bill (H.R. 1013) to amend the Federal securities laws to enhance 403(b) plans, and for other purposes",
+   "motionText": "On Agreeing to the Resolution",
+   "date": "2026-11-10",
+   "yea": 215,
+   "nay": 209,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 319,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 214,
+     "nay": 0,
+     "other": 4
+    },
+    "Democratic": {
+     "yea": 0,
+     "nay": 209,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0320": {
+   "bill": "H.Res. 1247",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+   "billType": "hres",
+   "billNumber": "1247",
+   "title": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans’ disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes",
+   "motionText": "On Motion to Discharge",
+   "date": "2026-11-11",
+   "yea": 245,
+   "nay": 175,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 320,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 34,
+     "nay": 175,
+     "other": 9
+    },
+    "Democratic": {
+     "yea": 210,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0321": {
+   "bill": "H.R. 1013",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1013",
+   "billType": "hr",
+   "billNumber": "1013",
+   "title": "Retirement Fairness for Charities and Educational Institutions Act",
+   "motionText": "On Passage",
+   "date": "2026-11-11",
+   "yea": 295,
+   "nay": 128,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 321,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 211,
+     "nay": 0,
+     "other": 7
+    },
+    "Democratic": {
+     "yea": 83,
+     "nay": 128,
+     "other": 3
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0322": {
+   "bill": "H.Res. 1247",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1247",
+   "billType": "hres",
+   "billNumber": "1247",
+   "title": "Providing for consideration of the bill (H.R. 2102) to amend title 10, United States Code, to provide for concurrent receipt of veterans’ disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes",
+   "motionText": "On Agreeing to the Resolution",
+   "date": "2026-11-12",
+   "yea": 271,
+   "nay": 135,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 322,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 60,
+     "nay": 135,
+     "other": 22
+    },
+    "Democratic": {
+     "yea": 210,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "H2026_0323": {
+   "bill": "H.R. 2102",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2102",
+   "billType": "hr",
+   "billNumber": "2102",
+   "title": "Major Richard Star Act",
+   "motionText": "On Passage",
+   "date": "2026-11-12",
+   "yea": 392,
+   "nay": 18,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 323,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 181,
+     "nay": 18,
+     "other": 19
+    },
+    "Democratic": {
+     "yea": 210,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 0,
+     "other": 0
+    }
+   }
   }
  },
  "memberVotes": {
@@ -56269,6 +56665,26 @@
    {
     "voteId": "S119_2_00257",
     "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00258",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00259",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00260",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00261",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00262",
+    "vote": "Nay"
    }
   ],
   "W000790": [
@@ -59935,6 +60351,26 @@
    {
     "voteId": "S119_2_00257",
     "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00258",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00259",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00260",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00261",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00262",
+    "vote": "Nay"
    }
   ],
   "A000372": [
@@ -62648,6 +63084,34 @@
    },
    {
     "voteId": "H2026_0316",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0323",
     "vote": "Yea"
    }
   ],
@@ -65363,6 +65827,34 @@
    {
     "voteId": "H2026_0316",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0323",
+    "vote": "Yea"
    }
   ],
   "C001103": [
@@ -68076,6 +68568,34 @@
    },
    {
     "voteId": "H2026_0316",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0323",
     "vote": "Yea"
    }
   ],
@@ -70791,6 +71311,34 @@
    {
     "voteId": "H2026_0316",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0323",
+    "vote": "Nay"
    }
   ],
   "C001129": [
@@ -73504,6 +74052,34 @@
    },
    {
     "voteId": "H2026_0316",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0323",
     "vote": "Yea"
    }
   ],
@@ -77669,6 +78245,34 @@
    {
     "voteId": "H2026_0316",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0323",
+    "vote": "Yea"
    }
   ],
   "J000288": [
@@ -80382,6 +80986,34 @@
    },
    {
     "voteId": "H2026_0316",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0323",
     "vote": "Yea"
    }
   ],
@@ -83097,6 +83729,34 @@
    {
     "voteId": "H2026_0316",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Not Voting"
+   },
+   {
+    "voteId": "H2026_0323",
+    "vote": "Not Voting"
    }
   ],
   "M001208": [
@@ -85810,6 +86470,34 @@
    },
    {
     "voteId": "H2026_0316",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0323",
     "vote": "Yea"
    }
   ],
@@ -88525,6 +89213,34 @@
    {
     "voteId": "H2026_0316",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0323",
+    "vote": "Not Voting"
    }
   ],
   "S001189": [
@@ -91238,6 +91954,34 @@
    },
    {
     "voteId": "H2026_0316",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0323",
     "vote": "Yea"
    }
   ],
@@ -95927,6 +96671,34 @@
    {
     "voteId": "H2026_0316",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0323",
+    "vote": "Yea"
    }
   ],
   "F000485": [
@@ -96757,6 +97529,34 @@
    {
     "voteId": "H2026_0316",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0323",
+    "vote": "Yea"
    }
   ],
   "B001328": [
@@ -96882,6 +97682,34 @@
    },
    {
     "voteId": "H2026_0316",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0317",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0318",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0319",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0320",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0321",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0322",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0323",
     "vote": "Yea"
    }
   ]
