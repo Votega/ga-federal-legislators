@@ -1,7 +1,7 @@
 # Georgia Federal Delegation (119th Congress)
 
 _Auto-generated from [votega.org](https://votega.org) — do not edit by hand._  
-_Last updated 2026-11-15T16:10:13.330724+00:00 · 16 members (2 Senate, 14 House)._
+_Last updated 2026-11-16T15:23:16.115836+00:00 · 16 members (2 Senate, 14 House)._
 
 > Machine-readable versions: [`data/members.json`](data/members.json), [`data/members.csv`](data/members.csv). Roll-call votes: [`data/votes.csv`](data/votes.csv), [`data/member-votes.csv`](data/member-votes.csv).
 
