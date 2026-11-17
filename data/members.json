@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-16T15:23:16.115836+00:00",
+  "generatedAt": "2026-11-17T15:53:10.412576+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-11-16T15:23:09.992401+00:00",
+  "sourceGeneratedAt": "2026-11-17T15:53:02.788039+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -50,12 +50,12 @@
     "count": 58,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:07:33.134500+00:00",
+   "dataUpdatedAt": "2026-11-17T15:39:30.405524+00:00",
    "recentSponsored": [
     {
      "type": "HR",
      "number": "11010",
-     "title": "To prevent low-income seniors from losing benefits due to defaulted student loan debt by increasing the amount of benefits exempted from garnishment.",
+     "title": "POSSIBLE Act",
      "introducedDate": "2026-11-12",
      "latestAction": {
       "actionDate": "2026-11-12",
@@ -215,7 +215,7 @@
     "count": 97,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:07:35.004370+00:00",
+   "dataUpdatedAt": "2026-11-17T15:39:32.861333+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -493,7 +493,7 @@
     "count": 125,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:07:36.786027+00:00",
+   "dataUpdatedAt": "2026-11-17T15:39:36.423869+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -692,7 +692,7 @@
     "count": 578,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:07:43.950627+00:00",
+   "dataUpdatedAt": "2026-11-17T15:39:40.396766+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1023,7 +1023,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:07:46.561786+00:00",
+   "dataUpdatedAt": "2026-11-17T15:39:41.303943+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1306,7 +1306,7 @@
     "count": 2037,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:07:49.231354+00:00",
+   "dataUpdatedAt": "2026-11-17T15:39:52.348175+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -1635,7 +1635,7 @@
     "count": 563,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:09:07.051574+00:00",
+   "dataUpdatedAt": "2026-11-17T15:40:31.407445+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1969,7 +1969,7 @@
     "count": 1390,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:09:13.505339+00:00",
+   "dataUpdatedAt": "2026-11-17T15:40:41.134862+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2299,7 +2299,7 @@
     "count": 1388,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:10:05.803448+00:00",
+   "dataUpdatedAt": "2026-11-17T15:41:17.027855+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2633,7 +2633,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:10:09.874452+00:00",
+   "dataUpdatedAt": "2026-11-17T15:41:59.346929+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2932,7 +2932,7 @@
     "count": 1960,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:10:51.337978+00:00",
+   "dataUpdatedAt": "2026-11-17T15:42:27.155803+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3266,7 +3266,7 @@
     "count": 1658,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:12:13.210180+00:00",
+   "dataUpdatedAt": "2026-11-17T15:43:08.703115+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3598,7 +3598,7 @@
     "count": 6120,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:13:10.149086+00:00",
+   "dataUpdatedAt": "2026-11-17T15:43:36.466263+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3932,7 +3932,7 @@
     "count": 6378,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:16:46.346996+00:00",
+   "dataUpdatedAt": "2026-11-17T15:46:50.087116+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -4113,10 +4113,10 @@
     "url": "https://api.congress.gov/v3/member/W000790/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1315,
+    "count": 1316,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:20:12.054847+00:00",
+   "dataUpdatedAt": "2026-11-17T15:50:36.840167+00:00",
    "recentSponsored": [
     {
      "type": "S",
@@ -4440,14 +4440,14 @@
    "firstName": "Jon",
    "lastName": "Ossoff",
    "sponsoredLegislation": {
-    "count": 226,
+    "count": 227,
     "url": "https://api.congress.gov/v3/member/O000174/sponsored-legislation"
    },
    "cosponsoredLegislation": {
     "count": 838,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-16T15:20:54.726138+00:00",
+   "dataUpdatedAt": "2026-11-17T15:50:41.997373+00:00",
    "recentSponsored": [
     {
      "type": "SRES",
