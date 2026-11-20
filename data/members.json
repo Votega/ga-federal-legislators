@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-19T15:41:39.263152+00:00",
+  "generatedAt": "2026-11-20T15:19:42.963926+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-11-19T15:41:33.150207+00:00",
+  "sourceGeneratedAt": "2026-11-20T15:19:36.244702+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -47,10 +47,10 @@
     "url": "https://api.congress.gov/v3/member/M001218/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 578,
+    "count": 579,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:23:54.619520+00:00",
+   "dataUpdatedAt": "2026-11-20T15:00:21.656430+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -296,7 +296,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 24,
-    "cosponsored": 321
+    "cosponsored": 322
    },
    "committees": [
     "House Committee on Science, Space, and Technology",
@@ -374,15 +374,27 @@
    "firstName": "Everton",
    "lastName": "Blair",
    "sponsoredLegislation": {
-    "count": 7,
+    "count": 8,
     "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 60,
+    "count": 63,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:25:11.624550+00:00",
+   "dataUpdatedAt": "2026-11-20T15:01:30.889404+00:00",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "11088",
+     "title": "No Lead in Toys Act",
+     "introducedDate": "2026-11-19",
+     "latestAction": {
+      "actionDate": "2026-11-19",
+      "text": "Referred to the House Committee on Energy and Commerce."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11088"
+    },
     {
      "type": "HR",
      "number": "11010",
@@ -470,8 +482,8 @@
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 7,
-    "cosponsored": 60
+    "sponsored": 8,
+    "cosponsored": 63
    },
    "committees": [
     "House Committee on Financial Services"
@@ -546,7 +558,7 @@
     "count": 102,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:25:14.394120+00:00",
+   "dataUpdatedAt": "2026-11-20T15:01:31.732310+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -821,10 +833,10 @@
     "url": "https://api.congress.gov/v3/member/J000311/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 125,
+    "count": 126,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:25:15.969555+00:00",
+   "dataUpdatedAt": "2026-11-20T15:01:33.472976+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -904,8 +916,8 @@
      "title": "Muhammad Ali American Boxing Revival Act of 2026",
      "introducedDate": "2025-07-23",
      "latestAction": {
-      "actionDate": "2026-03-25",
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      "actionDate": "2026-11-19",
+      "text": "Passed Senate with an amendment by Unanimous Consent."
      },
      "policyArea": "Sports and Recreation",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4624"
@@ -938,7 +950,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 9,
-    "cosponsored": 125
+    "cosponsored": 126
    },
    "committees": [
     "House Committee on Oversight and Government Reform",
@@ -1023,7 +1035,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:25:19.478847+00:00",
+   "dataUpdatedAt": "2026-11-20T15:01:36.741782+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1303,10 +1315,10 @@
     "url": "https://api.congress.gov/v3/member/W000788/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 2041,
+    "count": 2048,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:25:34.613192+00:00",
+   "dataUpdatedAt": "2026-11-20T15:01:44.628774+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1317,7 +1329,7 @@
       "actionDate": "2026-11-17",
       "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
      },
-     "policyArea": null,
+     "policyArea": "Health",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11054"
     },
     {
@@ -1552,7 +1564,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 61,
-    "cosponsored": 505
+    "cosponsored": 512
    },
    "committees": [
     "House Committee on Financial Services"
@@ -1635,7 +1647,7 @@
     "count": 563,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:26:35.833122+00:00",
+   "dataUpdatedAt": "2026-11-20T15:02:54.611392+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1966,10 +1978,10 @@
     "url": "https://api.congress.gov/v3/member/M001208/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1390,
+    "count": 1391,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:26:59.394164+00:00",
+   "dataUpdatedAt": "2026-11-20T15:03:03.326938+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2215,7 +2227,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 335
+    "cosponsored": 336
    },
    "committees": [
     "House Committee on the Judiciary",
@@ -2296,10 +2308,10 @@
     "url": "https://api.congress.gov/v3/member/A000372/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1389,
+    "count": 1390,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:27:05.463094+00:00",
+   "dataUpdatedAt": "2026-11-20T15:03:44.048536+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2545,7 +2557,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 22,
-    "cosponsored": 148
+    "cosponsored": 149
    },
    "committees": [
     "House Committee on Energy and Commerce",
@@ -2633,7 +2645,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:27:20.842019+00:00",
+   "dataUpdatedAt": "2026-11-20T15:04:33.607397+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2929,10 +2941,10 @@
     "url": "https://api.congress.gov/v3/member/C001103/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1961,
+    "count": 1962,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:27:56.692224+00:00",
+   "dataUpdatedAt": "2026-11-20T15:05:23.766011+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2943,7 +2955,7 @@
       "actionDate": "2026-10-06",
       "text": "Referred to the House Committee on Energy and Commerce."
      },
-     "policyArea": null,
+     "policyArea": "Health",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1617"
     },
     {
@@ -3178,7 +3190,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 64,
-    "cosponsored": 420
+    "cosponsored": 421
    },
    "committees": [
     "House Committee on Energy and Commerce",
@@ -3266,7 +3278,7 @@
     "count": 1660,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:28:21.919344+00:00",
+   "dataUpdatedAt": "2026-11-20T15:06:00.331289+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3298,8 +3310,8 @@
      "title": "Ocmulgee Mounds National Park Redesignation Act",
      "introducedDate": "2026-06-24",
      "latestAction": {
-      "actionDate": "2026-07-01",
-      "text": "Subcommittee Hearings Held"
+      "actionDate": "2026-11-18",
+      "text": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent."
      },
      "policyArea": "Public Lands and Natural Resources",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9416"
@@ -3595,10 +3607,10 @@
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6123,
+    "count": 6124,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:29:04.636486+00:00",
+   "dataUpdatedAt": "2026-11-20T15:07:33.133949+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3844,7 +3856,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 920
+    "cosponsored": 921
    },
    "committees": [
     "House Committee on Transportation and Infrastructure",
@@ -3929,10 +3941,10 @@
     "url": "https://api.congress.gov/v3/member/B000490/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6379,
+    "count": 6381,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:32:55.561200+00:00",
+   "dataUpdatedAt": "2026-11-20T15:11:52.487199+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -4034,7 +4046,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 8,
-    "cosponsored": 408
+    "cosponsored": 410
    },
    "committees": [
     "House Committee on Appropriations"
@@ -4113,10 +4125,10 @@
     "url": "https://api.congress.gov/v3/member/W000790/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1319,
+    "count": 1322,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:37:31.959591+00:00",
+   "dataUpdatedAt": "2026-11-20T15:16:08.983957+00:00",
    "recentSponsored": [
     {
      "type": "S",
@@ -4362,7 +4374,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 29,
-    "cosponsored": 375
+    "cosponsored": 377
    },
    "committees": [
     "Senate Committee on Agriculture, Nutrition, and Forestry",
@@ -4444,10 +4456,10 @@
     "url": "https://api.congress.gov/v3/member/O000174/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 841,
+    "count": 842,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-19T15:38:33.291370+00:00",
+   "dataUpdatedAt": "2026-11-20T15:16:48.027390+00:00",
    "recentSponsored": [
     {
      "type": "S",
@@ -4693,7 +4705,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 24,
-    "cosponsored": 242
+    "cosponsored": 243
    },
    "committees": [
     "Senate Committee on Appropriations",
