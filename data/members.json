@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-20T15:19:42.963926+00:00",
+  "generatedAt": "2026-11-21T14:34:34.038670+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-11-20T15:19:36.244702+00:00",
+  "sourceGeneratedAt": "2026-11-21T14:34:27.530556+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0"
@@ -50,7 +50,7 @@
     "count": 579,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:00:21.656430+00:00",
+   "dataUpdatedAt": "2026-11-21T14:21:40.774331+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -378,10 +378,10 @@
     "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 63,
+    "count": 64,
     "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:01:30.889404+00:00",
+   "dataUpdatedAt": "2026-11-21T14:21:51.991976+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -483,7 +483,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 8,
-    "cosponsored": 63
+    "cosponsored": 64
    },
    "committees": [
     "House Committee on Financial Services"
@@ -558,7 +558,7 @@
     "count": 102,
     "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:01:31.732310+00:00",
+   "dataUpdatedAt": "2026-11-21T14:21:52.075124+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -836,7 +836,7 @@
     "count": 126,
     "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:01:33.472976+00:00",
+   "dataUpdatedAt": "2026-11-21T14:21:54.822696+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -916,8 +916,8 @@
      "title": "Muhammad Ali American Boxing Revival Act of 2026",
      "introducedDate": "2025-07-23",
      "latestAction": {
-      "actionDate": "2026-11-19",
-      "text": "Passed Senate with an amendment by Unanimous Consent."
+      "actionDate": "2026-11-20",
+      "text": "Message on Senate action sent to the House."
      },
      "policyArea": "Sports and Recreation",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4624"
@@ -1035,7 +1035,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:01:36.741782+00:00",
+   "dataUpdatedAt": "2026-11-21T14:21:55.175578+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1315,10 +1315,10 @@
     "url": "https://api.congress.gov/v3/member/W000788/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 2048,
+    "count": 2052,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:01:44.628774+00:00",
+   "dataUpdatedAt": "2026-11-21T14:21:55.796877+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1564,7 +1564,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 61,
-    "cosponsored": 512
+    "cosponsored": 516
    },
    "committees": [
     "House Committee on Financial Services"
@@ -1647,7 +1647,7 @@
     "count": 563,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:02:54.611392+00:00",
+   "dataUpdatedAt": "2026-11-21T14:22:35.824095+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1981,7 +1981,7 @@
     "count": 1391,
     "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:03:03.326938+00:00",
+   "dataUpdatedAt": "2026-11-21T14:22:36.573968+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2311,7 +2311,7 @@
     "count": 1390,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:03:44.048536+00:00",
+   "dataUpdatedAt": "2026-11-21T14:22:42.426705+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2645,7 +2645,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:04:33.607397+00:00",
+   "dataUpdatedAt": "2026-11-21T14:23:10.759879+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2944,7 +2944,7 @@
     "count": 1962,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:05:23.766011+00:00",
+   "dataUpdatedAt": "2026-11-21T14:23:25.872338+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3278,7 +3278,7 @@
     "count": 1660,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:06:00.331289+00:00",
+   "dataUpdatedAt": "2026-11-21T14:24:06.294081+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -3607,10 +3607,10 @@
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6124,
+    "count": 6125,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:07:33.133949+00:00",
+   "dataUpdatedAt": "2026-11-21T14:24:57.576719+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3856,7 +3856,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 921
+    "cosponsored": 922
    },
    "committees": [
     "House Committee on Transportation and Infrastructure",
@@ -3944,7 +3944,7 @@
     "count": 6381,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:11:52.487199+00:00",
+   "dataUpdatedAt": "2026-11-21T14:27:46.710853+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -4121,15 +4121,39 @@
    "firstName": "Raphael",
    "lastName": "Warnock",
    "sponsoredLegislation": {
-    "count": 293,
+    "count": 295,
     "url": "https://api.congress.gov/v3/member/W000790/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1322,
+    "count": 1323,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:16:08.983957+00:00",
+   "dataUpdatedAt": "2026-11-21T14:32:01.761111+00:00",
    "recentSponsored": [
+    {
+     "type": "SRES",
+     "number": "974",
+     "title": "A resolution designating November 29, 2026, as \"Drive Safer Sunday\".",
+     "introducedDate": "2026-11-20",
+     "latestAction": {
+      "actionDate": "2026-11-20",
+      "text": "Referred to the Committee on the Judiciary."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/974"
+    },
+    {
+     "type": "SRES",
+     "number": "971",
+     "title": "A resolution expressing support for the designation of November 8, 2026, as \"National First-Generation College Celebration Day\".",
+     "introducedDate": "2026-11-20",
+     "latestAction": {
+      "actionDate": "2026-11-20",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/971"
+    },
     {
      "type": "S",
      "number": "5690",
@@ -4345,36 +4369,12 @@
      },
      "policyArea": "Education",
      "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2323"
-    },
-    {
-     "type": "S",
-     "number": "2322",
-     "title": "Appraisal Modernization Act",
-     "introducedDate": "2025-07-17",
-     "latestAction": {
-      "actionDate": "2025-07-17",
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2322"
-    },
-    {
-     "type": "S",
-     "number": "2131",
-     "title": "Dads Matter Act of 2025",
-     "introducedDate": "2025-06-18",
-     "latestAction": {
-      "actionDate": "2025-06-18",
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2131"
     }
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 29,
-    "cosponsored": 377
+    "sponsored": 31,
+    "cosponsored": 378
    },
    "committees": [
     "Senate Committee on Agriculture, Nutrition, and Forestry",
@@ -4456,15 +4456,15 @@
     "url": "https://api.congress.gov/v3/member/O000174/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 842,
+    "count": 843,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-11-20T15:16:48.027390+00:00",
+   "dataUpdatedAt": "2026-11-21T14:32:22.603038+00:00",
    "recentSponsored": [
     {
      "type": "S",
      "number": "5727",
-     "title": "A bill to amend the Internal Revenue Code of 1986 to expand the military housing allowance exclusion for purposes of determining area gross income in determining whether a residential rental property is a qualified residential rental property for purposes of the exempt facility bond rules.",
+     "title": "Military Families Affordable Homes Act",
      "introducedDate": "2026-11-17",
      "latestAction": {
       "actionDate": "2026-11-17",
@@ -4705,7 +4705,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 24,
-    "cosponsored": 243
+    "cosponsored": 244
    },
    "committees": [
     "Senate Committee on Appropriations",
