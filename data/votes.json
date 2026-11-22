@@ -1,17 +1,17 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-15T16:10:10.908426+00:00",
+  "generatedAt": "2026-11-22T16:58:50.081149+00:00",
   "congress": 119,
   "sessionName": "119th Congress",
   "source": "Clerk of the House + Senate.gov roll-call XML",
   "scope": "every recorded roll call of the Congress, including failed measures, amendments, procedural motions and Senate nominations",
-  "totalVotes": 1606,
-  "houseVotes": 685,
-  "senateVotes": 921,
-  "billLessVotes": 469,
+  "totalVotes": 1627,
+  "houseVotes": 689,
+  "senateVotes": 938,
+  "billLessVotes": 480,
   "memberCount": 18,
   "updateMode": "incremental",
-  "rollCallsFetchedThisRun": 12,
+  "rollCallsFetchedThisRun": 21,
   "sittingDelegation": 16,
   "sittingMembersWithVotes": 16,
   "staleVoteRecords": 2
@@ -30410,6 +30410,567 @@
     }
    }
   },
+  "S119_2_00263": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Daniel Desmond Domenico, of Colorado, to be United States Circuit Judge for the Tenth Circuit",
+   "motionText": "On the Nomination",
+   "date": "2026-11-16",
+   "yea": 51,
+   "nay": 46,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 263,
+   "result": "Pass",
+   "resultText": "Nomination Confirmed",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 0,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00264": {
+   "bill": "H.R. 2347",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+   "billType": "hr",
+   "billNumber": "2347",
+   "title": "In the nature of a substitute.",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-16",
+   "yea": 70,
+   "nay": 27,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 264,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 20,
+     "nay": 24,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 2,
+     "other": 2
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00265": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Anna St. John, of Louisiana, to be United States Circuit Judge for the Fifth Circuit",
+   "motionText": "On the Nomination",
+   "date": "2026-11-17",
+   "yea": 52,
+   "nay": 46,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 265,
+   "result": "Pass",
+   "resultText": "Nomination Confirmed",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 52,
+     "nay": 0,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00266": {
+   "bill": "H.R. 2347",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+   "billType": "hr",
+   "billNumber": "2347",
+   "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact.",
+   "motionText": "On the Motion",
+   "date": "2026-11-18",
+   "yea": 70,
+   "nay": 26,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 266,
+   "result": "Pass",
+   "resultText": "Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 18,
+     "nay": 24,
+     "other": 3
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00267": {
+   "bill": "H.R. 2347",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+   "billType": "hr",
+   "billNumber": "2347",
+   "title": "In the nature of a substitute.",
+   "motionText": "On the Amendment",
+   "date": "2026-11-18",
+   "yea": 69,
+   "nay": 27,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 267,
+   "result": "Pass",
+   "resultText": "Amendment Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 17,
+     "nay": 25,
+     "other": 3
+    },
+    "Republican": {
+     "yea": 51,
+     "nay": 1,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00268": {
+   "bill": "H.R. 2347",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+   "billType": "hr",
+   "billNumber": "2347",
+   "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact.",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-18",
+   "yea": 65,
+   "nay": 31,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 268,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 14,
+     "nay": 28,
+     "other": 3
+    },
+    "Republican": {
+     "yea": 50,
+     "nay": 2,
+     "other": 1
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00269": {
+   "bill": "H.Con.Res. 93",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/93",
+   "billType": "hconres",
+   "billNumber": "93",
+   "title": "A concurrent resolution directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+   "motionText": "On the Concurrent Resolution",
+   "date": "2026-11-19",
+   "yea": 48,
+   "nay": 51,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 269,
+   "result": "Fail",
+   "resultText": "Concurrent Resolution Rejected",
+   "partyTally": {
+    "Democratic": {
+     "yea": 43,
+     "nay": 1,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 3,
+     "nay": 50,
+     "other": 0
+    },
+    "Independent": {
+     "yea": 2,
+     "nay": 0,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00270": {
+   "bill": "H.R. 2347",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2347",
+   "billType": "hr",
+   "billNumber": "2347",
+   "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact.",
+   "motionText": "On Passage of the Bill",
+   "date": "2026-11-19",
+   "yea": 62,
+   "nay": 33,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 270,
+   "result": "Pass",
+   "resultText": "Bill Passed",
+   "partyTally": {
+    "Democratic": {
+     "yea": 14,
+     "nay": 30,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 47,
+     "nay": 2,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 1,
+     "nay": 1,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00271": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Richard Wesley Bennett, of Texas, to be United States District Judge for the Southern District of Texas",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-19",
+   "yea": 48,
+   "nay": 46,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 271,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 44,
+     "other": 1
+    },
+    "Republican": {
+     "yea": 48,
+     "nay": 0,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00272": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Richard Wesley Bennett, of Texas, to be United States District Judge for the Southern District of Texas",
+   "motionText": "On the Nomination",
+   "date": "2026-11-20",
+   "yea": 49,
+   "nay": 43,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 272,
+   "result": "Pass",
+   "resultText": "Nomination Confirmed",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 41,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00273": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Courtney Leigh Coker, of Texas, to be United States District Judge for the Northern District of Texas",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-20",
+   "yea": 49,
+   "nay": 43,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 273,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 41,
+     "other": 4
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00274": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Courtney Leigh Coker, of Texas, to be United States District Judge for the Northern District of Texas",
+   "motionText": "On the Nomination",
+   "date": "2026-11-20",
+   "yea": 49,
+   "nay": 41,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 274,
+   "result": "Pass",
+   "resultText": "Nomination Confirmed",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 39,
+     "other": 6
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 2,
+     "other": 0
+    }
+   }
+  },
+  "S119_2_00275": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Kyle Frederick Reardon, of Alaska, to be United States District Judge for the District of Alaska",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-20",
+   "yea": 55,
+   "nay": 31,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 275,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 6,
+     "nay": 31,
+     "other": 8
+    },
+    "Republican": {
+     "yea": 49,
+     "nay": 0,
+     "other": 4
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
+  "S119_2_00276": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Daniel Lewis Ballou, of Kentucky, to be United States District Judge for the Eastern District of Kentucky",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-20",
+   "yea": 48,
+   "nay": 36,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 276,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 36,
+     "other": 9
+    },
+    "Republican": {
+     "yea": 48,
+     "nay": 0,
+     "other": 5
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
+  "S119_2_00277": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Robert E. Long, Jr., of Florida, to be United States District Judge for the Middle District of Florida",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-20",
+   "yea": 47,
+   "nay": 35,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 277,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 35,
+     "other": 10
+    },
+    "Republican": {
+     "yea": 47,
+     "nay": 0,
+     "other": 6
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
+  "S119_2_00278": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Peter M. Mansfield, of Louisiana, to be United States District Judge for the Eastern District of Louisiana",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-20",
+   "yea": 48,
+   "nay": 31,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 278,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 2,
+     "nay": 31,
+     "other": 12
+    },
+    "Republican": {
+     "yea": 46,
+     "nay": 0,
+     "other": 7
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
+  "S119_2_00279": {
+   "bill": null,
+   "billUrl": null,
+   "billType": null,
+   "billNumber": null,
+   "title": "Jesus A. Osete, of Missouri, to be United States District Judge for the Western District of Missouri",
+   "motionText": "On the Cloture Motion",
+   "date": "2026-11-20",
+   "yea": 45,
+   "nay": 33,
+   "chamber": "Senate",
+   "session": 2,
+   "rollNumber": 279,
+   "result": "Pass",
+   "resultText": "Cloture Motion Agreed to",
+   "partyTally": {
+    "Democratic": {
+     "yea": 0,
+     "nay": 33,
+     "other": 12
+    },
+    "Republican": {
+     "yea": 45,
+     "nay": 0,
+     "other": 8
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 2
+    }
+   }
+  },
   "H2025_0001": {
    "bill": null,
    "billUrl": null,
@@ -52998,6 +53559,138 @@
      "other": 0
     }
    }
+  },
+  "H2026_0324": {
+   "bill": "H.R. 8483",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8483",
+   "billType": "hr",
+   "billNumber": "8483",
+   "title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act",
+   "motionText": "On Motion to Suspend the Rules and Pass, as Amended",
+   "date": "2026-11-17",
+   "yea": 398,
+   "nay": 0,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 324,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 199,
+     "nay": 0,
+     "other": 19
+    },
+    "Democratic": {
+     "yea": 199,
+     "nay": 0,
+     "other": 15
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 1
+    }
+   }
+  },
+  "H2026_0325": {
+   "bill": "H.R. 9600",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9600",
+   "billType": "hr",
+   "billNumber": "9600",
+   "title": "Common Sense 250 Act",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-11-17",
+   "yea": 365,
+   "nay": 36,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 325,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 163,
+     "nay": 36,
+     "other": 19
+    },
+    "Democratic": {
+     "yea": 202,
+     "nay": 0,
+     "other": 12
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 1
+    }
+   }
+  },
+  "H2026_0326": {
+   "bill": "H.R. 9640",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9640",
+   "billType": "hr",
+   "billNumber": "9640",
+   "title": "Earth MRI Reauthorization Act",
+   "motionText": "On Motion to Suspend the Rules and Pass, as Amended",
+   "date": "2026-11-18",
+   "yea": 396,
+   "nay": 14,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 326,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 190,
+     "nay": 14,
+     "other": 14
+    },
+    "Democratic": {
+     "yea": 206,
+     "nay": 0,
+     "other": 8
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 1
+    }
+   }
+  },
+  "H2026_0327": {
+   "bill": "H.R. 4464",
+   "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4464",
+   "billType": "hr",
+   "billNumber": "4464",
+   "title": "Preventive Health Savings Act",
+   "motionText": "On Motion to Suspend the Rules and Pass",
+   "date": "2026-11-19",
+   "yea": 401,
+   "nay": 0,
+   "chamber": "House",
+   "session": 2,
+   "rollNumber": 327,
+   "result": "Pass",
+   "resultText": "Passed",
+   "partyTally": {
+    "Republican": {
+     "yea": 197,
+     "nay": 0,
+     "other": 21
+    },
+    "Democratic": {
+     "yea": 204,
+     "nay": 0,
+     "other": 10
+    },
+    "Independent": {
+     "yea": 0,
+     "nay": 0,
+     "other": 1
+    }
+   }
   }
  },
  "memberVotes": {
@@ -56685,6 +57378,74 @@
    {
     "voteId": "S119_2_00262",
     "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00263",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00264",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00265",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00266",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00267",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00268",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00269",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00270",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00271",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00272",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00273",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00274",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00275",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00276",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00277",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00278",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00279",
+    "vote": "Nay"
    }
   ],
   "W000790": [
@@ -60371,6 +61132,74 @@
    {
     "voteId": "S119_2_00262",
     "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00263",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00264",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00265",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00266",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00267",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00268",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00269",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "S119_2_00270",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00271",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00272",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00273",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00274",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00275",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00276",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00277",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00278",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "S119_2_00279",
+    "vote": "Nay"
    }
   ],
   "A000372": [
@@ -63112,6 +63941,22 @@
    },
    {
     "voteId": "H2026_0323",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
     "vote": "Yea"
    }
   ],
@@ -65855,6 +66700,22 @@
    {
     "voteId": "H2026_0323",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
+    "vote": "Yea"
    }
   ],
   "C001103": [
@@ -68596,6 +69457,22 @@
    },
    {
     "voteId": "H2026_0323",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
     "vote": "Yea"
    }
   ],
@@ -71339,6 +72216,22 @@
    {
     "voteId": "H2026_0323",
     "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0327",
+    "vote": "Yea"
    }
   ],
   "C001129": [
@@ -74080,6 +74973,22 @@
    },
    {
     "voteId": "H2026_0323",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
     "vote": "Yea"
    }
   ],
@@ -78273,6 +79182,22 @@
    {
     "voteId": "H2026_0323",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
+    "vote": "Yea"
    }
   ],
   "J000288": [
@@ -81015,6 +81940,22 @@
    {
     "voteId": "H2026_0323",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
+    "vote": "Not Voting"
    }
   ],
   "L000583": [
@@ -83756,6 +84697,22 @@
    },
    {
     "voteId": "H2026_0323",
+    "vote": "Not Voting"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Not Voting"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Not Voting"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
     "vote": "Not Voting"
    }
   ],
@@ -86499,6 +87456,22 @@
    {
     "voteId": "H2026_0323",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
+    "vote": "Yea"
    }
   ],
   "M001218": [
@@ -89241,6 +90214,22 @@
    {
     "voteId": "H2026_0323",
     "vote": "Not Voting"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Nay"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
+    "vote": "Yea"
    }
   ],
   "S001189": [
@@ -91982,6 +92971,22 @@
    },
    {
     "voteId": "H2026_0323",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
     "vote": "Yea"
    }
   ],
@@ -96699,6 +97704,22 @@
    {
     "voteId": "H2026_0323",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
+    "vote": "Yea"
    }
   ],
   "F000485": [
@@ -97557,6 +98578,22 @@
    {
     "voteId": "H2026_0323",
     "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
+    "vote": "Yea"
    }
   ],
   "B001328": [
@@ -97710,6 +98747,22 @@
    },
    {
     "voteId": "H2026_0323",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0324",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0325",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0326",
+    "vote": "Yea"
+   },
+   {
+    "voteId": "H2026_0327",
     "vote": "Yea"
    }
   ]
