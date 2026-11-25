@@ -59,7 +59,7 @@ Each Congress is frozen twice: a **provisional** freeze while it is still sittin
     "generatedAt": "2026-07-16T12:00:00+00:00",
     "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
     "sourceGeneratedAt": "2026-07-16T08:19:05.444117",
-    "count": 15,
+    "count": 16,
     "congress": 119,
     "schemaVersion": "1.0.0"
   },
@@ -151,37 +151,106 @@ Published as-is from votega.org's `federal-member-votes.json` — no filtering n
 
 ### Top-level structure
 
+Samples below are real records from November 2026. Counts and dates change with every update.
+
 ```json
 {
   "metadata": {
-    "generatedAt": "2026-07-12T10:40:16.510045",
+    "generatedAt": "2026-11-22T16:58:50.081149+00:00",
     "congress": 119,
     "sessionName": "119th Congress",
-    "source": "Congress.gov API + Clerk of House + Senate.gov",
-    "totalVotes": 196
+    "source": "Clerk of the House + Senate.gov roll-call XML",
+    "scope": "every recorded roll call of the Congress, including failed measures, amendments, procedural motions and Senate nominations",
+    "totalVotes": 1627,
+    "houseVotes": 689,
+    "senateVotes": 938,
+    "billLessVotes": 480,
+    "memberCount": 18,
+    "updateMode": "incremental",
+    "rollCallsFetchedThisRun": 21,
+    "sittingDelegation": 16,
+    "sittingMembersWithVotes": 16,
+    "staleVoteRecords": 2
   },
   "votes": { "H2026_0181": { ... } },
   "memberVotes": { "A000372": [ { "voteId": "H2026_0181", "vote": "Yea" } ] }
 }
 ```
 
+`memberVotes` can include members who left during the Congress (`staleVoteRecords` counts them), so `memberCount` can be larger than `sittingDelegation`.
+
 ### `votes{}` — keyed by vote ID
+
+A House vote on a bill:
 
 ```json
 {
-  "bill": "S. 1003",
-  "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1003",
-  "title": "Lulu's Law",
-  "motionText": "On Motion to Suspend the Rules and Pass",
-  "date": "2026-05-20",
-  "yea": 401,
-  "nay": 6,
-  "chamber": "House",
-  "result": "Pass"
+  "H2026_0181": {
+    "bill": "S. 1003",
+    "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1003",
+    "billType": "s",
+    "billNumber": "1003",
+    "title": "Lulu’s Law",
+    "motionText": "On Motion to Suspend the Rules and Pass",
+    "date": "2026-05-20",
+    "yea": 401,
+    "nay": 6,
+    "chamber": "House",
+    "session": 2,
+    "rollNumber": 181,
+    "result": "Pass",
+    "resultText": "Passed",
+    "partyTally": {
+      "Republican": { "yea": 197, "nay": 6, "other": 14 },
+      "Democratic": { "yea": 203, "nay": 0, "other": 9 },
+      "Independent": { "yea": 1, "nay": 0, "other": 0 }
+    }
+  }
 }
 ```
 
-`yea`/`nay` are chamber-wide totals (all voting members, not just Georgia's). `chamber` is `"House"` or `"Senate"`. `result` is `"Pass"` or `"Fail"`.
+A Senate en bloc vote, which has no bill:
+
+```json
+{
+  "S119_1_00547": {
+    "bill": null,
+    "billUrl": null,
+    "billType": null,
+    "billNumber": null,
+    "title": "En bloc: 107 nominations, including Paul Atkins",
+    "motionText": "On the Nomination",
+    "date": "2025-10-07",
+    "yea": 51,
+    "nay": 47,
+    "chamber": "Senate",
+    "session": 1,
+    "rollNumber": 547,
+    "result": "Pass",
+    "resultText": "Nomination Confirmed",
+    "partyTally": {
+      "Democratic": { "yea": 0, "nay": 45, "other": 0 },
+      "Republican": { "yea": 51, "nay": 0, "other": 2 },
+      "Independent": { "yea": 0, "nay": 2, "other": 0 }
+    },
+    "documentType": "PN",
+    "nomineeCount": 107
+  }
+}
+```
+
+| Field | Type | Notes |
+|-------|------|-------|
+| `bill`, `billUrl`, `billType`, `billNumber` | string \| null | **`null` on any vote that is not on a measure**, such as a nomination, a quorum call or a motion to adjourn |
+| `title` | string \| null | `null` on some votes |
+| `motionText` | string | The question, as the chamber words it |
+| `date` | string | `YYYY-MM-DD` |
+| `yea`, `nay` | integer | Chamber-wide totals (all voting members, not just Georgia's) |
+| `chamber` | string | `"House"` or `"Senate"` |
+| `session`, `rollNumber` | integer | Session of the Congress (1 or 2) and the chamber's roll call number |
+| `result` | string | `"Pass"` or `"Fail"`, except an election of the Speaker, which gives the winner's name |
+| `resultText` | string | The result as the chamber words it |
+| `partyTally` | object \| null | Yea, nay and other by party; `null` for an election of the Speaker |
 
 Senate votes also carry two fields:
 
@@ -210,7 +279,7 @@ When `nomineeCount` is more than 1 the vote is **en bloc**, and its `title` read
 ]
 ```
 
-Only covers votes cast by Georgia's own delegation — a House vote array never contains a Senate roll call and vice versa, since a member only votes in their own chamber. `vote` is one of `"Yea"`, `"Nay"`, `"Not Voting"`, `"Absent"` (Congress.gov's `"Present"` is normalized to `"Not Voting"`; `"Excused"` is normalized to `"Absent"`).
+Only covers votes cast by Georgia's own delegation — a House vote array never contains a Senate roll call and vice versa, since a member only votes in their own chamber. `vote` is normally `"Yea"`, `"Nay"`, `"Not Voting"` or `"Absent"` (the source's `"Present"` becomes `"Not Voting"` and `"Excused"` becomes `"Absent"`; `"Absent"` may not occur in a given Congress). **In an election of the Speaker it is the name voted for**, e.g. `"Jeffries"`.
 
 ---
 
@@ -244,7 +313,7 @@ Source data comes from the [Congress.gov API](https://api.congress.gov), the Cle
 - **`recentSponsored` and `committees` are Georgia-specific enrichment.** votega.org's full national roster only fetches per-member sponsored-legislation detail for the Georgia delegation, to avoid 500+ extra Congress.gov API calls on every run — that's why it's present here on every member.
 - **`votes.json` records every recorded roll call**, including failed measures, amendments, procedural motions and Senate nominations. Voice votes and unanimous-consent agreements are not recorded by name, so they cannot appear.
 - **Committee names** come from the community-maintained [`unitedstates/congress-legislators`](https://github.com/unitedstates/congress-legislators) project, not Congress.gov directly.
-- This dataset covers the **119th Congress** only.
+- **`data/` covers the current Congress only.** Check `metadata.congress` or the `congress` column; finished Congresses are under [`sessions/`](sessions).
 
 ## License
 [CC-BY-SA 4.0](https://github.com/Votega/ga-federal-legislators?tab=CC-BY-SA-4.0-1-ov-file)
