@@ -2,6 +2,8 @@
  "bioguideId": "W000790",
  "congress": 119,
  "actions": [
+  "Referred to the Committee on the Judiciary. (text: CR S5846)",
+  "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5847; text: CR S5845)",
   "Read twice and referred to the Committee on Energy and Natural Resources under authority of the order of the Senate of 09/30/2026.",
   "Read twice and referred to the Committee on Finance.",
   "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4570-4571)",
@@ -18,7 +20,10 @@
   "Committee on Health, Education, Labor, and Pensions. Hearings held.",
   "Read twice and referred to the Committee on the Judiciary.",
   "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S76; text: CR S81)",
-  "Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026.",
+  "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.",
+  "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
+  "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5711-5714; text: CR S5725)",
+  "Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)",
   "Read twice and referred to the Committee on Foreign Relations.",
   "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186; text: CR S5176)",
   "Referred to the Committee on the Judiciary. (text: CR S5175-5176)",
@@ -33,7 +38,6 @@
   "Held at the desk.",
   "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4530; text: CR S4525)",
   "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S4365; text: CR S4392)",
-  "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.",
   "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
   "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S4233)",
   "Placed on Senate Legislative Calendar under General Orders. Calendar No. 496.",
@@ -78,7 +82,7 @@
   "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S397; text: CR S381)",
   "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S263; text: CR S261)",
   "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S8893; text: CR S8925-8926)",
-  "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+  "Placed on Senate Legislative Calendar under General Orders. Calendar No. 693.",
   "Placed on Senate Legislative Calendar under General Orders. Calendar No. 94.",
   "Placed on Senate Legislative Calendar under General Orders. Calendar No. 23.",
   "Became Public Law No: 119-89.",
@@ -174,21 +178,21 @@
   "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S231-232)"
  ],
  "policyAreas": [
+  "Transportation and Public Works",
+  "Education",
   "Public Lands and Natural Resources",
   "Taxation",
   "Health",
   "Water Resources Development",
   "International Affairs",
-  "Education",
   "Finance and Financial Sector",
   "Arts, Culture, Religion",
   "Government Operations and Politics",
-  "Transportation and Public Works",
   "Armed Forces and National Security",
   "Agriculture and Food",
+  "Congress",
   "Energy",
   "Environmental Protection",
-  "Congress",
   "Crime and Law Enforcement",
   "Foreign Trade and International Finance",
   "Law",
@@ -205,13 +209,31 @@
  ],
  "primary": [
   [
+   "SRES",
+   "974",
+   "A resolution designating November 29, 2026, as \"Drive Safer Sunday\".",
+   "2026-11-20",
+   "2026-11-20",
+   0,
+   0
+  ],
+  [
+   "SRES",
+   "971",
+   "A resolution expressing support for the designation of November 8, 2026, as \"National First-Generation College Celebration Day\".",
+   "2026-11-20",
+   "2026-11-20",
+   1,
+   1
+  ],
+  [
    "S",
    "5690",
    "Renewing the Dream Act",
    "2026-10-15",
    "2026-10-15",
-   0,
-   0
+   2,
+   2
   ],
   [
    "S",
@@ -219,8 +241,8 @@
    "A bill to amend the Internal Revenue Code of 1986 to provide parity in the taxation of professional sports franchises under the limitation on the deduction for certain employee renumeration, and for other purposes.",
    "2026-09-30",
    "2026-09-30",
-   1,
-   1
+   3,
+   3
   ],
   [
    "SRES",
@@ -228,8 +250,8 @@
    "A resolution celebrating the 80th anniversary of the Centers for Disease Control and Prevention, the premier public health institute of the United States.",
    "2026-08-08",
    "2026-08-08",
-   2,
-   2
+   4,
+   4
   ],
   [
    "S",
@@ -237,8 +259,8 @@
    "Securing America's Water Supply Act",
    "2026-07-14",
    "2026-07-14",
-   3,
-   3
+   5,
+   5
   ],
   [
    "SJRES",
@@ -246,8 +268,8 @@
    "A joint resolution to direct the removal of United States Armed Forces from hostilities within or against the Islamic Republic of Iran that have not been authorized by Congress.",
    "2026-04-13",
    "2026-06-16",
-   4,
-   4
+   6,
+   6
   ],
   [
    "S",
@@ -255,8 +277,8 @@
    "Kira Johnson Act",
    "2026-03-25",
    "2026-03-25",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -264,8 +286,8 @@
    "HBCU Research Capacity Act",
    "2026-03-24",
    "2026-03-24",
-   5,
-   5
+   7,
+   1
   ],
   [
    "SJRES",
@@ -273,8 +295,8 @@
    "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt\".",
    "2026-03-19",
    "2026-05-13",
-   6,
-   6
+   8,
+   7
   ],
   [
    "SJRES",
@@ -282,8 +304,8 @@
    "A joint resolution providing for congressional disapproval under chapter 8 of  title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Fair Credit Reporting; Name-Only Matching Procedures\".",
    "2026-03-19",
    "2026-05-13",
-   7,
-   6
+   9,
+   7
   ],
   [
    "S",
@@ -291,8 +313,8 @@
    "Student Loan Marriage Penalty Elimination Act of 2026",
    "2026-03-17",
    "2026-03-17",
-   1,
-   1
+   3,
+   3
   ],
   [
    "SRES",
@@ -300,8 +322,8 @@
    "A resolution honoring the life and legacy of Reverend Richard Smallwood, a world-class composer, pianist, and arranger.",
    "2026-01-15",
    "2026-01-15",
-   8,
-   7
+   10,
+   8
   ],
   [
    "SRES",
@@ -309,8 +331,8 @@
    "Original Resolution Honoring Alpha Phi Alpha",
    "2025-12-08",
    "2025-12-08",
-   9,
-   8
+   11,
+   9
   ],
   [
    "SRES",
@@ -318,8 +340,8 @@
    "A resolution designating November 30, 2025, as \"Drive Safer Sunday\".",
    "2025-11-20",
    "2025-12-02",
-   10,
-   9
+   12,
+   0
   ],
   [
    "S",
@@ -327,7 +349,7 @@
    "ANCHOR for Military Families Act",
    "2025-11-18",
    "2025-11-18",
-   11,
+   13,
    10
   ],
   [
@@ -336,7 +358,7 @@
    "Commissary Healthy Options and servicemember Welfare (CHOW) Act",
    "2025-09-11",
    "2025-09-11",
-   11,
+   13,
    10
   ],
   [
@@ -345,8 +367,8 @@
    "Catastrophic Specialty Hospital Act of 2025",
    "2025-07-31",
    "2025-07-31",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -354,8 +376,8 @@
    "Fair Debt Collection Practices for Servicemembers Act",
    "2025-07-24",
    "2025-07-24",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -363,8 +385,8 @@
    "HEADWAY Act",
    "2025-07-17",
    "2026-03-19",
-   13,
-   5
+   15,
+   1
   ],
   [
    "S",
@@ -372,8 +394,8 @@
    "Appraisal Modernization Act",
    "2025-07-17",
    "2025-07-17",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -381,8 +403,8 @@
    "Dads Matter Act of 2025",
    "2025-06-18",
    "2025-06-18",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -390,8 +412,8 @@
    "ASSIST Act",
    "2025-06-12",
    "2025-06-12",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -399,7 +421,7 @@
    "BARK Act of 2025",
    "2025-06-04",
    "2025-06-04",
-   14,
+   16,
    11
   ],
   [
@@ -408,8 +430,8 @@
    "Disaster Related Extension of Deadlines Act",
    "2025-04-10",
    "2025-04-10",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -417,7 +439,7 @@
    "BAH Restoration Act",
    "2025-03-25",
    "2025-03-25",
-   11,
+   13,
    10
   ],
   [
@@ -426,8 +448,8 @@
    "Stop Predatory Investing Act",
    "2025-03-11",
    "2025-03-11",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -435,8 +457,8 @@
    "Rent Relief Act of 2025",
    "2025-03-11",
    "2025-03-11",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -444,8 +466,8 @@
    "Downpayment Toward Equity Act of 2025",
    "2025-03-11",
    "2025-03-11",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -453,8 +475,8 @@
    "Capping Prescription Costs Act of 2025",
    "2025-02-11",
    "2025-02-11",
-   5,
-   2
+   7,
+   4
   ],
   [
    "SRES",
@@ -462,19 +484,64 @@
    "A resolution honoring the life and legacy of President Jimmy Carter and commending President Jimmy Carter for his life-long career of public service, humanitarian leadership, diplomacy, and courageous advocacy.",
    "2025-01-09",
    "2025-01-09",
-   15,
-   8
+   17,
+   9
   ]
  ],
  "cosponsored": [
+  [
+   "S",
+   "5819",
+   "A bill to amend title 28, United States Code, to authorize additional judges for the circuit and district courts, to require a study on the composition of certain judicial circuits, and for other purposes.",
+   "2026-11-20",
+   "2026-11-20",
+   16,
+   -1
+  ],
+  [
+   "SRES",
+   "966",
+   "A resolution designating November 19, 2026, as \"National Rural Health Day\".",
+   "2026-11-19",
+   "2026-11-19",
+   18,
+   4
+  ],
+  [
+   "S",
+   "5808",
+   "A bill to amend the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to allow individuals with drug offenses to receive benefits under the supplemental nutrition assistance program, and for other purposes.",
+   "2026-11-19",
+   "2026-11-19",
+   19,
+   -1
+  ],
+  [
+   "SRES",
+   "959",
+   "A resolution recognizing the death of John Davison \"Jay\" Rockefeller IV, former Senator for the State of West Virginia.",
+   "2026-11-17",
+   "2026-11-17",
+   20,
+   12
+  ],
+  [
+   "S",
+   "2840",
+   "Financial Exploitation Prevention Act of 2025",
+   "2026-11-10",
+   "2025-09-17",
+   14,
+   7
+  ],
   [
    "SRES",
    "950",
    "A resolution designating the week of September 14 through September 18, 2026, as \"National Clean Energy Week\".",
    "2026-10-15",
-   "2026-10-15",
-   16,
-   12
+   "2026-11-10",
+   21,
+   13
   ],
   [
    "S",
@@ -482,8 +549,8 @@
    "Protecting Human Rights and Public Health in Foreign Assistance Act",
    "2026-09-30",
    "2026-04-29",
-   17,
-   4
+   22,
+   6
   ],
   [
    "S",
@@ -491,8 +558,8 @@
    "PrEP Access and Coverage Act of 2026",
    "2026-09-30",
    "2026-03-04",
-   5,
-   2
+   7,
+   4
   ],
   [
    "SRES",
@@ -500,7 +567,7 @@
    "A resolution expressing support for the designation of October 4 through October 10, 2026, as \"National 4-H Week\".",
    "2026-09-29",
    "2026-09-29",
-   18,
+   23,
    11
   ],
   [
@@ -509,7 +576,7 @@
    "A resolution designating October 26, 2026, as the \"Day of the Deployed.\"",
    "2026-09-29",
    "2026-09-29",
-   18,
+   23,
    10
   ],
   [
@@ -518,8 +585,8 @@
    "A resolution expressing concern about the growing problem of book banning, and the proliferation of threats to freedom of expression in the United States.",
    "2026-09-29",
    "2026-09-29",
-   19,
-   7
+   24,
+   8
   ],
   [
    "SRES",
@@ -527,8 +594,8 @@
    "A resolution requesting information on Israel's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
    "2026-09-29",
    "2026-09-29",
-   20,
-   4
+   25,
+   6
   ],
   [
    "S",
@@ -536,8 +603,8 @@
    "Data Center Water and Energy Transparency Act of 2026",
    "2026-09-29",
    "2026-03-25",
-   21,
-   13
+   26,
+   14
   ],
   [
    "SRES",
@@ -545,8 +612,8 @@
    "A resolution relating to the death of the Honorable Nancy Kassebaum, former United States Senator for the State of Kansas.",
    "2026-09-28",
    "2026-09-28",
-   22,
-   14
+   27,
+   12
   ],
   [
    "SRES",
@@ -554,7 +621,7 @@
    "A resolution designating the week of September 20 through September 27, 2026, as \"Gold Star Families Remembrance Week\".",
    "2026-09-24",
    "2026-09-24",
-   23,
+   28,
    10
   ],
   [
@@ -563,8 +630,8 @@
    "Motion Picture, Television, and Entertainment Revitalization Act",
    "2026-09-24",
    "2026-09-24",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -572,8 +639,8 @@
    "Critical Mineral Executive Coordination Act of 2026",
    "2026-09-24",
    "2026-09-24",
-   17,
-   4
+   22,
+   6
   ],
   [
    "S",
@@ -581,8 +648,8 @@
    "Don’t Sell My DNA Act",
    "2026-09-24",
    "2025-05-22",
-   14,
-   6
+   16,
+   7
   ],
   [
    "SRES",
@@ -590,8 +657,8 @@
    "A resolution honoring the life, service, and legacy of the Honorable Jon Llewellyn Kyl, former Senator for the State of Arizona.",
    "2026-09-23",
    "2026-09-23",
-   24,
-   14
+   29,
+   12
   ],
   [
    "SRES",
@@ -599,8 +666,8 @@
    "A resolution recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.",
    "2026-09-22",
    "2026-09-22",
-   25,
-   7
+   30,
+   8
   ],
   [
    "SJRES",
@@ -608,7 +675,7 @@
    "A joint resolution proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
    "2026-09-15",
    "2026-09-15",
-   14,
+   16,
    15
   ],
   [
@@ -617,7 +684,7 @@
    "End Trump’s Tariff Tax Act",
    "2026-09-15",
    "2026-09-14",
-   26,
+   31,
    16
   ],
   [
@@ -626,7 +693,7 @@
    "Research and Oversight of AI in Courts Act of 2026",
    "2026-09-14",
    "2026-03-19",
-   14,
+   16,
    17
   ],
   [
@@ -635,7 +702,7 @@
    "AI for Mainstreet Act",
    "2026-09-14",
    "2026-01-07",
-   27,
+   32,
    18
   ],
   [
@@ -644,8 +711,8 @@
    "Russia’s War on Faith Act",
    "2026-08-07",
    "2026-04-22",
-   12,
-   4
+   14,
+   6
   ],
   [
    "S",
@@ -653,8 +720,8 @@
    "Falun Gong and Victims of Forced Organ Harvesting Protection Act",
    "2026-08-07",
    "2026-10-05",
-   28,
-   4
+   33,
+   6
   ],
   [
    "SRES",
@@ -662,7 +729,7 @@
    "A resolution commemorating the first anniversary of the mass shooting at Fort Stewart, Georgia, on August 6, 2025.",
    "2026-08-06",
    "2026-08-06",
-   29,
+   34,
    15
   ],
   [
@@ -671,8 +738,8 @@
    "Momnibus Act",
    "2026-08-06",
    "2026-08-06",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -680,8 +747,8 @@
    "25th Anniversary of 9/11 Commemorative Coin Act",
    "2026-08-03",
    "2025-04-03",
-   12,
-   6
+   14,
+   7
   ],
   [
    "SRES",
@@ -689,7 +756,7 @@
    "A resolution designating August 1, 2026, as \"Gold Star Children's Day\".",
    "2026-07-30",
    "2026-07-30",
-   30,
+   35,
    10
   ],
   [
@@ -698,8 +765,8 @@
    "CFTC Whistleblower Protection and Program Improvement Act of 2026",
    "2026-07-29",
    "2026-07-29",
-   31,
-   6
+   19,
+   7
   ],
   [
    "S",
@@ -707,8 +774,8 @@
    "Human Dignity and Emerging Technologies Act",
    "2026-07-23",
    "2026-07-23",
-   32,
-   8
+   36,
+   9
   ],
   [
    "S",
@@ -716,8 +783,8 @@
    "MERIT Act",
    "2026-07-23",
    "2026-07-23",
-   5,
-   5
+   7,
+   1
   ],
   [
    "S",
@@ -725,8 +792,8 @@
    "Right to IVF Act of 2026",
    "2026-07-23",
    "2026-07-23",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -734,7 +801,7 @@
    "Support for Expectant and Parenting Foster Youth Act",
    "2026-07-23",
    "2026-07-23",
-   1,
+   3,
    19
   ],
   [
@@ -743,8 +810,8 @@
    "Tire Safety Modernization Act of 2026",
    "2026-07-23",
    "2026-07-23",
-   32,
-   9
+   36,
+   0
   ],
   [
    "S",
@@ -752,8 +819,8 @@
    "Health Equity and Accountability Act of 2026",
    "2026-07-22",
    "2026-07-22",
-   33,
-   -1
+   37,
+   4
   ],
   [
    "S",
@@ -761,8 +828,8 @@
    "Uyghur Policy Act of 2026",
    "2026-07-22",
    "2026-07-27",
-   34,
-   4
+   38,
+   6
   ],
   [
    "SCONRES",
@@ -770,7 +837,7 @@
    "A concurrent resolution recognizing the significance of equal pay and the disparity in wages paid to men and to Black women.",
    "2026-07-21",
    "2026-07-21",
-   35,
+   39,
    20
   ],
   [
@@ -779,8 +846,8 @@
    "Access to Fair Financing for Opportunity and Resilient Development Act",
    "2026-07-21",
    "2026-02-26",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -788,7 +855,7 @@
    "Cannabis Administration and Opportunity Act",
    "2026-07-16",
    "2026-07-16",
-   1,
+   3,
    15
   ],
   [
@@ -797,8 +864,8 @@
    "Clean Water Allotment Modernization Act of 2026",
    "2026-07-16",
    "2026-07-16",
-   3,
-   13
+   5,
+   14
   ],
   [
    "S",
@@ -806,7 +873,7 @@
    "Supreme Court Ethics, Recusal, and Transparency Act of 2025",
    "2026-07-16",
    "2025-05-20",
-   14,
+   16,
    17
   ],
   [
@@ -815,8 +882,8 @@
    "A resolution honoring and celebrating National Boys and Girls Club Week.",
    "2026-07-14",
    "2026-07-14",
-   36,
-   5
+   40,
+   1
   ],
   [
    "S",
@@ -824,8 +891,8 @@
    "Good Jobs for Good Airports Act",
    "2026-07-14",
    "2026-07-14",
-   5,
-   9
+   7,
+   0
   ],
   [
    "SRES",
@@ -833,8 +900,8 @@
    "A resolution honoring the life and legacy of the Honorable Lindsey Olin Graham, a Senator from the State of South Carolina.",
    "2026-07-13",
    "2026-07-16",
-   37,
-   14
+   41,
+   12
   ],
   [
    "S",
@@ -842,8 +909,8 @@
    "America's Olympic and Paralympic Games Commemorative Coins Act",
    "2026-07-13",
    "2025-07-14",
-   38,
-   6
+   42,
+   7
   ],
   [
    "S",
@@ -851,8 +918,8 @@
    "School Bus Safety Act of 2025",
    "2026-07-13",
    "2025-03-04",
-   32,
-   9
+   36,
+   0
   ],
   [
    "SRES",
@@ -860,7 +927,7 @@
    "A resolution recognizing June 2026, as \"LGBTQ Pride Month\".",
    "2026-06-24",
    "2026-06-24",
-   39,
+   43,
    21
   ],
   [
@@ -869,8 +936,8 @@
    "Right to Vote Act",
    "2026-06-24",
    "2026-06-24",
-   40,
-   8
+   44,
+   9
   ],
   [
    "S",
@@ -878,7 +945,7 @@
    "Save Our Shrimpers Act",
    "2026-06-23",
    "2026-06-23",
-   17,
+   22,
    16
   ],
   [
@@ -887,7 +954,7 @@
    "CHILE Act of 2026",
    "2026-06-23",
    "2026-06-23",
-   31,
+   19,
    11
   ],
   [
@@ -896,8 +963,8 @@
    "Pell Grant Preservation and Expansion Act of 2026",
    "2026-06-23",
    "2026-06-23",
-   5,
-   5
+   7,
+   1
   ],
   [
    "S",
@@ -905,8 +972,8 @@
    "HELP Copays Act",
    "2026-06-23",
    "2026-03-19",
-   13,
-   2
+   15,
+   4
   ],
   [
    "S",
@@ -914,7 +981,7 @@
    "Veterans Outdoor Rehabilitation Act",
    "2026-06-22",
    "2026-04-29",
-   41,
+   45,
    10
   ],
   [
@@ -923,7 +990,7 @@
    "Protect Our Polls Act",
    "2026-06-18",
    "2026-06-18",
-   14,
+   16,
    15
   ],
   [
@@ -932,8 +999,8 @@
    "A resolution reaffirming the importance of the United States promoting the safety, health, and well-being of refugees and displaced persons in the United States and around the world.",
    "2026-06-17",
    "2026-06-17",
-   42,
-   4
+   46,
+   6
   ],
   [
    "S",
@@ -941,8 +1008,8 @@
    "A bill to require the Secretary of Homeland Security to designate Haiti for temporary protected status.",
    "2026-06-17",
    "2026-06-17",
-   14,
-   4
+   16,
+   6
   ],
   [
    "S",
@@ -950,8 +1017,8 @@
    "Credit for Caring Act of 2025",
    "2026-06-15",
    "2025-03-11",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -959,8 +1026,8 @@
    "Iran Human Rights, Internet Freedom, and Accountability Act of 2026",
    "2026-06-10",
    "2026-07-27",
-   43,
-   4
+   47,
+   6
   ],
   [
    "SRES",
@@ -968,8 +1035,8 @@
    "A resolution designating June 11, 2026, as \"National Seersucker Day\", designating every subsequent Thursday through the last Thursday in August 2026 as \"Seersucker Thursday\", and designating June 2026 as \"Seersucker Appreciation Month\".",
    "2026-06-08",
    "2026-06-08",
-   44,
-   7
+   48,
+   8
   ],
   [
    "S",
@@ -977,8 +1044,8 @@
    "Encouraging Public Offerings Act of 2026",
    "2026-06-04",
    "2026-06-04",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -986,8 +1053,8 @@
    "Protecting American Consumers Act",
    "2026-06-04",
    "2026-06-04",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -995,8 +1062,8 @@
    "Access to Breast Cancer Diagnosis Act of 2025",
    "2026-06-02",
    "2025-04-28",
-   5,
-   2
+   7,
+   4
   ],
   [
    "SRES",
@@ -1004,8 +1071,8 @@
    "A resolution honoring the life of the Honorable Donald W. Riegle, Jr., former Senator for the State of Michigan.",
    "2026-06-01",
    "2026-06-01",
-   45,
-   14
+   49,
+   12
   ],
   [
    "S",
@@ -1013,7 +1080,7 @@
    "NOPAIN for Veterans Act",
    "2026-06-01",
    "2025-11-19",
-   46,
+   50,
    10
   ],
   [
@@ -1022,7 +1089,7 @@
    "Federal Death Penalty Prohibition Act",
    "2026-05-20",
    "2026-05-20",
-   47,
+   51,
    15
   ],
   [
@@ -1031,8 +1098,8 @@
    "A resolution honoring the life and legacy of John Seymour, the late Senator for the State of California.",
    "2026-05-19",
    "2026-05-19",
-   48,
-   8
+   52,
+   9
   ],
   [
    "SRES",
@@ -1040,7 +1107,7 @@
    "A resolution recognizing the significance of Jewish American Heritage Month and calling on elected officials and civil society leaders to counter antisemitism.",
    "2026-05-19",
    "2026-05-19",
-   49,
+   53,
    21
   ],
   [
@@ -1049,8 +1116,8 @@
    "A resolution expressing the sense of the Senate that over 25 years of real-world evidence and hundreds of peer-reviewed studies proving that mifepristone is safe and effective should be respected, and law and policy governing access to lifesaving, time-sensitive medication abortion care in the United States should be equitable, transparent, and based on the best available peer-reviewed evidence-based science.",
    "2026-05-14",
    "2026-05-14",
-   50,
-   2
+   54,
+   4
   ],
   [
    "S",
@@ -1058,8 +1125,8 @@
    "IGNITE HBCU Excellence Act",
    "2026-05-14",
    "2026-05-14",
-   5,
-   5
+   7,
+   1
   ],
   [
    "S",
@@ -1067,8 +1134,8 @@
    "Rural Depositories Revitalization Study Act",
    "2026-05-13",
    "2026-05-13",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -1076,8 +1143,8 @@
    "Buying American Cotton Act of 2025",
    "2026-05-13",
    "2025-05-22",
-   1,
-   1
+   3,
+   3
   ],
   [
    "SRES",
@@ -1085,8 +1152,8 @@
    "A resolution honoring the life of Dirk Arthur Kempthorne, former United States Senator for the State of Idaho.",
    "2026-05-11",
    "2026-05-11",
-   51,
-   14
+   55,
+   12
   ],
   [
    "SRES",
@@ -1094,7 +1161,7 @@
    "A resolution recognizing the significance of Asian American, Native Hawaiian, and Pacific Islander Heritage Month as an important time to celebrate the significant contributions of Asian Americans, Native Hawaiians, and Pacific Islanders to the history of the United States.",
    "2026-04-30",
    "2026-04-30",
-   52,
+   56,
    22
   ],
   [
@@ -1103,8 +1170,8 @@
    "Medical Foods and Formulas Access Act of 2025",
    "2026-04-30",
    "2025-12-02",
-   1,
-   2
+   3,
+   4
   ],
   [
    "SRES",
@@ -1112,7 +1179,7 @@
    "A resolution expressing support for the designation of the week of May 3, 2026, through May 9, 2026, as \"National Small Business Week\" to celebrate the contributions of small businesses and entrepreneurs in every community in the United States.",
    "2026-04-29",
    "2026-04-29",
-   53,
+   57,
    18
   ],
   [
@@ -1121,8 +1188,8 @@
    "Save America’s Family Forests Act of 2026",
    "2026-04-29",
    "2026-04-29",
-   1,
-   1
+   3,
+   3
   ],
   [
    "SJRES",
@@ -1130,8 +1197,8 @@
    "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to \"William D. Ford Federal Direct Loan (Direct Loan) Program\".",
    "2026-04-28",
    "2026-05-20",
-   54,
-   5
+   58,
+   1
   ],
   [
    "S",
@@ -1139,8 +1206,8 @@
    "Terrorism Risk Insurance Program Reauthorization Act of 2026",
    "2026-04-27",
    "2026-10-05",
-   28,
-   6
+   33,
+   7
   ],
   [
    "S",
@@ -1148,8 +1215,8 @@
    "National Fallen Firefighters Memorial Coin Act",
    "2026-04-27",
    "2026-03-11",
-   55,
-   6
+   59,
+   7
   ],
   [
    "S",
@@ -1157,8 +1224,8 @@
    "Drug Deal Disclosure Act",
    "2026-04-21",
    "2026-04-21",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -1166,7 +1233,7 @@
    "Safe Cloud Storage Act",
    "2026-03-26",
    "2026-05-21",
-   28,
+   33,
    15
   ],
   [
@@ -1175,8 +1242,8 @@
    "INSULIN Act of 2026",
    "2026-03-25",
    "2026-08-07",
-   56,
-   2
+   60,
+   4
   ],
   [
    "S",
@@ -1184,8 +1251,8 @@
    "TRUST Act of 2026",
    "2026-03-25",
    "2026-02-11",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -1193,8 +1260,8 @@
    "Rural Veterinary Workforce Act",
    "2026-03-24",
    "2025-03-27",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -1202,7 +1269,7 @@
    "Informing Consumers about Smart Devices Act",
    "2026-03-23",
    "2025-04-28",
-   57,
+   61,
    18
   ],
   [
@@ -1211,7 +1278,7 @@
    "A resolution designating March 21, 2026, as \"National Women in Agriculture Day\".",
    "2026-03-19",
    "2026-03-19",
-   58,
+   62,
    11
   ],
   [
@@ -1220,7 +1287,7 @@
    "A resolution commemorating the 250th anniversary of the passage of the resolution of March 16, 1776, which declared May 17 as a day of humiliation, fasting, and prayer.",
    "2026-03-18",
    "2026-03-18",
-   59,
+   63,
    21
   ],
   [
@@ -1229,8 +1296,8 @@
    "Transportation Security Administration Pay Act of 2026",
    "2026-03-18",
    "2026-03-18",
-   60,
-   9
+   64,
+   0
   ],
   [
    "S",
@@ -1238,8 +1305,8 @@
    "Transportation Security Administration Pay Act of 2026",
    "2026-03-18",
    "2026-03-12",
-   61,
-   9
+   65,
+   0
   ],
   [
    "S",
@@ -1247,8 +1314,8 @@
    "Insurance Fraud Accountability Act",
    "2026-03-17",
    "2025-11-06",
-   62,
-   2
+   66,
+   4
   ],
   [
    "S",
@@ -1256,8 +1323,8 @@
    "Diabetes Foot Health Access and Modernization Act of 2026",
    "2026-03-12",
    "2026-03-12",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -1265,7 +1332,7 @@
    "Land Grant Research Prioritization Act of 2026",
    "2026-03-11",
    "2026-03-11",
-   31,
+   19,
    11
   ],
   [
@@ -1274,8 +1341,8 @@
    "Failed Bank Executives Clawback Act",
    "2026-03-11",
    "2026-03-11",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -1283,7 +1350,7 @@
    "Reclaim Trade Powers Act",
    "2026-03-11",
    "2026-03-11",
-   1,
+   3,
    16
   ],
   [
@@ -1292,7 +1359,7 @@
    "A resolution honoring the life and legacy of Reverend Jesse Louis Jackson, Sr., and commending him for his significant leadership during the Civil Rights Movement and his decades of advocacy in pursuit of justice, equality, and human rights.",
    "2026-03-09",
    "2026-03-16",
-   63,
+   67,
    21
   ],
   [
@@ -1301,8 +1368,8 @@
    "Aviation Funding Stability Act of 2025",
    "2026-03-09",
    "2025-03-13",
-   1,
-   9
+   3,
+   0
   ],
   [
    "SRES",
@@ -1310,7 +1377,7 @@
    "A resolution designating March 5, 2026, as \"National Slam the Scam Day\" to raise awareness about pervasive scams and to prevent government imposter scams and other types of scams by promoting education about such scams.",
    "2026-03-05",
    "2026-04-15",
-   64,
+   68,
    18
   ],
   [
@@ -1319,7 +1386,7 @@
    "Disaster Recovery Improvement Act",
    "2026-03-05",
    "2026-03-05",
-   65,
+   69,
    23
   ],
   [
@@ -1328,8 +1395,8 @@
    "West Bank Violence Prevention Act of 2025",
    "2026-03-05",
    "2025-08-01",
-   17,
-   4
+   22,
+   6
   ],
   [
    "S",
@@ -1337,8 +1404,8 @@
    "America the Beautiful Act",
    "2026-03-05",
    "2026-06-17",
-   66,
-   0
+   70,
+   2
   ],
   [
    "S",
@@ -1346,8 +1413,8 @@
    "She DRIVES Act",
    "2026-03-05",
    "2025-07-31",
-   67,
-   9
+   71,
+   0
   ],
   [
    "S",
@@ -1355,8 +1422,8 @@
    "DISCLOSE Act of 2026",
    "2026-03-04",
    "2026-03-04",
-   40,
-   8
+   44,
+   9
   ],
   [
    "S",
@@ -1364,7 +1431,7 @@
    "Puerto Rico Nutrition Assistance Fairness Act",
    "2026-03-02",
    "2026-03-02",
-   31,
+   19,
    11
   ],
   [
@@ -1373,7 +1440,7 @@
    "A resolution expressing support for the designation of February 21 through February 28, 2026, as \"National FFA Week\", recognizing the important role of the National FFA Organization in developing the next generation of globally conscious leaders who will change the world, and celebrating the 50th anniversary of the chartering of the State of Alaska as a State FFA  Association.",
    "2026-02-26",
    "2026-02-26",
-   68,
+   72,
    11
   ],
   [
@@ -1382,7 +1449,7 @@
    "A resolution celebrating Black History Month.",
    "2026-02-25",
    "2026-02-25",
-   69,
+   73,
    21
   ],
   [
@@ -1391,7 +1458,7 @@
    "Tariff Refund Act of 2026",
    "2026-02-24",
    "2026-02-24",
-   1,
+   3,
    16
   ],
   [
@@ -1400,7 +1467,7 @@
    "Investing in Tomorrow's Workforce Act of 2026",
    "2026-02-12",
    "2026-02-12",
-   70,
+   74,
    20
   ],
   [
@@ -1409,7 +1476,7 @@
    "Foreign Robocall Elimination Act",
    "2026-02-12",
    "2026-08-10",
-   28,
+   33,
    24
   ],
   [
@@ -1418,8 +1485,8 @@
    "John A. Hauser Mental Health in Aviation Act",
    "2026-02-09",
    "2026-10-01",
-   28,
-   9
+   33,
+   0
   ],
   [
    "S",
@@ -1427,8 +1494,8 @@
    "Predatory Lending Elimination Act",
    "2026-02-05",
    "2026-02-05",
-   71,
-   6
+   75,
+   7
   ],
   [
    "SRES",
@@ -1436,8 +1503,8 @@
    "A resolution honoring the victims of the 2025 Potomac River mid-air collision.",
    "2026-01-29",
    "2026-01-29",
-   72,
-   9
+   76,
+   0
   ],
   [
    "SRES",
@@ -1445,7 +1512,7 @@
    "A resolution supporting the designation of 2026 as the \"International Year of the Woman Farmer\" to recognize and honor the critical role of women in agriculture.",
    "2026-01-29",
    "2026-01-29",
-   73,
+   77,
    11
   ],
   [
@@ -1454,8 +1521,8 @@
    "A resolution honoring the life, achievements, and legacy of Ben Nighthorse Campbell.",
    "2026-01-15",
    "2026-01-15",
-   74,
-   14
+   78,
+   12
   ],
   [
    "S",
@@ -1463,8 +1530,8 @@
    "Intelligence Community Workforce Agility Protection Act of 2025",
    "2026-01-12",
    "2025-06-23",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -1472,7 +1539,7 @@
    "A bill to require the Secretary of Agriculture to make cost-share grants for retrofitting agricultural tractors with rollover protection structures, and for other purposes.",
    "2026-01-05",
    "2026-01-05",
-   31,
+   19,
    11
   ],
   [
@@ -1481,7 +1548,7 @@
    "A resolution remembering the December 6, 2019, terrorist attack at Naval Air Station Pensacola and commemorating those who lost their lives, and those who were injured, in the line of duty.",
    "2025-12-18",
    "2025-12-18",
-   75,
+   79,
    10
   ],
   [
@@ -1490,17 +1557,17 @@
    "NIH IMPROVE Act",
    "2025-12-18",
    "2025-11-20",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
    "3226",
    "Bring Our Heroes Home Act",
    "2025-12-18",
-   "2026-08-06",
-   76,
-   8
+   "2026-11-09",
+   80,
+   9
   ],
   [
    "S",
@@ -1508,7 +1575,7 @@
    "Improving Social Security’s Service to Victims of Identity Theft Act",
    "2025-12-18",
    "2025-05-07",
-   1,
+   3,
    25
   ],
   [
@@ -1517,7 +1584,7 @@
    "Claiming Age Clarity Act",
    "2025-12-18",
    "2025-04-29",
-   1,
+   3,
    25
   ],
   [
@@ -1526,8 +1593,8 @@
    "Countering Wrongful Detention Act of 2025",
    "2025-12-18",
    "2025-06-18",
-   77,
-   4
+   81,
+   6
   ],
   [
    "S",
@@ -1535,8 +1602,8 @@
    "Make American Flags in America Act of 2025",
    "2025-12-18",
    "2025-03-06",
-   65,
-   8
+   69,
+   9
   ],
   [
    "S",
@@ -1544,8 +1611,8 @@
    "Pharmacy Benefit Manager Transparency Act of 2025",
    "2025-12-18",
    "2025-02-11",
-   32,
-   2
+   36,
+   4
   ],
   [
    "S",
@@ -1553,8 +1620,8 @@
    "Mikaela Naylon Give Kids a Chance Act of 2025",
    "2025-12-17",
    "2025-12-02",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -1562,7 +1629,7 @@
    "Older Americans Act Reauthorization Act of 2025",
    "2025-12-17",
    "2026-07-15",
-   28,
+   33,
    25
   ],
   [
@@ -1571,8 +1638,8 @@
    "Due Process Continuity of Care Act",
    "2025-12-17",
    "2025-05-12",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -1580,7 +1647,7 @@
    "HUD-USDA-VA Interagency Coordination Act",
    "2025-12-17",
    "2025-05-08",
-   12,
+   14,
    26
   ],
   [
@@ -1589,7 +1656,7 @@
    "Farmers’ Market Expansion Act of 2025",
    "2025-12-17",
    "2025-03-26",
-   31,
+   19,
    11
   ],
   [
@@ -1598,8 +1665,8 @@
    "Tyler’s Law",
    "2025-12-17",
    "2026-03-24",
-   28,
-   2
+   33,
+   4
   ],
   [
    "S",
@@ -1607,8 +1674,8 @@
    "Empowering Families in Special Education Act",
    "2025-12-17",
    "2025-02-26",
-   5,
-   5
+   7,
+   1
   ],
   [
    "S",
@@ -1616,7 +1683,7 @@
    "Voluntary Public Access Improvement Act of 2025",
    "2025-12-17",
    "2025-02-25",
-   31,
+   19,
    11
   ],
   [
@@ -1625,7 +1692,7 @@
    "Simplifying Subcontracting Act",
    "2025-12-17",
    "2025-02-13",
-   27,
+   32,
    18
   ],
   [
@@ -1634,7 +1701,7 @@
    "SBA Disaster Transparency Act",
    "2025-12-17",
    "2025-03-04",
-   78,
+   82,
    18
   ],
   [
@@ -1643,8 +1710,8 @@
    "Improving Mental Health Access for Students Act",
    "2025-12-16",
    "2025-06-02",
-   5,
-   5
+   7,
+   1
   ],
   [
    "S",
@@ -1652,8 +1719,8 @@
    "Helping Young Americans Save for Retirement Act",
    "2025-12-16",
    "2025-05-12",
-   5,
-   1
+   7,
+   3
   ],
   [
    "S",
@@ -1661,7 +1728,7 @@
    "FRIDGE Act of 2025",
    "2025-12-16",
    "2025-03-25",
-   31,
+   19,
    11
   ],
   [
@@ -1670,8 +1737,8 @@
    "Tax Administration Simplification Act",
    "2025-12-16",
    "2025-02-24",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -1679,8 +1746,8 @@
    "Credit Union Board Modernization Act",
    "2025-12-16",
    "2025-02-11",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -1688,7 +1755,7 @@
    "Rural Broadband Protection Act of 2025",
    "2025-12-16",
    "2026-05-11",
-   79,
+   83,
    24
   ],
   [
@@ -1697,7 +1764,7 @@
    "HUD Transparency Act of 2025",
    "2025-12-15",
    "2025-10-28",
-   12,
+   14,
    26
   ],
   [
@@ -1706,8 +1773,8 @@
    "Combating Trafficking in Transportation Act",
    "2025-12-15",
    "2025-10-14",
-   80,
-   9
+   84,
+   0
   ],
   [
    "S",
@@ -1715,7 +1782,7 @@
    "GUARD Act",
    "2025-12-11",
    "2026-02-09",
-   81,
+   85,
    15
   ],
   [
@@ -1724,7 +1791,7 @@
    "Housing Supply Expansion Act of 2025",
    "2025-12-11",
    "2025-07-23",
-   12,
+   14,
    26
   ],
   [
@@ -1733,8 +1800,8 @@
    "National Plan for Epilepsy Act",
    "2025-12-11",
    "2026-08-10",
-   28,
-   2
+   33,
+   4
   ],
   [
    "S",
@@ -1742,8 +1809,8 @@
    "SAVE Girls Act",
    "2025-12-11",
    "2025-01-09",
-   14,
-   4
+   16,
+   6
   ],
   [
    "S",
@@ -1751,8 +1818,8 @@
    "REPAIR Infrastructure Act",
    "2025-12-10",
    "2025-12-10",
-   3,
-   9
+   5,
+   0
   ],
   [
    "S",
@@ -1760,7 +1827,7 @@
    "Enduring Justice for Victims of Trafficking Act",
    "2025-12-10",
    "2025-12-11",
-   28,
+   33,
    15
   ],
   [
@@ -1769,8 +1836,8 @@
    "Promoting Access to Diabetic Shoes Act",
    "2025-12-10",
    "2025-05-19",
-   82,
-   2
+   86,
+   4
   ],
   [
    "S",
@@ -1778,8 +1845,8 @@
    "Net Price Calculator Improvement Act",
    "2025-12-10",
    "2025-05-01",
-   5,
-   5
+   7,
+   1
   ],
   [
    "SRES",
@@ -1787,8 +1854,8 @@
    "A resolution condemning the Government of Iran's state-sponsored persecution of the Baha'i minority and its continued violation of the International Covenants on Human Rights.",
    "2025-12-09",
    "2025-12-03",
-   83,
-   4
+   87,
+   6
   ],
   [
    "S",
@@ -1796,7 +1863,7 @@
    "Pathways to Prosperity Act",
    "2025-12-09",
    "2026-03-19",
-   13,
+   15,
    20
   ],
   [
@@ -1805,8 +1872,8 @@
    "Ally’s Act",
    "2025-12-09",
    "2025-12-09",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -1814,7 +1881,7 @@
    "Holocaust Expropriated Art Recovery Act of 2025",
    "2025-12-09",
    "2026-04-13",
-   84,
+   88,
    17
   ],
   [
@@ -1823,8 +1890,8 @@
    "PORCUPINE Act",
    "2025-12-09",
    "2025-12-15",
-   28,
-   4
+   33,
+   6
   ],
   [
    "SRES",
@@ -1832,7 +1899,7 @@
    "A resolution condemning white supremacy, hate, and antisemitism, and efforts to give a platform to these dangerous ideologies.",
    "2025-12-08",
    "2025-12-08",
-   85,
+   89,
    21
   ],
   [
@@ -1841,8 +1908,8 @@
    "Sickle Cell Disease and Other Heritable Blood Disorders Research, Surveillance, Prevention, and Treatment Act of 2025",
    "2025-12-08",
    "2025-02-26",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -1850,8 +1917,8 @@
    "Medicare-X Choice Act of 2025",
    "2025-12-04",
    "2025-12-04",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -1859,8 +1926,8 @@
    "Developing and Empowering our Aspiring Leaders Act of 2025",
    "2025-12-04",
    "2025-12-04",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -1868,8 +1935,8 @@
    "PBM Price Transparency and Accountability Act",
    "2025-12-04",
    "2025-12-04",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -1877,7 +1944,7 @@
    "Romance Scam Prevention Act",
    "2025-12-04",
    "2025-09-02",
-   86,
+   90,
    18
   ],
   [
@@ -1886,8 +1953,8 @@
    "ATTAIN Mental Health Act",
    "2025-12-03",
    "2025-05-22",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -1895,8 +1962,8 @@
    "Streamline Transit Projects Act",
    "2025-12-01",
    "2025-12-01",
-   12,
-   9
+   14,
+   0
   ],
   [
    "S",
@@ -1904,7 +1971,7 @@
    "Restoring Food Security for American Families and Farmers Act of 2025",
    "2025-11-20",
    "2025-11-20",
-   31,
+   19,
    11
   ],
   [
@@ -1913,8 +1980,8 @@
    "Human Trafficking Survivor Tax Relief Act",
    "2025-11-20",
    "2025-11-20",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -1922,8 +1989,8 @@
    "ROTOR Act",
    "2025-11-20",
    "2026-02-24",
-   87,
-   9
+   91,
+   0
   ],
   [
    "SRES",
@@ -1931,8 +1998,8 @@
    "A resolution designating November 20, 2025, as \"National Rural Health Day\".",
    "2025-11-19",
    "2025-11-19",
-   88,
-   2
+   92,
+   4
   ],
   [
    "S",
@@ -1940,7 +2007,7 @@
    "Background Check Expansion Act",
    "2025-11-19",
    "2025-11-19",
-   14,
+   16,
    15
   ],
   [
@@ -1949,8 +2016,8 @@
    "988 Lifeline Location Improvement Act of 2026",
    "2025-11-19",
    "2026-05-12",
-   28,
-   2
+   33,
+   4
   ],
   [
    "S",
@@ -1958,7 +2025,7 @@
    "Rural Hospital Cybersecurity Enhancement Act",
    "2025-11-19",
    "2026-01-28",
-   89,
+   93,
    24
   ],
   [
@@ -1967,8 +2034,8 @@
    "SHINE for Autumn Act of 2025",
    "2025-11-18",
    "2025-09-18",
-   5,
-   2
+   7,
+   4
   ],
   [
    "SRES",
@@ -1976,8 +2043,8 @@
    "A resolution expressing support for the designation of November 8, 2025, as \"National First-Generation College Celebration Day\".",
    "2025-11-10",
    "2025-11-10",
-   90,
-   5
+   94,
+   1
   ],
   [
    "S",
@@ -1985,8 +2052,8 @@
    "Keep Head Start Funded Act of 2025",
    "2025-11-06",
    "2025-11-06",
-   61,
-   5
+   65,
+   1
   ],
   [
    "S",
@@ -1994,8 +2061,8 @@
    "Keep America Flying Act of 2026",
    "2025-11-05",
    "2025-10-22",
-   91,
-   9
+   95,
+   0
   ],
   [
    "SRES",
@@ -2003,7 +2070,7 @@
    "A resolution expressing the sense of the Senate that the United States Department of Agriculture should use its contingency funds and interchange authority to finance the supplemental nutrition assistance program.",
    "2025-11-03",
    "2025-11-03",
-   92,
+   96,
    11
   ],
   [
@@ -2012,7 +2079,7 @@
    "No Argentina Bailout Act",
    "2025-10-30",
    "2025-10-01",
-   12,
+   14,
    16
   ],
   [
@@ -2021,7 +2088,7 @@
    "Keep SNAP and WIC Funded Act of 2025",
    "2025-10-29",
    "2025-10-29",
-   61,
+   65,
    11
   ],
   [
@@ -2030,7 +2097,7 @@
    "Keep SNAP Funded Act of 2025",
    "2025-10-29",
    "2025-10-21",
-   61,
+   65,
    11
   ],
   [
@@ -2039,7 +2106,7 @@
    "Innovation Fund Act",
    "2025-10-28",
    "2025-10-28",
-   12,
+   14,
    26
   ],
   [
@@ -2048,8 +2115,8 @@
    "Telehealth Modernization Act",
    "2025-10-28",
    "2025-09-04",
-   1,
-   2
+   3,
+   4
   ],
   [
    "SRES",
@@ -2057,7 +2124,7 @@
    "A resolution designating October 26, 2025, as the \"Day of the Deployed\".",
    "2025-10-27",
    "2025-10-27",
-   93,
+   97,
    10
   ],
   [
@@ -2066,7 +2133,7 @@
    "Defense Technology Hubs Act of 2025",
    "2025-10-27",
    "2025-06-05",
-   11,
+   13,
    10
   ],
   [
@@ -2075,8 +2142,8 @@
    "Military and Federal Employee Protection Act",
    "2025-10-23",
    "2025-10-23",
-   61,
-   8
+   65,
+   9
   ],
   [
    "S",
@@ -2084,8 +2151,8 @@
    "True Shutdown Fairness Act",
    "2025-10-23",
    "2025-10-23",
-   65,
-   8
+   69,
+   9
   ],
   [
    "S",
@@ -2093,8 +2160,8 @@
    "United States Foreign Service Commemorative Coin Act",
    "2025-10-22",
    "2025-07-09",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2102,7 +2169,7 @@
    "Veterans’ Compensation Cost-of-Living Adjustment Act of 2025",
    "2025-10-15",
    "2025-11-25",
-   94,
+   98,
    10
   ],
   [
@@ -2111,7 +2178,7 @@
    "A resolution expressing concern about the growing problem of book banning, and the proliferation of threats to freedom of expression in the United States.",
    "2025-10-09",
    "2025-10-08",
-   95,
+   99,
    21
   ],
   [
@@ -2120,7 +2187,7 @@
    "A resolution expressing support for the designation of October 5 through October 11, 2025, as \"National 4-H Week\".",
    "2025-10-06",
    "2025-10-06",
-   96,
+   100,
    11
   ],
   [
@@ -2129,8 +2196,8 @@
    "A resolution recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.",
    "2025-09-30",
    "2025-09-30",
-   97,
-   7
+   101,
+   8
   ],
   [
    "SRES",
@@ -2138,8 +2205,8 @@
    "A resolution recognizing the seriousness of polycystic ovary syndrome (PCOS) and expressing support for the designation of September 2025 as \"PCOS Awareness Month\".",
    "2025-09-30",
    "2025-10-06",
-   98,
-   2
+   102,
+   4
   ],
   [
    "SJRES",
@@ -2147,8 +2214,8 @@
    "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services relating to \"Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability\".",
    "2025-09-30",
    "2026-01-13",
-   99,
-   2
+   103,
+   4
   ],
   [
    "SRES",
@@ -2156,8 +2223,8 @@
    "A resolution expressing support for the designation of September 2025 as \"Sickle Cell Disease Awareness Month\" in order to educate communities across the United States about sickle cell disease and the need for research, early detection methods, effective treatments, and preventative care programs with respect to complications from sickle cell disease and conditions related to sickle cell disease.",
    "2025-09-19",
    "2025-09-19",
-   100,
-   2
+   104,
+   4
   ],
   [
    "SRES",
@@ -2165,7 +2232,7 @@
    "A resolution designating the week of September 21 through September 27, 2025, as \"Gold Star Families Remembrance Week\".",
    "2025-09-19",
    "2025-09-19",
-   101,
+   105,
    10
   ],
   [
@@ -2174,7 +2241,7 @@
    "Veterans Mental Health and Addiction Therapy Quality of Care Act",
    "2025-09-19",
    "2025-12-09",
-   102,
+   106,
    10
   ],
   [
@@ -2183,8 +2250,8 @@
    "Safe Step Act",
    "2025-09-18",
    "2026-03-19",
-   13,
-   2
+   15,
+   4
   ],
   [
    "S",
@@ -2192,8 +2259,8 @@
    "Redistricting Reform Act of 2025",
    "2025-09-18",
    "2025-09-18",
-   14,
-   8
+   16,
+   9
   ],
   [
    "S",
@@ -2201,7 +2268,7 @@
    "A bill to provide for the reliquidation of certain entries of golf cart tires.",
    "2025-09-18",
    "2025-09-18",
-   1,
+   3,
    16
   ],
   [
@@ -2210,8 +2277,8 @@
    "CCAMPIS Reauthorization Act",
    "2025-09-18",
    "2025-09-18",
-   5,
-   5
+   7,
+   1
   ],
   [
    "S",
@@ -2219,7 +2286,7 @@
    "Protect America’s Workforce Act",
    "2025-09-17",
    "2025-09-17",
-   65,
+   69,
    20
   ],
   [
@@ -2228,7 +2295,7 @@
    "A resolution expressing support for the designation of November 16, 2025, as \"National Warrior Call Day\" and recognizing the importance of connecting members of the Armed Forces and veterans in the United States to support structures necessary to transition from the battlefield, especially peer-to-peer connection.",
    "2025-09-16",
    "2025-09-16",
-   103,
+   107,
    10
   ],
   [
@@ -2237,7 +2304,7 @@
    "FAMILY Act",
    "2025-09-16",
    "2025-09-16",
-   1,
+   3,
    20
   ],
   [
@@ -2246,8 +2313,8 @@
    "Fed Integrity and Independence Act of 2025",
    "2025-09-16",
    "2025-09-16",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2255,7 +2322,7 @@
    "Fertilizer Research Act of 2025",
    "2025-09-16",
    "2025-09-16",
-   31,
+   19,
    11
   ],
   [
@@ -2264,7 +2331,7 @@
    "Keep Billionaires Out of Social Security Act",
    "2025-09-16",
    "2025-09-10",
-   1,
+   3,
    25
   ],
   [
@@ -2273,7 +2340,7 @@
    "DRIVE Act of 2025",
    "2025-09-16",
    "2025-05-21",
-   104,
+   108,
    10
   ],
   [
@@ -2282,7 +2349,7 @@
    "Forced Arbitration Injustice Repeal Act",
    "2025-09-15",
    "2025-09-15",
-   14,
+   16,
    17
   ],
   [
@@ -2291,8 +2358,8 @@
    "RESULTS Act",
    "2025-09-10",
    "2025-09-10",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -2300,8 +2367,8 @@
    "Ensuring Lasting Smiles Act",
    "2025-09-09",
    "2026-03-19",
-   13,
-   2
+   15,
+   4
   ],
   [
    "SRES",
@@ -2309,8 +2376,8 @@
    "A resolution expressing the sense of the Senate that Secretary of Health and Human Services Robert Fitzgerald Kennedy Jr. does not have the confidence of the Senate or of the American people to faithfully carry out the duties of his office and should be removed from his position.",
    "2025-09-04",
    "2025-09-04",
-   105,
-   2
+   109,
+   4
   ],
   [
    "S",
@@ -2318,8 +2385,8 @@
    "CDFI Fund Transparency Act",
    "2025-09-04",
    "2025-09-04",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2327,7 +2394,7 @@
    "Child Care for Working Families Act",
    "2025-09-02",
    "2025-07-15",
-   5,
+   7,
    19
   ],
   [
@@ -2336,7 +2403,7 @@
    "A resolution designating August 16, 2025, \"National Airborne Day\".",
    "2025-07-31",
    "2025-07-31",
-   106,
+   110,
    10
   ],
   [
@@ -2345,8 +2412,8 @@
    "Taxpayer Notification and Privacy Act of 2025",
    "2025-07-31",
    "2025-07-31",
-   107,
-   1
+   111,
+   3
   ],
   [
    "S",
@@ -2354,8 +2421,8 @@
    "A bill to amend the Public Health Service Act to reauthorize support for State-based maternal mortality review committees, to direct the Secretary of Health and Human Services to disseminate best practices on maternal mortality prevention to hospitals, State-based professional societies, and perinatal quality collaboratives, and for other purposes.",
    "2025-07-31",
    "2025-07-31",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -2363,8 +2430,8 @@
    "Forest Bioeconomy Act",
    "2025-07-31",
    "2025-07-31",
-   31,
-   0
+   19,
+   2
   ],
   [
    "S",
@@ -2372,8 +2439,8 @@
    "Protecting Health Care and Lowering Costs Act",
    "2025-07-30",
    "2025-07-30",
-   108,
-   1
+   112,
+   3
   ],
   [
    "S",
@@ -2381,8 +2448,8 @@
    "CREATE Act",
    "2025-07-30",
    "2025-07-30",
-   1,
-   1
+   3,
+   3
   ],
   [
    "SRES",
@@ -2390,8 +2457,8 @@
    "A resolution observing the 20th anniversary of the date on which Hurricane Katrina devastated the Gulf Coast and recognizing the progress of efforts to rebuild the affected Gulf Coast region.",
    "2025-07-29",
    "2025-07-29",
-   109,
-   8
+   113,
+   9
   ],
   [
    "SRES",
@@ -2399,8 +2466,8 @@
    "A resolution designating July 30, 2025, as \"National Whistleblower Appreciation Day\".",
    "2025-07-29",
    "2025-08-01",
-   110,
-   8
+   114,
+   9
   ],
   [
    "S",
@@ -2408,8 +2475,8 @@
    "John R. Lewis Voting Rights Advancement Act of 2025",
    "2025-07-29",
    "2025-07-29",
-   111,
-   8
+   115,
+   9
   ],
   [
    "S",
@@ -2417,8 +2484,8 @@
    "Medical Debt Relief Act of 2025",
    "2025-07-29",
    "2025-07-29",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2426,8 +2493,8 @@
    "College Transparency Act",
    "2025-07-29",
    "2026-08-04",
-   112,
-   5
+   116,
+   1
   ],
   [
    "S",
@@ -2435,8 +2502,8 @@
    "A bill to provide that members of the Advisory Committee on Immunization Practices may not be terminated except for cause and to require the immediate reinstatement of the members of such advisory committee.",
    "2025-07-28",
    "2025-07-28",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -2444,7 +2511,7 @@
    "Reauthorizing Support and Treatment for Officers in Crisis Act of 2025",
    "2025-07-28",
    "2025-05-20",
-   113,
+   117,
    15
   ],
   [
@@ -2453,8 +2520,8 @@
    "A resolution recognizing the importance of independent living and economic self-sufficiency for individuals with disabilities made possible by the Americans with Disabilities Act of 1990 and calling for further action to strengthen and expand health care for individuals with disabilities to work and live in the community.",
    "2025-07-24",
    "2025-07-24",
-   114,
-   2
+   118,
+   4
   ],
   [
    "S",
@@ -2462,8 +2529,8 @@
    "Community Investment and Prosperity Act",
    "2025-07-24",
    "2025-07-24",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2471,8 +2538,8 @@
    "Recovery of Stolen Checks Act",
    "2025-07-24",
    "2025-07-24",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -2480,8 +2547,8 @@
    "Resident Physician Shortage Reduction Act of 2025",
    "2025-07-24",
    "2025-07-24",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -2489,8 +2556,8 @@
    "Stop the Scammers Act",
    "2025-07-24",
    "2025-07-24",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2498,7 +2565,7 @@
    "Countering Threats and Attacks on Our Judges Act",
    "2025-07-24",
    "2025-11-20",
-   28,
+   33,
    17
   ],
   [
@@ -2507,7 +2574,7 @@
    "Identifying Regulatory Barriers to Housing Supply Act",
    "2025-07-23",
    "2025-07-23",
-   12,
+   14,
    26
   ],
   [
@@ -2516,8 +2583,8 @@
    "A bill to amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
    "2025-07-21",
    "2025-04-30",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -2525,8 +2592,8 @@
    "Sporting Goods Excise Tax Modernization Act",
    "2025-07-16",
    "2025-05-07",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -2534,7 +2601,7 @@
    "North Platte Canteen Congressional Gold Medal Act",
    "2025-07-16",
    "2026-06-09",
-   28,
+   33,
    10
   ],
   [
@@ -2543,7 +2610,7 @@
    "A resolution expressing support for the designation of the month of June 2025 as \"National Post-Traumatic Stress Awareness Month\" and June 27, 2025, as \"National Post-Traumatic Stress Awareness Day\".",
    "2025-07-15",
    "2025-07-15",
-   115,
+   119,
    10
   ],
   [
@@ -2552,8 +2619,8 @@
    "A resolution calling for the return of abducted Ukrainian children before finalizing any peace agreement to end the war against Ukraine.",
    "2025-07-14",
    "2025-05-20",
-   116,
-   4
+   120,
+   6
   ],
   [
    "S",
@@ -2561,8 +2628,8 @@
    "Special Diabetes Program Reauthorization Act of 2025",
    "2025-07-14",
    "2025-07-08",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -2570,7 +2637,7 @@
    "A bill to direct the Secretary of Veterans Affairs to ensure veterans may obtain a physical copy of a form for reimbursement of certain travel expenses by mail or at medical facilities of the Department of Veterans Affairs, and for other purposes.",
    "2025-07-14",
    "2025-03-03",
-   46,
+   50,
    10
   ],
   [
@@ -2579,7 +2646,7 @@
    "A concurrent resolution recognizing the significance of equal pay and the disparity in wages paid to men and to Black women.",
    "2025-07-10",
    "2025-07-10",
-   117,
+   121,
    20
   ],
   [
@@ -2588,8 +2655,8 @@
    "Hospital Inpatient Services Modernization Act",
    "2025-07-10",
    "2025-07-10",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -2597,8 +2664,8 @@
    "Treat and Reduce Obesity Act of 2025",
    "2025-07-10",
    "2025-06-05",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -2606,8 +2673,8 @@
    "Improving Disclosure for Investors Act of 2025",
    "2025-07-09",
    "2025-05-22",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2615,7 +2682,7 @@
    "Prescription Pricing for the People Act of 2025",
    "2025-07-09",
    "2025-04-10",
-   118,
+   122,
    18
   ],
   [
@@ -2624,7 +2691,7 @@
    "Words Matter for the District of Columbia Courts Act",
    "2025-07-09",
    "2025-02-05",
-   65,
+   69,
    17
   ],
   [
@@ -2633,8 +2700,8 @@
    "FASD Respect Act",
    "2025-07-09",
    "2025-01-16",
-   5,
-   2
+   7,
+   4
   ],
   [
    "SRES",
@@ -2642,7 +2709,7 @@
    "A resolution recognizing June 2025, as \"LGBTQ Pride Month\".",
    "2025-06-30",
    "2025-07-09",
-   37,
+   41,
    21
   ],
   [
@@ -2651,8 +2718,8 @@
    "Refund Equality Act of 2025",
    "2025-06-30",
    "2025-06-26",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -2660,7 +2727,7 @@
    "Justice for ALS Veterans Act of 2025",
    "2025-06-27",
    "2026-04-29",
-   41,
+   45,
    10
   ],
   [
@@ -2669,7 +2736,7 @@
    "A resolution affirming that diversity, equity, inclusion, and accessibility are fundamental values of the United States and emphasizing the ongoing need to address discrimination and inequality in the workplace, pre-K through 12th grade and higher education systems, government programs, the military, and our society.",
    "2025-06-26",
    "2025-05-21",
-   119,
+   123,
    21
   ],
   [
@@ -2678,8 +2745,8 @@
    "Charlotte Woodward Organ Transplant Discrimination Prevention Act",
    "2025-06-26",
    "2026-06-22",
-   120,
-   2
+   124,
+   4
   ],
   [
    "S",
@@ -2687,7 +2754,7 @@
    "Protecting First Responders from Secondary Exposure Act of 2025",
    "2025-06-26",
    "2025-05-20",
-   121,
+   125,
    15
   ],
   [
@@ -2696,7 +2763,7 @@
    "Fallen Servicemembers Religious Heritage Restoration Act",
    "2025-06-25",
    "2026-06-05",
-   122,
+   126,
    10
   ],
   [
@@ -2705,8 +2772,8 @@
    "Women’s Health Protection Act of 2025",
    "2025-06-24",
    "2025-06-24",
-   14,
-   2
+   16,
+   4
   ],
   [
    "SRES",
@@ -2714,7 +2781,7 @@
    "A resolution commemorating June 19, 2025, as \"Juneteenth National Independence Day\" in recognition of June 19, 1865, the date on which news of the end of slavery reached the slaves in the Southwestern States.",
    "2025-06-18",
    "2025-06-25",
-   123,
+   127,
    21
   ],
   [
@@ -2723,8 +2790,8 @@
    "Preventing Deep Fake Scams Act",
    "2025-06-18",
    "2025-06-18",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2732,7 +2799,7 @@
    "SECURE Act",
    "2025-06-18",
    "2025-06-18",
-   14,
+   16,
    27
   ],
   [
@@ -2741,8 +2808,8 @@
    "Incentivizing Readiness and Environmental Protection Integration Sales Act of 2025",
    "2025-06-18",
    "2025-02-06",
-   1,
-   1
+   3,
+   3
   ],
   [
    "SRES",
@@ -2750,8 +2817,8 @@
    "A resolution designating July 16, 2025, as \"Glioblastoma Awareness Day\".",
    "2025-06-17",
    "2025-06-17",
-   124,
-   2
+   128,
+   4
   ],
   [
    "S",
@@ -2759,8 +2826,8 @@
    "Ralph David Abernathy, Sr., National Historic Site Act",
    "2025-06-17",
    "2026-07-23",
-   125,
-   0
+   129,
+   2
   ],
   [
    "S",
@@ -2768,8 +2835,8 @@
    "Keeping Obstetrics Local Act",
    "2025-06-12",
    "2025-06-12",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -2777,8 +2844,8 @@
    "Close the Round-Tripping Loophole Act",
    "2025-06-11",
    "2025-06-11",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -2786,7 +2853,7 @@
    "NO BAN Act",
    "2025-06-11",
    "2025-02-04",
-   14,
+   16,
    27
   ],
   [
@@ -2795,8 +2862,8 @@
    "A resolution designating June 6, 2025, as National Naloxone Awareness Day.",
    "2025-06-10",
    "2025-06-10",
-   126,
-   2
+   130,
+   4
   ],
   [
    "S",
@@ -2804,8 +2871,8 @@
    "TRAPS Act",
    "2025-06-10",
    "2025-06-10",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -2813,7 +2880,7 @@
    "Runaway and Homeless Youth and Trafficking Prevention Act of 2025",
    "2025-06-10",
    "2025-06-10",
-   127,
+   131,
    19
   ],
   [
@@ -2822,8 +2889,8 @@
    "Safe Operations of Shared Airspace Act of 2025",
    "2025-06-05",
    "2025-06-05",
-   32,
-   9
+   36,
+   0
   ],
   [
    "S",
@@ -2831,8 +2898,8 @@
    "Complete Streets Act of 2025",
    "2025-06-04",
    "2025-06-04",
-   3,
-   9
+   5,
+   0
   ],
   [
    "S",
@@ -2840,8 +2907,8 @@
    "Improving Seniors’ Timely Access to Care Act of 2025",
    "2025-06-03",
    "2025-05-20",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -2849,7 +2916,7 @@
    "Workplace Violence Prevention for Health Care and Social Service Workers Act",
    "2025-06-03",
    "2025-04-01",
-   5,
+   7,
    20
   ],
   [
@@ -2858,8 +2925,8 @@
    "A resolution honoring the life, achievements, and legacy of former United States Senator Christopher \"Kit\" Bond of Missouri.",
    "2025-05-22",
    "2025-05-22",
-   128,
-   14
+   132,
+   12
   ],
   [
    "SRES",
@@ -2867,8 +2934,8 @@
    "A resolution designating June 12, 2025, as \"National Seersucker Day\", designating every Thursday after National Seersucker Day through the last Thursday in August 2025 as \"Seersucker Thursday\", and designating June 2025 as \"Seersucker Appreciation Month\".",
    "2025-05-22",
    "2025-05-22",
-   129,
-   7
+   133,
+   8
   ],
   [
    "SRES",
@@ -2876,7 +2943,7 @@
    "A resolution designating May 2025 as \"Older Americans Month\".",
    "2025-05-22",
    "2025-05-22",
-   130,
+   134,
    25
   ],
   [
@@ -2885,8 +2952,8 @@
    "A resolution recognizing the significance of Jewish American Heritage Month and calling on elected officials and civil society leaders to counter antisemitism.",
    "2025-05-22",
    "2025-05-22",
-   131,
-   8
+   135,
+   9
   ],
   [
    "S",
@@ -2894,8 +2961,8 @@
    "Ban Congressional Stock Trading Act",
    "2025-05-22",
    "2025-05-22",
-   65,
-   14
+   69,
+   12
   ],
   [
    "SRES",
@@ -2903,8 +2970,8 @@
    "A resolution requesting information on El Salvador's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
    "2025-05-15",
    "2025-05-15",
-   132,
-   4
+   136,
+   6
   ],
   [
    "S",
@@ -2912,8 +2979,8 @@
    "End Crypto Corruption Act of 2025",
    "2025-05-15",
    "2025-05-08",
-   133,
-   8
+   137,
+   9
   ],
   [
    "SRES",
@@ -2921,8 +2988,8 @@
    "A resolution calling for the urgent delivery of humanitarian aid to address the needs of civilians in Gaza.",
    "2025-05-13",
    "2025-05-13",
-   134,
-   4
+   138,
+   6
   ],
   [
    "SRES",
@@ -2930,7 +2997,7 @@
    "A resolution designating the week of May 11 through May 17, 2025, as \"National Police Week\".",
    "2025-05-13",
    "2025-05-13",
-   135,
+   139,
    15
   ],
   [
@@ -2939,7 +3006,7 @@
    "Healthy Dog Importation Act",
    "2025-05-13",
    "2025-05-13",
-   31,
+   19,
    11
   ],
   [
@@ -2948,7 +3015,7 @@
    "FEMA Independence Act of 2025",
    "2025-05-13",
    "2025-04-02",
-   65,
+   69,
    23
   ],
   [
@@ -2957,7 +3024,7 @@
    "A resolution recognizing the significance of Asian American, Native Hawaiian, and Pacific Islander Heritage Month as an important time to celebrate the significant contributions of Asian Americans, Native Hawaiians, and Pacific Islanders to the history of the United States.",
    "2025-05-08",
    "2025-05-22",
-   136,
+   140,
    22
   ],
   [
@@ -2966,7 +3033,7 @@
    "A resolution honoring and commending the 80th anniversary of the Blinded Veterans Association.",
    "2025-05-08",
    "2025-05-08",
-   137,
+   141,
    10
   ],
   [
@@ -2975,7 +3042,7 @@
    "SECURE Notarization Act of 2025",
    "2025-05-08",
    "2025-05-01",
-   14,
+   16,
    17
   ],
   [
@@ -2984,7 +3051,7 @@
    "Precision Agriculture Loan Act of 2025",
    "2025-05-06",
    "2025-05-06",
-   31,
+   19,
    11
   ],
   [
@@ -2993,7 +3060,7 @@
    "A resolution expressing support for the designation of the week of May 4, 2025, through May 10, 2025, as \"National Small Business Week\" to celebrate the contributions of small businesses and entrepreneurs in every community in the United States.",
    "2025-05-05",
    "2025-05-05",
-   138,
+   142,
    18
   ],
   [
@@ -3002,8 +3069,8 @@
    "Aviation Workforce Development Act",
    "2025-05-05",
    "2025-05-05",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3011,8 +3078,8 @@
    "Air Traffic Control Workforce Development Act of 2025",
    "2025-05-05",
    "2025-02-24",
-   32,
-   9
+   36,
+   0
   ],
   [
    "S",
@@ -3020,8 +3087,8 @@
    "Living Donor Protection Act of 2025",
    "2025-05-01",
    "2026-03-11",
-   139,
-   2
+   143,
+   4
   ],
   [
    "SRES",
@@ -3029,8 +3096,8 @@
    "A resolution designating April 2025 as \"Financial Literacy Month\".",
    "2025-04-30",
    "2025-04-30",
-   140,
-   6
+   144,
+   7
   ],
   [
    "S",
@@ -3038,7 +3105,7 @@
    "Assault Weapons Ban of 2025",
    "2025-04-30",
    "2025-04-30",
-   14,
+   16,
    15
   ],
   [
@@ -3047,8 +3114,8 @@
    "A resolution supporting the mission and goals of National Fentanyl Awareness Day in 2025, including increasing individual and public awareness of the impact of fake or counterfeit fentanyl pills on families and young people.",
    "2025-04-29",
    "2025-04-29",
-   141,
-   2
+   145,
+   4
   ],
   [
    "S",
@@ -3056,8 +3123,8 @@
    "Affordable Housing Credit Improvement Act of 2025",
    "2025-04-29",
    "2025-04-29",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3065,7 +3132,7 @@
    "Equality Act",
    "2025-04-29",
    "2025-04-29",
-   14,
+   16,
    21
   ],
   [
@@ -3074,7 +3141,7 @@
    "MEDAL Act of 2025",
    "2025-04-28",
    "2025-05-21",
-   104,
+   108,
    10
   ],
   [
@@ -3083,8 +3150,8 @@
    "A resolution supporting the designation of the week of April 11 through April 17, 2025, as the eighth annual \"Black Maternal Health Week\", founded by Black Mamas Matter Alliance, Inc., to bring national attention to the maternal and reproductive health crisis in the United States and the importance of reducing maternal mortality and morbidity among Black women and birthing people.",
    "2025-04-10",
    "2025-04-10",
-   142,
-   2
+   146,
+   4
   ],
   [
    "S",
@@ -3092,8 +3159,8 @@
    "LOCAL Infrastructure Act",
    "2025-04-10",
    "2025-04-10",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3101,8 +3168,8 @@
    "Child and Dependent Care Tax Credit Enhancement Act of 2025",
    "2025-04-10",
    "2025-04-10",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3110,8 +3177,8 @@
    "Sanctioning Russia Act of 2025",
    "2025-04-10",
    "2025-04-01",
-   12,
-   4
+   14,
+   6
   ],
   [
    "S",
@@ -3119,7 +3186,7 @@
    "Whole-Home Repairs Act of 2025",
    "2025-04-10",
    "2025-01-16",
-   12,
+   14,
    26
   ],
   [
@@ -3128,8 +3195,8 @@
    "American Family Act",
    "2025-04-09",
    "2025-04-09",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3137,8 +3204,8 @@
    "Benton MacKaye National Scenic Trail Feasibility Study Act of 2025",
    "2025-04-09",
    "2025-10-27",
-   143,
-   0
+   147,
+   2
   ],
   [
    "S",
@@ -3146,8 +3213,8 @@
    "Tax Cut for Workers Act of 2025",
    "2025-04-09",
    "2025-04-09",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3155,8 +3222,8 @@
    "Secure Family Futures Act of 2025",
    "2025-04-08",
    "2025-04-08",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3164,8 +3231,8 @@
    "A bill to amend the Internal Revenue Code of 1986 to increase the percentage limitation on assets of real estate investment trusts which may be held in taxable REIT subsidiaries.",
    "2025-04-08",
    "2025-04-08",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3173,7 +3240,7 @@
    "Raise the Wage Act of 2025",
    "2025-04-08",
    "2025-04-08",
-   5,
+   7,
    20
   ],
   [
@@ -3182,8 +3249,8 @@
    "A resolution honoring the life of the Honorable John Bennett Johnston, Jr., former Senator for the State of Louisiana.",
    "2025-04-07",
    "2025-04-07",
-   144,
-   14
+   148,
+   12
   ],
   [
    "SRES",
@@ -3191,8 +3258,8 @@
    "A resolution condemning Beijing's destruction of Hong Kong's democracy and rule of law.",
    "2025-04-03",
    "2025-04-28",
-   145,
-   4
+   149,
+   6
   ],
   [
    "S",
@@ -3200,8 +3267,8 @@
    "Tax Fairness for Workers Act",
    "2025-04-03",
    "2025-04-03",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3209,8 +3276,8 @@
    "IDEA Full Funding Act",
    "2025-04-03",
    "2025-04-03",
-   5,
-   5
+   7,
+   1
   ],
   [
    "S",
@@ -3218,8 +3285,8 @@
    "CONNECT for Health Act of 2025",
    "2025-04-02",
    "2025-04-02",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -3227,7 +3294,7 @@
    "Rural Housing Service Reform Act of 2025",
    "2025-04-02",
    "2025-04-02",
-   12,
+   14,
    26
   ],
   [
@@ -3236,7 +3303,7 @@
    "Aerial Firefighting Enhancement Act of 2025",
    "2025-04-02",
    "2025-06-12",
-   146,
+   150,
    10
   ],
   [
@@ -3245,7 +3312,7 @@
    "A resolution designating March 27, 2025, as \"National Women in Agriculture Day\".",
    "2025-04-01",
    "2025-04-01",
-   147,
+   151,
    11
   ],
   [
@@ -3254,7 +3321,7 @@
    "Feral Swine Eradication Act",
    "2025-03-31",
    "2025-03-31",
-   31,
+   19,
    11
   ],
   [
@@ -3263,8 +3330,8 @@
    "A resolution honoring the life of the Honorable Alan K. Simpson, former Senator for the State of Wyoming.",
    "2025-03-27",
    "2025-03-31",
-   148,
-   14
+   152,
+   12
   ],
   [
    "SRES",
@@ -3272,8 +3339,8 @@
    "A resolution protecting the Iranian political refugees, including female former political prisoners, in Ashraf-3 in Albania.",
    "2025-03-27",
    "2025-03-27",
-   149,
-   4
+   153,
+   6
   ],
   [
    "SJRES",
@@ -3281,8 +3348,8 @@
    "A joint resolution proposing an amendment to the Constitution of the United States relating to contributions and expenditures intended to affect elections.",
    "2025-03-27",
    "2025-03-27",
-   14,
-   8
+   16,
+   9
   ],
   [
    "S",
@@ -3290,8 +3357,8 @@
    "SEC Whistleblower Reform Act of 2025",
    "2025-03-26",
    "2025-03-26",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -3299,8 +3366,8 @@
    "Disaster Reforestation Act",
    "2025-03-26",
    "2025-03-26",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3308,8 +3375,8 @@
    "Ocmulgee Mounds National Park and Preserve Establishment Act",
    "2025-03-25",
    "2025-12-09",
-   150,
-   0
+   154,
+   2
   ],
   [
    "S",
@@ -3317,7 +3384,7 @@
    "Paycheck Fairness Act",
    "2025-03-25",
    "2025-03-25",
-   5,
+   7,
    20
   ],
   [
@@ -3326,7 +3393,7 @@
    "BEST Facilitation Act",
    "2025-03-25",
    "2025-02-13",
-   65,
+   69,
    27
   ],
   [
@@ -3335,8 +3402,8 @@
    "A resolution expressing support for the local public K-12 schools of the United States and condemning any actions that would defund public education or weaken or dismantle the Department of Education.",
    "2025-03-24",
    "2025-03-24",
-   151,
-   5
+   155,
+   1
   ],
   [
    "S",
@@ -3344,7 +3411,7 @@
    "Master Sergeant Roddie Edmonds Congressional Gold Medal Act",
    "2025-03-24",
    "2025-01-27",
-   12,
+   14,
    10
   ],
   [
@@ -3353,7 +3420,7 @@
    "Major Richard Star Act",
    "2025-03-13",
    "2025-03-13",
-   11,
+   13,
    10
   ],
   [
@@ -3362,8 +3429,8 @@
    "A resolution commemorating the centennial of Delta Air Lines.",
    "2025-03-12",
    "2025-03-12",
-   152,
-   9
+   156,
+   0
   ],
   [
    "S",
@@ -3371,7 +3438,7 @@
    "Lulu’s Law",
    "2025-03-12",
    "2026-06-26",
-   153,
+   157,
    24
   ],
   [
@@ -3380,8 +3447,8 @@
    "HELPER Act of 2025",
    "2025-03-12",
    "2025-03-12",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -3389,8 +3456,8 @@
    "American Housing and Economic Mobility Act of 2025",
    "2025-03-11",
    "2025-03-11",
-   1,
-   6
+   3,
+   7
   ],
   [
    "S",
@@ -3398,7 +3465,7 @@
    "Choice in Affordable Housing Act of 2025",
    "2025-03-06",
    "2025-03-06",
-   12,
+   14,
    26
   ],
   [
@@ -3407,7 +3474,7 @@
    "Coast Guard Combat-Injured Tax Fairness Act",
    "2025-03-06",
    "2025-03-06",
-   1,
+   3,
    10
   ],
   [
@@ -3416,7 +3483,7 @@
    "A resolution affirming the rule of law and the legitimacy of judicial review.",
    "2025-03-05",
    "2025-03-05",
-   154,
+   158,
    17
   ],
   [
@@ -3425,7 +3492,7 @@
    "Richard L. Trumka Protecting the Right to Organize Act of 2025",
    "2025-03-05",
    "2025-03-05",
-   5,
+   7,
    20
   ],
   [
@@ -3434,7 +3501,7 @@
    "Stopping Political Discrimination in Disaster Assistance Act",
    "2025-03-05",
    "2025-02-03",
-   65,
+   69,
    23
   ],
   [
@@ -3443,7 +3510,7 @@
    "A resolution condemning the mass terminations of employees of the Department of Veterans Affairs carried out with no justification or analysis of the impact on veterans and their families.",
    "2025-03-04",
    "2025-03-04",
-   155,
+   159,
    10
   ],
   [
@@ -3452,7 +3519,7 @@
    "Fighting Post-Traumatic Stress Disorder Act of 2025",
    "2025-03-04",
    "2026-06-15",
-   28,
+   33,
    15
   ],
   [
@@ -3461,7 +3528,7 @@
    "Guarding Readiness Resources Act",
    "2025-02-27",
    "2025-02-27",
-   11,
+   13,
    10
   ],
   [
@@ -3470,8 +3537,8 @@
    "Combating International Islamophobia Act",
    "2025-02-27",
    "2025-02-27",
-   17,
-   4
+   22,
+   6
   ],
   [
    "S",
@@ -3479,7 +3546,7 @@
    "Invest to Protect Act of 2025",
    "2025-02-27",
    "2025-02-27",
-   14,
+   16,
    15
   ],
   [
@@ -3488,7 +3555,7 @@
    "First Rhode Island Regiment Congressional Gold Medal Act",
    "2025-02-27",
    "2026-06-15",
-   28,
+   33,
    10
   ],
   [
@@ -3497,7 +3564,7 @@
    "A resolution celebrating Black History Month.",
    "2025-02-26",
    "2025-02-26",
-   156,
+   160,
    21
   ],
   [
@@ -3506,8 +3573,8 @@
    "Kids’ Access to Primary Care Act of 2025",
    "2025-02-26",
    "2025-02-26",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -3515,8 +3582,8 @@
    "Accelerating Kids’ Access to Care Act",
    "2025-02-26",
    "2025-02-26",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -3524,7 +3591,7 @@
    "Haiti Economic Lift Program Extension Act of 2025",
    "2025-02-26",
    "2025-02-26",
-   1,
+   3,
    16
   ],
   [
@@ -3533,7 +3600,7 @@
    "Ethan's Law",
    "2025-02-25",
    "2025-02-25",
-   14,
+   16,
    15
   ],
   [
@@ -3542,8 +3609,8 @@
    "Forest Data Modernization Act of 2025",
    "2025-02-25",
    "2025-02-11",
-   31,
-   0
+   19,
+   2
   ],
   [
    "S",
@@ -3551,8 +3618,8 @@
    "PSA Screening for HIM Act",
    "2025-02-25",
    "2026-03-19",
-   13,
-   2
+   15,
+   4
   ],
   [
    "SRES",
@@ -3560,7 +3627,7 @@
    "A resolution expressing support for the designation of February 15 through February 22, 2025, as \"National FFA Week\", recognizing the important role of the National FFA Organization in developing the next generation of leaders who will change the world, and celebrating the 90th anniversary of New Farmers of America and the 75th anniversary of the Future Farmers of America Federal charter.",
    "2025-02-21",
    "2025-02-21",
-   157,
+   161,
    11
   ],
   [
@@ -3569,8 +3636,8 @@
    "A resolution designating March 7, 2025, as \"National Speech and Debate Education Day\".",
    "2025-02-21",
    "2025-02-21",
-   158,
-   5
+   162,
+   1
   ],
   [
    "S",
@@ -3578,8 +3645,8 @@
    "Broadband Grant Tax Treatment Act",
    "2025-02-20",
    "2025-02-20",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3587,8 +3654,8 @@
    "Alternatives to PAIN Act",
    "2025-02-20",
    "2025-02-06",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -3596,8 +3663,8 @@
    "ENABLE Act",
    "2025-02-19",
    "2025-02-19",
-   1,
-   1
+   3,
+   3
   ],
   [
    "SRES",
@@ -3605,8 +3672,8 @@
    "A resolution expressing gratitude to the Joint Congressional Committee on Inaugural Ceremonies, the Architect of the Capitol, the Sergeant at Arms, the Secretary of the Senate, law enforcement officers, emergency personnel, and volunteers for their support in making the Presidential Inauguration a success.",
    "2025-02-13",
    "2025-02-13",
-   159,
-   8
+   163,
+   9
   ],
   [
    "S",
@@ -3614,8 +3681,8 @@
    "Expanding Access to Capital for Rural Job Creators Act",
    "2025-02-13",
    "2025-02-13",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -3623,8 +3690,8 @@
    "A bill to amend the Internal Revenue Code of 1986 to provide special rules for the taxation of certain residents of Taiwan with income from sources within the United States.",
    "2025-02-13",
    "2025-01-23",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3632,7 +3699,7 @@
    "Promoting Precision Agriculture Act of 2025",
    "2025-02-11",
    "2025-02-11",
-   160,
+   164,
    11
   ],
   [
@@ -3641,8 +3708,8 @@
    "A resolution expressing the sense of the Senate that the United States shall not deploy United States military assets or personnel to Gaza for purposes of \"taking over\" Gaza.",
    "2025-02-10",
    "2025-02-10",
-   161,
-   4
+   165,
+   6
   ],
   [
    "SRES",
@@ -3650,8 +3717,8 @@
    "A resolution honoring the memory of the victims of the tragic mid-air collision between American Airlines Flight 5342 and United States Army Aviation Brigade Priority Air Transport 25 on January 29, 2025.",
    "2025-02-06",
    "2025-02-06",
-   162,
-   9
+   166,
+   0
   ],
   [
    "S",
@@ -3659,8 +3726,8 @@
    "SENIOR Act",
    "2025-02-06",
    "2025-02-06",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -3668,7 +3735,7 @@
    "Protecting Sensitive Locations Act",
    "2025-02-06",
    "2025-02-06",
-   14,
+   16,
    27
   ],
   [
@@ -3677,8 +3744,8 @@
    "BARCODE Efficiency Act",
    "2025-02-06",
    "2025-02-06",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3686,8 +3753,8 @@
    "Retirement Fairness for Charities and Educational Institutions Act of 2025",
    "2025-02-05",
    "2025-02-05",
-   12,
-   6
+   14,
+   7
   ],
   [
    "S",
@@ -3695,8 +3762,8 @@
    "Right to Contraception Act",
    "2025-02-05",
    "2025-02-05",
-   5,
-   2
+   7,
+   4
   ],
   [
    "S",
@@ -3704,7 +3771,7 @@
    "Love Lives On Act of 2025",
    "2025-02-05",
    "2026-03-18",
-   163,
+   167,
    10
   ],
   [
@@ -3713,8 +3780,8 @@
    "A resolution expressing the sense of the Senate that the United States Agency for International Development is essential for advancing the national security interests of the United States.",
    "2025-02-03",
    "2025-02-03",
-   164,
-   4
+   168,
+   6
   ],
   [
    "S",
@@ -3722,8 +3789,8 @@
    "Charitable Act",
    "2025-01-29",
    "2025-01-29",
-   1,
-   1
+   3,
+   3
   ],
   [
    "SRES",
@@ -3731,7 +3798,7 @@
    "A resolution condemning the pardons for individuals who were found guilty of assaulting Capitol Police Officers.",
    "2025-01-28",
    "2025-01-28",
-   165,
+   169,
    15
   ],
   [
@@ -3740,8 +3807,8 @@
    "Global Health, Empowerment and Rights Act",
    "2025-01-28",
    "2025-01-28",
-   17,
-   4
+   22,
+   6
   ],
   [
    "S",
@@ -3749,7 +3816,7 @@
    "TORNADO Act",
    "2025-01-27",
    "2025-06-02",
-   166,
+   170,
    24
   ],
   [
@@ -3758,7 +3825,7 @@
    "A resolution honoring the service of women in combat roles in the Armed Forces.",
    "2025-01-16",
    "2025-01-16",
-   167,
+   171,
    10
   ],
   [
@@ -3767,7 +3834,7 @@
    "TAKE IT DOWN Act",
    "2025-01-16",
    "2025-05-19",
-   168,
+   172,
    24
   ],
   [
@@ -3776,8 +3843,8 @@
    "Wildland Firefighters Congressional Gold Medal Act",
    "2025-01-16",
    "2025-01-16",
-   169,
-   0
+   173,
+   2
   ],
   [
    "S",
@@ -3785,8 +3852,8 @@
    "Connected MOM Act",
    "2025-01-16",
    "2025-01-16",
-   1,
-   2
+   3,
+   4
   ],
   [
    "S",
@@ -3794,7 +3861,7 @@
    "VA Home Loan Awareness Act of 2025",
    "2025-01-16",
    "2025-01-16",
-   12,
+   14,
    26
   ],
   [
@@ -3803,8 +3870,8 @@
    "Washington, D.C. Admission Act",
    "2025-01-09",
    "2025-01-09",
-   65,
-   8
+   69,
+   9
   ],
   [
    "S",
@@ -3812,8 +3879,8 @@
    "Health Care Affordability Act of 2025",
    "2025-01-09",
    "2025-01-09",
-   1,
-   1
+   3,
+   3
   ],
   [
    "S",
@@ -3821,7 +3888,7 @@
    "Commission to Study and Develop Reparation Proposals for African Americans Act",
    "2025-01-09",
    "2025-01-09",
-   14,
+   16,
    21
   ]
  ]
