@@ -2,6 +2,7 @@
  "bioguideId": "F000485",
  "congress": 119,
  "actions": [
+  "Referred to the House Committee on Veterans' Affairs.",
   "Referred to the House Committee on Education and Workforce.",
   "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the House Committee on Oversight and Government Reform.",
@@ -10,6 +11,8 @@
   "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Financial Services, Education and Workforce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the House Committee on Financial Services.",
   "Motion to reconsider laid on the table Agreed to without objection.",
+  "Referred to the House Committee on Agriculture.",
+  "Placed on the Union Calendar, Calendar No. 783.",
   "Referred to the House Committee on Energy and Commerce.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the House Committee on Ways and Means.",
@@ -22,13 +25,12 @@
   "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 38 - 0.",
-  "Referred to the House Committee on Agriculture.",
   "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the House Committee on Transportation and Infrastructure.",
   "Motion to proceed to consideration of measure withdrawn in Senate. (CR S5199)",
   "Referred to the House Committee on Science, Space, and Technology.",
-  "Forwarded by Subcommittee to Full Committee by Voice Vote.",
-  "Subcommittee Hearings Held",
+  "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+  "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
@@ -36,15 +38,16 @@
   "Referred to the Subcommittee on Health.",
   "Referred to the House Committee on Armed Services.",
   "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Referred to the House Committee on Veterans' Affairs.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Workforce, the Judiciary, Armed Services, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 35 - 14.",
   "Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "Referred to the Subcommittee on Nutrition and Foreign Agriculture."
  ],
  "policyAreas": [
+  "Armed Forces and National Security",
   "Education",
   "Sports and Recreation",
   "Government Operations and Politics",
@@ -54,9 +57,10 @@
   "Social Welfare",
   "Crime and Law Enforcement",
   "Commerce",
+  "Agriculture and Food",
+  "Labor and Employment",
   "Health",
   "Civil Rights and Liberties, Minority Issues",
-  "Armed Forces and National Security",
   "Taxation",
   "Emergency Management",
   "International Affairs",
@@ -68,18 +72,26 @@
   "Transportation and Public Works",
   "Energy",
   "Economics and Public Finance",
-  "Families",
-  "Agriculture and Food"
+  "Families"
  ],
  "primary": [
+  [
+   "HR",
+   "11017",
+   "Veterans Claims Timeliness, Accountability, and Care Act",
+   "2026-11-12",
+   "2026-11-12",
+   0,
+   0
+  ],
   [
    "HR",
    "10868",
    "Protecting Students from Sexually Explicit Materials Act",
    "2026-10-22",
    "2026-10-22",
-   0,
-   0
+   1,
+   1
   ],
   [
    "HR",
@@ -87,8 +99,8 @@
    "No Elite Athletes Using X-pro status to ensure Prioritizing Recruitment Of Student-athletes (NEAUX PROS) Act",
    "2026-09-03",
    "2026-09-03",
-   1,
-   1
+   2,
+   2
   ],
   [
    "HR",
@@ -96,8 +108,8 @@
    "White House Fellows Program Authorization Act",
    "2026-09-03",
    "2026-09-03",
-   2,
-   2
+   3,
+   3
   ],
   [
    "HR",
@@ -105,8 +117,8 @@
    "American Made Federal Uniforms and Apparel Act of 2026",
    "2026-09-03",
    "2026-09-03",
-   2,
-   2
+   3,
+   3
   ],
   [
    "HJRES",
@@ -114,8 +126,8 @@
    "Proposing an amendment to the Constitution of the United States to require that certain individuals are natural born citizens.",
    "2026-07-21",
    "2026-07-21",
-   3,
-   3
+   4,
+   4
   ],
   [
    "HRES",
@@ -123,8 +135,8 @@
    "Supporting the efforts of the Trump Administration to obtain a rehearing of the decision of the Supreme Court of the United States in Trump v. Barbara, and for other purposes.",
    "2026-07-15",
    "2026-07-15",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HRES",
@@ -132,8 +144,8 @@
    "Honoring the life and military and public service of Colonel Lindsey O. Graham, United States Air Force Reserve (Retired), late Senator from South Carolina, and expressing the sense of the House of Representatives that the Judge Advocate General's School of the United States Air Force should be renamed in his honor.",
    "2026-07-15",
    "2026-07-15",
-   4,
-   5
+   5,
+   6
   ],
   [
    "HR",
@@ -141,8 +153,8 @@
    "Securing Healthcare and Income Entitlements for Lawfully Domiciled Citizens (SHIELD Citizens) Act",
    "2026-07-14",
    "2026-07-14",
-   5,
-   6
+   6,
+   7
   ],
   [
    "HR",
@@ -150,8 +162,8 @@
    "COCOA-VIP Act",
    "2026-07-02",
    "2026-07-02",
-   4,
-   2
+   5,
+   3
   ],
   [
    "HR",
@@ -159,8 +171,8 @@
    "HONEST Act of 2026",
    "2026-06-30",
    "2026-06-30",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HRES",
@@ -168,8 +180,8 @@
    "Impeaching Eleanor L. Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
    "2026-06-08",
    "2026-06-08",
-   3,
-   3
+   4,
+   4
   ],
   [
    "HR",
@@ -177,8 +189,8 @@
    "Millstone Act",
    "2026-06-04",
    "2026-06-04",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HJRES",
@@ -186,8 +198,8 @@
    "Proposing an amendment to the Constitution of the United States to protect United States citizenship.",
    "2026-05-04",
    "2026-05-04",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HR",
@@ -195,8 +207,8 @@
    "Congressional Gold Medal For Inspiring Great Heroism and Tenacity (FIGHT) Act",
    "2026-04-30",
    "2026-04-30",
-   6,
-   7
+   7,
+   8
   ],
   [
    "HRES",
@@ -204,19 +216,73 @@
    "Expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities.",
    "2026-04-16",
    "2026-04-22",
-   7,
-   8
+   8,
+   9
   ]
  ],
  "cosponsored": [
+  [
+   "HR",
+   "4362",
+   "AFIDA Improvements Act of 2025",
+   "2026-11-18",
+   "2025-07-14",
+   9,
+   10
+  ],
+  [
+   "HR",
+   "10693",
+   "GI Bill Transferability Act",
+   "2026-11-17",
+   "2026-10-01",
+   0,
+   0
+  ],
+  [
+   "HR",
+   "9936",
+   "PERFORM Act",
+   "2026-11-17",
+   "2026-07-23",
+   3,
+   3
+  ],
+  [
+   "HR",
+   "6213",
+   "Heat Workforce Standards Act of 2026",
+   "2026-11-17",
+   "2026-11-20",
+   10,
+   11
+  ],
+  [
+   "HR",
+   "3312",
+   "SERVICE Act of 2025",
+   "2026-11-17",
+   "2025-05-08",
+   4,
+   8
+  ],
+  [
+   "HRES",
+   "1653",
+   "Honoring the service and sacrifice of America's veterans on Veterans Day, 2026.",
+   "2026-11-09",
+   "2026-11-09",
+   0,
+   0
+  ],
   [
    "HR",
    "6466",
    "Forced Abortion Prevention and Accountability Act",
    "2026-10-26",
    "2025-12-04",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -224,8 +290,8 @@
    "SAVE Moms and Babies Act of 2025",
    "2026-10-26",
    "2025-01-23",
-   8,
-   9
+   11,
+   12
   ],
   [
    "HR",
@@ -233,8 +299,8 @@
    "No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2025",
    "2026-10-26",
    "2025-01-22",
-   9,
-   9
+   12,
+   12
   ],
   [
    "HRES",
@@ -242,8 +308,8 @@
    "Expressing support of the goal of celebrating a \"National Day of Honor and Respect\" in conjunction with \"Constitution Day and Citizenship Day\".",
    "2026-10-13",
    "2026-06-09",
-   3,
-   10
+   4,
+   13
   ],
   [
    "HR",
@@ -251,8 +317,8 @@
    "Red Star Service Banner Act",
    "2026-10-13",
    "2026-03-05",
-   3,
-   11
+   4,
+   0
   ],
   [
    "HR",
@@ -260,8 +326,8 @@
    "To amend the Internal Revenue Code of 1986 to provide parity in the taxation of professional sports franchises under the limitation on the deduction for certain employee remuneration, and for other purposes.",
    "2026-10-05",
    "2026-10-01",
-   10,
-   12
+   13,
+   14
   ],
   [
    "HR",
@@ -269,8 +335,8 @@
    "PFAS Alternatives Act",
    "2026-10-01",
    "2025-05-06",
-   11,
-   13
+   14,
+   15
   ],
   [
    "HR",
@@ -278,8 +344,8 @@
    "Communist Control Act of 2026",
    "2026-09-17",
    "2026-09-17",
-   3,
-   2
+   4,
+   3
   ],
   [
    "HR",
@@ -287,8 +353,8 @@
    "Iran Human Rights, Internet Freedom, and Accountability Act of 2026",
    "2026-09-17",
    "2026-02-20",
-   12,
-   14
+   15,
+   16
   ],
   [
    "HRES",
@@ -296,8 +362,8 @@
    "Supporting the designation of the week of September 20 through September 26, 2026, as \"Gold Star Families Remembrance Week\".",
    "2026-09-16",
    "2026-09-16",
-   13,
-   11
+   16,
+   0
   ],
   [
    "HR",
@@ -305,8 +371,8 @@
    "To provide for a temporary prohibition on the export of diesel fuel.",
    "2026-09-16",
    "2026-09-16",
-   14,
-   15
+   17,
+   17
   ],
   [
    "HR",
@@ -314,8 +380,8 @@
    "Diesel Price Reduction Act of 2026",
    "2026-09-16",
    "2026-09-16",
-   14,
-   15
+   17,
+   17
   ],
   [
    "HR",
@@ -323,8 +389,8 @@
    "Veteran and Spouse Licensing Flexibility Act of 2025",
    "2026-09-16",
    "2025-08-26",
-   0,
-   11
+   1,
+   0
   ],
   [
    "HR",
@@ -332,8 +398,8 @@
    "MAGA Act",
    "2026-09-15",
    "2026-09-15",
-   15,
-   2
+   18,
+   3
   ],
   [
    "HR",
@@ -341,8 +407,8 @@
    "United States-Israel FUTURES Act of 2026",
    "2026-09-14",
    "2026-02-12",
-   16,
-   14
+   19,
+   16
   ],
   [
    "HR",
@@ -350,8 +416,8 @@
    "Ensuring Lasting Smiles Act",
    "2026-09-10",
    "2025-05-08",
-   17,
-   9
+   20,
+   12
   ],
   [
    "HRES",
@@ -359,8 +425,8 @@
    "Commemorating the 13 United States servicemembers killed at Abbey Gate during and as a result of President Biden's disastrous Afghanistan withdrawal.",
    "2026-09-03",
    "2026-08-27",
-   16,
-   11
+   19,
+   0
   ],
   [
    "HR",
@@ -368,8 +434,8 @@
    "Stop EU Overreach Act",
    "2026-09-03",
    "2026-07-23",
-   10,
-   15
+   13,
+   17
   ],
   [
    "HR",
@@ -377,8 +443,8 @@
    "Tuskegee Airmen Memorial Act of 2026",
    "2026-09-03",
    "2026-07-22",
-   18,
-   16
+   21,
+   18
   ],
   [
    "HR",
@@ -386,8 +452,8 @@
    "Grown in America Act of 2025",
    "2026-09-03",
    "2025-02-27",
-   10,
-   12
+   13,
+   14
   ],
   [
    "HCONRES",
@@ -395,8 +461,8 @@
    "Denouncing Sharia law in the United States.",
    "2026-09-03",
    "2026-09-03",
-   3,
-   2
+   4,
+   3
   ],
   [
    "HR",
@@ -404,8 +470,8 @@
    "America’s Olympic and Paralympic Games Commemorative Coins Act",
    "2026-09-01",
    "2025-07-14",
-   6,
-   17
+   7,
+   19
   ],
   [
    "HR",
@@ -413,8 +479,8 @@
    "To amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
    "2026-08-31",
    "2025-01-16",
-   10,
-   12
+   13,
+   14
   ],
   [
    "HCONRES",
@@ -422,8 +488,8 @@
    "Supporting the Local Radio Freedom Act.",
    "2026-08-31",
    "2025-02-13",
-   3,
-   18
+   4,
+   20
   ],
   [
    "HR",
@@ -431,8 +497,8 @@
    "Foreign Propaganda Disclosure Act",
    "2026-08-27",
    "2026-08-27",
-   3,
-   14
+   4,
+   16
   ],
   [
    "HR",
@@ -440,8 +506,8 @@
    "Essential Caregivers Act of 2026",
    "2026-08-27",
    "2026-07-15",
-   19,
-   9
+   22,
+   12
   ],
   [
    "HR",
@@ -449,8 +515,8 @@
    "DEFIANCE Act of 2025",
    "2026-08-13",
    "2025-05-21",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -458,8 +524,8 @@
    "Healthy H2O Act",
    "2026-07-27",
    "2025-07-23",
-   20,
-   19
+   9,
+   21
   ],
   [
    "HR",
@@ -467,8 +533,8 @@
    "No Leniency for Fentanyl Dealers Act",
    "2026-07-23",
    "2026-07-23",
-   21,
-   7
+   23,
+   8
   ],
   [
    "HR",
@@ -476,8 +542,8 @@
    "North Platte Canteen Congressional Gold Medal Act",
    "2026-07-22",
    "2025-02-21",
-   6,
-   11
+   7,
+   0
   ],
   [
    "HR",
@@ -485,8 +551,8 @@
    "TRUTH in Coverage Act of 2026",
    "2026-07-16",
    "2026-07-16",
-   17,
-   9
+   20,
+   12
   ],
   [
    "HRES",
@@ -494,8 +560,8 @@
    "Remembering the life of Corey Comperatore who passed away on Saturday, July 13, 2024.",
    "2026-07-13",
    "2026-07-13",
-   2,
-   5
+   3,
+   6
   ],
   [
    "HR",
@@ -503,8 +569,8 @@
    "Declaration of Independence Reaffirmation Act of 2026",
    "2026-07-02",
    "2026-07-02",
-   3,
-   2
+   4,
+   3
   ],
   [
    "HR",
@@ -512,8 +578,8 @@
    "Preserving Our Constitution Act of 2026",
    "2026-06-30",
    "2026-06-30",
-   3,
-   10
+   4,
+   13
   ],
   [
    "HR",
@@ -521,8 +587,8 @@
    "Getting Terrorist Fanatics Out Act of 2026",
    "2026-06-30",
    "2026-06-24",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HR",
@@ -530,8 +596,8 @@
    "GHOSTRUCK Act",
    "2026-06-30",
    "2026-06-18",
-   22,
-   20
+   24,
+   22
   ],
   [
    "HR",
@@ -539,8 +605,8 @@
    "Ratepayer Protection Act",
    "2026-06-30",
    "2026-09-30",
-   23,
-   21
+   25,
+   23
   ],
   [
    "HR",
@@ -548,8 +614,8 @@
    "Merit Restoration Act",
    "2026-06-30",
    "2026-06-02",
-   24,
-   18
+   26,
+   20
   ],
   [
    "HR",
@@ -557,8 +623,8 @@
    "Trump Accounts for All Generations Act",
    "2026-06-30",
    "2026-04-15",
-   10,
-   12
+   13,
+   14
   ],
   [
    "HRES",
@@ -566,8 +632,8 @@
    "Support for the designation of the week of June 29 through July 4, 2026, as \"National Tire Safety Week\" in the United States, and supporting the goals and ideals of National Tire Safety Week to educate American motorists about the importance of proper tire care and maintenance.",
    "2026-06-29",
    "2026-06-29",
-   22,
-   20
+   24,
+   22
   ],
   [
    "HR",
@@ -575,17 +641,17 @@
    "Homeownership Eligibility Reform Act",
    "2026-06-29",
    "2026-06-29",
-   6,
-   4
+   7,
+   5
   ],
   [
    "HR",
    "5549",
    "Efficient Nuclear Licensing Hearings Act",
    "2026-06-29",
-   "2026-07-14",
-   25,
-   21
+   "2026-11-12",
+   27,
+   23
   ],
   [
    "HR",
@@ -593,17 +659,17 @@
    "End EPA Abuse Act of 2026",
    "2026-06-25",
    "2026-06-25",
-   8,
-   19
+   11,
+   21
   ],
   [
    "HR",
    "9416",
    "Ocmulgee Mounds National Park Redesignation Act",
    "2026-06-24",
-   "2026-07-01",
-   26,
-   16
+   "2026-11-18",
+   28,
+   18
   ],
   [
    "HR",
@@ -611,8 +677,8 @@
    "Deport the Terrorists Act of 2026",
    "2026-06-04",
    "2026-06-02",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HR",
@@ -620,8 +686,8 @@
    "DROP Act of 2026",
    "2026-06-04",
    "2026-05-20",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -629,8 +695,8 @@
    "To amend the Congressional Budget and Impoundment Control Act of 1974 to establish certain procedures for consideration of annual appropriation bills, and for other purposes.",
    "2026-06-04",
    "2026-04-20",
-   27,
-   22
+   29,
+   24
   ],
   [
    "HRES",
@@ -638,8 +704,8 @@
    "Supporting the designation of June as Family Month.",
    "2026-06-03",
    "2026-06-03",
-   0,
-   23
+   1,
+   25
   ],
   [
    "HR",
@@ -647,8 +713,8 @@
    "CLEAR LABELS Act",
    "2026-06-03",
    "2026-04-14",
-   28,
-   8
+   30,
+   9
   ],
   [
    "HR",
@@ -656,8 +722,8 @@
    "761st Tank Battalion Congressional Gold Medal Act",
    "2026-06-03",
    "2025-02-26",
-   29,
-   17
+   31,
+   19
   ],
   [
    "HR",
@@ -665,8 +731,8 @@
    "Repeal the NFA Act",
    "2026-06-03",
    "2025-01-13",
-   10,
-   12
+   13,
+   14
   ],
   [
    "HR",
@@ -674,8 +740,8 @@
    "Abolish the ATF Act",
    "2026-06-03",
    "2025-01-07",
-   3,
-   2
+   4,
+   3
   ],
   [
    "HR",
@@ -683,8 +749,8 @@
    "Firearm Freedom Act of 2026",
    "2026-06-02",
    "2026-05-22",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -692,8 +758,8 @@
    "Buying American Cotton Act of 2026",
    "2026-06-02",
    "2026-01-22",
-   10,
-   12
+   13,
+   14
   ],
   [
    "HR",
@@ -701,8 +767,8 @@
    "Chip Security Act",
    "2026-06-02",
    "2026-03-26",
-   30,
-   15
+   32,
+   17
   ],
   [
    "HR",
@@ -710,8 +776,8 @@
    "Designation of English as the Official Language of the United States Act of 2025",
    "2026-06-02",
    "2025-03-03",
-   1,
-   2
+   2,
+   3
   ],
   [
    "HR",
@@ -719,8 +785,8 @@
    "Stop Gang Violence Act",
    "2026-05-26",
    "2026-05-15",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -728,8 +794,8 @@
    "Never Fight Alone Act",
    "2026-05-26",
    "2026-06-05",
-   31,
-   11
+   33,
+   0
   ],
   [
    "HR",
@@ -737,8 +803,8 @@
    "Servicemember Payment Data Privacy and Security Act",
    "2026-05-22",
    "2026-05-13",
-   32,
-   11
+   34,
+   0
   ],
   [
    "HR",
@@ -746,8 +812,8 @@
    "Small Business Tax Cut Act",
    "2026-05-22",
    "2026-04-21",
-   10,
-   12
+   13,
+   14
   ],
   [
    "HJRES",
@@ -755,8 +821,8 @@
    "Proposing an amendment to the Constitution of the United States to ensure that only citizens are eligible to vote in Federal elections.",
    "2026-05-22",
    "2026-03-19",
-   3,
-   2
+   4,
+   3
   ],
   [
    "HRES",
@@ -764,8 +830,8 @@
    "America 250 Commemorative Flag Act.",
    "2026-05-21",
    "2026-05-21",
-   3,
-   2
+   4,
+   3
   ],
   [
    "HR",
@@ -773,8 +839,8 @@
    "Inhibiting Militant Adversarial Mullahs Act",
    "2026-05-20",
    "2026-05-19",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HR",
@@ -782,8 +848,8 @@
    "SNAP Fraud Reporting Act of 2026",
    "2026-05-19",
    "2026-03-19",
-   20,
-   24
+   9,
+   10
   ],
   [
    "HR",
@@ -791,8 +857,8 @@
    "Disqualifying Dual Loyalty Act of 2025",
    "2026-05-19",
    "2025-10-24",
-   4,
-   5
+   5,
+   6
   ],
   [
    "HR",
@@ -800,8 +866,8 @@
    "End the Vaccine Carveout Act",
    "2026-05-19",
    "2025-07-23",
-   8,
-   9
+   11,
+   12
   ],
   [
    "HR",
@@ -809,8 +875,8 @@
    "ASSIMILATION Act",
    "2026-05-15",
    "2026-05-14",
-   33,
-   4
+   35,
+   5
   ],
   [
    "HR",
@@ -818,8 +884,8 @@
    "Veteran Suicide Prevention Act",
    "2026-05-14",
    "2026-01-22",
-   31,
-   11
+   33,
+   0
   ],
   [
    "HR",
@@ -827,8 +893,8 @@
    "Americans First Immigration Act",
    "2026-05-13",
    "2026-04-29",
-   33,
-   4
+   35,
+   5
   ],
   [
    "HR",
@@ -836,8 +902,8 @@
    "CRUSADE Act",
    "2026-05-12",
    "2026-05-12",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HCONRES",
@@ -845,8 +911,8 @@
    "Expressing support for America's law enforcement professionals.",
    "2026-05-12",
    "2026-05-12",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -854,8 +920,8 @@
    "To amend title 38, United States Code, to require the Secretary of Veterans Affairs to transmit a veteran's history of opioid prescriptions to a Community Care health care provider.",
    "2026-05-07",
    "2026-05-07",
-   34,
-   11
+   0,
+   0
   ],
   [
    "HR",
@@ -863,8 +929,8 @@
    "TREY'S Law",
    "2026-04-30",
    "2026-04-29",
-   3,
-   3
+   4,
+   4
   ],
   [
    "HR",
@@ -872,8 +938,8 @@
    "Make DC Square Again Act",
    "2026-04-30",
    "2026-04-22",
-   15,
-   2
+   18,
+   3
   ],
   [
    "HR",
@@ -881,8 +947,8 @@
    "Great American Healthcare Plan",
    "2026-04-30",
    "2026-04-16",
-   35,
-   12
+   36,
+   14
   ],
   [
    "HRES",
@@ -890,8 +956,8 @@
    "Condemning the attempted assassination of President Donald J. Trump on April 25, 2026, condemning the multiple attempts against the President's life, and recognizing the critical mission of the Department of Homeland Security.",
    "2026-04-28",
    "2026-04-28",
-   36,
-   2
+   37,
+   3
   ],
   [
    "HR",
@@ -899,8 +965,8 @@
    "FAITH Act",
    "2026-04-28",
    "2026-04-16",
-   3,
-   10
+   4,
+   13
   ],
   [
    "HR",
@@ -908,8 +974,8 @@
    "Muslim Brotherhood Terrorist Designation Act of 2025",
    "2026-04-27",
    "2025-12-03",
-   37,
-   14
+   38,
+   16
   ],
   [
    "HR",
@@ -917,8 +983,8 @@
    "SHUSH Act",
    "2026-04-22",
    "2025-01-31",
-   38,
-   7
+   39,
+   8
   ],
   [
    "HR",
@@ -926,8 +992,8 @@
    "Life at Conception Act",
    "2026-04-22",
    "2025-01-24",
-   3,
-   10
+   4,
+   13
   ],
   [
    "HRES",
@@ -935,8 +1001,8 @@
    "Encouraging military discounts in honor of the 250th anniversary of the United States.",
    "2026-04-21",
    "2026-04-21",
-   39,
-   11
+   40,
+   0
   ],
   [
    "HRES",
@@ -944,8 +1010,8 @@
    "Expressing the sense of the House of Representatives that as the United States marks 250 years of independence, establishing a \"Veterans Appreciation Month\" offers a simple but powerful way for the Nation to recognize the men and women whose service has protected American freedom for generations.",
    "2026-04-21",
    "2026-04-21",
-   2,
-   11
+   3,
+   0
   ],
   [
    "HJRES",
@@ -953,8 +1019,8 @@
    "Encouraging States to establish \"Veterans Tax Relief Weekends\" that coincide with Memorial Day, Independence Day, and Veterans Day, providing a practical way for communities across the country to recognize the service of veterans and members of the Armed Forces by providing financial relief to them.",
    "2026-04-21",
    "2026-04-21",
-   3,
-   11
+   4,
+   0
   ],
   [
    "HJRES",
@@ -962,8 +1028,8 @@
    "Proposing an amendment to the Constitution of the United States to limit the number of terms that a Member of Congress may serve.",
    "2026-04-21",
    "2025-01-06",
-   3,
-   5
+   4,
+   6
   ],
   [
    "HR",
@@ -971,8 +1037,8 @@
    "DEPORT Act of 2026",
    "2026-04-20",
    "2026-04-16",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HR",
@@ -980,8 +1046,8 @@
    "Swalwell Act",
    "2026-04-20",
    "2026-04-15",
-   4,
-   5
+   5,
+   6
   ],
   [
    "HR",
@@ -989,8 +1055,8 @@
    "HONOR Gold Star Families Act",
    "2026-04-20",
    "2026-03-12",
-   32,
-   11
+   34,
+   0
   ],
   [
    "HR",
@@ -998,8 +1064,8 @@
    "Gun Owner Registration Information Protection Act",
    "2026-04-16",
    "2026-02-25",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -1007,8 +1073,8 @@
    "PRESS Act",
    "2026-04-16",
    "2026-07-15",
-   25,
-   7
+   41,
+   8
   ],
   [
    "HR",
@@ -1016,8 +1082,8 @@
    "SCAM Act",
    "2026-04-16",
    "2026-01-20",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HR",
@@ -1025,8 +1091,8 @@
    "Child Interstate Abortion Notification Act",
    "2026-04-16",
    "2025-08-12",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -1034,8 +1100,8 @@
    "Somalia Immigration Moratorium Act",
    "2026-04-15",
    "2026-02-04",
-   3,
-   4
+   4,
+   5
   ],
   [
    "HR",
@@ -1043,8 +1109,8 @@
    "SAVE America Act",
    "2026-04-15",
    "2026-01-30",
-   4,
-   2
+   5,
+   3
   ],
   [
    "HR",
@@ -1052,8 +1118,8 @@
    "LAND Act",
    "2026-04-15",
    "2025-04-04",
-   40,
-   24
+   42,
+   10
   ],
   [
    "HR",
@@ -1061,8 +1127,8 @@
    "National Constitutional Carry Act",
    "2026-04-15",
    "2025-01-23",
-   3,
-   7
+   4,
+   8
   ],
   [
    "HR",
@@ -1070,8 +1136,8 @@
    "PARTS Act of 2025",
    "2026-04-15",
    "2025-01-22",
-   3,
-   7
+   4,
+   8
   ]
  ]
 }
