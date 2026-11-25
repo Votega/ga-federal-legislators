@@ -18,6 +18,7 @@
   "Referred to the House Committee on Education and Workforce.",
   "Referred to the House Committee on Armed Services.",
   "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Placed on the Union Calendar, Calendar No. 730.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
@@ -33,7 +34,6 @@
   "Referred to the House Committee on Agriculture.",
   "Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 8.",
   "Referred to the House Committee on Ways and Means.",
-  "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the House Committee on House Administration.",
   "Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 2.",
@@ -42,7 +42,7 @@
   "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and Workforce, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Armed Services, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.",
+  "Placed on the Union Calendar, Calendar No. 783.",
   "Motion to reconsider laid on the table Agreed to without objection.",
   "Referred to the House Committee on Foreign Affairs.",
   "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.",
@@ -398,6 +398,24 @@
  ],
  "cosponsored": [
   [
+   "HR",
+   "9656",
+   "Illegal Alien Patient Reporting Act",
+   "2026-11-10",
+   "2026-07-13",
+   16,
+   3
+  ],
+  [
+   "HR",
+   "9131",
+   "Protecting Kids from Creeps Act",
+   "2026-11-10",
+   "2026-06-03",
+   2,
+   4
+  ],
+  [
    "HRES",
    "1584",
    "Recognizing the 50th anniversary of the Hyde Amendment and its enduring legacy of saving the lives of more than 2,600,000 unborn children and respecting the conscience rights of the American people.",
@@ -421,7 +439,7 @@
    "Firearm Access During Shutdowns Act",
    "2026-09-14",
    "2025-10-31",
-   16,
+   17,
    4
   ],
   [
@@ -439,7 +457,7 @@
    "Equal Campus Access Act of 2026",
    "2026-09-02",
    "2026-09-16",
-   17,
+   18,
    12
   ],
   [
@@ -466,7 +484,7 @@
    "Safeguarding Women from Chemical Abortion Act",
    "2026-09-01",
    "2026-03-12",
-   18,
+   19,
    8
   ],
   [
@@ -475,7 +493,7 @@
    "Non-Domiciled CDL Integrity Act",
    "2026-09-01",
    "2026-03-18",
-   19,
+   20,
    7
   ],
   [
@@ -493,7 +511,7 @@
    "Commemorating the 13 United States servicemembers killed at Abbey Gate during and as a result of President Biden's disastrous Afghanistan withdrawal.",
    "2026-08-27",
    "2026-08-27",
-   20,
+   21,
    13
   ],
   [
@@ -511,7 +529,7 @@
    "Designation of English as the Official Language of the United States Act of 2025",
    "2026-07-30",
    "2025-03-03",
-   21,
+   22,
    0
   ],
   [
@@ -520,7 +538,7 @@
    "761st Tank Battalion Congressional Gold Medal Act",
    "2026-07-16",
    "2025-02-26",
-   22,
+   23,
    10
   ],
   [
@@ -601,7 +619,7 @@
    "Permanent Trump Secure Border Act",
    "2026-06-15",
    "2026-07-07",
-   23,
+   24,
    3
   ],
   [
@@ -610,7 +628,7 @@
    "Merit Restoration Act",
    "2026-06-10",
    "2026-06-02",
-   24,
+   25,
    17
   ],
   [
@@ -619,7 +637,7 @@
    "Choice in Automobile Retail Sales Act of 2025",
    "2026-06-10",
    "2025-03-27",
-   25,
+   26,
    1
   ],
   [
@@ -628,7 +646,7 @@
    "Secure the Border Act of 2026",
    "2026-06-08",
    "2026-07-07",
-   26,
+   27,
    3
   ],
   [
@@ -655,7 +673,7 @@
    "ASSIMILATION Act",
    "2026-06-03",
    "2026-05-14",
-   27,
+   28,
    3
   ],
   [
@@ -700,7 +718,7 @@
    "Equal Treatment for Farmers Act",
    "2026-04-20",
    "2026-04-20",
-   28,
+   29,
    18
   ],
   [
@@ -709,7 +727,7 @@
    "Chloe Cole Act of 2026",
    "2026-04-14",
    "2026-07-15",
-   29,
+   30,
    2
   ],
   [
@@ -718,7 +736,7 @@
    "Abortion Is Not Health Care Act of 2025",
    "2026-04-13",
    "2025-01-03",
-   30,
+   31,
    6
   ],
   [
@@ -736,7 +754,7 @@
    "Expanding Private Airport Security Screening Act",
    "2026-03-27",
    "2026-03-30",
-   26,
+   27,
    7
   ],
   [
@@ -745,7 +763,7 @@
    "No Federal Tax Dollars for Illegal Aliens Health Insurance Act of 2026",
    "2026-03-05",
    "2026-03-05",
-   31,
+   16,
    8
   ],
   [
@@ -799,7 +817,7 @@
    "Restoring Equal Opportunity Act",
    "2026-02-02",
    "2025-07-16",
-   27,
+   28,
    11
   ],
   [
@@ -817,7 +835,7 @@
    "To amend the Internal Revenue Code of 1986 to revoke the tax-exempt status of organizations that provide, or provide funding for, abortion.",
    "2026-01-30",
    "2026-01-30",
-   30,
+   31,
    6
   ],
   [
@@ -835,7 +853,7 @@
    "Pharmacists Fight Back in Medicare and Medicaid Act",
    "2026-01-30",
    "2025-12-11",
-   31,
+   16,
    8
   ],
   [
@@ -871,7 +889,7 @@
    "More Affordable Care Act",
    "2025-12-09",
    "2025-12-09",
-   31,
+   16,
    8
   ],
   [
@@ -904,9 +922,9 @@
   [
    "HR",
    "6213",
-   "Heat Workforce Standards Act of 2025",
+   "Heat Workforce Standards Act of 2026",
    "2025-12-02",
-   "2026-07-21",
+   "2026-11-20",
    40,
    20
   ],
@@ -961,7 +979,7 @@
    "Second Amendment Restoration Act of 2025",
    "2025-11-12",
    "2025-11-12",
-   27,
+   28,
    4
   ],
   [
@@ -988,7 +1006,7 @@
    "No Tax Exemptions For Terror Act",
    "2025-11-04",
    "2025-10-31",
-   30,
+   31,
    6
   ],
   [
@@ -1042,7 +1060,7 @@
    "Free Speech Fairness Act",
    "2025-09-26",
    "2025-03-31",
-   30,
+   31,
    6
   ],
   [
@@ -1150,7 +1168,7 @@
    "PRIME Act",
    "2025-07-23",
    "2025-07-23",
-   28,
+   29,
    18
   ],
   [
@@ -1222,7 +1240,7 @@
    "FIREARM Act",
    "2025-06-06",
    "2025-09-10",
-   29,
+   30,
    4
   ],
   [
@@ -1240,7 +1258,7 @@
    "Freedom to Invest in Tomorrow’s Workforce Act",
    "2025-06-04",
    "2025-02-07",
-   30,
+   31,
    6
   ],
   [
@@ -1321,7 +1339,7 @@
    "Student Loan Marriage Penalty Elimination Act of 2025",
    "2025-05-08",
    "2025-05-08",
-   30,
+   31,
    6
   ],
   [
@@ -1375,7 +1393,7 @@
    "End Taxpayer Subsidies for Electric Vehicles Act",
    "2025-04-01",
    "2025-04-01",
-   30,
+   31,
    6
   ],
   [
@@ -1384,7 +1402,7 @@
    "Medicare Patient Access and Practice Stabilization Act of 2025",
    "2025-04-01",
    "2025-01-31",
-   31,
+   16,
    8
   ],
   [
@@ -1429,7 +1447,7 @@
    "To amend the Internal Revenue Code of 1986 to disallow the production tax credit and investment tax credit for offshore wind facilities placed in service in the inland navigable waters of the United States or the coastal waters of the United States.",
    "2025-03-25",
    "2025-03-18",
-   30,
+   31,
    6
   ],
   [
@@ -1447,7 +1465,7 @@
    "No Deductions for Marijuana Businesses Act",
    "2025-03-25",
    "2025-02-21",
-   30,
+   31,
    6
   ],
   [
@@ -1456,7 +1474,7 @@
    "FAIR PREP Act of 2025",
    "2025-03-25",
    "2025-01-15",
-   30,
+   31,
    6
   ],
   [
@@ -1474,7 +1492,7 @@
    "Military Spouse Hiring Act",
    "2025-03-18",
    "2025-03-11",
-   30,
+   31,
    6
   ],
   [
@@ -1519,7 +1537,7 @@
    "No Tax Breaks for Sanctuary Cities Act",
    "2025-03-05",
    "2025-03-05",
-   30,
+   31,
    6
   ],
   [
@@ -1582,7 +1600,7 @@
    "Death Tax Repeal Act",
    "2025-02-13",
    "2025-02-13",
-   30,
+   31,
    6
   ],
   [
@@ -1672,7 +1690,7 @@
    "Safeguarding American Workers’ Benefits Act",
    "2025-01-28",
    "2025-01-28",
-   30,
+   31,
    6
   ],
   [
@@ -1726,7 +1744,7 @@
    "Main Street Tax Certainty Act",
    "2025-01-23",
    "2025-01-23",
-   30,
+   31,
    6
   ],
   [
@@ -1843,7 +1861,7 @@
    "Healthcare Freedom Act of 2025",
    "2025-01-09",
    "2025-01-09",
-   30,
+   31,
    6
   ],
   [
@@ -1915,7 +1933,7 @@
    "TCJA Permanency Act",
    "2025-01-03",
    "2025-01-03",
-   30,
+   31,
    6
   ],
   [
@@ -1951,7 +1969,7 @@
    "FairTax Act of 2025",
    "2025-01-03",
    "2025-01-03",
-   30,
+   31,
    6
   ],
   [
