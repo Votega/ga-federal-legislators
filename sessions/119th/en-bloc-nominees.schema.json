@@ -1,0 +1,88 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-federal-legislators/main/sessions/119th/en-bloc-nominees.schema.json",
+ "schemaVersion": "1.0.0",
+ "schemaStability": "Additive changes only within a major version: new properties and new CSV columns (appended, never inserted); no property is ever newly required. `congress` is carried in the metadata and as the last CSV column so a downloaded copy says which Congress it describes.",
+ "title": "Georgia Federal Delegation — Nominees in Senate En Bloc Votes",
+ "description": "The nominees covered by each Senate en bloc roll call of the Congress, one row per roll call per nominee. The Senate took one vote on the whole group: a senator's vote in votes.json applies to every nominee listed under that voteId and does not show a view on any one of them. The table holds no per-senator columns; join voteId to votes.json. Procedural votes on a group and its confirmation vote list the same nominees. A list is complete or absent: a roll call whose names are not yet available has no rows.",
+ "type": "object",
+ "required": [
+  "metadata",
+  "nominees"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object",
+   "properties": {
+    "generatedAt": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "When the source lists last changed."
+    },
+    "source": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "congress": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "count": {
+     "type": "integer",
+     "description": "Number of rows."
+    },
+    "schemaVersion": {
+     "type": "string"
+    }
+   }
+  },
+  "nominees": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "properties": {
+     "voteId": {
+      "type": "string",
+      "description": "Join key into votes.json."
+     },
+     "pn": {
+      "type": "string",
+      "description": "Senate nomination number, e.g. PN55-25."
+     },
+     "name": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "null when the title does not read 'name, of state, to be position'."
+     },
+     "state": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "position": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "title": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "The Senate's own wording; always kept."
+     }
+    }
+   }
+  }
+ }
+}
