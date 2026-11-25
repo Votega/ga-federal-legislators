@@ -21,7 +21,9 @@ Every file is regenerated automatically on each update — pick the format that 
 | `data/votes.csv` | CSV | Spreadsheets — one row per roll-call vote |
 | `data/member-votes.csv` | CSV | **Analysis** — one row per (member, vote); tidy/long format for pivots and joins |
 | `data/members.schema.json` | JSON Schema | Validating / typing `members.json` |
+| `data/en-bloc-nominees.json`, `.csv` | JSON, CSV | Every nomination behind each Senate en bloc vote, one row per nomination per vote (see below) |
 | `data/votes.schema.json` | JSON Schema | Validating / typing `votes.json` |
+| `data/en-bloc-nominees.schema.json` | JSON Schema | Validating / typing `en-bloc-nominees.json` |
 | [`sessions/`](sessions) | folder | **History** — a frozen record of each finished Congress, starting with the 119th (see below) |
 
 The CSV and Markdown files are flattened views of the same data in the JSON files — nothing in them that isn't in the JSON, just easier to consume without code.
@@ -38,6 +40,7 @@ The files in `data/` describe the **current** Congress and are replaced when a n
 |-------------------------------|------------|
 | `members.json`, `members.csv` | The delegation's roster for that Congress (`members.schema.json`) |
 | `votes.json`, `votes.csv`, `member-votes.csv` | Every recorded roll call, in the same shape as `data/` (`votes.schema.json`) |
+| `en-bloc-nominees.json`, `en-bloc-nominees.csv` | Every nomination behind each Senate en bloc vote (`en-bloc-nominees.schema.json`) |
 | `scorecard.json`, `scorecard.csv` | Party-unity and participation per member |
 | `sponsorship/`, `sponsorship.csv` | Each member's complete sponsored and cosponsored record: compact per-member files, and one flat row per bill |
 | `freeze.json`, `README.md` | What was frozen, when and from which sources; the folder's own notes |
@@ -180,6 +183,17 @@ Published as-is from votega.org's `federal-member-votes.json` — no filtering n
 
 `yea`/`nay` are chamber-wide totals (all voting members, not just Georgia's). `chamber` is `"House"` or `"Senate"`. `result` is `"Pass"` or `"Fail"`.
 
+Senate votes also carry two fields:
+
+| Field | Type | Notes |
+|-------|------|-------|
+| `documentType` | string \| null | What the vote was on, e.g. `"PN"` (a nomination) or `"S.Res."`; `null` when the roll call names no document |
+| `nomineeCount` | integer \| null | Number of **nominations** the one vote covers; `null` when it is not a nomination vote or the count is not yet known. It counts nominations, not people: one person can hold two nominations in a group |
+
+When `nomineeCount` is more than 1 the vote is **en bloc**, and its `title` reads like `En bloc: 107 nominations, including Paul Atkins`.
+
+> **Changed 2026-11-25:** 13 en bloc votes in the 119th Congress were previously titled with a single nominee's name. Those titles now describe the whole group. If you stored the old titles, replace them.
+
 #### Vote ID format
 
 | Pattern | Example | Meaning |
@@ -200,9 +214,26 @@ Only covers votes cast by Georgia's own delegation — a House vote array never 
 
 ---
 
+## `data/en-bloc-nominees.json`
+
+The Senate sometimes takes one vote on a group of nominations. This table lists every nomination in each group, one row per nomination per vote; a group's procedural and confirmation votes each list the same nominations.
+
+> **One vote, whole group.** A senator's vote applies to the group and does not show a view on any one nominee. The table has no per-senator columns. Join `voteId` to `votes.json` for the vote itself.
+
+| Field | Type | Notes |
+|-------|------|-------|
+| `voteId` | string | The Senate roll call, as in `votes.json` |
+| `pn` | string | Nomination number, e.g. `PN55-25` |
+| `name`, `state`, `position` | string \| null | Split from `title`; `null` if it does not follow the usual wording |
+| `title` | string | The nomination as Senate.gov words it |
+
+The CSV has the same columns plus `congress`. A vote's list is complete or absent, never partial: votes read from Voteview because Senate.gov was unreachable have no list until Senate.gov supplies it.
+
+---
+
 ## How data is updated
 
-Files in this repo are pushed automatically from [Votega/votega.org](https://github.com/Votega/votega.org) via a GitHub Actions workflow (`.github/workflows/publish-federal-delegation-to-ga-federal-legislators.yml`), which runs `scripts/publish_federal_delegation.py` to build every artifact above (JSON, CSV, Markdown, and JSON Schema) in one pass. It runs whenever `current-members.json` or `federal-member-votes.json` changes on `main`, and can also be triggered manually.
+Files in this repo are pushed automatically from [Votega/votega.org](https://github.com/Votega/votega.org) via a GitHub Actions workflow (`.github/workflows/publish-federal-delegation-to-ga-federal-legislators.yml`), which runs `scripts/publish_federal_delegation.py` to build every artifact above (JSON, CSV, Markdown, and JSON Schema) in one pass. It runs whenever `current-members.json`, `federal-member-votes.json` or `federal-en-bloc-nominees.json` changes on `main`, and can also be triggered manually.
 
 Source data comes from the [Congress.gov API](https://api.congress.gov), the Clerk of the House's roll-call XML, and Senate.gov's roll-call XML, via `scripts/generate_current_members_data.py` and `scripts/generate_federal_votes_data.py` in the votega.org repo.
 
@@ -211,7 +242,7 @@ Source data comes from the [Congress.gov API](https://api.congress.gov), the Cle
 ## Data notes
 
 - **`recentSponsored` and `committees` are Georgia-specific enrichment.** votega.org's full national roster only fetches per-member sponsored-legislation detail for the Georgia delegation, to avoid 500+ extra Congress.gov API calls on every run — that's why it's present here on every member.
-- **`votes.json` only records roll calls tied to enacted legislation.** It's built by walking public laws passed in the current Congress back to their roll-call votes, not every procedural vote taken.
+- **`votes.json` records every recorded roll call**, including failed measures, amendments, procedural motions and Senate nominations. Voice votes and unanimous-consent agreements are not recorded by name, so they cannot appear.
 - **Committee names** come from the community-maintained [`unitedstates/congress-legislators`](https://github.com/unitedstates/congress-legislators) project, not Congress.gov directly.
 - This dataset covers the **119th Congress** only.
 
