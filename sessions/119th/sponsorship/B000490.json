@@ -10,10 +10,12 @@
   "Referred to the House Committee on Armed Services.",
   "Referred to the House Committee on Financial Services.",
   "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+  "Referred to the House Committee on Energy and Commerce.",
   "Referred to the House Committee on Foreign Affairs.",
+  "Referred to the House Committee on Veterans' Affairs.",
+  "Referred to the House Committee on Ways and Means.",
   "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Referred to the House Committee on Energy and Commerce.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Agriculture, Ways and Means, Natural Resources, Financial Services, Transportation and Infrastructure, Education and Workforce, Oversight and Government Reform, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Education and Workforce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
@@ -27,19 +29,18 @@
   "Referred to the House Committee on Agriculture.",
   "Motion to proceed to consideration of measure withdrawn in Senate. (CR S5199)",
   "Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Referred to the House Committee on Ways and Means.",
   "Forwarded by Subcommittee to Full Committee by Voice Vote.",
   "Ordered to be Reported by the Yeas and Nays: 48 - 0.",
   "Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.",
   "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
   "Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Subcommittee Hearings Held",
+  "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
   "Referred to the Committee on Armed Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 0.",
   "Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Presented to President.",
+  "Became Public Law No: 119-138.",
   "Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Subcommittee on Health.",
   "Referred to the Committee on Appropriations, and in addition to the Committees on Armed Services, Oversight and Government Reform, House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
@@ -72,8 +73,8 @@
   "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 0.",
   "Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 4.",
-  "Referred to the House Committee on Veterans' Affairs.",
   "Referred to the House Committee on Appropriations.",
+  "Subcommittee Hearings Held",
   "Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
   "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
@@ -100,6 +101,7 @@
   "Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Foreign Affairs, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the House Committee on Intelligence (Permanent Select).",
   "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 622.",
+  "Received in the Senate and Read twice and referred to the Committee on Armed Services.",
   "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Sponsor introductory remarks on measure. (CR H122)",
   "Committee Hearings Held",
@@ -125,15 +127,15 @@
   "Agriculture and Food",
   "Armed Forces and National Security",
   "Government Operations and Politics",
-  "International Affairs",
   "Health",
+  "Taxation",
+  "International Affairs",
   "Energy",
   "Emergency Management",
   "Crime and Law Enforcement",
   "Education",
   "Finance and Financial Sector",
   "Public Lands and Natural Resources",
-  "Taxation",
   "Social Welfare",
   "Environmental Protection",
   "Labor and Employment",
@@ -227,6 +229,69 @@
  "cosponsored": [
   [
    "HRES",
+   "1673",
+   "Supporting the goals and ideals of \"National Rural Health Day\".",
+   "2026-11-19",
+   "2026-11-19",
+   8,
+   6
+  ],
+  [
+   "HR",
+   "11087",
+   "Legacies of War Recognition and Unexploded Ordnance Removal Act",
+   "2026-11-19",
+   "2026-11-19",
+   9,
+   -1
+  ],
+  [
+   "HR",
+   "8939",
+   "Closing the HPV Testing Gap Act",
+   "2026-11-18",
+   "2026-05-20",
+   8,
+   6
+  ],
+  [
+   "HRES",
+   "1653",
+   "Honoring the service and sacrifice of America's veterans on Veterans Day, 2026.",
+   "2026-11-09",
+   "2026-11-09",
+   10,
+   4
+  ],
+  [
+   "HR",
+   "4466",
+   "CIRCLE Act",
+   "2026-11-09",
+   "2025-07-16",
+   11,
+   7
+  ],
+  [
+   "HR",
+   "1502",
+   "North Platte Canteen Congressional Gold Medal Act",
+   "2026-11-09",
+   "2025-02-21",
+   6,
+   4
+  ],
+  [
+   "HR",
+   "2036",
+   "Credit for Caring Act of 2025",
+   "2026-10-29",
+   "2025-03-11",
+   11,
+   7
+  ],
+  [
+   "HRES",
    "1641",
    "Honoring the contributions of Indian Americans and supporting the designation of July as \"Indian American Heritage Month\".",
    "2026-10-26",
@@ -240,8 +305,8 @@
    "Sex Trafficking Demand Reduction Act",
    "2026-10-22",
    "2026-05-26",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -249,8 +314,8 @@
    "To reauthorize programs related to health professions education, and for other purposes.",
    "2026-10-22",
    "2025-09-10",
-   9,
-   7
+   12,
+   6
   ],
   [
    "HR",
@@ -258,8 +323,8 @@
    "Ensuring Lasting Smiles Act",
    "2026-10-22",
    "2025-05-08",
-   10,
-   7
+   13,
+   6
   ],
   [
    "HR",
@@ -267,7 +332,7 @@
    "Securing Elections From AI Deception Act",
    "2026-10-19",
    "2026-10-19",
-   11,
+   8,
    5
   ],
   [
@@ -285,8 +350,8 @@
    "Energy Bills Relief Act",
    "2026-10-09",
    "2026-03-18",
-   12,
-   8
+   14,
+   9
   ],
   [
    "HR",
@@ -303,7 +368,7 @@
    "Expressing support for the designation of October 4 through October 10, 2026, as \"National 4-H Week\".",
    "2026-10-05",
    "2026-10-05",
-   13,
+   15,
    3
   ],
   [
@@ -312,8 +377,8 @@
    "Protecting Patient Access to Cancer and Complex Therapies Act",
    "2026-10-05",
    "2025-07-07",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -321,7 +386,7 @@
    "Sunlight on SuperPACs Act of 2026",
    "2026-09-24",
    "2026-09-24",
-   15,
+   17,
    5
   ],
   [
@@ -330,7 +395,7 @@
    "To direct the Joint Committee of Congress on the Library to obtain a statue of Shirley Chisholm for placement in the United States Capitol.",
    "2026-09-24",
    "2026-03-26",
-   15,
+   17,
    1
   ],
   [
@@ -339,8 +404,8 @@
    "Celebrating the 65th anniversary of the establishment of the Peace Corps, and commending its volunteers and contributions to global peace, friendship, and development.",
    "2026-09-24",
    "2026-09-21",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -348,8 +413,8 @@
    "SHINE for Autumn Act of 2025",
    "2026-09-21",
    "2025-09-18",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -357,8 +422,8 @@
    "Relief Without Delay Act",
    "2026-09-17",
    "2026-09-17",
-   16,
-   9
+   18,
+   10
   ],
   [
    "HR",
@@ -366,8 +431,8 @@
    "Glaucoma Vision Act of 2026",
    "2026-09-16",
    "2026-09-16",
-   17,
-   7
+   19,
+   6
   ],
   [
    "HRES",
@@ -375,8 +440,8 @@
    "Supporting the designation of the week of September 14 through September 18, 2026, as \"Malnutrition Awareness Week\".",
    "2026-09-15",
    "2026-09-15",
-   18,
-   7
+   20,
+   6
   ],
   [
    "HR",
@@ -384,8 +449,8 @@
    "Protecting Human Rights and Public Health in Foreign Assistance Act",
    "2026-09-15",
    "2026-04-29",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HJRES",
@@ -393,8 +458,8 @@
    "Proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
    "2026-09-15",
    "2026-09-15",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -402,8 +467,8 @@
    "Patients First Act of 2026",
    "2026-09-14",
    "2026-07-15",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -411,8 +476,8 @@
    "Public Service Loan Forgiveness Inclusion Act of 2026",
    "2026-09-04",
    "2026-09-04",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -420,7 +485,7 @@
    "MODERN WIC Act of 2025",
    "2026-09-04",
    "2025-02-21",
-   20,
+   22,
    3
   ],
   [
@@ -430,7 +495,7 @@
    "2026-09-01",
    "2025-07-14",
    6,
-   12
+   13
   ],
   [
    "HR",
@@ -438,8 +503,8 @@
    "PrEP Access and Coverage Act of 2026",
    "2026-08-27",
    "2026-03-05",
-   21,
-   7
+   23,
+   6
   ],
   [
    "HRES",
@@ -447,7 +512,7 @@
    "Celebrating the 75th anniversary of the International Hearing Society.",
    "2026-08-20",
    "2026-04-23",
-   11,
+   8,
    5
   ],
   [
@@ -456,8 +521,8 @@
    "Officer Wellness and Peer Support Act of 2026",
    "2026-08-13",
    "2026-05-13",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HRES",
@@ -465,7 +530,7 @@
    "Supporting the designation of the week of August 2 through August 8, 2026, as \"National Farmers Market Week\".",
    "2026-08-03",
    "2026-08-03",
-   22,
+   24,
    3
   ],
   [
@@ -474,8 +539,8 @@
    "Wildfire Reduction Market Expansion Act of 2026",
    "2026-07-30",
    "2026-07-22",
-   11,
-   8
+   8,
+   9
   ],
   [
    "HR",
@@ -483,8 +548,8 @@
    "Ratepayer Protection Act",
    "2026-07-27",
    "2026-09-30",
-   23,
-   8
+   25,
+   9
   ],
   [
    "HR",
@@ -492,8 +557,8 @@
    "Tuskegee Airmen Memorial Act of 2026",
    "2026-07-22",
    "2026-07-22",
-   24,
-   13
+   26,
+   14
   ],
   [
    "HR",
@@ -501,8 +566,8 @@
    "GRACE for Military Survivors Act",
    "2026-07-22",
    "2026-06-25",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -510,7 +575,7 @@
    "Social Security Customer Service Act",
    "2026-07-22",
    "2026-04-02",
-   25,
+   11,
    15
   ],
   [
@@ -519,7 +584,7 @@
    "Recycling and Composting Accountability Act",
    "2026-07-16",
    "2026-05-14",
-   26,
+   27,
    16
   ],
   [
@@ -528,7 +593,7 @@
    "Recycling Infrastructure and Accessibility Act of 2025",
    "2026-07-15",
    "2026-05-21",
-   27,
+   28,
    16
   ],
   [
@@ -537,8 +602,8 @@
    "Safe Step Act",
    "2026-07-14",
    "2025-09-19",
-   20,
-   7
+   22,
+   6
   ],
   [
    "HRES",
@@ -546,7 +611,7 @@
    "Expressing support for the designation of July 10th as Journeyman Lineworkers Recognition Day.",
    "2026-07-13",
    "2026-07-13",
-   11,
+   8,
    17
   ],
   [
@@ -555,7 +620,7 @@
    "Expressing support of the goal of celebrating a \"National Day of Honor and Respect\" in conjunction with \"Constitution Day and Citizenship Day\".",
    "2026-06-29",
    "2026-06-09",
-   19,
+   21,
    18
   ],
   [
@@ -564,8 +629,8 @@
    "Great American Outdoors Act 250",
    "2026-06-29",
    "2026-06-24",
-   28,
-   13
+   29,
+   14
   ],
   [
    "HR",
@@ -573,8 +638,8 @@
    "Accelerating Access to Dementia and Alzheimer’s Provider Training Act",
    "2026-06-29",
    "2026-07-21",
-   29,
-   7
+   30,
+   6
   ],
   [
    "HR",
@@ -582,17 +647,17 @@
    "Defenders of Bataan and Corregidor Congressional Gold Medal Act",
    "2026-06-25",
    "2026-06-25",
-   30,
-   6
+   31,
+   8
   ],
   [
    "HR",
    "9416",
    "Ocmulgee Mounds National Park Redesignation Act",
    "2026-06-24",
-   "2026-07-01",
-   31,
-   13
+   "2026-11-18",
+   32,
+   14
   ],
   [
    "HRES",
@@ -600,7 +665,7 @@
    "Commemorating 50 years of women at the service academies.",
    "2026-06-23",
    "2026-06-23",
-   32,
+   33,
    4
   ],
   [
@@ -609,8 +674,8 @@
    "Safe Schools Improvement Act",
    "2026-06-23",
    "2025-03-03",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -618,8 +683,8 @@
    "Ensuring Community Access to Pharmacist Services Act",
    "2026-06-10",
    "2026-05-21",
-   33,
-   7
+   34,
+   6
   ],
   [
    "HR",
@@ -627,8 +692,8 @@
    "Diabetes Foot Health Access and Modernization Act of 2026",
    "2026-06-08",
    "2026-03-12",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -636,8 +701,8 @@
    "Lainie Jones Comprehensive Cancer Survivorship Act of 2026",
    "2026-06-02",
    "2026-05-14",
-   34,
-   7
+   35,
+   6
   ],
   [
    "HR",
@@ -645,8 +710,8 @@
    "IGNITE HBCU Excellence Act",
    "2026-06-02",
    "2026-05-13",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -654,8 +719,8 @@
    "ASAP Act",
    "2026-06-02",
    "2026-09-16",
-   35,
-   7
+   36,
+   6
   ],
   [
    "HR",
@@ -663,8 +728,8 @@
    "Generating Retirement Ownership through Long-Term Holding",
    "2026-06-02",
    "2025-03-11",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -672,8 +737,8 @@
    "National Police Athletic/Activities League Youth Enrichment Reauthorization Act",
    "2026-05-29",
    "2026-05-29",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -681,7 +746,7 @@
    "Job Corps and Skilled Defense Workforce Act",
    "2026-05-20",
    "2026-05-20",
-   36,
+   37,
    4
   ],
   [
@@ -690,7 +755,7 @@
    "To amend title 5, United States Code, to add certain employees of the Bureau of Alcohol, Tobacco, Firearms and Explosives to the definition of employees in fire protection activities for the purpose of compensation for certain illnesses and diseases deemed to be proximately caused by employment in fire protection activities.",
    "2026-05-20",
    "2026-05-15",
-   20,
+   22,
    5
   ],
   [
@@ -699,7 +764,7 @@
    "Supporting the designation of May 29, 2026, as \"Mental Health Awareness in Agriculture Day\" to raise awareness around mental health in the agricultural industry and workforce and to continue to reduce stigma associated with mental illness.",
    "2026-05-19",
    "2026-05-19",
-   22,
+   24,
    3
   ],
   [
@@ -707,9 +772,9 @@
    "8205",
    "Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
    "2026-05-19",
-   "2026-10-26",
-   37,
-   7
+   "2026-11-03",
+   38,
+   6
   ],
   [
    "HR",
@@ -717,8 +782,8 @@
    "SECURE Health Act",
    "2026-05-19",
    "2026-03-19",
-   38,
-   7
+   39,
+   6
   ],
   [
    "HR",
@@ -726,8 +791,8 @@
    "COPS Reauthorization Act of 2026",
    "2026-05-14",
    "2026-05-12",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -735,7 +800,7 @@
    "Moral Injury Recognition and Restitution Act",
    "2026-05-14",
    "2026-04-09",
-   39,
+   40,
    4
   ],
   [
@@ -744,8 +809,8 @@
    "SOAR Act of 2025",
    "2026-05-14",
    "2025-04-10",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -753,8 +818,8 @@
    "DMEPOS Relief Act of 2025",
    "2026-05-14",
    "2025-03-10",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -762,8 +827,8 @@
    "Stephanie Tubbs Jones Uterine Fibroid Research and Education Act of 2025",
    "2026-05-12",
    "2025-07-15",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HRES",
@@ -771,8 +836,8 @@
    "Supporting the designation of the week of May 4 through May 8, 2026, as \"Teacher Appreciation Week\".",
    "2026-05-07",
    "2026-05-04",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HRES",
@@ -789,7 +854,7 @@
    "Metastatic Breast Cancer Access to Care Act",
    "2026-04-28",
    "2025-03-11",
-   25,
+   11,
    15
   ],
   [
@@ -798,7 +863,7 @@
    "Shutdown Fairness Act",
    "2026-04-27",
    "2026-01-16",
-   40,
+   41,
    19
   ],
   [
@@ -807,7 +872,7 @@
    "Prioritizing Rural Hospitals Act",
    "2026-04-22",
    "2025-07-02",
-   22,
+   24,
    3
   ],
   [
@@ -816,7 +881,7 @@
    "Encouraging military discounts in honor of the 250th anniversary of the United States.",
    "2026-04-21",
    "2026-04-21",
-   41,
+   42,
    4
   ],
   [
@@ -834,7 +899,7 @@
    "Faster Labor Contracts Act",
    "2026-04-21",
    "2026-06-10",
-   42,
+   43,
    17
   ],
   [
@@ -843,7 +908,7 @@
    "Encouraging States to establish \"Veterans Tax Relief Weekends\" that coincide with Memorial Day, Independence Day, and Veterans Day, providing a practical way for communities across the country to recognize the service of veterans and members of the Armed Forces by providing financial relief to them.",
    "2026-04-21",
    "2026-04-21",
-   19,
+   21,
    4
   ],
   [
@@ -852,8 +917,8 @@
    "Supporting the designation of the week of April 11 through April 17, 2026, as \"Black Maternal Health Week\", founded by Black Mamas Matter Alliance, Inc. (BMMA), to bring national attention to the maternal and reproductive health crisis in the United States and the importance of reducing maternal mortality and morbidity among Black women and birthing people.",
    "2026-04-16",
    "2026-04-16",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -861,7 +926,7 @@
    "Stop Price Gouging in Grocery Stores Act of 2025",
    "2026-04-15",
    "2025-08-12",
-   43,
+   44,
    20
   ],
   [
@@ -879,8 +944,8 @@
    "Medicare Orthotics and Prosthetics Patient-Centered Care Act",
    "2026-04-14",
    "2025-07-17",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -888,7 +953,7 @@
    "Rights for the TSA Workforce Act",
    "2026-04-13",
    "2025-03-11",
-   44,
+   45,
    5
   ],
   [
@@ -897,8 +962,8 @@
    "Ally’s Act",
    "2026-04-09",
    "2025-07-22",
-   10,
-   7
+   13,
+   6
   ],
   [
    "HJRES",
@@ -906,8 +971,8 @@
    "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to \"William D. Ford Federal Direct Loan (Direct Loan) Program\".",
    "2026-04-09",
    "2026-04-09",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -915,7 +980,7 @@
    "Supporting VA Families Act",
    "2026-04-02",
    "2026-04-15",
-   26,
+   27,
    4
   ],
   [
@@ -933,7 +998,7 @@
    "Recognizing the significance of equal pay and the disparity between wages paid to men and women.",
    "2026-03-26",
    "2026-03-26",
-   20,
+   22,
    17
   ],
   [
@@ -942,8 +1007,8 @@
    "Ensuring Access to General Surgery Act of 2026",
    "2026-03-25",
    "2026-01-22",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -960,7 +1025,7 @@
    "Supporting the designation of March 21, 2026, as \"National Women in Agriculture Day\".",
    "2026-03-19",
    "2026-03-19",
-   22,
+   24,
    3
   ],
   [
@@ -969,8 +1034,8 @@
    "Secure Family Futures Act of 2025",
    "2026-03-19",
    "2025-04-01",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -978,8 +1043,8 @@
    "Momnibus Act",
    "2026-03-18",
    "2026-04-20",
-   39,
-   7
+   40,
+   6
   ],
   [
    "HR",
@@ -987,7 +1052,7 @@
    "H–1Bs for Physicians and the Healthcare Workforce Act",
    "2026-03-17",
    "2026-03-17",
-   19,
+   21,
    21
   ],
   [
@@ -1005,7 +1070,7 @@
    "Clarence Mitchell, Jr. Statue Act",
    "2026-03-12",
    "2026-03-12",
-   15,
+   17,
    1
   ],
   [
@@ -1014,8 +1079,8 @@
    "Infant Formula Safety Modernization Act of 2026",
    "2026-03-09",
    "2026-03-09",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -1023,7 +1088,7 @@
    "Purple Heart Freedom to Work Act",
    "2026-03-09",
    "2026-01-15",
-   25,
+   11,
    15
   ],
   [
@@ -1032,7 +1097,7 @@
    "Memorializing Rev. Jesse Jackson by flying the flag of the United States at halfstaff.",
    "2026-03-05",
    "2026-03-05",
-   19,
+   21,
    18
   ],
   [
@@ -1041,7 +1106,7 @@
    "Fair Housing for Survivors Act of 2026",
    "2026-03-05",
    "2026-03-05",
-   19,
+   21,
    22
   ],
   [
@@ -1059,7 +1124,7 @@
    "DISCLOSE Act of 2026",
    "2026-03-04",
    "2026-03-04",
-   45,
+   46,
    5
   ],
   [
@@ -1068,7 +1133,7 @@
    "Recognizing the historical significance of the Clotilda, condemning the United States role in the Atlantic slave trade, and acknowledging its lasting impact on African Americans.",
    "2026-03-03",
    "2026-02-26",
-   46,
+   47,
    1
   ],
   [
@@ -1077,7 +1142,7 @@
    "Fiscal Commission Act",
    "2026-03-03",
    "2025-05-08",
-   47,
+   48,
    1
   ],
   [
@@ -1086,8 +1151,8 @@
    "Humane Cosmetics Act of 2025",
    "2026-03-02",
    "2025-02-27",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HRES",
@@ -1095,7 +1160,7 @@
    "Recognizing and celebrating the significance of Black history museums and cultural institutions.",
    "2026-02-26",
    "2026-02-26",
-   48,
+   49,
    0
   ],
   [
@@ -1104,7 +1169,7 @@
    "African American History Act of 2026",
    "2026-02-26",
    "2026-02-26",
-   15,
+   17,
    0
   ],
   [
@@ -1113,7 +1178,7 @@
    "Land Grant Research Prioritization Act of 2026",
    "2026-02-26",
    "2026-03-20",
-   49,
+   50,
    3
   ],
   [
@@ -1122,8 +1187,8 @@
    "Recognizing 250 years of Polish-American friendship and reaffirming the interest of the United States of America in the democracy, sovereignty, prosperity, and security of Poland.",
    "2026-02-25",
    "2026-02-25",
-   50,
-   6
+   51,
+   8
   ],
   [
    "HRES",
@@ -1140,8 +1205,8 @@
    "Protecting Student Athletes from Concussions Act",
    "2026-02-25",
    "2026-02-17",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -1149,7 +1214,7 @@
    "Blind Americans Return to Work Act of 2025",
    "2026-02-24",
    "2025-02-10",
-   25,
+   11,
    15
   ],
   [
@@ -1158,7 +1223,7 @@
    "Expressing support for the designation of February 21 through February 28, 2026, as \"National FFA Week\", recognizing the important role of the National Future Farmers of America (FFA) Organization in developing the next generation of globally conscious leaders who will change the world, and celebrating the 50th anniversary of the chartering of the State of Alaska as a State FFA Association.",
    "2026-02-23",
    "2026-02-23",
-   22,
+   24,
    3
   ],
   [
@@ -1167,8 +1232,8 @@
    "Professional Degree Access Restoration Act",
    "2026-02-20",
    "2025-12-11",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -1176,7 +1241,7 @@
    "To designate the facility of the United States Postal Service located at 401 North Elm Street in Tuskegee, Alabama, as the \"Tuskegee Airmen Memorial Post Office\".",
    "2026-02-20",
    "2026-09-17",
-   51,
+   52,
    5
   ],
   [
@@ -1185,7 +1250,7 @@
    "Department of Homeland Security Appropriations Act, 2026",
    "2026-02-13",
    "2026-02-11",
-   52,
+   53,
    19
   ],
   [
@@ -1194,7 +1259,7 @@
    "Supporting the goals and ideals of \"Career and Technical Education Month\".",
    "2026-02-12",
    "2026-02-12",
-   20,
+   22,
    17
   ],
   [
@@ -1203,7 +1268,7 @@
    "Protecting Sensitive Locations Act",
    "2026-02-12",
    "2025-02-06",
-   19,
+   21,
    21
   ],
   [
@@ -1212,8 +1277,8 @@
    "Community Health Center Drug Pricing Protection Act",
    "2026-02-11",
    "2026-02-05",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -1221,8 +1286,8 @@
    "To direct the Secretary of Health and Human Services to establish an Office of Rural Health, and for other purposes.",
    "2026-02-11",
    "2025-04-30",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -1239,7 +1304,7 @@
    "VA Care and Benefits Accountability Act",
    "2026-02-10",
    "2025-11-20",
-   53,
+   54,
    4
   ],
   [
@@ -1248,7 +1313,7 @@
    "Right to Representation for Department of Veterans Affairs Workers Act of 2025",
    "2026-02-10",
    "2025-11-17",
-   53,
+   54,
    4
   ],
   [
@@ -1257,8 +1322,8 @@
    "Incentivizing Readiness and Environmental Protection Integration Sales Act of 2025",
    "2026-02-10",
    "2025-02-06",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HRES",
@@ -1266,8 +1331,8 @@
    "Recognizing January 2026 as \"National Mentoring Month\".",
    "2026-02-09",
    "2026-02-09",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HRES",
@@ -1275,7 +1340,7 @@
    "Honoring the memory of the victims of the 1967 Newark riots and acknowledging the enduring impact on the Newark community.",
    "2026-02-09",
    "2025-07-14",
-   19,
+   21,
    18
   ],
   [
@@ -1284,8 +1349,8 @@
    "Women’s Heart Health Expansion Act of 2026",
    "2026-02-09",
    "2026-02-09",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -1293,8 +1358,8 @@
    "Rural Hospital Flexibility Act of 2025",
    "2026-02-09",
    "2025-12-17",
-   25,
-   7
+   11,
+   6
   ],
   [
    "HR",
@@ -1302,8 +1367,8 @@
    "Rural Residency Planning and Development Act of 2025",
    "2026-02-09",
    "2025-12-04",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -1329,8 +1394,8 @@
    "Rebuild America’s Schools Act of 2026",
    "2026-02-04",
    "2026-02-04",
-   54,
-   11
+   55,
+   12
   ],
   [
    "HR",
@@ -1347,8 +1412,8 @@
    "Access Technology Affordability Act of 2025",
    "2026-02-04",
    "2025-02-24",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -1356,7 +1421,7 @@
    "Farm and Family Relief Act",
    "2026-02-02",
    "2026-01-22",
-   55,
+   56,
    3
   ],
   [
@@ -1365,7 +1430,7 @@
    "Supporting the designation of the \"International Year of the Woman Farmer\" to recognize and honor the critical role of women in agriculture.",
    "2026-01-30",
    "2026-01-30",
-   22,
+   24,
    3
   ],
   [
@@ -1374,7 +1439,7 @@
    "Vote by Mail Tracking Act",
    "2026-01-27",
    "2026-02-04",
-   56,
+   57,
    5
   ],
   [
@@ -1383,8 +1448,8 @@
    "Expressing the sense of the House of Representatives that protecting and advancing the rights of women and girls in the Republic of Haiti is critical to the success of Haiti's transition from crisis and its future stability, condemning the failure to center women's leadership and distinct needs to date, and calling for urgent measures to secure all human rights of women and girls in Haiti.",
    "2026-01-22",
    "2026-01-22",
-   50,
-   6
+   51,
+   8
   ],
   [
    "HR",
@@ -1392,8 +1457,8 @@
    "Buying American Cotton Act of 2026",
    "2026-01-22",
    "2026-01-22",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -1401,8 +1466,8 @@
    "Chiropractic Medicare Coverage Modernization Act of 2025",
    "2026-01-22",
    "2025-01-16",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -1410,8 +1475,8 @@
    "Pakistan Freedom and Accountability Act",
    "2026-01-20",
    "2025-09-10",
-   57,
-   6
+   58,
+   8
   ],
   [
    "HR",
@@ -1419,7 +1484,7 @@
    "Hemp Planting Predictability Act",
    "2026-01-16",
    "2026-05-20",
-   58,
+   59,
    3
   ],
   [
@@ -1428,8 +1493,8 @@
    "Sickle Cell Disease and Other Heritable Blood Disorders Research, Surveillance, Prevention, and Treatment Act of 2025",
    "2026-01-16",
    "2025-03-03",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HRES",
@@ -1437,7 +1502,7 @@
    "Honoring Reverend Dr. Martin Luther King, Jr., by celebrating diversity, promoting tolerance, and condemning hate.",
    "2026-01-15",
    "2026-01-15",
-   19,
+   21,
    18
   ],
   [
@@ -1446,7 +1511,7 @@
    "Recognizing the value of the Older Americans Act of 1965 nutrition program in addressing hunger, malnutrition, and isolation, and improving the health and quality of life for millions of our Nations seniors each year.",
    "2026-01-15",
    "2026-02-04",
-   59,
+   60,
    15
   ],
   [
@@ -1455,8 +1520,8 @@
    "Equitable Access to School Facilities Act",
    "2026-01-15",
    "2026-06-02",
-   60,
-   11
+   61,
+   12
   ],
   [
    "HRES",
@@ -1464,8 +1529,8 @@
    "Recognizing and expressing support for the Iranian people protesting for a free and democratic Iran.",
    "2026-01-14",
    "2026-01-13",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -1473,8 +1538,8 @@
    "761st Tank Battalion Congressional Gold Medal Act",
    "2026-01-13",
    "2025-02-26",
-   30,
-   12
+   31,
+   13
   ],
   [
    "HR",
@@ -1482,7 +1547,7 @@
    "HERO Act",
    "2026-01-09",
    "2025-12-16",
-   61,
+   62,
    23
   ],
   [
@@ -1491,8 +1556,8 @@
    "Vaccine Transportation Access Act",
    "2026-01-08",
    "2025-12-18",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HCONRES",
@@ -1501,7 +1566,7 @@
    "2026-01-08",
    "2026-01-08",
    0,
-   10
+   11
   ],
   [
    "HRES",
@@ -1509,8 +1574,8 @@
    "Condemning the pardons for individuals who were found guilty of assaulting Capitol Police Officers.",
    "2026-01-07",
    "2025-02-05",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HRES",
@@ -1518,7 +1583,7 @@
    "Recognizing the significance of Atlanta, Georgia, as the cradle of the civil rights movement.",
    "2025-12-19",
    "2025-12-19",
-   19,
+   21,
    18
   ],
   [
@@ -1527,8 +1592,8 @@
    "Condemning the antisemitic shooting in Sydney, Australia, and all forms of hatred and violence directed at religious communities.",
    "2025-12-18",
    "2025-12-17",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -1536,8 +1601,8 @@
    "Sanctioning Russia Act of 2025",
    "2025-12-18",
    "2025-04-01",
-   62,
-   6
+   63,
+   8
   ],
   [
    "HR",
@@ -1563,7 +1628,7 @@
    "Jobs, On-the-Job Earn-While-You-Learn Training, and Apprenticeships for Young African-Americans Act",
    "2025-12-15",
    "2025-12-15",
-   20,
+   22,
    17
   ],
   [
@@ -1572,8 +1637,8 @@
    "Endometriosis CARE Act",
    "2025-12-11",
    "2025-12-11",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -1581,8 +1646,8 @@
    "Pharmacists Fight Back [in Federal Employee Health Benefit Plans Act]",
    "2025-12-11",
    "2026-07-22",
-   63,
-   7
+   64,
+   6
   ],
   [
    "HR",
@@ -1590,8 +1655,8 @@
    "Pharmacists Fight Back in Medicare and Medicaid Act",
    "2025-12-11",
    "2025-12-11",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -1599,8 +1664,8 @@
    "Federal Food Administration Act of 2025",
    "2025-12-10",
    "2025-12-10",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -1626,8 +1691,8 @@
    "FEMA Act of 2025",
    "2025-12-09",
    "2025-09-03",
-   64,
-   9
+   65,
+   10
   ],
   [
    "HR",
@@ -1635,7 +1700,7 @@
    "National Museum of the Blind People’s Movement Act",
    "2025-12-05",
    "2025-12-04",
-   65,
+   66,
    0
   ],
   [
@@ -1644,8 +1709,8 @@
    "Veteran Education Empowerment Act",
    "2025-12-02",
    "2025-12-02",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HRES",
@@ -1653,7 +1718,7 @@
    "Amending the Rules of the House of Representatives to require a supermajority vote of Members present and voting to subject a Member, Delegate, or Resident Commissioner to the censure or disapproval of the House, or removal from committee membership.",
    "2025-11-21",
    "2025-11-21",
-   66,
+   67,
    1
   ],
   [
@@ -1671,8 +1736,8 @@
    "Find It Early Act",
    "2025-11-20",
    "2026-01-15",
-   39,
-   7
+   40,
+   6
   ],
   [
    "HR",
@@ -1680,7 +1745,7 @@
    "John Lewis Every Child Deserves a Family Act",
    "2025-11-20",
    "2025-11-20",
-   67,
+   68,
    24
   ],
   [
@@ -1689,8 +1754,8 @@
    "Increasing Access to Mental Health in Schools Act",
    "2025-11-20",
    "2025-11-19",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -1708,7 +1773,7 @@
    "2025-11-19",
    "2025-11-19",
    6,
-   12
+   13
   ],
   [
    "HR",
@@ -1716,8 +1781,8 @@
    "International Human Rights Defense Act of 2025",
    "2025-11-19",
    "2025-11-17",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -1725,8 +1790,8 @@
    "BNA Fairness Act",
    "2025-11-19",
    "2025-01-23",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HRES",
@@ -1734,8 +1799,8 @@
    "Supporting the goals and ideals of \"National Rural Health Day\".",
    "2025-11-18",
    "2025-11-18",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -1743,7 +1808,7 @@
    "Bivens Act of 2025",
    "2025-11-18",
    "2025-11-18",
-   19,
+   21,
    18
   ],
   [
@@ -1761,8 +1826,8 @@
    "Recognizing the strategic value of the historical partnership between the United States and India.",
    "2025-11-17",
    "2025-11-17",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -1770,8 +1835,8 @@
    "Improving Seniors’ Timely Access to Care Act of 2025",
    "2025-11-17",
    "2026-07-15",
-   68,
-   7
+   69,
+   6
   ],
   [
    "HR",
@@ -1779,7 +1844,7 @@
    "Civil Rights Cold Case Records Collection Reauthorization Act",
    "2025-11-12",
    "2026-05-20",
-   69,
+   70,
    18
   ],
   [
@@ -1788,8 +1853,8 @@
    "Nutrition CARE Act of 2025",
    "2025-11-10",
    "2025-03-31",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HRES",
@@ -1797,7 +1862,7 @@
    "Honoring the service and sacrifice of America's veterans on Veterans Day, 2025.",
    "2025-11-07",
    "2025-11-07",
-   70,
+   10,
    4
   ],
   [
@@ -1824,7 +1889,7 @@
    "Expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.",
    "2025-11-04",
    "2025-11-04",
-   20,
+   22,
    24
   ],
   [
@@ -1833,7 +1898,7 @@
    "BADGES for Native Communities Act",
    "2025-11-04",
    "2026-05-21",
-   31,
+   72,
    25
   ],
   [
@@ -1842,8 +1907,8 @@
    "Original National Domestic Violence Awareness Month Resolution of 2025",
    "2025-10-31",
    "2025-10-31",
-   20,
-   10
+   22,
+   11
   ],
   [
    "HR",
@@ -1851,8 +1916,8 @@
    "BCRA of 2025",
    "2025-10-31",
    "2025-10-31",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -1860,7 +1925,7 @@
    "PART Act",
    "2025-10-31",
    "2026-02-10",
-   26,
+   27,
    26
   ],
   [
@@ -1869,8 +1934,8 @@
    "Commemorating October 2025 as Head Start Awareness Month and recognizing its positive impact on more than 40,000,000 children and their families.",
    "2025-10-31",
    "2025-10-31",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HRES",
@@ -1887,8 +1952,8 @@
    "Expressing the sense of the House of Representatives that paraprofessionals and education support staff should have fair compensation, benefits, and working conditions.",
    "2025-10-24",
    "2025-04-07",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -1896,8 +1961,8 @@
    "Protecting Health Care and Lowering Costs Act of 2025",
    "2025-10-21",
    "2025-08-01",
-   67,
-   14
+   68,
+   7
   ],
   [
    "HR",
@@ -1905,8 +1970,8 @@
    "Head Start Shutdown Protection Act of 2025",
    "2025-10-17",
    "2025-10-17",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -1914,7 +1979,7 @@
    "ESP, Paraprofessional, and Education Support Staff Family Leave Act",
    "2025-10-17",
    "2025-09-09",
-   72,
+   73,
    17
   ],
   [
@@ -1923,7 +1988,7 @@
    "SNAP Administrator Retention Act of 2025",
    "2025-10-17",
    "2025-05-15",
-   22,
+   24,
    3
   ],
   [
@@ -1932,8 +1997,8 @@
    "PSLF Payment Completion Fairness Act",
    "2025-10-17",
    "2025-05-08",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -1941,7 +2006,7 @@
    "Better CARE for Animals Act of 2025",
    "2025-10-17",
    "2025-04-30",
-   22,
+   24,
    27
   ],
   [
@@ -1950,7 +2015,7 @@
    "Puppy Protection Act of 2025",
    "2025-10-17",
    "2025-04-04",
-   73,
+   74,
    27
   ],
   [
@@ -1959,8 +2024,8 @@
    "Educators Expense Deduction Modernization Act of 2025",
    "2025-10-17",
    "2025-02-06",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -1968,7 +2033,7 @@
    "Improving Training for School Food Service Workers Act of 2025",
    "2025-10-14",
    "2025-05-13",
-   20,
+   22,
    3
   ],
   [
@@ -1977,7 +2042,7 @@
    "Expanding Access to School Meals Act of 2025",
    "2025-10-14",
    "2025-04-07",
-   20,
+   22,
    3
   ],
   [
@@ -1986,8 +2051,8 @@
    "American Teacher Act",
    "2025-10-14",
    "2025-03-10",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -1995,7 +2060,7 @@
    "WIC Benefits Protection Act",
    "2025-10-10",
    "2025-10-10",
-   20,
+   22,
    3
   ],
   [
@@ -2004,8 +2069,8 @@
    "Resident Physician Shortage Reduction Act of 2025",
    "2025-10-10",
    "2025-07-23",
-   67,
-   7
+   68,
+   6
   ],
   [
    "HR",
@@ -2013,8 +2078,8 @@
    "CONNECT for Health Act of 2025",
    "2025-10-10",
    "2025-06-26",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -2022,8 +2087,8 @@
    "Disaster Reforestation Act",
    "2025-10-10",
    "2025-01-09",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HRES",
@@ -2031,8 +2096,8 @@
    "Condemning the Hamas attacks of October 7, 2023, and calling for Hamas and its leaders to immediately and unconditionally surrender and to release the hostages, including Americans.",
    "2025-10-08",
    "2025-10-08",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -2040,7 +2105,7 @@
    "Voter Purge Protection Act",
    "2025-10-08",
    "2025-10-08",
-   15,
+   17,
    5
   ],
   [
@@ -2049,8 +2114,8 @@
    "Expanding Access to Mental Health Services in Schools Act of 2025",
    "2025-10-08",
    "2025-06-30",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -2058,8 +2123,8 @@
    "Break the Cycle of Violence Act",
    "2025-10-08",
    "2025-06-24",
-   74,
-   10
+   75,
+   11
   ],
   [
    "HRES",
@@ -2067,7 +2132,7 @@
    "Expressing support for the designation of October 5 through October 11, 2025, as \"National 4-H Week\".",
    "2025-10-06",
    "2025-10-06",
-   13,
+   15,
    3
   ],
   [
@@ -2085,7 +2150,7 @@
    "No Shame at School Act of 2025",
    "2025-09-30",
    "2025-09-30",
-   20,
+   22,
    3
   ],
   [
@@ -2094,8 +2159,8 @@
    "Preparing And Retaining All (PARA) Educators Act",
    "2025-09-30",
    "2025-09-18",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -2112,8 +2177,8 @@
    "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services relating to \"Patient Protection and Affordable Care Act; Marketplace Integrity and Affordability\".",
    "2025-09-30",
    "2025-09-17",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -2121,8 +2186,8 @@
    "Medical Device Nonvisual Accessibility Act of 2025",
    "2025-09-26",
    "2025-09-26",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -2130,7 +2195,7 @@
    "Rural Telehealth and Education Enhancement Act of 2025",
    "2025-09-26",
    "2025-02-14",
-   75,
+   76,
    3
   ],
   [
@@ -2139,8 +2204,8 @@
    "Baltic Security Assessment Act of 2025",
    "2025-09-23",
    "2026-04-22",
-   76,
-   6
+   77,
+   8
   ],
   [
    "HRES",
@@ -2148,7 +2213,7 @@
    "Condemning attempts to use Federal regulatory power or litigation to suppress lawful speech, particularly speech critical of a political party or the President of the United States, and warning against the rise of authoritarianism.",
    "2025-09-19",
    "2025-09-19",
-   77,
+   78,
    2
   ],
   [
@@ -2157,8 +2222,8 @@
    "Expressing the sense of the House of Representatives condemning all forms of political violence and rejecting rhetoric that dehumanizes or demonizes political opponents.",
    "2025-09-19",
    "2025-09-18",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -2166,8 +2231,8 @@
    "George Floyd Justice in Policing Act of 2025",
    "2025-09-19",
    "2025-09-15",
-   78,
-   10
+   79,
+   11
   ],
   [
    "HR",
@@ -2175,8 +2240,8 @@
    "PAR Act",
    "2025-09-19",
    "2025-02-25",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2184,7 +2249,7 @@
    "Supporting Trade and Rebuilding Opportunity for National Growth Act",
    "2025-09-18",
    "2025-06-26",
-   79,
+   80,
    20
   ],
   [
@@ -2211,7 +2276,7 @@
    "FAMILY Act",
    "2025-09-16",
    "2025-09-16",
-   25,
+   11,
    17
   ],
   [
@@ -2229,7 +2294,7 @@
    "Expressing support for designation of the week of September 14 through 20, 2025, as \"National Adult Education and Family Literacy Week\".",
    "2025-09-15",
    "2025-09-15",
-   20,
+   22,
    17
   ],
   [
@@ -2238,7 +2303,7 @@
    "To name the Department of Veterans Affairs multispecialty clinic in Marietta, Georgia, as the \"Colonel Michael H. Boyce Department of Veterans Affairs Multispecialty Clinic\".",
    "2025-09-15",
    "2026-07-21",
-   80,
+   81,
    4
   ],
   [
@@ -2256,8 +2321,8 @@
    "IDEA Full Funding Act",
    "2025-09-15",
    "2025-04-02",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -2274,7 +2339,7 @@
    "Expressing the sense of Congress that August 30, 2025, be observed as the 135th anniversary of the 1890 Institutions.",
    "2025-09-10",
    "2025-09-10",
-   22,
+   24,
    3
   ],
   [
@@ -2283,7 +2348,7 @@
    "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to \"Barred Owl Management Strategy\".",
    "2025-09-10",
    "2025-07-23",
-   65,
+   66,
    27
   ],
   [
@@ -2292,8 +2357,8 @@
    "To modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes.",
    "2025-09-08",
    "2026-02-24",
-   42,
-   10
+   43,
+   11
   ],
   [
    "HR",
@@ -2310,7 +2375,7 @@
    "Establishing the ratification of the Equal Rights Amendment.",
    "2025-09-04",
    "2025-03-24",
-   19,
+   21,
    18
   ],
   [
@@ -2319,7 +2384,7 @@
    "Religious Workforce Protection Act",
    "2025-08-29",
    "2025-04-07",
-   19,
+   21,
    21
   ],
   [
@@ -2328,7 +2393,7 @@
    "Rural Health Care Facility Technical Assistance Program Act",
    "2025-08-29",
    "2025-03-28",
-   75,
+   76,
    3
   ],
   [
@@ -2337,7 +2402,7 @@
    "Farmers First Act of 2025",
    "2025-08-26",
    "2025-07-15",
-   22,
+   24,
    3
   ],
   [
@@ -2346,7 +2411,7 @@
    "SAFE Act of 2025",
    "2025-08-22",
    "2025-03-28",
-   73,
+   74,
    3
   ],
   [
@@ -2356,7 +2421,7 @@
    "2025-08-22",
    "2025-08-15",
    0,
-   10
+   11
   ],
   [
    "HRES",
@@ -2373,7 +2438,7 @@
    "Fair and Equal Housing Act of 2025",
    "2025-08-15",
    "2025-06-03",
-   19,
+   21,
    22
   ],
   [
@@ -2382,8 +2447,8 @@
    "Uplifting First-Time Homebuyers Act of 2025",
    "2025-08-15",
    "2025-05-20",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2391,8 +2456,8 @@
    "Association Health Plans Act",
    "2025-08-15",
    "2025-12-15",
-   81,
-   7
+   82,
+   6
   ],
   [
    "HR",
@@ -2400,8 +2465,8 @@
    "More Homes on the Market Act",
    "2025-08-15",
    "2025-02-13",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2409,8 +2474,8 @@
    "Main Street Tax Certainty Act",
    "2025-08-15",
    "2025-01-23",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HRES",
@@ -2418,7 +2483,7 @@
    "Designating the week of August 3 through August 9, 2025, as \"National Farmers Market Week\".",
    "2025-08-05",
    "2025-08-05",
-   22,
+   24,
    3
   ],
   [
@@ -2436,8 +2501,8 @@
    "25th Anniversary of 9/11 Commemorative Coin Act",
    "2025-08-05",
    "2026-05-21",
-   42,
-   12
+   43,
+   13
   ],
   [
    "HR",
@@ -2445,7 +2510,7 @@
    "Click to Cancel Act of 2025",
    "2025-08-01",
    "2025-07-29",
-   11,
+   8,
    20
   ],
   [
@@ -2454,7 +2519,7 @@
    "Striking and Locked Out Workers Healthcare Protection Act",
    "2025-07-29",
    "2025-05-21",
-   20,
+   22,
    17
   ],
   [
@@ -2463,8 +2528,8 @@
    "New Era of Preventing End-Stage Kidney Disease Act",
    "2025-07-25",
    "2025-02-24",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -2472,7 +2537,7 @@
    "Freedom to Move Act",
    "2025-07-23",
    "2025-07-24",
-   82,
+   83,
    26
   ],
   [
@@ -2481,8 +2546,8 @@
    "Proposing an amendment to the Constitution of the United States providing that there is no immunity from criminal prosecution for an act on the grounds that such act was within the constitutional authority or official duties of an individual, and providing that the President may not grant a pardon to himself or herself.",
    "2025-07-23",
    "2025-07-22",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -2490,8 +2555,8 @@
    "PBM Reform Act of 2025",
    "2025-07-21",
    "2025-07-10",
-   10,
-   7
+   13,
+   6
   ],
   [
    "HR",
@@ -2499,8 +2564,8 @@
    "Promoting Access to Diabetic Shoes Act",
    "2025-07-21",
    "2025-02-26",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HRES",
@@ -2508,8 +2573,8 @@
    "Demanding the immediate release of all Federal documents relating to Jeffrey Epstein.",
    "2025-07-17",
    "2025-07-14",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -2517,7 +2582,7 @@
    "Black Farmers and Socially Disadvantaged Farmers Increased Market Share Act",
    "2025-07-17",
    "2025-07-17",
-   83,
+   84,
    3
   ],
   [
@@ -2535,8 +2600,8 @@
    "Motorsports Fairness and Permanency Act of 2025",
    "2025-07-15",
    "2025-03-18",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HRES",
@@ -2553,7 +2618,7 @@
    "Pay Our Coast Guard Parity Act of 2025",
    "2025-07-14",
    "2025-02-24",
-   84,
+   85,
    26
   ],
   [
@@ -2562,7 +2627,7 @@
    "Expressing support for the designation of July 10th as Journeyman Lineworkers Recognition Day.",
    "2025-07-10",
    "2025-07-10",
-   11,
+   8,
    17
   ],
   [
@@ -2571,7 +2636,7 @@
    "Recognizing the significance of equal pay and the disparity in wages paid to men and to Black women.",
    "2025-07-10",
    "2025-07-10",
-   20,
+   22,
    17
   ],
   [
@@ -2580,7 +2645,7 @@
    "FIGHT Act of 2025",
    "2025-07-02",
    "2025-06-12",
-   22,
+   24,
    27
   ],
   [
@@ -2589,7 +2654,7 @@
    "Born in the USA Act of 2025",
    "2025-06-30",
    "2025-05-13",
-   19,
+   21,
    21
   ],
   [
@@ -2607,7 +2672,7 @@
    "Encouraging Members of Congress to visit ICE detention facilities in their States.",
    "2025-06-25",
    "2025-06-25",
-   19,
+   21,
    1
   ],
   [
@@ -2625,8 +2690,8 @@
    "Women’s Health Protection Act of 2025",
    "2025-06-24",
    "2025-06-24",
-   43,
-   7
+   44,
+   6
   ],
   [
    "HR",
@@ -2643,8 +2708,8 @@
    "Historic Preservation Fund Reauthorization Act",
    "2025-06-20",
    "2025-05-14",
-   65,
-   13
+   66,
+   14
   ],
   [
    "HRES",
@@ -2652,7 +2717,7 @@
    "Expressing support for the designation of June 2025 as \"Black Music Month\".",
    "2025-06-12",
    "2025-06-12",
-   20,
+   22,
    0
   ],
   [
@@ -2661,8 +2726,8 @@
    "Bipartisan Background Checks Act of 2025",
    "2025-06-10",
    "2025-06-10",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -2670,7 +2735,7 @@
    "Helping Heroes Act",
    "2025-06-04",
    "2025-03-31",
-   39,
+   40,
    4
   ],
   [
@@ -2679,8 +2744,8 @@
    "To amend the Internal Revenue Code of 1986 to exclude military bonuses from gross income.",
    "2025-05-20",
    "2025-05-20",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2688,7 +2753,7 @@
    "Stronger Communities through Better Transit Act",
    "2025-05-15",
    "2025-05-16",
-   82,
+   83,
    26
   ],
   [
@@ -2697,8 +2762,8 @@
    "TIPS Act",
    "2025-05-08",
    "2025-02-13",
-   85,
-   14
+   86,
+   7
   ],
   [
    "HR",
@@ -2706,7 +2771,7 @@
    "VA Employee Fairness Act of 2025",
    "2025-05-07",
    "2025-05-29",
-   53,
+   54,
    4
   ],
   [
@@ -2715,7 +2780,7 @@
    "Public Service Freedom to Negotiate Act of 2025",
    "2025-05-07",
    "2025-04-08",
-   20,
+   22,
    17
   ],
   [
@@ -2724,8 +2789,8 @@
    "ACRE Act of 2025",
    "2025-05-07",
    "2025-03-04",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2733,7 +2798,7 @@
    "SERVE Act",
    "2025-05-06",
    "2025-04-30",
-   84,
+   85,
    4
   ],
   [
@@ -2751,8 +2816,8 @@
    "Supporting the designation of the week of May 5 through May 9, 2025, as \"Teacher Appreciation Week\".",
    "2025-05-05",
    "2025-05-05",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HRES",
@@ -2760,7 +2825,7 @@
    "Expressing the sense of the House of Representatives that the Secretary of Health and Human Services should withdraw a reduction in public notice and comment opportunities.",
    "2025-05-01",
    "2025-05-01",
-   19,
+   21,
    5
   ],
   [
@@ -2769,7 +2834,7 @@
    "Improving SCRA Benefit Utilization Act",
    "2025-05-01",
    "2026-05-14",
-   33,
+   34,
    4
   ],
   [
@@ -2787,8 +2852,8 @@
    "Weatherization Enhancement and Readiness Act of 2025",
    "2025-05-01",
    "2026-02-04",
-   86,
-   8
+   87,
+   9
   ],
   [
    "HR",
@@ -2796,7 +2861,7 @@
    "Equality Act",
    "2025-04-29",
    "2025-04-29",
-   87,
+   88,
    18
   ],
   [
@@ -2806,7 +2871,7 @@
    "2025-04-28",
    "2025-04-21",
    0,
-   11
+   12
   ],
   [
    "HR",
@@ -2814,8 +2879,8 @@
    "Historic Tax Credit Growth and Opportunity Act of 2025",
    "2025-04-28",
    "2025-04-17",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2823,8 +2888,8 @@
    "Neighborhood Homes Investment Act",
    "2025-04-28",
    "2025-04-10",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2832,8 +2897,8 @@
    "Homebuyers Privacy Protection Act",
    "2025-04-28",
    "2025-09-05",
-   88,
-   12
+   89,
+   13
   ],
   [
    "HR",
@@ -2841,8 +2906,8 @@
    "SCREENS for Cancer Act of 2025",
    "2025-04-28",
    "2025-03-26",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -2850,8 +2915,8 @@
    "To amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit.",
    "2025-04-28",
    "2025-01-16",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2859,7 +2924,7 @@
    "To amend title II of the Social Security Act to provide that not more than 10 percent of a monthly benefit may be withheld on account of overpayments.",
    "2025-04-24",
    "2025-04-24",
-   25,
+   11,
    15
   ],
   [
@@ -2868,8 +2933,8 @@
    "REDI Act",
    "2025-04-17",
    "2025-03-11",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HRES",
@@ -2877,8 +2942,8 @@
    "Supporting the designation of the week of April 11 through April 17, 2025, as the eighth annual \"Black Maternal Health Week\", founded by Black Mamas Matter Alliance, Inc. (BMMA), to bring national attention to the maternal and reproductive health crisis in the United States and the importance of reducing maternal mortality and morbidity among Black women and birthing people.",
    "2025-04-14",
    "2025-04-14",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -2886,7 +2951,7 @@
    "Youth Lead Act",
    "2025-04-10",
    "2025-04-10",
-   22,
+   24,
    3
   ],
   [
@@ -2895,7 +2960,7 @@
    "Protect America's Workforce Act",
    "2025-04-10",
    "2025-12-15",
-   42,
+   43,
    17
   ],
   [
@@ -2904,8 +2969,8 @@
    "To prohibit certain removals of employees of the Department of Health and Human Services and sub-agencies and operating divisions thereof, and for other purposes.",
    "2025-04-10",
    "2025-04-01",
-   89,
-   7
+   90,
+   6
   ],
   [
    "HR",
@@ -2913,8 +2978,8 @@
    "American Family Act",
    "2025-04-09",
    "2025-04-09",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HRES",
@@ -2931,7 +2996,7 @@
    "Save Our Sequoias Act",
    "2025-04-08",
    "2026-09-16",
-   90,
+   91,
    16
   ],
   [
@@ -2940,8 +3005,8 @@
    "DART Act of 2025",
    "2025-04-08",
    "2025-04-07",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -2950,7 +3015,7 @@
    "2025-04-08",
    "2025-03-03",
    6,
-   12
+   13
   ],
   [
    "HR",
@@ -2958,8 +3023,8 @@
    "No Tax Breaks for Union Busting (NTBUB) Act",
    "2025-04-07",
    "2025-04-07",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2967,8 +3032,8 @@
    "Tax Fairness for Workers Act",
    "2025-04-07",
    "2025-04-07",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -2976,8 +3041,8 @@
    "Community First Act",
    "2025-04-07",
    "2025-04-10",
-   91,
-   10
+   92,
+   11
   ],
   [
    "HR",
@@ -2986,7 +3051,7 @@
    "2025-04-07",
    "2025-03-14",
    6,
-   12
+   13
   ],
   [
    "HR",
@@ -2994,7 +3059,7 @@
    "All Access Act of 2025",
    "2025-04-07",
    "2025-02-13",
-   92,
+   93,
    1
   ],
   [
@@ -3003,8 +3068,8 @@
    "Law Enforcement Training for Mental Health Crisis Response Act of 2025",
    "2025-04-01",
    "2025-03-31",
-   19,
-   10
+   21,
+   11
   ],
   [
    "HR",
@@ -3012,8 +3077,8 @@
    "DOC Access Act of 2025",
    "2025-04-01",
    "2025-02-24",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -3030,7 +3095,7 @@
    "Designating March 27, 2025, as \"National Women in Agriculture Day\".",
    "2025-03-27",
    "2025-03-27",
-   22,
+   24,
    3
   ],
   [
@@ -3039,7 +3104,7 @@
    "Veterans Mental Health and Addiction Therapy Quality of Care Act",
    "2025-03-27",
    "2026-01-13",
-   31,
+   72,
    4
   ],
   [
@@ -3048,8 +3113,8 @@
    "Supporting the designation of March 2025 as Endometriosis Awareness Month.",
    "2025-03-26",
    "2025-03-26",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -3057,7 +3122,7 @@
    "Federal Retirement Fairness Act",
    "2025-03-26",
    "2025-07-22",
-   93,
+   94,
    5
   ],
   [
@@ -3066,8 +3131,8 @@
    "Ocmulgee Mounds National Park and Preserve Establishment Act",
    "2025-03-25",
    "2025-03-25",
-   65,
-   13
+   66,
+   14
   ],
   [
    "HR",
@@ -3075,7 +3140,7 @@
    "Love Lives On Act of 2025",
    "2025-03-25",
    "2026-03-26",
-   26,
+   27,
    4
   ],
   [
@@ -3084,7 +3149,7 @@
    "Paycheck Fairness Act",
    "2025-03-25",
    "2025-03-25",
-   94,
+   95,
    17
   ],
   [
@@ -3093,7 +3158,7 @@
    "Recognizing the significance of equal pay and the disparity between wages paid to men and women.",
    "2025-03-25",
    "2025-03-25",
-   20,
+   22,
    17
   ],
   [
@@ -3102,7 +3167,7 @@
    "Expressing the sense that Congress and the administration must work together, with urgency, to pursue effective food and agricultural trade policies.",
    "2025-03-21",
    "2025-03-18",
-   25,
+   11,
    29
   ],
   [
@@ -3111,8 +3176,8 @@
    "BIRD Energy and U.S.-Israel Energy Center Reauthorization Act of 2025",
    "2025-03-21",
    "2025-03-21",
-   95,
-   8
+   96,
+   9
   ],
   [
    "HR",
@@ -3120,8 +3185,8 @@
    "Protecting American Industry and Labor from International Trade Crimes Act of 2026",
    "2025-03-21",
    "2026-09-14",
-   42,
-   10
+   43,
+   11
   ],
   [
    "HR",
@@ -3129,7 +3194,7 @@
    "BELO’S Act",
    "2025-03-21",
    "2026-09-16",
-   90,
+   91,
    4
   ],
   [
@@ -3147,7 +3212,7 @@
    "Air America Act of 2025",
    "2025-03-18",
    "2025-03-18",
-   96,
+   97,
    4
   ],
   [
@@ -3156,8 +3221,8 @@
    "Military Spouse Hiring Act",
    "2025-03-18",
    "2025-03-11",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -3165,7 +3230,7 @@
    "AM Radio for Every Vehicle Act of 2025",
    "2025-03-18",
    "2026-09-16",
-   97,
+   98,
    2
   ],
   [
@@ -3174,7 +3239,7 @@
    "Commemorating the centennial of Delta Air Lines.",
    "2025-03-14",
    "2025-03-14",
-   11,
+   8,
    26
   ],
   [
@@ -3182,8 +3247,8 @@
    "2102",
    "Major Richard Star Act",
    "2025-03-14",
-   "2025-04-04",
-   7,
+   "2026-11-12",
+   99,
    4
   ],
   [
@@ -3192,8 +3257,8 @@
    "Medicare Dental, Vision, and Hearing Benefit Act of 2025",
    "2025-03-11",
    "2025-03-11",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HR",
@@ -3201,8 +3266,8 @@
    "Rural Obstetrics Readiness Act",
    "2025-03-11",
    "2025-02-12",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -3210,8 +3275,8 @@
    "PREEMIE Reauthorization Act of 2025",
    "2025-03-11",
    "2025-02-11",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -3219,7 +3284,7 @@
    "Protect Our Letter Carriers Act of 2025",
    "2025-03-11",
    "2025-02-06",
-   98,
+   100,
    5
   ],
   [
@@ -3228,8 +3293,8 @@
    "ARC Act of 2025",
    "2025-03-11",
    "2025-01-14",
-   99,
-   7
+   101,
+   6
   ],
   [
    "HR",
@@ -3237,7 +3302,7 @@
    "Dental Care for Veterans Act",
    "2025-03-11",
    "2026-05-20",
-   100,
+   102,
    4
   ],
   [
@@ -3246,7 +3311,7 @@
    "Protecting Americans’ Social Security Data Act",
    "2025-03-05",
    "2025-03-05",
-   25,
+   11,
    15
   ],
   [
@@ -3255,7 +3320,7 @@
    "Keeping Our Field Offices Open Act",
    "2025-03-05",
    "2025-03-05",
-   25,
+   11,
    15
   ],
   [
@@ -3264,7 +3329,7 @@
    "Richard L. Trumka Protecting the Right to Organize Act of 2025",
    "2025-03-05",
    "2025-03-05",
-   20,
+   22,
    17
   ],
   [
@@ -3273,7 +3338,7 @@
    "John R. Lewis Voting Rights Advancement Act of 2025",
    "2025-03-05",
    "2025-03-05",
-   19,
+   21,
    5
   ],
   [
@@ -3282,7 +3347,7 @@
    "MERIT Act",
    "2025-03-04",
    "2025-03-04",
-   101,
+   103,
    5
   ],
   [
@@ -3291,7 +3356,7 @@
    "Fighting Trade Cheats Act of 2025",
    "2025-03-04",
    "2025-02-13",
-   25,
+   11,
    29
   ],
   [
@@ -3300,8 +3365,8 @@
    "Freedom to Invest in Tomorrow’s Workforce Act",
    "2025-03-04",
    "2025-02-07",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HCONRES",
@@ -3309,7 +3374,7 @@
    "Providing for a joint session of the Congress in Philadelphia, Pennsylvania, on Thursday, July 2, 2026, in honor of the semiquincentennial of the Declaration of Independence.",
    "2025-03-04",
    "2025-02-27",
-   19,
+   21,
    1
   ],
   [
@@ -3327,7 +3392,7 @@
    "Investing in Rural America Act of 2025",
    "2025-03-03",
    "2025-03-20",
-   75,
+   76,
    3
   ],
   [
@@ -3336,8 +3401,8 @@
    "New Markets Tax Credit Extension Act of 2025",
    "2025-03-03",
    "2025-02-06",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -3345,7 +3410,7 @@
    "PAST Act of 2025",
    "2025-02-27",
    "2025-02-27",
-   11,
+   8,
    27
   ],
   [
@@ -3354,8 +3419,8 @@
    "Accelerating Kids’ Access to Care Act of 2025",
    "2025-02-27",
    "2025-02-21",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -3363,7 +3428,7 @@
    "CHAMPVA Children’s Care Protection Act of 2025",
    "2025-02-27",
    "2025-12-19",
-   39,
+   40,
    4
   ],
   [
@@ -3372,7 +3437,7 @@
    "To award a Congressional Gold Medal to the Freedom Riders, collectively, in recognition of their unique contribution to Civil Rights, which inspired a revolutionary movement for equality in interstate travel.",
    "2025-02-27",
    "2025-02-04",
-   30,
+   31,
    18
   ],
   [
@@ -3381,8 +3446,8 @@
    "Expressing support for the Iranian people's desires for a democratic, secular, and nonnuclear Republic of Iran, and condemning the Iranian regime's terrorism, regional proxy war, internal suppression, and for other purposes.",
    "2025-02-26",
    "2025-02-26",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -3390,7 +3455,7 @@
    "HEIRS Act of 2025",
    "2025-02-26",
    "2026-09-01",
-   102,
+   104,
    22
   ],
   [
@@ -3399,8 +3464,8 @@
    "RAISE Act of 2025",
    "2025-02-26",
    "2025-02-26",
-   85,
-   14
+   86,
+   7
   ],
   [
    "HR",
@@ -3408,7 +3473,7 @@
    "To designate the U.S. National Poultry Research Center of the Department of Agriculture located in Athens, Georgia, as the \"Abit Massey Poultry Research Center\".",
    "2025-02-26",
    "2025-03-20",
-   73,
+   74,
    3
   ],
   [
@@ -3417,7 +3482,7 @@
    "American Dream and Promise Act of 2025",
    "2025-02-26",
    "2025-02-27",
-   103,
+   105,
    21
   ],
   [
@@ -3426,8 +3491,8 @@
    "Holocaust Education and Antisemitism Lessons Act",
    "2025-02-26",
    "2025-01-28",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -3435,7 +3500,7 @@
    "Veterans Claims Education Act of 2025",
    "2025-02-25",
    "2025-05-20",
-   80,
+   81,
    4
   ],
   [
@@ -3444,8 +3509,8 @@
    "Enhanced Iran Sanctions Act of 2025",
    "2025-02-25",
    "2026-03-17",
-   104,
-   6
+   106,
+   8
   ],
   [
    "HR",
@@ -3453,8 +3518,8 @@
    "Mikaela Naylon Give Kids a Chance Act",
    "2025-02-25",
    "2025-12-02",
-   42,
-   7
+   43,
+   6
   ],
   [
    "HR",
@@ -3462,8 +3527,8 @@
    "United States-Israel Defense Partnership Act of 2025",
    "2025-02-25",
    "2025-02-12",
-   105,
-   6
+   107,
+   8
   ],
   [
    "HR",
@@ -3471,8 +3536,8 @@
    "Health Care Affordability Act of 2025",
    "2025-02-25",
    "2025-01-09",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HRES",
@@ -3480,7 +3545,7 @@
    "Expressing support for the designation of February 15 through February 22, 2025, as \"National FFA Week\", recognizing the important role of the National FFA Organization in developing the next generation of leaders who will change the world, and celebrating the 90th anniversary of New Farmers of America and the 75th anniversary of the Federal charter to Future Farmers of America.",
    "2025-02-24",
    "2025-02-13",
-   22,
+   24,
    3
   ],
   [
@@ -3489,7 +3554,7 @@
    "Federal Firefighters Families First Act",
    "2025-02-24",
    "2025-11-20",
-   106,
+   108,
    5
   ],
   [
@@ -3498,7 +3563,7 @@
    "Expressing support for the designation of February 16, 2025, as \"International Black Aviation Professionals Day\".",
    "2025-02-21",
    "2025-02-21",
-   107,
+   109,
    26
   ],
   [
@@ -3507,8 +3572,8 @@
    "Crime Victims Fund Stabilization Act of 2025",
    "2025-02-21",
    "2026-01-13",
-   108,
-   10
+   110,
+   11
   ],
   [
    "HR",
@@ -3516,8 +3581,8 @@
    "Department of Education Protection Act",
    "2025-02-21",
    "2025-01-15",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -3525,8 +3590,8 @@
    "Death Tax Repeal Act",
    "2025-02-13",
    "2025-02-13",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -3543,7 +3608,7 @@
    "Supporting the Local Radio Freedom Act.",
    "2025-02-13",
    "2025-02-13",
-   19,
+   21,
    2
   ],
   [
@@ -3552,7 +3617,7 @@
    "To provide additional funding for scholarships for students at 1890 institutions, and for other purposes.",
    "2025-02-12",
    "2025-03-28",
-   49,
+   50,
    3
   ],
   [
@@ -3561,8 +3626,8 @@
    "The Global Demining Protection Act",
    "2025-02-12",
    "2025-02-12",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -3570,7 +3635,7 @@
    "Commission to Study and Develop Reparation Proposals for African Americans Act",
    "2025-02-12",
    "2025-01-03",
-   19,
+   21,
    18
   ],
   [
@@ -3579,8 +3644,8 @@
    "Freight RAILCAR Act of 2025",
    "2025-02-11",
    "2025-02-11",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -3597,7 +3662,7 @@
    "Supporting the designation of \"Scouting America Day\" in celebration of its 115th anniversary.",
    "2025-02-07",
    "2025-02-10",
-   109,
+   111,
    5
   ],
   [
@@ -3606,7 +3671,7 @@
    "Protecting Veteran Access to Telemedicine Services Act of 2025",
    "2025-02-06",
    "2025-09-16",
-   80,
+   81,
    4
   ],
   [
@@ -3615,8 +3680,8 @@
    "Taxpayer Data Protection Act",
    "2025-02-06",
    "2025-02-11",
-   110,
-   12
+   112,
+   13
   ],
   [
    "HR",
@@ -3624,7 +3689,7 @@
    "To codify Executive Order 11246 titled \"Equal Employment Opportunity\".",
    "2025-02-06",
    "2025-02-05",
-   20,
+   22,
    17
   ],
   [
@@ -3633,8 +3698,8 @@
    "BOOST Act",
    "2025-02-05",
    "2025-02-05",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -3642,8 +3707,8 @@
    "No Tax Breaks for Outsourcing Act",
    "2025-02-05",
    "2025-02-05",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -3651,8 +3716,8 @@
    "Nancy Gardner Sewell Medicare Multi-Cancer Early Detection Screening Coverage Act",
    "2025-02-05",
    "2025-10-03",
-   111,
-   7
+   113,
+   6
   ],
   [
    "HR",
@@ -3660,7 +3725,7 @@
    "Stop the Wait Act of 2025",
    "2025-02-04",
    "2025-02-04",
-   67,
+   68,
    15
   ],
   [
@@ -3670,7 +3735,7 @@
    "2025-02-04",
    "2025-02-04",
    6,
-   12
+   13
   ],
   [
    "HR",
@@ -3678,8 +3743,8 @@
    "Medicare Patient Access and Practice Stabilization Act of 2025",
    "2025-02-04",
    "2025-01-31",
-   14,
-   7
+   16,
+   6
   ],
   [
    "HRES",
@@ -3696,8 +3761,8 @@
    "EITC Modernization Act",
    "2025-01-31",
    "2025-01-31",
-   25,
-   14
+   11,
+   7
   ],
   [
    "HR",
@@ -3705,8 +3770,8 @@
    "Black History is American History Act",
    "2025-01-31",
    "2025-01-31",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HR",
@@ -3714,8 +3779,8 @@
    "Closing the College Hunger Gap Act",
    "2025-01-28",
    "2025-01-28",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HRES",
@@ -3723,8 +3788,8 @@
    "Affirming the role of the United States in improving access to quality, inclusive public education and improving learning outcomes for children and adolescents, particularly for girls, around the world.",
    "2025-01-24",
    "2025-01-24",
-   8,
-   6
+   9,
+   8
   ],
   [
    "HR",
@@ -3732,7 +3797,7 @@
    "Whole Milk for Healthy Kids Act of 2025",
    "2025-01-23",
    "2025-06-05",
-   112,
+   114,
    3
   ],
   [
@@ -3750,8 +3815,8 @@
    "Health Care Providers Safety Act of 2025",
    "2025-01-22",
    "2025-01-22",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -3759,8 +3824,8 @@
    "Close the Medigap Act of 2025",
    "2025-01-22",
    "2025-01-22",
-   67,
-   7
+   68,
+   6
   ],
   [
    "HR",
@@ -3768,8 +3833,8 @@
    "COVER Now Act",
    "2025-01-22",
    "2025-01-22",
-   11,
-   7
+   8,
+   6
   ],
   [
    "HR",
@@ -3777,8 +3842,8 @@
    "Estate Tax Rate Reduction Act",
    "2025-01-22",
    "2025-01-22",
-   113,
-   14
+   115,
+   7
   ],
   [
    "HRES",
@@ -3786,8 +3851,8 @@
    "Honoring Zeta Phi Beta Sorority, Inc., on reaching the historic milestone of 105 years of scholarship, service, sisterhood, and finer womanhood.",
    "2025-01-16",
    "2025-01-16",
-   20,
-   11
+   22,
+   12
   ],
   [
    "HRES",
@@ -3795,7 +3860,7 @@
    "Honoring Reverend Dr. Martin Luther King, Jr., by celebrating diversity, promoting tolerance, and condemning hate.",
    "2025-01-16",
    "2025-01-16",
-   19,
+   21,
    18
   ],
   [
@@ -3814,7 +3879,7 @@
    "2025-01-15",
    "2025-01-15",
    6,
-   12
+   13
   ],
   [
    "HRES",
@@ -3831,7 +3896,7 @@
    "Capitol Remembrance Act",
    "2025-01-06",
    "2025-01-06",
-   15,
+   17,
    1
   ],
   [
@@ -3840,7 +3905,7 @@
    "Trailer Safety Improvement Act",
    "2025-01-03",
    "2025-01-04",
-   82,
+   83,
    26
   ],
   [
@@ -3849,7 +3914,7 @@
    "Washington, D.C. Admission Act",
    "2025-01-03",
    "2025-01-03",
-   114,
+   116,
    5
   ]
  ]
