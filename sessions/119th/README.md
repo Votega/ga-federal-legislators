@@ -1,6 +1,6 @@
 # 119th Congress: Georgia delegation (frozen record)
 
-The Georgia federal delegation's record for the 119th Congress (January 3, 2025 to January 3, 2027), kept as history. Freeze kind: **provisional**, taken 2026-10-30T02:31:01.887493+00:00.
+The Georgia federal delegation's record for the 119th Congress (January 3, 2025 to January 3, 2027), kept as history. Freeze kind: **provisional**, taken 2026-11-25T20:45:25.825448+00:00.
 
 > **Provisional.** The Congress was still sitting when this was taken, so later votes, sponsorships and roster changes are missing. A final freeze replaces it once the Congress has adjourned.
 
@@ -9,9 +9,10 @@ The live files in [`data/`](../../data) describe the current Congress and are re
 ## Files
 
 - `members.json`, `members.csv`: the 16 delegation members (`members.schema.json`).
-- `votes.json`: every recorded roll call (1591) joined to the delegation, in the same shape as the live file (`votes.schema.json`). `votes.csv` and `member-votes.csv` are flat versions.
+- `votes.json`: every recorded roll call (1627) joined to the delegation, in the same shape as the live file (`votes.schema.json`). `votes.csv` and `member-votes.csv` are flat versions.
+- `en-bloc-nominees.json`, `en-bloc-nominees.csv`: the nominees covered by each Senate en bloc roll call, one row per roll call per nominee; the Senate took one vote on each whole group (`en-bloc-nominees.schema.json`).
 - `scorecard.json`, `scorecard.csv`: party-unity and participation per member.
-- `sponsorship/`: each member's complete sponsored and cosponsored record (392 sponsored, 4601 cosponsored) in the compact form the site uses: `index.json` plus one `<bioguideId>.json` per member, where each row is `[type, number, title, introducedDate, actionDate, actionIdx, policyIdx]` and the last two index that file's own `actions` and `policyAreas` lists. `sponsorship.csv` is the same data, one flat row per bill.
+- `sponsorship/`: each member's complete sponsored and cosponsored record (401 sponsored, 4713 cosponsored) in the compact form the site uses: `index.json` plus one `<bioguideId>.json` per member, where each row is `[type, number, title, introducedDate, actionDate, actionIdx, policyIdx]` and the last two index that file's own `actions` and `policyAreas` lists. `sponsorship.csv` is the same data, one flat row per bill.
 - `freeze.json`: what was frozen, when, from which sources, and with what counts.
 
 ## Notes
