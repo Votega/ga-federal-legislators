@@ -1,598 +1,18 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-30T02:31:01.887493+00:00",
+  "generatedAt": "2026-11-25T20:45:25.825448+00:00",
   "source": "Congress.gov API, filtered to Georgia from votega.org current-members.json",
-  "sourceGeneratedAt": "2026-10-29T12:43:46.806009+00:00",
+  "sourceGeneratedAt": "2026-11-25T17:15:40.764138+00:00",
   "count": 16,
   "congress": 119,
   "schemaVersion": "1.0.0",
   "freeze": {
    "kind": "provisional",
-   "frozenAt": "2026-10-30T02:31:01.887493+00:00",
+   "frozenAt": "2026-11-25T20:45:25.825448+00:00",
    "slug": "119th"
   }
  },
  "members": [
-  {
-   "bioguideId": "B001328",
-   "depiction": {
-    "attribution": "Image courtesy of the Member",
-    "imageUrl": "https://www.congress.gov/img/member/6a9869d92a68122e10181e62_200.jpg"
-   },
-   "district": 13,
-   "name": "Blair, Everton",
-   "partyName": "Democratic",
-   "state": "Georgia",
-   "terms": {
-    "item": [
-     {
-      "chamber": "House of Representatives",
-      "startYear": 2026
-     }
-    ]
-   },
-   "updateDate": "2026-10-29T07:40:50Z",
-   "url": "https://api.congress.gov/v3/member/B001328?format=json",
-   "leadership": [],
-   "contactInfo": {
-    "city": "Washington",
-    "district": "DC",
-    "officeAddress": "468 Cannon House Office Building",
-    "phoneNumber": "(202) 225-2939",
-    "zipCode": "20515"
-   },
-   "officialWebsiteUrl": "https://blair.house.gov/",
-   "birthYear": 1992,
-   "currentMember": true,
-   "honorificName": "Mr.",
-   "firstName": "Everton",
-   "lastName": "Blair",
-   "sponsoredLegislation": {
-    "count": 5,
-    "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
-   },
-   "cosponsoredLegislation": {
-    "count": 39,
-    "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
-   },
-   "dataUpdatedAt": "2026-10-29T12:27:43.896926+00:00",
-   "recentSponsored": [
-    {
-     "type": "HRES",
-     "number": "1636",
-     "title": "Constituent Casework Continuity Resolution",
-     "introducedDate": "2026-10-22",
-     "latestAction": {
-      "actionDate": "2026-10-22",
-      "text": "Referred to the House Committee on House Administration."
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1636"
-    },
-    {
-     "type": "HR",
-     "number": "10811",
-     "title": "PARTNER Act",
-     "introducedDate": "2026-10-15",
-     "latestAction": {
-      "actionDate": "2026-10-15",
-      "text": "Referred to the House Committee on Transportation and Infrastructure."
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10811"
-    },
-    {
-     "type": "HR",
-     "number": "10769",
-     "title": "SUN Act",
-     "introducedDate": "2026-10-09",
-     "latestAction": {
-      "actionDate": "2026-10-09",
-      "text": "Referred to the House Committee on Transportation and Infrastructure."
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10769"
-    },
-    {
-     "type": "HR",
-     "number": "10720",
-     "title": "For the relief of Godfrey Oliver Wade.",
-     "introducedDate": "2026-10-01",
-     "latestAction": {
-      "actionDate": "2026-10-01",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": null,
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10720"
-    },
-    {
-     "type": "HR",
-     "number": "10533",
-     "title": "Newton County Water Infrastructure Improvement Act",
-     "introducedDate": "2026-09-24",
-     "latestAction": {
-      "actionDate": "2026-09-24",
-      "text": "Referred to the House Committee on Transportation and Infrastructure."
-     },
-     "policyArea": "Water Resources Development",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10533"
-    }
-   ],
-   "sponsorship": {
-    "congress": 119,
-    "sponsored": 5,
-    "cosponsored": 39
-   },
-   "committees": [],
-   "birthday": "1992-04-23",
-   "gender": "M",
-   "externalLinks": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Everton_Blair"
-    },
-    {
-     "label": "Ballotpedia",
-     "url": "https://ballotpedia.org/Everton_Blair_Jr."
-    },
-    {
-     "label": "GovTrack",
-     "url": "https://www.govtrack.us/congress/members/457045"
-    }
-   ],
-   "chamber": "House of Representatives"
-  },
-  {
-   "bioguideId": "F000485",
-   "depiction": {
-    "attribution": "Image courtesy of the Member",
-    "imageUrl": "https://www.congress.gov/img/member/69eb95e5277642362f6112c5_200.jpg"
-   },
-   "district": 14,
-   "name": "Fuller, Clay",
-   "partyName": "Republican",
-   "state": "Georgia",
-   "terms": {
-    "item": [
-     {
-      "chamber": "House of Representatives",
-      "startYear": 2026
-     }
-    ]
-   },
-   "updateDate": "2026-10-29T07:40:50Z",
-   "url": "https://api.congress.gov/v3/member/F000485?format=json",
-   "leadership": [],
-   "contactInfo": {
-    "city": "Washington",
-    "district": "DC",
-    "officeAddress": "2201 Rayburn House Office Building",
-    "phoneNumber": "(202) 225-5211",
-    "zipCode": "20515"
-   },
-   "officialWebsiteUrl": "https://fuller.house.gov/",
-   "birthYear": 1981,
-   "currentMember": true,
-   "honorificName": "Mr.",
-   "firstName": "Clay",
-   "lastName": "Fuller",
-   "sponsoredLegislation": {
-    "count": 15,
-    "url": "https://api.congress.gov/v3/member/F000485/sponsored-legislation"
-   },
-   "cosponsoredLegislation": {
-    "count": 96,
-    "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
-   },
-   "dataUpdatedAt": "2026-10-29T12:27:45.459926+00:00",
-   "recentSponsored": [
-    {
-     "type": "HR",
-     "number": "10868",
-     "title": "Protecting Students from Sexually Explicit Materials Act",
-     "introducedDate": "2026-10-22",
-     "latestAction": {
-      "actionDate": "2026-10-22",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10868"
-    },
-    {
-     "type": "HR",
-     "number": "10266",
-     "title": "No Elite Athletes Using X-pro status to ensure Prioritizing Recruitment Of Student-athletes (NEAUX PROS) Act",
-     "introducedDate": "2026-09-03",
-     "latestAction": {
-      "actionDate": "2026-09-03",
-      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Sports and Recreation",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10266"
-    },
-    {
-     "type": "HR",
-     "number": "10265",
-     "title": "White House Fellows Program Authorization Act",
-     "introducedDate": "2026-09-03",
-     "latestAction": {
-      "actionDate": "2026-09-03",
-      "text": "Referred to the House Committee on Oversight and Government Reform."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10265"
-    },
-    {
-     "type": "HR",
-     "number": "10264",
-     "title": "American Made Federal Uniforms and Apparel Act of 2026",
-     "introducedDate": "2026-09-03",
-     "latestAction": {
-      "actionDate": "2026-09-03",
-      "text": "Referred to the House Committee on Oversight and Government Reform."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10264"
-    },
-    {
-     "type": "HJRES",
-     "number": "204",
-     "title": "Proposing an amendment to the Constitution of the United States to require that certain individuals are natural born citizens.",
-     "introducedDate": "2026-07-21",
-     "latestAction": {
-      "actionDate": "2026-07-21",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Law",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/204"
-    },
-    {
-     "type": "HRES",
-     "number": "1434",
-     "title": "Supporting the efforts of the Trump Administration to obtain a rehearing of the decision of the Supreme Court of the United States in Trump v. Barbara, and for other purposes.",
-     "introducedDate": "2026-07-15",
-     "latestAction": {
-      "actionDate": "2026-07-15",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Immigration",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1434"
-    },
-    {
-     "type": "HRES",
-     "number": "1433",
-     "title": "Honoring the life and military and public service of Colonel Lindsey O. Graham, United States Air Force Reserve (Retired), late Senator from South Carolina, and expressing the sense of the House of Representatives that the Judge Advocate General's School of the United States Air Force should be renamed in his honor.",
-     "introducedDate": "2026-07-15",
-     "latestAction": {
-      "actionDate": "2026-07-15",
-      "text": "Referred to the House Committee on House Administration."
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1433"
-    },
-    {
-     "type": "HR",
-     "number": "9667",
-     "title": "Securing Healthcare and Income Entitlements for Lawfully Domiciled Citizens (SHIELD Citizens) Act",
-     "introducedDate": "2026-07-14",
-     "latestAction": {
-      "actionDate": "2026-07-14",
-      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Financial Services, Education and Workforce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Social Welfare",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9667"
-    },
-    {
-     "type": "HR",
-     "number": "9577",
-     "title": "COCOA-VIP Act",
-     "introducedDate": "2026-07-02",
-     "latestAction": {
-      "actionDate": "2026-07-02",
-      "text": "Referred to the House Committee on House Administration."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9577"
-    },
-    {
-     "type": "HR",
-     "number": "9545",
-     "title": "HONEST Act of 2026",
-     "introducedDate": "2026-06-30",
-     "latestAction": {
-      "actionDate": "2026-06-30",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9545"
-    },
-    {
-     "type": "HRES",
-     "number": "1346",
-     "title": "Impeaching Eleanor L. Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
-     "introducedDate": "2026-06-08",
-     "latestAction": {
-      "actionDate": "2026-06-08",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Law",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1346"
-    },
-    {
-     "type": "HR",
-     "number": "9146",
-     "title": "Millstone Act",
-     "introducedDate": "2026-06-04",
-     "latestAction": {
-      "actionDate": "2026-06-04",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9146"
-    },
-    {
-     "type": "HJRES",
-     "number": "172",
-     "title": "Proposing an amendment to the Constitution of the United States to protect United States citizenship.",
-     "introducedDate": "2026-05-04",
-     "latestAction": {
-      "actionDate": "2026-05-04",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Immigration",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/172"
-    },
-    {
-     "type": "HR",
-     "number": "8594",
-     "title": "Congressional Gold Medal For Inspiring Great Heroism and Tenacity (FIGHT) Act",
-     "introducedDate": "2026-04-30",
-     "latestAction": {
-      "actionDate": "2026-04-30",
-      "text": "Referred to the House Committee on Financial Services."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8594"
-    },
-    {
-     "type": "HRES",
-     "number": "1182",
-     "title": "Expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities.",
-     "introducedDate": "2026-04-16",
-     "latestAction": {
-      "actionDate": "2026-04-22",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
-     },
-     "policyArea": "Commerce",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1182"
-    }
-   ],
-   "sponsorship": {
-    "congress": 119,
-    "sponsored": 15,
-    "cosponsored": 96
-   },
-   "committees": [
-    "House Committee on Transportation and Infrastructure",
-    "House Committee on Small Business"
-   ],
-   "birthday": "1981-04-09",
-   "gender": "M",
-   "externalLinks": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Clay_Fuller"
-    },
-    {
-     "label": "Ballotpedia",
-     "url": "https://ballotpedia.org/Clayton_Fuller"
-    },
-    {
-     "label": "GovTrack",
-     "url": "https://www.govtrack.us/congress/members/457041"
-    }
-   ],
-   "chamber": "House of Representatives"
-  },
-  {
-   "bioguideId": "J000311",
-   "depiction": {
-    "attribution": "Image courtesy of the Member",
-    "imageUrl": "https://www.congress.gov/img/member/67742e330b34857ecc9090ef_200.jpg"
-   },
-   "district": 3,
-   "name": "Jack, Brian",
-   "partyName": "Republican",
-   "state": "Georgia",
-   "terms": {
-    "item": [
-     {
-      "chamber": "House of Representatives",
-      "startYear": 2025
-     }
-    ]
-   },
-   "updateDate": "2026-10-29T07:40:50Z",
-   "url": "https://api.congress.gov/v3/member/J000311?format=json",
-   "leadership": [],
-   "contactInfo": {
-    "city": "Washington",
-    "district": "DC",
-    "officeAddress": "1320 Longworth House Office Building",
-    "phoneNumber": "(202) 225-5901",
-    "zipCode": "20515"
-   },
-   "officialWebsiteUrl": "https://jack.house.gov/",
-   "birthYear": 1988,
-   "currentMember": true,
-   "honorificName": "Mr.",
-   "firstName": "Brian",
-   "lastName": "Jack",
-   "sponsoredLegislation": {
-    "count": 9,
-    "url": "https://api.congress.gov/v3/member/J000311/sponsored-legislation"
-   },
-   "cosponsoredLegislation": {
-    "count": 122,
-    "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
-   },
-   "dataUpdatedAt": "2026-10-29T12:27:50.984267+00:00",
-   "recentSponsored": [
-    {
-     "type": "HRES",
-     "number": "1377",
-     "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
-     "introducedDate": "2026-06-23",
-     "latestAction": {
-      "actionDate": "2026-07-13",
-      "text": "UNANIMOUS CONSENT REQUEST - Mr. Steil asked unanimous consent that H. Res. 1377 be laid on the table. Agreed to without objection."
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1377"
-    },
-    {
-     "type": "HRES",
-     "number": "1300",
-     "title": "Providing for consideration of the bill (H.R. 1041) to amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from transmitting certain information to the Department of Justice for use by the national instant criminal background check system; providing for consideration of the bill (H.R. 6047) to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to increase the dollar amounts for the payment of certain disability compensation and dependency and indemnity compensation under the laws administered by the Secretary; providing for consideration of the bill (H.R. 1329) to permit the Smithsonian American Women’s History Museum to be located within the Reserve of the National Mall, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
-     "introducedDate": "2026-05-19",
-     "latestAction": {
-      "actionDate": "2026-05-20",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1300"
-    },
-    {
-     "type": "HRES",
-     "number": "1095",
-     "title": "Providing for consideration of the bill (H.R. 7744) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2026, and for other purposes.",
-     "introducedDate": "2026-03-03",
-     "latestAction": {
-      "actionDate": "2026-03-04",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1095"
-    },
-    {
-     "type": "HRES",
-     "number": "1032",
-     "title": "Providing for consideration of the Senate amendments to the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 142) disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025; and providing for consideration of the bill (H.R. 4090) to codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.",
-     "introducedDate": "2026-02-03",
-     "latestAction": {
-      "actionDate": "2026-02-03",
-      "text": "Motion to reconsider laid on the table Agreed to without objection."
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1032"
-    },
-    {
-     "type": "HR",
-     "number": "6330",
-     "title": "Federal Relocation Payment Improvement Act",
-     "introducedDate": "2025-12-01",
-     "latestAction": {
-      "actionDate": "2026-07-21",
-      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-     },
-     "policyArea": "Government Operations and Politics",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6330"
-    },
-    {
-     "type": "HRES",
-     "number": "668",
-     "title": "Directing the Committee on Oversight and Government Reform to continue its ongoing investigation into the possible mismanagement of the Federal government’s investigation of Mr. Jeffrey Epstein and Ms. Ghislaine Maxwell, and for other purposes.",
-     "introducedDate": "2025-09-02",
-     "latestAction": {
-      "actionDate": "2025-09-03",
-      "text": "Pursuant to the provisions of H. Res. 672, H. Res. 668 is considered passed House. (consideration: CR H3780; text: CR H3780)"
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/668"
-    },
-    {
-     "type": "HR",
-     "number": "4624",
-     "title": "Muhammad Ali American Boxing Revival Act of 2026",
-     "introducedDate": "2025-07-23",
-     "latestAction": {
-      "actionDate": "2026-03-25",
-      "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
-     },
-     "policyArea": "Sports and Recreation",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4624"
-    },
-    {
-     "type": "HRES",
-     "number": "580",
-     "title": "Providing for consideration of the bill (H.R. 4016) making appropriations for the Department of Defense for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 3633) to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, and for other purposes; providing for consideration of the bill (H.R. 1919) to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for other purposes; providing for consideration of the bill (S. 1582) to provide for the regulation of payment stablecoins, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
-     "introducedDate": "2025-07-15",
-     "latestAction": {
-      "actionDate": "2025-07-16",
-      "text": "On agreeing to the resolution Agreed to by recorded vote: 217 - 212 (Roll no. 198)."
-     },
-     "policyArea": "Congress",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/580"
-    },
-    {
-     "type": "HR",
-     "number": "3148",
-     "title": "SALUTE Act",
-     "introducedDate": "2025-05-01",
-     "latestAction": {
-      "actionDate": "2025-05-01",
-      "text": "Referred to the House Committee on Armed Services."
-     },
-     "policyArea": "Armed Forces and National Security",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3148"
-    }
-   ],
-   "sponsorship": {
-    "congress": 119,
-    "sponsored": 9,
-    "cosponsored": 122
-   },
-   "committees": [
-    "House Committee on Oversight and Government Reform",
-    "House Committee on Small Business",
-    "House Committee on Rules"
-   ],
-   "birthday": "1988-02-17",
-   "gender": "M",
-   "externalLinks": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Brian_Jack"
-    },
-    {
-     "label": "Ballotpedia",
-     "url": "https://ballotpedia.org/Brian_Jack"
-    },
-    {
-     "label": "OpenSecrets",
-     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00055118"
-    },
-    {
-     "label": "GovTrack",
-     "url": "https://www.govtrack.us/congress/members/456987"
-    }
-   ],
-   "socialLinks": [
-    {
-     "label": "X (Twitter)",
-     "url": "https://x.com/RepBrianJack"
-    },
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/RepBrianJack"
-    },
-    {
-     "label": "Instagram",
-     "url": "https://www.instagram.com/repbrianjack"
-    }
-   ],
-   "chamber": "House of Representatives"
-  },
   {
    "bioguideId": "M001218",
    "depiction": {
@@ -611,7 +31,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:50Z",
+   "updateDate": "2026-11-19T08:40:39Z",
    "url": "https://api.congress.gov/v3/member/M001218?format=json",
    "leadership": [],
    "contactInfo": {
@@ -632,10 +52,10 @@
     "url": "https://api.congress.gov/v3/member/M001218/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 576,
+    "count": 579,
     "url": "https://api.congress.gov/v3/member/M001218/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:27:56.946893+00:00",
+   "dataUpdatedAt": "2026-11-25T16:54:49.485717+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -646,13 +66,13 @@
       "actionDate": "2026-10-26",
       "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
      },
-     "policyArea": null,
+     "policyArea": "Science, Technology, Communications",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10915"
     },
     {
      "type": "HR",
      "number": "10784",
-     "title": "To amend the Internal Revenue Code of 1986 to provide home ownership assistance, and for other purposes.",
+     "title": "Own Not Rent Act",
      "introducedDate": "2026-10-09",
      "latestAction": {
       "actionDate": "2026-10-09",
@@ -881,7 +301,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 24,
-    "cosponsored": 319
+    "cosponsored": 322
    },
    "committees": [
     "House Committee on Science, Space, and Technology",
@@ -925,6 +345,660 @@
    "chamber": "House of Representatives"
   },
   {
+   "bioguideId": "B001328",
+   "depiction": {
+    "attribution": "Image courtesy of the Member",
+    "imageUrl": "https://www.congress.gov/img/member/6a9869d92a68122e10181e62_200.jpg"
+   },
+   "district": 13,
+   "name": "Blair, Everton",
+   "partyName": "Democratic",
+   "state": "Georgia",
+   "terms": {
+    "item": [
+     {
+      "chamber": "House of Representatives",
+      "startYear": 2026
+     }
+    ]
+   },
+   "updateDate": "2026-11-05T08:36:07Z",
+   "url": "https://api.congress.gov/v3/member/B001328?format=json",
+   "leadership": [],
+   "contactInfo": {
+    "city": "Washington",
+    "district": "DC",
+    "officeAddress": "468 Cannon House Office Building",
+    "phoneNumber": "(202) 225-2939",
+    "zipCode": "20515"
+   },
+   "officialWebsiteUrl": "https://blair.house.gov/",
+   "birthYear": 1992,
+   "currentMember": true,
+   "honorificName": "Mr.",
+   "firstName": "Everton",
+   "lastName": "Blair",
+   "sponsoredLegislation": {
+    "count": 8,
+    "url": "https://api.congress.gov/v3/member/B001328/sponsored-legislation"
+   },
+   "cosponsoredLegislation": {
+    "count": 64,
+    "url": "https://api.congress.gov/v3/member/B001328/cosponsored-legislation"
+   },
+   "dataUpdatedAt": "2026-11-25T16:55:40.087913+00:00",
+   "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "11088",
+     "title": "No Lead in Toys Act",
+     "introducedDate": "2026-11-19",
+     "latestAction": {
+      "actionDate": "2026-11-19",
+      "text": "Referred to the House Committee on Energy and Commerce."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11088"
+    },
+    {
+     "type": "HR",
+     "number": "11010",
+     "title": "POSSIBLE Act",
+     "introducedDate": "2026-11-12",
+     "latestAction": {
+      "actionDate": "2026-11-12",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11010"
+    },
+    {
+     "type": "HRES",
+     "number": "1648",
+     "title": "Congress at Work Resolution",
+     "introducedDate": "2026-11-05",
+     "latestAction": {
+      "actionDate": "2026-11-05",
+      "text": "Referred to the House Committee on House Administration."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1648"
+    },
+    {
+     "type": "HRES",
+     "number": "1636",
+     "title": "Constituent Casework Continuity Resolution",
+     "introducedDate": "2026-10-22",
+     "latestAction": {
+      "actionDate": "2026-10-22",
+      "text": "Referred to the House Committee on House Administration."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1636"
+    },
+    {
+     "type": "HR",
+     "number": "10811",
+     "title": "PARTNER Act",
+     "introducedDate": "2026-10-15",
+     "latestAction": {
+      "actionDate": "2026-10-15",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+     },
+     "policyArea": "Transportation and Public Works",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10811"
+    },
+    {
+     "type": "HR",
+     "number": "10769",
+     "title": "SUN Act",
+     "introducedDate": "2026-10-09",
+     "latestAction": {
+      "actionDate": "2026-10-09",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+     },
+     "policyArea": "Transportation and Public Works",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10769"
+    },
+    {
+     "type": "HR",
+     "number": "10720",
+     "title": "For the relief of Godfrey Oliver Wade.",
+     "introducedDate": "2026-10-01",
+     "latestAction": {
+      "actionDate": "2026-10-01",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10720"
+    },
+    {
+     "type": "HR",
+     "number": "10533",
+     "title": "Newton County Water Infrastructure Improvement Act",
+     "introducedDate": "2026-09-24",
+     "latestAction": {
+      "actionDate": "2026-09-24",
+      "text": "Referred to the House Committee on Transportation and Infrastructure."
+     },
+     "policyArea": "Water Resources Development",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10533"
+    }
+   ],
+   "sponsorship": {
+    "congress": 119,
+    "sponsored": 8,
+    "cosponsored": 64
+   },
+   "committees": [
+    "House Committee on Financial Services"
+   ],
+   "birthday": "1992-04-23",
+   "gender": "M",
+   "externalLinks": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Everton_Blair"
+    },
+    {
+     "label": "Ballotpedia",
+     "url": "https://ballotpedia.org/Everton_Blair_Jr."
+    },
+    {
+     "label": "GovTrack",
+     "url": "https://www.govtrack.us/congress/members/457045"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/repevertonblair"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/congressmanblair"
+    }
+   ],
+   "chamber": "House of Representatives"
+  },
+  {
+   "bioguideId": "F000485",
+   "depiction": {
+    "attribution": "Image courtesy of the Member",
+    "imageUrl": "https://www.congress.gov/img/member/69eb95e5277642362f6112c5_200.jpg"
+   },
+   "district": 14,
+   "name": "Fuller, Clay",
+   "partyName": "Republican",
+   "state": "Georgia",
+   "terms": {
+    "item": [
+     {
+      "chamber": "House of Representatives",
+      "startYear": 2026
+     }
+    ]
+   },
+   "updateDate": "2026-11-05T08:36:07Z",
+   "url": "https://api.congress.gov/v3/member/F000485?format=json",
+   "leadership": [],
+   "contactInfo": {
+    "city": "Washington",
+    "district": "DC",
+    "officeAddress": "2201 Rayburn House Office Building",
+    "phoneNumber": "(202) 225-5211",
+    "zipCode": "20515"
+   },
+   "officialWebsiteUrl": "https://fuller.house.gov/",
+   "birthYear": 1981,
+   "currentMember": true,
+   "honorificName": "Mr.",
+   "firstName": "Clay",
+   "lastName": "Fuller",
+   "sponsoredLegislation": {
+    "count": 16,
+    "url": "https://api.congress.gov/v3/member/F000485/sponsored-legislation"
+   },
+   "cosponsoredLegislation": {
+    "count": 102,
+    "url": "https://api.congress.gov/v3/member/F000485/cosponsored-legislation"
+   },
+   "dataUpdatedAt": "2026-11-25T16:55:41.013916+00:00",
+   "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "11017",
+     "title": "Veterans Claims Timeliness, Accountability, and Care Act",
+     "introducedDate": "2026-11-12",
+     "latestAction": {
+      "actionDate": "2026-11-12",
+      "text": "Referred to the House Committee on Veterans' Affairs."
+     },
+     "policyArea": "Armed Forces and National Security",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11017"
+    },
+    {
+     "type": "HR",
+     "number": "10868",
+     "title": "Protecting Students from Sexually Explicit Materials Act",
+     "introducedDate": "2026-10-22",
+     "latestAction": {
+      "actionDate": "2026-10-22",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10868"
+    },
+    {
+     "type": "HR",
+     "number": "10266",
+     "title": "No Elite Athletes Using X-pro status to ensure Prioritizing Recruitment Of Student-athletes (NEAUX PROS) Act",
+     "introducedDate": "2026-09-03",
+     "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Sports and Recreation",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10266"
+    },
+    {
+     "type": "HR",
+     "number": "10265",
+     "title": "White House Fellows Program Authorization Act",
+     "introducedDate": "2026-09-03",
+     "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10265"
+    },
+    {
+     "type": "HR",
+     "number": "10264",
+     "title": "American Made Federal Uniforms and Apparel Act of 2026",
+     "introducedDate": "2026-09-03",
+     "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the House Committee on Oversight and Government Reform."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10264"
+    },
+    {
+     "type": "HJRES",
+     "number": "204",
+     "title": "Proposing an amendment to the Constitution of the United States to require that certain individuals are natural born citizens.",
+     "introducedDate": "2026-07-21",
+     "latestAction": {
+      "actionDate": "2026-07-21",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Law",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/204"
+    },
+    {
+     "type": "HRES",
+     "number": "1434",
+     "title": "Supporting the efforts of the Trump Administration to obtain a rehearing of the decision of the Supreme Court of the United States in Trump v. Barbara, and for other purposes.",
+     "introducedDate": "2026-07-15",
+     "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Immigration",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1434"
+    },
+    {
+     "type": "HRES",
+     "number": "1433",
+     "title": "Honoring the life and military and public service of Colonel Lindsey O. Graham, United States Air Force Reserve (Retired), late Senator from South Carolina, and expressing the sense of the House of Representatives that the Judge Advocate General's School of the United States Air Force should be renamed in his honor.",
+     "introducedDate": "2026-07-15",
+     "latestAction": {
+      "actionDate": "2026-07-15",
+      "text": "Referred to the House Committee on House Administration."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1433"
+    },
+    {
+     "type": "HR",
+     "number": "9667",
+     "title": "Securing Healthcare and Income Entitlements for Lawfully Domiciled Citizens (SHIELD Citizens) Act",
+     "introducedDate": "2026-07-14",
+     "latestAction": {
+      "actionDate": "2026-07-14",
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Financial Services, Education and Workforce, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Social Welfare",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9667"
+    },
+    {
+     "type": "HR",
+     "number": "9577",
+     "title": "COCOA-VIP Act",
+     "introducedDate": "2026-07-02",
+     "latestAction": {
+      "actionDate": "2026-07-02",
+      "text": "Referred to the House Committee on House Administration."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9577"
+    },
+    {
+     "type": "HR",
+     "number": "9545",
+     "title": "HONEST Act of 2026",
+     "introducedDate": "2026-06-30",
+     "latestAction": {
+      "actionDate": "2026-06-30",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9545"
+    },
+    {
+     "type": "HRES",
+     "number": "1346",
+     "title": "Impeaching Eleanor L. Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
+     "introducedDate": "2026-06-08",
+     "latestAction": {
+      "actionDate": "2026-06-08",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Law",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1346"
+    },
+    {
+     "type": "HR",
+     "number": "9146",
+     "title": "Millstone Act",
+     "introducedDate": "2026-06-04",
+     "latestAction": {
+      "actionDate": "2026-06-04",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9146"
+    },
+    {
+     "type": "HJRES",
+     "number": "172",
+     "title": "Proposing an amendment to the Constitution of the United States to protect United States citizenship.",
+     "introducedDate": "2026-05-04",
+     "latestAction": {
+      "actionDate": "2026-05-04",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Immigration",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/172"
+    },
+    {
+     "type": "HR",
+     "number": "8594",
+     "title": "Congressional Gold Medal For Inspiring Great Heroism and Tenacity (FIGHT) Act",
+     "introducedDate": "2026-04-30",
+     "latestAction": {
+      "actionDate": "2026-04-30",
+      "text": "Referred to the House Committee on Financial Services."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8594"
+    },
+    {
+     "type": "HRES",
+     "number": "1182",
+     "title": "Expressing support for rural communities across the United States as stewards of the environment, major suppliers of United States energy resources, critical providers of food production and manufacturing capacity, and drivers of national economic stability, and recognizing the work of the House of Representatives in the 119th Congress in support of those vital communities.",
+     "introducedDate": "2026-04-16",
+     "latestAction": {
+      "actionDate": "2026-04-22",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+     },
+     "policyArea": "Commerce",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1182"
+    }
+   ],
+   "sponsorship": {
+    "congress": 119,
+    "sponsored": 16,
+    "cosponsored": 102
+   },
+   "committees": [
+    "House Committee on Transportation and Infrastructure",
+    "House Committee on Small Business"
+   ],
+   "birthday": "1981-04-09",
+   "gender": "M",
+   "externalLinks": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Clay_Fuller"
+    },
+    {
+     "label": "Ballotpedia",
+     "url": "https://ballotpedia.org/Clayton_Fuller"
+    },
+    {
+     "label": "GovTrack",
+     "url": "https://www.govtrack.us/congress/members/457041"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/RepClayFuller"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/61570681866170"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/repclayfuller"
+    }
+   ],
+   "chamber": "House of Representatives"
+  },
+  {
+   "bioguideId": "J000311",
+   "depiction": {
+    "attribution": "Image courtesy of the Member",
+    "imageUrl": "https://www.congress.gov/img/member/67742e330b34857ecc9090ef_200.jpg"
+   },
+   "district": 3,
+   "name": "Jack, Brian",
+   "partyName": "Republican",
+   "state": "Georgia",
+   "terms": {
+    "item": [
+     {
+      "chamber": "House of Representatives",
+      "startYear": 2025
+     }
+    ]
+   },
+   "updateDate": "2026-11-05T08:36:07Z",
+   "url": "https://api.congress.gov/v3/member/J000311?format=json",
+   "leadership": [],
+   "contactInfo": {
+    "city": "Washington",
+    "district": "DC",
+    "officeAddress": "1320 Longworth House Office Building",
+    "phoneNumber": "(202) 225-5901",
+    "zipCode": "20515"
+   },
+   "officialWebsiteUrl": "https://jack.house.gov/",
+   "birthYear": 1988,
+   "currentMember": true,
+   "honorificName": "Mr.",
+   "firstName": "Brian",
+   "lastName": "Jack",
+   "sponsoredLegislation": {
+    "count": 9,
+    "url": "https://api.congress.gov/v3/member/J000311/sponsored-legislation"
+   },
+   "cosponsoredLegislation": {
+    "count": 126,
+    "url": "https://api.congress.gov/v3/member/J000311/cosponsored-legislation"
+   },
+   "dataUpdatedAt": "2026-11-25T16:55:42.124146+00:00",
+   "recentSponsored": [
+    {
+     "type": "HRES",
+     "number": "1377",
+     "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
+     "introducedDate": "2026-06-23",
+     "latestAction": {
+      "actionDate": "2026-07-13",
+      "text": "UNANIMOUS CONSENT REQUEST - Mr. Steil asked unanimous consent that H. Res. 1377 be laid on the table. Agreed to without objection."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1377"
+    },
+    {
+     "type": "HRES",
+     "number": "1300",
+     "title": "Providing for consideration of the bill (H.R. 1041) to amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from transmitting certain information to the Department of Justice for use by the national instant criminal background check system; providing for consideration of the bill (H.R. 6047) to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to increase the dollar amounts for the payment of certain disability compensation and dependency and indemnity compensation under the laws administered by the Secretary; providing for consideration of the bill (H.R. 1329) to permit the Smithsonian American Women’s History Museum to be located within the Reserve of the National Mall, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+     "introducedDate": "2026-05-19",
+     "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1300"
+    },
+    {
+     "type": "HRES",
+     "number": "1095",
+     "title": "Providing for consideration of the bill (H.R. 7744) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2026, and for other purposes.",
+     "introducedDate": "2026-03-03",
+     "latestAction": {
+      "actionDate": "2026-03-04",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1095"
+    },
+    {
+     "type": "HRES",
+     "number": "1032",
+     "title": "Providing for consideration of the Senate amendments to the bill (H.R. 7148) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 142) disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025; and providing for consideration of the bill (H.R. 4090) to codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.",
+     "introducedDate": "2026-02-03",
+     "latestAction": {
+      "actionDate": "2026-02-03",
+      "text": "Motion to reconsider laid on the table Agreed to without objection."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1032"
+    },
+    {
+     "type": "HR",
+     "number": "6330",
+     "title": "Federal Relocation Payment Improvement Act",
+     "introducedDate": "2025-12-01",
+     "latestAction": {
+      "actionDate": "2026-07-21",
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+     },
+     "policyArea": "Government Operations and Politics",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6330"
+    },
+    {
+     "type": "HRES",
+     "number": "668",
+     "title": "Directing the Committee on Oversight and Government Reform to continue its ongoing investigation into the possible mismanagement of the Federal government’s investigation of Mr. Jeffrey Epstein and Ms. Ghislaine Maxwell, and for other purposes.",
+     "introducedDate": "2025-09-02",
+     "latestAction": {
+      "actionDate": "2025-09-03",
+      "text": "Pursuant to the provisions of H. Res. 672, H. Res. 668 is considered passed House. (consideration: CR H3780; text: CR H3780)"
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/668"
+    },
+    {
+     "type": "HR",
+     "number": "4624",
+     "title": "Muhammad Ali American Boxing Revival Act of 2026",
+     "introducedDate": "2025-07-23",
+     "latestAction": {
+      "actionDate": "2026-11-20",
+      "text": "Message on Senate action sent to the House."
+     },
+     "policyArea": "Sports and Recreation",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4624"
+    },
+    {
+     "type": "HRES",
+     "number": "580",
+     "title": "Providing for consideration of the bill (H.R. 4016) making appropriations for the Department of Defense for the fiscal year ending September 30, 2026, and for other purposes; providing for consideration of the bill (H.R. 3633) to provide for a system of regulation of the offer and sale of digital commodities by the Securities and Exchange Commission and the Commodity Futures Trading Commission, and for other purposes; providing for consideration of the bill (H.R. 1919) to amend the Federal Reserve Act to prohibit the Federal reserve banks from offering certain products or services directly to an individual, to prohibit the use of central bank digital currency for monetary policy, and for other purposes; providing for consideration of the bill (S. 1582) to provide for the regulation of payment stablecoins, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+     "introducedDate": "2025-07-15",
+     "latestAction": {
+      "actionDate": "2025-07-16",
+      "text": "On agreeing to the resolution Agreed to by recorded vote: 217 - 212 (Roll no. 198)."
+     },
+     "policyArea": "Congress",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/580"
+    },
+    {
+     "type": "HR",
+     "number": "3148",
+     "title": "SALUTE Act",
+     "introducedDate": "2025-05-01",
+     "latestAction": {
+      "actionDate": "2025-05-01",
+      "text": "Referred to the House Committee on Armed Services."
+     },
+     "policyArea": "Armed Forces and National Security",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3148"
+    }
+   ],
+   "sponsorship": {
+    "congress": 119,
+    "sponsored": 9,
+    "cosponsored": 126
+   },
+   "committees": [
+    "House Committee on Oversight and Government Reform",
+    "House Committee on Small Business",
+    "House Committee on Rules"
+   ],
+   "birthday": "1988-02-17",
+   "gender": "M",
+   "externalLinks": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Brian_Jack"
+    },
+    {
+     "label": "Ballotpedia",
+     "url": "https://ballotpedia.org/Brian_Jack"
+    },
+    {
+     "label": "OpenSecrets",
+     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00055118"
+    },
+    {
+     "label": "GovTrack",
+     "url": "https://www.govtrack.us/congress/members/456987"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/RepBrianJack"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/RepBrianJack"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/repbrianjack"
+    }
+   ],
+   "chamber": "House of Representatives"
+  },
+  {
    "bioguideId": "C001129",
    "depiction": {
     "attribution": "Image courtesy of the Member",
@@ -942,7 +1016,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:49Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/C001129?format=json",
    "leadership": [],
    "contactInfo": {
@@ -966,7 +1040,7 @@
     "count": 396,
     "url": "https://api.congress.gov/v3/member/C001129/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:28:10.622798+00:00",
+   "dataUpdatedAt": "2026-11-25T16:55:44.458149+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1225,7 +1299,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:47Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/W000788?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1242,15 +1316,39 @@
    "firstName": "Nikema",
    "lastName": "Williams",
    "sponsoredLegislation": {
-    "count": 163,
+    "count": 165,
     "url": "https://api.congress.gov/v3/member/W000788/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 2031,
+    "count": 2058,
     "url": "https://api.congress.gov/v3/member/W000788/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:28:26.531938+00:00",
+   "dataUpdatedAt": "2026-11-25T16:55:57.361507+00:00",
    "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "11054",
+     "title": "Know Your Body Act",
+     "introducedDate": "2026-11-17",
+     "latestAction": {
+      "actionDate": "2026-11-17",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/11054"
+    },
+    {
+     "type": "HRES",
+     "number": "1663",
+     "title": "Expressing opposition to the use of State power against people in the United States seeking essential health care, including criminalization of the full range of sexual and reproductive health care such as abortion, gender-affirming care, and contraceptive care, and disapproving of State punishment of people for their pregnancy outcomes.",
+     "introducedDate": "2026-11-12",
+     "latestAction": {
+      "actionDate": "2026-11-12",
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1663"
+    },
     {
      "type": "HRES",
      "number": "1620",
@@ -1466,36 +1564,12 @@
      },
      "policyArea": "Health",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1163"
-    },
-    {
-     "type": "HR",
-     "number": "8246",
-     "title": "OHH SNAP Act of 2026",
-     "introducedDate": "2026-04-09",
-     "latestAction": {
-      "actionDate": "2026-04-09",
-      "text": "Referred to the House Committee on Agriculture."
-     },
-     "policyArea": "Agriculture and Food",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8246"
-    },
-    {
-     "type": "HRES",
-     "number": "1064",
-     "title": "Expressing support for the designation of February 16, 2026, as \"International Black Aviation Professionals Day\".",
-     "introducedDate": "2026-02-12",
-     "latestAction": {
-      "actionDate": "2026-02-13",
-      "text": "Referred to the Subcommittee on Aviation."
-     },
-     "policyArea": "Transportation and Public Works",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1064"
     }
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 59,
-    "cosponsored": 495
+    "sponsored": 61,
+    "cosponsored": 522
    },
    "committees": [
     "House Committee on Financial Services"
@@ -1554,7 +1628,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:47Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/C001116?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1575,10 +1649,10 @@
     "url": "https://api.congress.gov/v3/member/C001116/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 561,
+    "count": 563,
     "url": "https://api.congress.gov/v3/member/C001116/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:29:20.459285+00:00",
+   "dataUpdatedAt": "2026-11-25T16:56:03.575540+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -1824,7 +1898,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 33,
-    "cosponsored": 174
+    "cosponsored": 176
    },
    "committees": [
     "House Committee on Appropriations",
@@ -1871,6 +1945,336 @@
    "chamber": "House of Representatives"
   },
   {
+   "bioguideId": "M001208",
+   "depiction": {
+    "attribution": "Image courtesy of the Member",
+    "imageUrl": "https://www.congress.gov/img/member/m001208_200.jpg"
+   },
+   "district": 6,
+   "name": "McBath, Lucy",
+   "partyName": "Democratic",
+   "state": "Georgia",
+   "terms": {
+    "item": [
+     {
+      "chamber": "House of Representatives",
+      "startYear": 2019
+     }
+    ]
+   },
+   "updateDate": "2026-11-05T08:36:07Z",
+   "url": "https://api.congress.gov/v3/member/M001208?format=json",
+   "leadership": [],
+   "contactInfo": {
+    "city": "Washington",
+    "district": "DC",
+    "officeAddress": "2246 Rayburn House Office Building",
+    "phoneNumber": "(202) 225-4501",
+    "zipCode": "20515"
+   },
+   "officialWebsiteUrl": "https://mcbath.house.gov",
+   "birthYear": 1960,
+   "currentMember": true,
+   "honorificName": "Mrs.",
+   "firstName": "Lucy",
+   "lastName": "McBath",
+   "sponsoredLegislation": {
+    "count": 78,
+    "url": "https://api.congress.gov/v3/member/M001208/sponsored-legislation"
+   },
+   "cosponsoredLegislation": {
+    "count": 1391,
+    "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
+   },
+   "dataUpdatedAt": "2026-11-25T16:56:26.251204+00:00",
+   "recentSponsored": [
+    {
+     "type": "HR",
+     "number": "10631",
+     "title": "Smaller Class Sizes for Students and Educators Act of 2026",
+     "introducedDate": "2026-09-28",
+     "latestAction": {
+      "actionDate": "2026-09-28",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10631"
+    },
+    {
+     "type": "HRES",
+     "number": "1580",
+     "title": "Supporting the designation of the week of September 21 through September 25, 2026, as \"National Hazing Awareness Week\".",
+     "introducedDate": "2026-09-24",
+     "latestAction": {
+      "actionDate": "2026-09-24",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1580"
+    },
+    {
+     "type": "HRES",
+     "number": "1551",
+     "title": "Honoring the life and legacy of the late Constance Benjamin Clery.",
+     "introducedDate": "2026-09-16",
+     "latestAction": {
+      "actionDate": "2026-09-16",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1551"
+    },
+    {
+     "type": "HRES",
+     "number": "1550",
+     "title": "Expressing support for designation of the week of September 13 through 19, 2026, as \"National Adult Education and Family Literacy Week\".",
+     "introducedDate": "2026-09-16",
+     "latestAction": {
+      "actionDate": "2026-09-16",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1550"
+    },
+    {
+     "type": "HR",
+     "number": "10281",
+     "title": "FEMA for Safe Recovery Act",
+     "introducedDate": "2026-09-03",
+     "latestAction": {
+      "actionDate": "2026-09-03",
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Emergency Management",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10281"
+    },
+    {
+     "type": "HR",
+     "number": "10031",
+     "title": "READ Act",
+     "introducedDate": "2026-08-03",
+     "latestAction": {
+      "actionDate": "2026-08-03",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10031"
+    },
+    {
+     "type": "HR",
+     "number": "9754",
+     "title": "Health Claim Denial Transparency Act",
+     "introducedDate": "2026-07-16",
+     "latestAction": {
+      "actionDate": "2026-07-16",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Health",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9754"
+    },
+    {
+     "type": "HR",
+     "number": "8937",
+     "title": "Early Childhood Workforce Advancement Act of 2026",
+     "introducedDate": "2026-05-20",
+     "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8937"
+    },
+    {
+     "type": "HR",
+     "number": "8304",
+     "title": "CREATES Act",
+     "introducedDate": "2026-04-15",
+     "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Labor and Employment",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8304"
+    },
+    {
+     "type": "HR",
+     "number": "8055",
+     "title": "Extending WIC for New Moms Act",
+     "introducedDate": "2026-03-24",
+     "latestAction": {
+      "actionDate": "2026-03-24",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Agriculture and Food",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8055"
+    },
+    {
+     "type": "HR",
+     "number": "7599",
+     "title": "Federal Extreme Risk Protection Order Act of 2026",
+     "introducedDate": "2026-02-17",
+     "latestAction": {
+      "actionDate": "2026-02-17",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7599"
+    },
+    {
+     "type": "HR",
+     "number": "7333",
+     "title": "Family Violence Prevention and Services Improvement Act of 2026",
+     "introducedDate": "2026-02-03",
+     "latestAction": {
+      "actionDate": "2026-02-03",
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+     },
+     "policyArea": "Families",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7333"
+    },
+    {
+     "type": "HRES",
+     "number": "760",
+     "title": "Supporting the designation of the week of September 22 through September 26, 2025, as \"National Hazing Awareness Week\".",
+     "introducedDate": "2025-09-23",
+     "latestAction": {
+      "actionDate": "2025-09-23",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/760"
+    },
+    {
+     "type": "HR",
+     "number": "5476",
+     "title": "Preparing And Retaining All (PARA) Educators Act",
+     "introducedDate": "2025-09-18",
+     "latestAction": {
+      "actionDate": "2025-09-18",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5476"
+    },
+    {
+     "type": "HRES",
+     "number": "714",
+     "title": "Expressing support for designation of the week of September 14 through 20, 2025, as \"National Adult Education and Family Literacy Week\".",
+     "introducedDate": "2025-09-15",
+     "latestAction": {
+      "actionDate": "2025-09-15",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Labor and Employment",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/714"
+    },
+    {
+     "type": "HR",
+     "number": "4701",
+     "title": "Charting My Path for Future Success Act",
+     "introducedDate": "2025-07-23",
+     "latestAction": {
+      "actionDate": "2025-07-23",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4701"
+    },
+    {
+     "type": "HR",
+     "number": "4602",
+     "title": "Countering Threats and Attacks on Our Judges Act",
+     "introducedDate": "2025-07-22",
+     "latestAction": {
+      "actionDate": "2025-07-22",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Law",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4602"
+    },
+    {
+     "type": "HR",
+     "number": "3985",
+     "title": "Helping Student Parents Succeed Act",
+     "introducedDate": "2025-06-12",
+     "latestAction": {
+      "actionDate": "2025-06-12",
+      "text": "Referred to the House Committee on Education and Workforce."
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3985"
+    },
+    {
+     "type": "HR",
+     "number": "3115",
+     "title": "Assault Weapons Ban of 2025",
+     "introducedDate": "2025-04-30",
+     "latestAction": {
+      "actionDate": "2025-04-30",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3115"
+    },
+    {
+     "type": "HR",
+     "number": "3114",
+     "title": "Clean Slate Act of 2025",
+     "introducedDate": "2025-04-30",
+     "latestAction": {
+      "actionDate": "2025-04-30",
+      "text": "Referred to the House Committee on the Judiciary."
+     },
+     "policyArea": "Crime and Law Enforcement",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3114"
+    }
+   ],
+   "sponsorship": {
+    "congress": 119,
+    "sponsored": 23,
+    "cosponsored": 336
+   },
+   "committees": [
+    "House Committee on the Judiciary",
+    "House Committee on Education and Workforce"
+   ],
+   "birthday": "1960-06-01",
+   "gender": "F",
+   "externalLinks": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lucy_McBath"
+    },
+    {
+     "label": "Ballotpedia",
+     "url": "https://ballotpedia.org/Lucy_McBath"
+    },
+    {
+     "label": "OpenSecrets",
+     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00042813"
+    },
+    {
+     "label": "GovTrack",
+     "url": "https://www.govtrack.us/congress/members/412769"
+    }
+   ],
+   "socialLinks": [
+    {
+     "label": "X (Twitter)",
+     "url": "https://x.com/RepLucyMcBath"
+    },
+    {
+     "label": "Facebook",
+     "url": "https://www.facebook.com/RepLucyMcBath"
+    },
+    {
+     "label": "Instagram",
+     "url": "https://www.instagram.com/replucymcbath"
+    }
+   ],
+   "chamber": "House of Representatives"
+  },
+  {
    "bioguideId": "A000372",
    "depiction": {
     "attribution": "Image courtesy of the Member",
@@ -1888,7 +2292,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:46Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/A000372?format=json",
    "leadership": [],
    "contactInfo": {
@@ -1909,10 +2313,10 @@
     "url": "https://api.congress.gov/v3/member/A000372/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1388,
+    "count": 1390,
     "url": "https://api.congress.gov/v3/member/A000372/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:29:42.675811+00:00",
+   "dataUpdatedAt": "2026-11-25T16:57:02.525303+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2158,7 +2562,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 22,
-    "cosponsored": 147
+    "cosponsored": 149
    },
    "committees": [
     "House Committee on Energy and Commerce",
@@ -2222,7 +2626,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:46Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/L000583?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2246,7 +2650,7 @@
     "count": 1070,
     "url": "https://api.congress.gov/v3/member/L000583/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:30:27.927180+00:00",
+   "dataUpdatedAt": "2026-11-25T16:57:41.502400+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2521,7 +2925,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:46Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/C001103?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2542,10 +2946,10 @@
     "url": "https://api.congress.gov/v3/member/C001103/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1955,
+    "count": 1962,
     "url": "https://api.congress.gov/v3/member/C001103/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:31:14.271764+00:00",
+   "dataUpdatedAt": "2026-11-25T16:58:20.906480+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -2556,7 +2960,7 @@
       "actionDate": "2026-10-06",
       "text": "Referred to the House Committee on Energy and Commerce."
      },
-     "policyArea": null,
+     "policyArea": "Health",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1617"
     },
     {
@@ -2791,7 +3195,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 64,
-    "cosponsored": 414
+    "cosponsored": 421
    },
    "committees": [
     "House Committee on Energy and Commerce",
@@ -2855,7 +3259,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:45Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/S001189?format=json",
    "leadership": [],
    "contactInfo": {
@@ -2876,10 +3280,10 @@
     "url": "https://api.congress.gov/v3/member/S001189/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1656,
+    "count": 1660,
     "url": "https://api.congress.gov/v3/member/S001189/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:32:37.714948+00:00",
+   "dataUpdatedAt": "2026-11-25T16:59:13.354530+00:00",
    "recentSponsored": [
     {
      "type": "HR",
@@ -2911,8 +3315,8 @@
      "title": "Ocmulgee Mounds National Park Redesignation Act",
      "introducedDate": "2026-06-24",
      "latestAction": {
-      "actionDate": "2026-07-01",
-      "text": "Subcommittee Hearings Held"
+      "actionDate": "2026-11-18",
+      "text": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent."
      },
      "policyArea": "Public Lands and Natural Resources",
      "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9416"
@@ -3125,7 +3529,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 22,
-    "cosponsored": 149
+    "cosponsored": 153
    },
    "committees": [
     "House Committee on Agriculture",
@@ -3187,7 +3591,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:45Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/J000288?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3208,10 +3612,10 @@
     "url": "https://api.congress.gov/v3/member/J000288/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6115,
+    "count": 6126,
     "url": "https://api.congress.gov/v3/member/J000288/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:33:22.292667+00:00",
+   "dataUpdatedAt": "2026-11-25T17:00:58.498100+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3457,7 +3861,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 23,
-    "cosponsored": 912
+    "cosponsored": 923
    },
    "committees": [
     "House Committee on Transportation and Infrastructure",
@@ -3490,7 +3894,7 @@
     },
     {
      "label": "Facebook",
-     "url": "https://www.facebook.com/115356957005"
+     "url": "https://www.facebook.com/rephankjohnson"
     },
     {
      "label": "Instagram",
@@ -3521,7 +3925,7 @@
      }
     ]
    },
-   "updateDate": "2026-10-29T07:40:45Z",
+   "updateDate": "2026-11-05T08:36:07Z",
    "url": "https://api.congress.gov/v3/member/B000490?format=json",
    "leadership": [],
    "contactInfo": {
@@ -3542,10 +3946,10 @@
     "url": "https://api.congress.gov/v3/member/B000490/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 6374,
+    "count": 6381,
     "url": "https://api.congress.gov/v3/member/B000490/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:36:41.533306+00:00",
+   "dataUpdatedAt": "2026-11-25T17:06:31.029771+00:00",
    "recentSponsored": [
     {
      "type": "HRES",
@@ -3647,7 +4051,7 @@
    "sponsorship": {
     "congress": 119,
     "sponsored": 8,
-    "cosponsored": 403
+    "cosponsored": 410
    },
    "committees": [
     "House Committee on Appropriations"
@@ -3689,336 +4093,6 @@
    "chamber": "House of Representatives"
   },
   {
-   "bioguideId": "M001208",
-   "depiction": {
-    "attribution": "Image courtesy of the Member",
-    "imageUrl": "https://www.congress.gov/img/member/m001208_200.jpg"
-   },
-   "district": 6,
-   "name": "McBath, Lucy",
-   "partyName": "Democratic",
-   "state": "Georgia",
-   "terms": {
-    "item": [
-     {
-      "chamber": "House of Representatives",
-      "startYear": 2019
-     }
-    ]
-   },
-   "updateDate": "2026-10-03T07:35:16Z",
-   "url": "https://api.congress.gov/v3/member/M001208?format=json",
-   "leadership": [],
-   "contactInfo": {
-    "city": "Washington",
-    "district": "DC",
-    "officeAddress": "2246 Rayburn House Office Building",
-    "phoneNumber": "(202) 225-4501",
-    "zipCode": "20515"
-   },
-   "officialWebsiteUrl": "https://mcbath.house.gov",
-   "birthYear": 1960,
-   "currentMember": true,
-   "honorificName": "Mrs.",
-   "firstName": "Lucy",
-   "lastName": "McBath",
-   "sponsoredLegislation": {
-    "count": 78,
-    "url": "https://api.congress.gov/v3/member/M001208/sponsored-legislation"
-   },
-   "cosponsoredLegislation": {
-    "count": 1388,
-    "url": "https://api.congress.gov/v3/member/M001208/cosponsored-legislation"
-   },
-   "dataUpdatedAt": "2026-10-29T12:39:57.309438+00:00",
-   "recentSponsored": [
-    {
-     "type": "HR",
-     "number": "10631",
-     "title": "Smaller Class Sizes for Students and Educators Act of 2026",
-     "introducedDate": "2026-09-28",
-     "latestAction": {
-      "actionDate": "2026-09-28",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10631"
-    },
-    {
-     "type": "HRES",
-     "number": "1580",
-     "title": "Supporting the designation of the week of September 21 through September 25, 2026, as \"National Hazing Awareness Week\".",
-     "introducedDate": "2026-09-24",
-     "latestAction": {
-      "actionDate": "2026-09-24",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1580"
-    },
-    {
-     "type": "HRES",
-     "number": "1551",
-     "title": "Honoring the life and legacy of the late Constance Benjamin Clery.",
-     "introducedDate": "2026-09-16",
-     "latestAction": {
-      "actionDate": "2026-09-16",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1551"
-    },
-    {
-     "type": "HRES",
-     "number": "1550",
-     "title": "Expressing support for designation of the week of September 13 through 19, 2026, as \"National Adult Education and Family Literacy Week\".",
-     "introducedDate": "2026-09-16",
-     "latestAction": {
-      "actionDate": "2026-09-16",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1550"
-    },
-    {
-     "type": "HR",
-     "number": "10281",
-     "title": "FEMA for Safe Recovery Act",
-     "introducedDate": "2026-09-03",
-     "latestAction": {
-      "actionDate": "2026-09-03",
-      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Emergency Management",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10281"
-    },
-    {
-     "type": "HR",
-     "number": "10031",
-     "title": "READ Act",
-     "introducedDate": "2026-08-03",
-     "latestAction": {
-      "actionDate": "2026-08-03",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/10031"
-    },
-    {
-     "type": "HR",
-     "number": "9754",
-     "title": "Health Claim Denial Transparency Act",
-     "introducedDate": "2026-07-16",
-     "latestAction": {
-      "actionDate": "2026-07-16",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9754"
-    },
-    {
-     "type": "HR",
-     "number": "8937",
-     "title": "Early Childhood Workforce Advancement Act of 2026",
-     "introducedDate": "2026-05-20",
-     "latestAction": {
-      "actionDate": "2026-05-20",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8937"
-    },
-    {
-     "type": "HR",
-     "number": "8304",
-     "title": "CREATES Act",
-     "introducedDate": "2026-04-15",
-     "latestAction": {
-      "actionDate": "2026-04-15",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Labor and Employment",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8304"
-    },
-    {
-     "type": "HR",
-     "number": "8055",
-     "title": "Extending WIC for New Moms Act",
-     "introducedDate": "2026-03-24",
-     "latestAction": {
-      "actionDate": "2026-03-24",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Agriculture and Food",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8055"
-    },
-    {
-     "type": "HR",
-     "number": "7599",
-     "title": "Federal Extreme Risk Protection Order Act of 2026",
-     "introducedDate": "2026-02-17",
-     "latestAction": {
-      "actionDate": "2026-02-17",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7599"
-    },
-    {
-     "type": "HR",
-     "number": "7333",
-     "title": "Family Violence Prevention and Services Improvement Act of 2026",
-     "introducedDate": "2026-02-03",
-     "latestAction": {
-      "actionDate": "2026-02-03",
-      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-     },
-     "policyArea": "Families",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7333"
-    },
-    {
-     "type": "HRES",
-     "number": "760",
-     "title": "Supporting the designation of the week of September 22 through September 26, 2025, as \"National Hazing Awareness Week\".",
-     "introducedDate": "2025-09-23",
-     "latestAction": {
-      "actionDate": "2025-09-23",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/760"
-    },
-    {
-     "type": "HR",
-     "number": "5476",
-     "title": "Preparing And Retaining All (PARA) Educators Act",
-     "introducedDate": "2025-09-18",
-     "latestAction": {
-      "actionDate": "2025-09-18",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5476"
-    },
-    {
-     "type": "HRES",
-     "number": "714",
-     "title": "Expressing support for designation of the week of September 14 through 20, 2025, as \"National Adult Education and Family Literacy Week\".",
-     "introducedDate": "2025-09-15",
-     "latestAction": {
-      "actionDate": "2025-09-15",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Labor and Employment",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/714"
-    },
-    {
-     "type": "HR",
-     "number": "4701",
-     "title": "Charting My Path for Future Success Act",
-     "introducedDate": "2025-07-23",
-     "latestAction": {
-      "actionDate": "2025-07-23",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4701"
-    },
-    {
-     "type": "HR",
-     "number": "4602",
-     "title": "Countering Threats and Attacks on Our Judges Act",
-     "introducedDate": "2025-07-22",
-     "latestAction": {
-      "actionDate": "2025-07-22",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Law",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4602"
-    },
-    {
-     "type": "HR",
-     "number": "3985",
-     "title": "Helping Student Parents Succeed Act",
-     "introducedDate": "2025-06-12",
-     "latestAction": {
-      "actionDate": "2025-06-12",
-      "text": "Referred to the House Committee on Education and Workforce."
-     },
-     "policyArea": "Education",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3985"
-    },
-    {
-     "type": "HR",
-     "number": "3115",
-     "title": "Assault Weapons Ban of 2025",
-     "introducedDate": "2025-04-30",
-     "latestAction": {
-      "actionDate": "2025-04-30",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3115"
-    },
-    {
-     "type": "HR",
-     "number": "3114",
-     "title": "Clean Slate Act of 2025",
-     "introducedDate": "2025-04-30",
-     "latestAction": {
-      "actionDate": "2025-04-30",
-      "text": "Referred to the House Committee on the Judiciary."
-     },
-     "policyArea": "Crime and Law Enforcement",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/house-bill/3114"
-    }
-   ],
-   "sponsorship": {
-    "congress": 119,
-    "sponsored": 23,
-    "cosponsored": 333
-   },
-   "committees": [
-    "House Committee on the Judiciary",
-    "House Committee on Education and Workforce"
-   ],
-   "birthday": "1960-06-01",
-   "gender": "F",
-   "externalLinks": [
-    {
-     "label": "Wikipedia",
-     "url": "https://en.wikipedia.org/wiki/Lucy_McBath"
-    },
-    {
-     "label": "Ballotpedia",
-     "url": "https://ballotpedia.org/Lucy_McBath"
-    },
-    {
-     "label": "OpenSecrets",
-     "url": "https://www.opensecrets.org/members-of-congress/summary?cid=N00042813"
-    },
-    {
-     "label": "GovTrack",
-     "url": "https://www.govtrack.us/congress/members/412769"
-    }
-   ],
-   "socialLinks": [
-    {
-     "label": "X (Twitter)",
-     "url": "https://x.com/RepLucyMcBath"
-    },
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/RepLucyMcBath"
-    },
-    {
-     "label": "Instagram",
-     "url": "https://www.instagram.com/replucymcbath"
-    }
-   ],
-   "chamber": "House of Representatives"
-  },
-  {
    "bioguideId": "W000790",
    "depiction": {
     "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
@@ -4035,7 +4109,7 @@
      }
     ]
    },
-   "updateDate": "2026-03-08T10:32:58Z",
+   "updateDate": "2026-11-01T11:31:19Z",
    "url": "https://api.congress.gov/v3/member/W000790?format=json",
    "leadership": [],
    "contactInfo": {
@@ -4052,15 +4126,39 @@
    "firstName": "Raphael",
    "lastName": "Warnock",
    "sponsoredLegislation": {
-    "count": 292,
+    "count": 295,
     "url": "https://api.congress.gov/v3/member/W000790/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 1313,
+    "count": 1323,
     "url": "https://api.congress.gov/v3/member/W000790/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:42:31.856748+00:00",
+   "dataUpdatedAt": "2026-11-25T17:11:54.211840+00:00",
    "recentSponsored": [
+    {
+     "type": "SRES",
+     "number": "974",
+     "title": "A resolution designating November 29, 2026, as \"Drive Safer Sunday\".",
+     "introducedDate": "2026-11-20",
+     "latestAction": {
+      "actionDate": "2026-11-20",
+      "text": "Referred to the Committee on the Judiciary. (text: CR S5846)"
+     },
+     "policyArea": "Transportation and Public Works",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/974"
+    },
+    {
+     "type": "SRES",
+     "number": "971",
+     "title": "A resolution expressing support for the designation of November 8, 2026, as \"National First-Generation College Celebration Day\".",
+     "introducedDate": "2026-11-20",
+     "latestAction": {
+      "actionDate": "2026-11-20",
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5847; text: CR S5845)"
+     },
+     "policyArea": "Education",
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/971"
+    },
     {
      "type": "S",
      "number": "5690",
@@ -4276,36 +4374,12 @@
      },
      "policyArea": "Education",
      "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2323"
-    },
-    {
-     "type": "S",
-     "number": "2322",
-     "title": "Appraisal Modernization Act",
-     "introducedDate": "2025-07-17",
-     "latestAction": {
-      "actionDate": "2025-07-17",
-      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-     },
-     "policyArea": "Finance and Financial Sector",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2322"
-    },
-    {
-     "type": "S",
-     "number": "2131",
-     "title": "Dads Matter Act of 2025",
-     "introducedDate": "2025-06-18",
-     "latestAction": {
-      "actionDate": "2025-06-18",
-      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-     },
-     "policyArea": "Health",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2131"
     }
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 29,
-    "cosponsored": 373
+    "sponsored": 31,
+    "cosponsored": 378
    },
    "committees": [
     "Senate Committee on Agriculture, Nutrition, and Forestry",
@@ -4366,7 +4440,7 @@
      }
     ]
    },
-   "updateDate": "2026-03-08T10:32:15Z",
+   "updateDate": "2026-11-01T11:31:15Z",
    "url": "https://api.congress.gov/v3/member/O000174?format=json",
    "leadership": [],
    "contactInfo": {
@@ -4383,15 +4457,27 @@
    "firstName": "Jon",
    "lastName": "Ossoff",
    "sponsoredLegislation": {
-    "count": 225,
+    "count": 229,
     "url": "https://api.congress.gov/v3/member/O000174/sponsored-legislation"
    },
    "cosponsoredLegislation": {
-    "count": 835,
+    "count": 843,
     "url": "https://api.congress.gov/v3/member/O000174/cosponsored-legislation"
    },
-   "dataUpdatedAt": "2026-10-29T12:43:12.660553+00:00",
+   "dataUpdatedAt": "2026-11-25T17:12:36.133033+00:00",
    "recentSponsored": [
+    {
+     "type": "S",
+     "number": "5727",
+     "title": "Military Families Affordable Homes Act",
+     "introducedDate": "2026-11-17",
+     "latestAction": {
+      "actionDate": "2026-11-17",
+      "text": "Read twice and referred to the Committee on Finance."
+     },
+     "policyArea": null,
+     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/5727"
+    },
     {
      "type": "SRES",
      "number": "838",
@@ -4619,24 +4705,12 @@
      },
      "policyArea": "Transportation and Public Works",
      "billUrl": "https://www.congress.gov/bill/119th-congress/senate-resolution/125"
-    },
-    {
-     "type": "S",
-     "number": "784",
-     "title": "Rural Veterans Transportation to Care Act",
-     "introducedDate": "2025-02-27",
-     "latestAction": {
-      "actionDate": "2025-05-21",
-      "text": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-86."
-     },
-     "policyArea": "Armed Forces and National Security",
-     "billUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/784"
     }
    ],
    "sponsorship": {
     "congress": 119,
-    "sponsored": 23,
-    "cosponsored": 238
+    "sponsored": 24,
+    "cosponsored": 244
    },
    "committees": [
     "Senate Committee on Appropriations",
