@@ -2,16 +2,27 @@
  "bioguideId": "B001328",
  "congress": 119,
  "actions": [
+  "Referred to the House Committee on Energy and Commerce.",
+  "Referred to the House Committee on the Judiciary.",
   "Referred to the House Committee on House Administration.",
   "Referred to the House Committee on Transportation and Infrastructure.",
-  "Referred to the House Committee on the Judiciary.",
+  "Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Referred to the Committee on Natural Resources, and in addition to the Committees on House Administration, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Referred to the House Committee on Education and Workforce.",
+  "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+  "Referred to the Committee on Education and Workforce, and in addition to the Committees on House Administration, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Received in the Senate and Read twice and referred to the Committee on Armed Services.",
   "Referred to the House Committee on Oversight and Government Reform.",
+  "Referred to the House Committee on Ways and Means.",
+  "Sponsor introductory remarks on measure. (CR H884)",
+  "Referred to the Committee on Education and Workforce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+  "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on the Judiciary, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Referred to the House Committee on Energy and Commerce.",
   "Referred to the House Committee on Small Business.",
-  "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Referred to the House Committee on Education and Workforce.",
   "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Rules, Armed Services, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
@@ -21,9 +32,7 @@
   "Referred to the House Committee on Foreign Affairs.",
   "Referred to the Subcommittee on Health.",
   "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Oversight and Government Reform, Ways and Means, Veterans' Affairs, Armed Services, Natural Resources, Financial Services, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
-  "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
   "Referred to the House Committee on Armed Services.",
-  "Referred to the House Committee on Ways and Means.",
   "Referred to the Committee on Education and Workforce, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
   "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
   "ASSUMING FIRST SPONSORSHIP - Ms. Ocasio-Cortez asked unanimous consent that she may hereafter be considered as the first sponsor of H.R. 5658, a bill originally introduced by Representative Sherrill, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
@@ -35,32 +44,59 @@
   "Congress",
   "Transportation and Public Works",
   "Water Resources Development",
+  "Civil Rights and Liberties, Minority Issues",
   "Arts, Culture, Religion",
-  "Law",
-  "Crime and Law Enforcement",
-  "Commerce",
-  "International Affairs",
-  "Education",
-  "Health",
-  "Families",
-  "Government Operations and Politics",
-  "Housing and Community Development",
-  "Finance and Financial Sector",
-  "Agriculture and Food",
-  "Armed Forces and National Security",
-  "Labor and Employment",
-  "Taxation",
   "Immigration",
-  "Civil Rights and Liberties, Minority Issues"
+  "Labor and Employment",
+  "Education",
+  "Agriculture and Food",
+  "Crime and Law Enforcement",
+  "International Affairs",
+  "Health",
+  "Armed Forces and National Security",
+  "Government Operations and Politics",
+  "Taxation",
+  "Law",
+  "Commerce",
+  "Families",
+  "Housing and Community Development",
+  "Finance and Financial Sector"
  ],
  "primary": [
+  [
+   "HR",
+   "11088",
+   "No Lead in Toys Act",
+   "2026-11-19",
+   "2026-11-19",
+   0,
+   -1
+  ],
+  [
+   "HR",
+   "11010",
+   "POSSIBLE Act",
+   "2026-11-12",
+   "2026-11-12",
+   1,
+   -1
+  ],
+  [
+   "HRES",
+   "1648",
+   "Congress at Work Resolution",
+   "2026-11-05",
+   "2026-11-05",
+   2,
+   0
+  ],
   [
    "HRES",
    "1636",
    "Constituent Casework Continuity Resolution",
    "2026-10-22",
    "2026-10-22",
-   0,
+   2,
    0
   ],
   [
@@ -69,7 +105,7 @@
    "PARTNER Act",
    "2026-10-15",
    "2026-10-15",
-   1,
+   3,
    1
   ],
   [
@@ -78,7 +114,7 @@
    "SUN Act",
    "2026-10-09",
    "2026-10-09",
-   1,
+   3,
    1
   ],
   [
@@ -87,7 +123,7 @@
    "For the relief of Godfrey Oliver Wade.",
    "2026-10-01",
    "2026-10-01",
-   2,
+   1,
    -1
   ],
   [
@@ -96,19 +132,244 @@
    "Newton County Water Infrastructure Improvement Act",
    "2026-09-24",
    "2026-09-24",
-   1,
+   3,
    2
   ]
  ],
  "cosponsored": [
   [
    "HRES",
+   "1674",
+   "Supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of violence toward transgender people and memorializing the lives lost this year.",
+   "2026-11-20",
+   "2026-11-20",
+   1,
+   3
+  ],
+  [
+   "HRES",
+   "1672",
+   "Recognizing violence against women in politics as a global phenomenon and supporting women's full and equal participation in political life.",
+   "2026-11-19",
+   "2026-11-19",
+   1,
+   -1
+  ],
+  [
+   "HR",
+   "11114",
+   "National Museum of American LGBTQI+ History and Culture Act",
+   "2026-11-19",
+   "2026-11-19",
+   4,
+   4
+  ],
+  [
+   "HR",
+   "11113",
+   "Commission To Study the Potential Creation of a National Museum of American LGBTQI+ History and Culture Act",
+   "2026-11-19",
+   "2026-11-19",
+   5,
+   4
+  ],
+  [
+   "HR",
+   "10974",
+   "DHS Funding Accountability Act",
+   "2026-11-17",
+   "2026-11-10",
+   6,
+   5
+  ],
+  [
+   "HR",
+   "8555",
+   "Living Wage For All Act",
+   "2026-11-17",
+   "2026-04-28",
+   7,
+   6
+  ],
+  [
+   "HR",
+   "869",
+   "Keep Our PACT Act",
+   "2026-11-12",
+   "2025-01-31",
+   8,
+   7
+  ],
+  [
+   "HR",
+   "6088",
+   "Restoring Food Security for American Families and Farmers Act of 2025",
+   "2026-11-11",
+   "2026-01-13",
+   9,
+   8
+  ],
+  [
+   "HR",
+   "7599",
+   "Federal Extreme Risk Protection Order Act of 2026",
+   "2026-11-09",
+   "2026-02-17",
+   1,
+   9
+  ],
+  [
+   "HR",
+   "7531",
+   "Healthy Families Act",
+   "2026-11-09",
+   "2026-02-12",
+   10,
+   6
+  ],
+  [
+   "HR",
+   "5271",
+   "Pakistan Freedom and Accountability Act",
+   "2026-11-09",
+   "2025-09-10",
+   11,
+   10
+  ],
+  [
+   "HR",
+   "3115",
+   "Assault Weapons Ban of 2025",
+   "2026-11-09",
+   "2025-04-30",
+   1,
+   9
+  ],
+  [
+   "HR",
+   "2790",
+   "GOSAFE Act",
+   "2026-11-09",
+   "2025-04-09",
+   1,
+   9
+  ],
+  [
+   "HR",
+   "999",
+   "Right to Contraception Act",
+   "2026-11-09",
+   "2025-02-05",
+   0,
+   11
+  ],
+  [
+   "HR",
+   "2102",
+   "Major Richard Star Act",
+   "2026-11-05",
+   "2026-11-12",
+   12,
+   12
+  ],
+  [
+   "HR",
+   "18",
+   "Bipartisan Background Checks Act of 2025",
+   "2026-11-05",
+   "2025-06-10",
+   1,
+   9
+  ],
+  [
+   "HRES",
+   "70",
+   "Expressing the sense of the House of Representatives that Congress should take all appropriate measures to ensure that the United States Postal Service remains an independent establishment of the Federal Government and is not subject to privatization.",
+   "2026-11-02",
+   "2025-01-28",
+   13,
+   13
+  ],
+  [
+   "HR",
+   "9289",
+   "Keep Public Funds in Public Schools Act of 2026",
+   "2026-11-02",
+   "2026-06-11",
+   14,
+   14
+  ],
+  [
+   "HR",
+   "5390",
+   "FAMILY Act",
+   "2026-11-02",
+   "2025-09-16",
+   14,
+   6
+  ],
+  [
+   "HR",
+   "2763",
+   "American Family Act",
+   "2026-11-02",
+   "2025-04-09",
+   14,
+   14
+  ],
+  [
+   "HR",
+   "1589",
+   "American Dream and Promise Act of 2025",
+   "2026-11-02",
+   "2025-02-27",
+   15,
+   5
+  ],
+  [
+   "HR",
+   "1564",
+   "Ethan's Law",
+   "2026-11-02",
+   "2025-02-25",
+   1,
+   9
+  ],
+  [
+   "HR",
+   "17",
+   "Paycheck Fairness Act",
+   "2026-11-02",
+   "2025-03-25",
+   16,
+   6
+  ],
+  [
+   "HR",
+   "12",
+   "Women’s Health Protection Act of 2025",
+   "2026-11-02",
+   "2025-06-24",
+   17,
+   11
+  ],
+  [
+   "HJRES",
+   "80",
+   "Establishing the ratification of the Equal Rights Amendment.",
+   "2026-11-02",
+   "2025-03-24",
+   1,
+   3
+  ],
+  [
+   "HRES",
    "1641",
    "Honoring the contributions of Indian Americans and supporting the designation of July as \"Indian American Heritage Month\".",
    "2026-10-26",
    "2026-10-26",
-   3,
-   3
+   13,
+   4
   ],
   [
    "HR",
@@ -116,8 +377,8 @@
    "Supreme Court Tenure Establishment and Retirement Modernization Act of 2025",
    "2026-10-26",
    "2025-05-21",
-   2,
-   4
+   1,
+   15
   ],
   [
    "HJRES",
@@ -125,8 +386,8 @@
    "Proposing an amendment to the Constitution of the United States providing that there is no immunity from criminal prosecution for an act on the grounds that such act was within the constitutional authority or official duties of an individual, and providing that the President may not grant a pardon to himself or herself.",
    "2026-10-26",
    "2025-07-22",
-   2,
-   5
+   1,
+   9
   ],
   [
    "HR",
@@ -134,26 +395,26 @@
    "Stop Harassment and Intimidations in Elections through Legal Defenses (SHIELD) Our Elections Act",
    "2026-10-22",
    "2026-10-22",
-   4,
-   -1
+   18,
+   13
   ],
   [
    "HR",
    "10875",
-   "To amend titles II and XVIII of the Social Security Act to lower the Medicare eligibility age to 50, and for other purposes.",
+   "Improving Medicare Coverage Act",
    "2026-10-22",
    "2026-10-22",
-   5,
-   -1
+   19,
+   11
   ],
   [
    "HR",
    "10770",
-   "To amend title III of the Public Health Service Act to temporarily limit the use of rebates under the 340B Program.",
+   "340B Rebate Model Delay Act",
    "2026-10-22",
    "2026-10-09",
-   6,
-   -1
+   0,
+   11
   ],
   [
    "HR",
@@ -161,8 +422,8 @@
    "Investing in the American Dream Act",
    "2026-10-22",
    "2026-04-28",
-   7,
-   6
+   20,
+   16
   ],
   [
    "HR",
@@ -170,8 +431,8 @@
    "Global Respect Act",
    "2026-10-22",
    "2025-11-19",
-   8,
-   7
+   11,
+   10
   ],
   [
    "HR",
@@ -179,8 +440,8 @@
    "Tyler Clementi Higher Education Anti-Harassment Act of 2025",
    "2026-10-22",
    "2025-09-18",
-   9,
-   8
+   7,
+   7
   ],
   [
    "HR",
@@ -188,8 +449,8 @@
    "988 LGBTQ+ Youth Access Act of 2025",
    "2026-10-22",
    "2025-09-17",
-   6,
-   9
+   0,
+   11
   ],
   [
    "HR",
@@ -197,8 +458,8 @@
    "John Lewis Every Child Deserves a Family Act",
    "2026-10-19",
    "2025-11-20",
-   10,
-   10
+   21,
+   17
   ],
   [
    "HR",
@@ -206,8 +467,8 @@
    "Safe Schools Improvement Act",
    "2026-10-13",
    "2025-03-03",
-   9,
-   8
+   7,
+   7
   ],
   [
    "HR",
@@ -215,8 +476,8 @@
    "Washington, D.C. Admission Act",
    "2026-10-09",
    "2025-01-03",
-   11,
-   11
+   22,
+   13
   ],
   [
    "HR",
@@ -224,8 +485,8 @@
    "Stop the Settlements Act",
    "2026-10-05",
    "2026-10-01",
-   12,
-   7
+   23,
+   10
   ],
   [
    "HR",
@@ -233,8 +494,8 @@
    "Housing Crisis Response Act of 2025",
    "2026-10-05",
    "2025-12-17",
-   13,
-   12
+   24,
+   18
   ],
   [
    "HR",
@@ -242,8 +503,8 @@
    "Ending Homelessness Act of 2025",
    "2026-10-05",
    "2025-08-05",
-   14,
-   12
+   25,
+   18
   ],
   [
    "HR",
@@ -251,8 +512,8 @@
    "Downpayment Toward Equity Act of 2025",
    "2026-10-05",
    "2025-06-23",
-   15,
-   13
+   26,
+   19
   ],
   [
    "HR",
@@ -260,8 +521,8 @@
    "John R. Lewis Voting Rights Advancement Act of 2025",
    "2026-10-05",
    "2025-03-05",
-   2,
-   11
+   1,
+   13
   ],
   [
    "HR",
@@ -269,8 +530,8 @@
    "Protecting Human Rights and Public Health in Foreign Assistance Act",
    "2026-09-24",
    "2026-04-29",
-   16,
-   7
+   27,
+   10
   ],
   [
    "HR",
@@ -278,8 +539,8 @@
    "Momnibus Act",
    "2026-09-24",
    "2026-04-20",
-   17,
-   9
+   28,
+   11
   ],
   [
    "HR",
@@ -287,8 +548,8 @@
    "PrEP Access and Coverage Act of 2026",
    "2026-09-24",
    "2026-03-05",
-   18,
-   9
+   29,
+   11
   ],
   [
    "HR",
@@ -296,8 +557,8 @@
    "Preparing And Retaining All (PARA) Educators Act",
    "2026-09-24",
    "2025-09-18",
-   9,
-   8
+   7,
+   7
   ],
   [
    "HR",
@@ -305,8 +566,8 @@
    "RESTORE Act of 2025",
    "2026-09-24",
    "2025-12-05",
-   19,
-   14
+   9,
+   8
   ],
   [
    "HR",
@@ -314,8 +575,8 @@
    "Fit to Serve Act",
    "2026-09-24",
    "2025-05-21",
-   20,
-   15
+   30,
+   12
   ],
   [
    "HR",
@@ -323,8 +584,8 @@
    "Therapeutic Fraud Prevention Act of 2025",
    "2026-09-24",
    "2025-05-07",
-   6,
-   6
+   0,
+   16
   ],
   [
    "HR",
@@ -332,8 +593,8 @@
    "Adult Education WORKS Act",
    "2026-09-24",
    "2025-04-09",
-   9,
-   16
+   7,
+   6
   ],
   [
    "HR",
@@ -341,8 +602,8 @@
    "No Tax Breaks for Outsourcing Act",
    "2026-09-16",
    "2025-02-05",
-   21,
-   17
+   14,
+   14
   ],
   [
    "HR",
@@ -350,8 +611,8 @@
    "College for All Act of 2025",
    "2026-09-15",
    "2025-05-21",
-   22,
-   8
+   31,
+   7
   ],
   [
    "HR",
@@ -359,8 +620,8 @@
    "Restoring Overtime Pay Act of 2026",
    "2026-09-14",
    "2026-05-15",
-   9,
-   16
+   7,
+   6
   ],
   [
    "HR",
@@ -368,8 +629,8 @@
    "Sunset for the 2001 Authorization for Use of Military Force Act",
    "2026-09-14",
    "2025-12-16",
-   16,
-   7
+   27,
+   10
   ],
   [
    "HR",
@@ -377,8 +638,8 @@
    "Dignity for Detained Immigrants Act",
    "2026-09-14",
    "2025-12-04",
-   23,
-   18
+   32,
+   5
   ],
   [
    "HR",
@@ -386,8 +647,8 @@
    "Child Care for Every Community Act",
    "2026-09-14",
    "2026-02-04",
-   24,
-   10
+   33,
+   17
   ],
   [
    "HR",
@@ -395,8 +656,8 @@
    "George Floyd Justice in Policing Act of 2025",
    "2026-09-14",
    "2025-09-15",
-   25,
-   5
+   34,
+   9
   ],
   [
    "HR",
@@ -404,8 +665,8 @@
    "EACH Act of 2025",
    "2026-09-14",
    "2025-12-19",
-   17,
-   9
+   28,
+   11
   ],
   [
    "HR",
@@ -413,8 +674,8 @@
    "Medicare for All Act",
    "2026-09-14",
    "2025-04-29",
-   26,
-   9
+   35,
+   11
   ],
   [
    "HR",
@@ -422,8 +683,8 @@
    "Raise the Wage Act of 2025",
    "2026-09-14",
    "2025-04-08",
-   9,
-   16
+   7,
+   6
   ],
   [
    "HR",
@@ -431,8 +692,8 @@
    "Commission to Study and Develop Reparation Proposals for African Americans Act",
    "2026-09-14",
    "2025-01-03",
-   2,
-   19
+   1,
+   3
   ],
   [
    "HR",
@@ -440,8 +701,8 @@
    "Richard L. Trumka Protecting the Right to Organize Act of 2025",
    "2026-09-14",
    "2025-03-05",
-   9,
-   16
+   7,
+   6
   ],
   [
    "HR",
@@ -449,8 +710,8 @@
    "Equality Act",
    "2026-09-10",
    "2025-04-29",
-   27,
-   19
+   36,
+   3
   ]
  ]
 }
