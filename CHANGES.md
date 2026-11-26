@@ -9,5 +9,6 @@ Changes to this repo's files that a consumer may need to act on. Routine data re
 
 ## November 2026
 
+- `data/members.json`: Senators now carry `"district": null`, as the schema and README say. The key used to be missing from their records.
 - `sessions/119th/` holds a provisional freeze of the 119th Congress, replaced by the final one before the switch.
 - `data/en-bloc-nominees.json` and `.csv` list every nomination behind each Senate en bloc vote.
