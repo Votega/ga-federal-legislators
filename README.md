@@ -315,5 +315,13 @@ Source data comes from the [Congress.gov API](https://api.congress.gov), the Cle
 - **Committee names** come from the community-maintained [`unitedstates/congress-legislators`](https://github.com/unitedstates/congress-legislators) project, not Congress.gov directly.
 - **`data/` covers the current Congress only.** Check `metadata.congress` or the `congress` column; finished Congresses are under [`sessions/`](sessions).
 
+## Linking to this data
+
+- **A fixed Congress:** link `sessions/<ordinal>/` (for example `sessions/119th/votes.json`). Once a Congress's final freeze is published, its folder is never rewritten.
+- **Whatever is current:** read `data/` and `ROSTER.md`. They change meaning when a new Congress is seated; the next time is **Sunday, 3 January 2027**, when they become the 120th Congress. `metadata.congress` and the `congress` column say which Congress a file describes.
+- **An exact copy:** link a commit (`https://raw.githubusercontent.com/Votega/ga-federal-legislators/<commit>/...`).
+
+Changes that affect consumers are listed in [`CHANGES.md`](CHANGES.md).
+
 ## License
 [CC-BY-SA 4.0](https://github.com/Votega/ga-federal-legislators?tab=CC-BY-SA-4.0-1-ov-file)
